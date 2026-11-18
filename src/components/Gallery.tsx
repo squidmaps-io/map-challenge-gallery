@@ -59,13 +59,13 @@ export default function Gallery({ initial, total, dataUrl }: Props) {
   return (
     <div>
       {platforms.length > 1 && (
-        <div className="no-scrollbar mb-5 flex gap-1.5 overflow-x-auto" role="toolbar" aria-label="Filter by platform">
+        <div className="no-scrollbar mb-5 flex gap-1.5 overflow-x-auto" role="group" aria-label="Filter maps by platform">
           <Chip active={platform === 'all'} onClick={() => (setPlatform('all'), setLimit(PAGE))}>
-            All <span className="opacity-60">{posts.length}</span>
+            All <span className="font-normal tabular-nums">{posts.length}</span>
           </Chip>
           {platforms.map((p) => (
             <Chip key={p} active={platform === p} onClick={() => (setPlatform(p), setLimit(PAGE))}>
-              <PlatformIcon platform={p} className="size-3.5" /> {PLATFORM_LABELS[p]} <span className="opacity-60">{counts[p]}</span>
+              <PlatformIcon platform={p} className="size-3.5" /> {PLATFORM_LABELS[p]} <span className="font-normal tabular-nums">{counts[p]}</span>
             </Chip>
           ))}
         </div>
@@ -77,8 +77,20 @@ export default function Gallery({ initial, total, dataUrl }: Props) {
         ))}
       </ul>
       <div ref={sentinel} aria-hidden="true" className="h-px" />
+      <p role="status" className="sr-only">
+        Showing {visible.length} of {filtered.length} maps
+      </p>
       {visible.length < filtered.length && (
-        <p className="py-8 text-center text-sm text-zinc-500">Loading more maps…</p>
+        <div className="py-8 text-center">
+          {/* More load automatically while scrolling; the button is there for keyboard and switch users. */}
+          <button
+            type="button"
+            onClick={() => setLimit((l) => l + PAGE)}
+            className="rounded-full border border-zinc-300 px-5 py-2.5 text-sm font-semibold hover:bg-zinc-50 dark:border-zinc-700 dark:hover:bg-zinc-900"
+          >
+            Show more maps ({filtered.length - visible.length} more)
+          </button>
+        </div>
       )}
     </div>
   );
@@ -126,7 +138,7 @@ function Tile({ post, eager }: { post: Post; eager: boolean }) {
         className="relative block aspect-square overflow-hidden rounded-lg bg-zinc-200 outline-offset-2 focus-visible:outline-2 focus-visible:outline-ink-500 sm:rounded-xl dark:bg-zinc-800"
         style={{ backgroundColor: post.color }}
         title={post.text}
-        aria-label={`Map by ${post.author.name} on ${PLATFORM_LABELS[post.platform]}: ${post.text}`}
+        aria-label={`Map by ${post.author.name} on ${PLATFORM_LABELS[post.platform]}: ${post.text} (opens in a new tab)`}
       >
         <img
           ref={img}
@@ -181,7 +193,7 @@ function Tile({ post, eager }: { post: Post; eager: boolean }) {
               target="_blank"
               rel="noopener"
               title={`Also on ${PLATFORM_LABELS[l.platform]}`}
-              aria-label={`Also on ${PLATFORM_LABELS[l.platform]}`}
+              aria-label={`Also on ${PLATFORM_LABELS[l.platform]} (opens in a new tab)`}
               className="grid size-6 place-items-center rounded-full bg-black/45 text-white backdrop-blur-sm transition hover:bg-black/70"
             >
               <PlatformIcon platform={l.platform} className="size-3.5" />

@@ -1,14 +1,26 @@
 ---
 import '../styles/global.css';
-import { CHALLENGE_URL, CONTACT_EMAIL, CONTACT_URL, REPO_URL, SQUIDMAPS_URL, YEAR, withBase } from '../lib/site';
+import { CHALLENGE_URL, CONTACT_EMAIL, CONTACT_URL, REPO_URL, SITE_NAME, SQUIDMAPS_URL, YEAR, absUrl, withBase } from '../lib/site';
+import { jsonLdString } from '../lib/structured-data';
 
 interface Props {
   title: string;
-  description?: string;
+  description: string;
+  /** Site-relative canonical path, e.g. "/day/3/" */
+  path: string;
+  /** Site-relative path of this page's Markdown version, if it has one */
+  markdownPath?: string;
+  /** Preview image: absolute URL or site-relative path */
   image?: string;
+  imageAlt?: string;
+  /** Keep this page out of search results (e.g. a day with no maps yet) */
+  noindex?: boolean;
+  jsonLd?: object;
 }
-const { title, description = `A community gallery of #30DayMapChallenge ${YEAR} maps from Bluesky and Mastodon.`, image } = Astro.props;
-const ogImage = image ? (/^https?:/.test(image) ? image : new URL(withBase(image), Astro.site).href) : undefined;
+const { title, description, path, markdownPath, image, imageAlt, noindex = false, jsonLd } = Astro.props;
+const canonical = absUrl(path);
+const ogImage = image ? (/^https?:/.test(image) ? image : absUrl(image)) : absUrl('/og.png');
+const ogImageAlt = image ? imageAlt : `${SITE_NAME} ${YEAR}`;
 ---
 
 <!doctype html>
@@ -18,31 +30,57 @@ const ogImage = image ? (/^https?:/.test(image) ? image : new URL(withBase(image
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    {markdownPath && <link rel="alternate" type="text/markdown" href={absUrl(markdownPath)} title="Markdown version of this page" />}
+    <link rel="sitemap" type="application/xml" href={absUrl('/sitemap.xml')} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta property="og:image" content={ogImage} />
+    {ogImageAlt && <meta property="og:image:alt" content={ogImageAlt} />}
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
     <link rel="icon" href={withBase('brand/squidmaps-favicon.svg')} type="image/svg+xml" />
+    <link rel="icon" href={withBase('favicon-192.png')} type="image/png" sizes="192x192" />
+    <link rel="apple-touch-icon" href={withBase('apple-touch-icon.png')} />
+    <meta name="theme-color" content="#f5f7f6" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#09090b" media="(prefers-color-scheme: dark)" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap"
       rel="stylesheet"
     />
+    {jsonLd && <script type="application/ld+json" set:html={jsonLdString(jsonLd)} />}
   </head>
   <body class="min-h-dvh flex flex-col">
+    <a
+      href="#main"
+      class="sr-only z-50 rounded-full bg-ink-500 px-4 py-2 font-bold text-white focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:px-4 focus:py-2"
+    >
+      Skip to content
+    </a>
     <header class="sticky top-0 z-30 border-b border-zinc-200/70 bg-[#f5f7f6]/85 backdrop-blur-md dark:border-zinc-800/70 dark:bg-zinc-950/85">
       <div class="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:px-6">
-        <a href={SQUIDMAPS_URL} class="shrink-0" aria-label="squidmaps">
-          <img src={withBase('brand/squidmaps-lockup.png')} alt="squidmaps" class="h-[24px] w-auto mix-blend-multiply dark:hidden" />
-          <img src={withBase('brand/squidmaps-lockup-outline.png')} alt="squidmaps" class="hidden h-[24px] w-auto dark:block" />
+        <a href={SQUIDMAPS_URL} class="shrink-0">
+          <img src={withBase('brand/squidmaps-lockup.png')} alt="squidmaps" width="100" height="24" class="h-[24px] w-auto mix-blend-multiply dark:hidden" />
+          <img src={withBase('brand/squidmaps-lockup-outline.png')} alt="squidmaps" width="101" height="24" class="hidden h-[24px] w-auto dark:block" />
         </a>
         <span class="h-5 w-px shrink-0 bg-zinc-300 dark:bg-zinc-700" aria-hidden="true"></span>
         <a href={withBase('/')} class="min-w-0 truncate font-display text-[15px] font-extrabold tracking-tight hover:text-ink-600 sm:text-base">
-          #30DayMapChallenge <span class="hidden text-zinc-400 sm:inline dark:text-zinc-500">Gallery {YEAR}</span>
+          #30DayMapChallenge <span class="hidden text-zinc-600 sm:inline dark:text-zinc-400">Gallery {YEAR}</span>
         </a>
-        <nav class="ml-auto flex items-center gap-1.5 text-sm">
-          <a href={withBase('about/')} class="rounded-full px-3 py-1.5 font-medium text-zinc-600 hover:bg-zinc-100 hover:text-zinc-900 sm:inline-block dark:text-zinc-400 dark:hover:bg-zinc-900 dark:hover:text-zinc-100">
+        <nav aria-label="Main" class="ml-auto flex items-center gap-1.5 text-sm">
+          <a href={withBase('about/')} aria-current={path === '/about/' ? 'page' : undefined} class="rounded-full px-3 py-1.5 font-medium text-zinc-600 hover:bg-zinc-100 hover:text-zinc-900 sm:inline-block dark:text-zinc-400 dark:hover:bg-zinc-900 dark:hover:text-zinc-100">
             About
           </a>
           <a href={SQUIDMAPS_URL} class="shrink-0 rounded-full bg-ink-500 px-3.5 py-1.5 font-bold text-white hover:bg-ink-600">
@@ -52,20 +90,20 @@ const ogImage = image ? (/^https?:/.test(image) ? image : new URL(withBase(image
       </div>
     </header>
 
-    <main class="flex-1">
+    <main id="main" tabindex="-1" class="flex-1 focus:outline-none">
       <slot />
     </main>
 
     <footer class="mt-16 border-t border-zinc-200 dark:border-zinc-800">
       <div class="mx-auto grid max-w-7xl gap-8 px-4 py-10 text-sm sm:px-6 md:grid-cols-3">
         <div class="relative md:col-span-1">
-          <img src={withBase('brand/squidmaps-mascot.png')} alt="" width="54" class="mb-3" />
-          <p class="font-display text-lg font-extrabold">Make your next map with squidmaps</p>
+          <img src={withBase('brand/squidmaps-mascot.png')} alt="" width="54" height="65" class="mb-3" />
+          <h2 class="font-display text-lg font-extrabold">Make your next map with squidmaps</h2>
           <p class="mt-1 text-zinc-600 dark:text-zinc-400">Draw or import data and make a shareable web map in minutes — no code.</p>
           <a href={SQUIDMAPS_URL} class="mt-3 inline-flex items-center gap-1 rounded-full bg-ink-500 px-4 py-2 font-medium text-white hover:bg-ink-600">Try squidmaps →</a>
         </div>
         <div>
-          <p class="font-semibold">Missing a map?</p>
+          <h2 class="font-semibold">Missing a map?</h2>
           <p class="mt-1 text-zinc-600 dark:text-zinc-400">
             Public Bluesky and Mastodon posts tagged #30DayMapChallenge are added automatically. <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href={withBase('about/#included')}>How it works</a>.
             Something missing, or want your map removed? Email <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href={CONTACT_URL}>{CONTACT_EMAIL}</a>.
@@ -73,7 +111,7 @@ const ogImage = image ? (/^https?:/.test(image) ? image : new URL(withBase(image
           <p class="mt-2 text-zinc-600 dark:text-zinc-400">The gallery is open source <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href={REPO_URL}>on GitHub</a>.</p>
         </div>
         <div>
-          <p class="font-semibold">About</p>
+          <h2 class="font-semibold">About</h2>
           <p class="mt-1 text-zinc-600 dark:text-zinc-400">
             Maps belong to their creators; every tile links to the original post. The <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href={CHALLENGE_URL}>#30DayMapChallenge</a> is a community event founded by <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href="https://tjukanov.org/">Topi Tjukanov</a>.
           </p>
@@ -84,6 +122,7 @@ const ogImage = image ? (/^https?:/.test(image) ? image : new URL(withBase(image
       type="button"
       id="back-to-top"
       aria-label="Back to top"
+      aria-hidden="true"
       tabindex="-1"
       class="pointer-events-none fixed right-4 bottom-4 z-40 grid size-12 translate-y-3 place-items-center rounded-full bg-ink-500 text-white opacity-0 shadow-lg ring-1 ring-black/5 transition duration-200 hover:bg-ink-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ink-400 data-[shown]:pointer-events-auto data-[shown]:translate-y-0 data-[shown]:opacity-100 sm:right-6 sm:bottom-6"
     >
@@ -98,12 +137,15 @@ const ogImage = image ? (/^https?:/.test(image) ? image : new URL(withBase(image
         const shown = window.scrollY > 600;
         btn.toggleAttribute('data-shown', shown);
         btn.tabIndex = shown ? 0 : -1;
+        btn.setAttribute('aria-hidden', String(!shown));
       };
       update();
       window.addEventListener('scroll', update, { passive: true });
       btn.addEventListener('click', () => {
         const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
         window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+        // Move keyboard focus back to the top too, so the next Tab starts at the page content.
+        document.getElementById('main')?.focus({ preventScroll: true });
       });
     </script>
   </body>

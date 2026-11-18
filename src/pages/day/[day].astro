@@ -2,8 +2,9 @@
 import Layout from '../../layouts/Layout.astro';
 import Calendar from '../../components/Calendar.astro';
 import Gallery from '../../components/Gallery';
-import { forClient, postsForDay, themes } from '../../lib/data';
-import { YEAR, withBase } from '../../lib/site';
+import { forClient, mapmakers, postsForDay, themes } from '../../lib/data';
+import { dayJsonLd } from '../../lib/structured-data';
+import { YEAR, dayDate, withBase } from '../../lib/site';
 
 export function getStaticPaths() {
   return themes.map(({ day }) => ({ params: { day: String(day) } }));
@@ -12,7 +13,12 @@ export function getStaticPaths() {
 const day = Number(Astro.params.day);
 const { theme } = themes.find((t) => t.day === day)!;
 const posts = postsForDay(day);
-const people = new Set(posts.map((p) => p.author.handle)).size;
+const people = mapmakers(posts);
+const date = dayDate(day);
+const empty = posts.length === 0;
+const summary = empty
+  ? `Day ${day} of the #30DayMapChallenge ${YEAR} (${date}) has the theme “${theme}”. Maps will appear here once people post them.`
+  : `${posts.length} ${posts.length === 1 ? 'map' : 'maps'} by ${people} ${people === 1 ? 'mapmaker' : 'mapmakers'} for day ${day} of the #30DayMapChallenge ${YEAR} (${date}), theme “${theme}”, collected from public posts on Bluesky and Mastodon.`;
 const prev = themes.find((t) => t.day === day - 1);
 const next = themes.find((t) => t.day === day + 1);
 const arrow =
@@ -20,45 +26,51 @@ const arrow =
 ---
 
 <Layout
-  title={`Day ${day}: ${theme} · #30DayMapChallenge ${YEAR} Gallery`}
-  description={`${posts.length} maps for day ${day} (${theme}) of the #30DayMapChallenge ${YEAR}, collected from Bluesky and Mastodon.`}
+  title={`Day ${day}: ${theme} maps · #30DayMapChallenge ${YEAR} Gallery`}
+  description={summary}
+  path={`/day/${day}/`}
+  markdownPath={empty ? undefined : `/day/${day}.md`}
   image={posts[0]?.image}
+  imageAlt={posts[0] ? `A map by ${posts[0].author.name} for day ${day}: ${theme}` : undefined}
+  noindex={empty}
+  jsonLd={empty ? undefined : dayJsonLd({ day, theme, description: summary, posts })}
 >
   <section class="mx-auto flex max-w-7xl flex-col gap-8 px-4 pt-8 pb-8 sm:px-6 sm:pt-12 md:flex-row md:items-end md:justify-between">
     <div class="min-w-0">
-      <a href={withBase('/')} class="font-display text-sm font-extrabold tracking-widest text-ink-500 uppercase hover:text-ink-600">
-        Day {day} of 30
-      </a>
+      <nav aria-label="Breadcrumb">
+        <a href={withBase('/')} class="font-display text-sm font-extrabold tracking-widest text-ink-500 uppercase hover:text-ink-600 dark:text-ink-300">
+          <span class="sr-only">Calendar: </span>Day {day} of 30
+        </a>
+      </nav>
       <h1 class="mt-1 font-display text-4xl font-black tracking-tight sm:text-6xl">{theme}</h1>
-      {posts.length > 0 && (
-        <p class="mt-2 text-zinc-600 dark:text-zinc-400">
-          {posts.length} maps by {people} {people === 1 ? 'mapmaker' : 'mapmakers'}
-        </p>
-      )}
+      <p class="mt-2 max-w-xl text-zinc-600 dark:text-zinc-400">{summary}</p>
       <div class="mt-5 flex flex-wrap gap-2">
         {prev && (
-          <a href={withBase(`day/${prev.day}/`)} class={arrow} data-nav="prev">
+          <a href={withBase(`day/${prev.day}/`)} class={arrow} data-nav="prev" aria-label={`Previous day: ${prev.day}, ${prev.theme}`}>
             <span aria-hidden="true">←</span> <span class="truncate">{prev.day} · {prev.theme}</span>
           </a>
         )}
         {next && (
-          <a href={withBase(`day/${next.day}/`)} class={arrow} data-nav="next">
+          <a href={withBase(`day/${next.day}/`)} class={arrow} data-nav="next" aria-label={`Next day: ${next.day}, ${next.theme}`}>
             <span class="truncate">{next.day} · {next.theme}</span> <span aria-hidden="true">→</span>
           </a>
         )}
       </div>
     </div>
-    <Calendar variant="mini" current={day} />
+    <nav aria-label="Challenge days" class="w-full shrink-0 md:w-[19rem]">
+      <Calendar variant="mini" current={day} />
+    </nav>
   </section>
 
-  <section class="mx-auto max-w-7xl px-2 sm:px-6">
-    {posts.length > 0 ? (
+  <section class="mx-auto max-w-7xl px-2 sm:px-6" aria-labelledby="maps-heading">
+    <h2 id="maps-heading" class="sr-only">{empty ? 'No maps yet' : `Maps for day ${day}: ${theme}`}</h2>
+    {!empty ? (
       <Gallery client:load initial={posts.slice(0, 48).map(forClient)} total={posts.length} dataUrl={withBase(`data/day-${day}.json`)} />
     ) : (
       <div class="mx-2 rounded-2xl border border-dashed border-zinc-300 px-6 py-20 text-center dark:border-zinc-700">
         <p class="font-display text-2xl font-extrabold">Coming soon</p>
         <p class="mx-auto mt-2 max-w-md text-zinc-600 dark:text-zinc-400">
-          We haven't collected maps for this day yet. Posting one? <a class="text-ink-600 underline underline-offset-2" href={withBase('about/#included')}>Here's how it gets included.</a>
+          We haven't collected maps for this day yet. Posting one? <a class="text-ink-600 underline underline-offset-2 dark:text-ink-300" href={withBase('about/#included')}>Here's how it gets included.</a>
         </p>
       </div>
     )}
