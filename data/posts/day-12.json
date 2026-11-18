@@ -1,0 +1,864 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvx6olcm2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvx6olcm2o",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 12: Power ⚡ Pearl Street Station, the world's first commercial power plant, opened in lower Manhattan in 1882. It served the surrounding blocks with two-wire underground mains…",
+    "postedAt": "2026-11-18T15:50:47.520Z",
+    "day": 12,
+    "color": "#e8d8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreidbtsphemhiim2rj4ds4gzv7qjqn7uvyjjou63anau4c6t7tk7hli",
+    "hash": "9a93797d707a783c"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2f4amvxqn2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2f4amvxqn2x",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 12: Energy. Chiggiogna, Switzerland. A photographed power line and its mapped route. Photo: strabo, CC BY 4.0. Map: OSM / OpenMapTiles. fotoshi.com/explore #30DayMapChallenge #Fotoshi",
+    "postedAt": "2026-11-15T22:55:00.952Z",
+    "day": 12,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117622918505182314"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117622918505182314"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiaveig7o3xlhepjmbbwx45nu7j5dgl7ezedqrpwvwndmwyvjxgi6u",
+    "hash": "717b337b1b11615c"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3n2a3bbtc4s2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3n2a3bbtc4s2t",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 12 · Power: Where the power comes from All 18,957 km of British Columbia's power lines in OpenStreetMap, brighter for higher voltage, with each plant as bright as its…",
+    "postedAt": "2026-11-13T22:54:11.750Z",
+    "day": 12,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreianq7vqs3dabh7dslfvulehqi5cmbserejdi25jx24gwx4aspxnkm",
+    "hash": "294b2715932745d8"
+  },
+  {
+    "id": "bluesky:at://did:plc:6fpgmbazsx6xgdzhdwfrzqaj/app.bsky.feed.post/3n27lxeurwk2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tchaulla.bsky.social/post/3n27lxeurwk2h",
+    "author": {
+      "name": "Tiffany Chau",
+      "handle": "@tchaulla.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreid5vuy6vcrdqyzyipkvdzgrb2bmn3vennhjsj2ocjwmbludkwycdy"
+    },
+    "text": "#30DayMapChallenge Day 12 - Power Watchung Ridges & Nearby Mountains, NJ, USA Coordinates: 40.9706, -74.1983 Source: DEM of NJ (2014-2019) The Watchung Ridges (U-Shape) were created from massive basa…",
+    "postedAt": "2026-11-13T18:20:13.271Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreidtzm62jrsdv54d5vetfoga7rpf3c4qrfd6l5uth2kpxs7ket2viy",
+    "hash": "24e2c2d2e4e4e8d1"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n27jols4ic2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3n27jols4ic2v",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 12: Interactions 🌧️ A map of North America’s watersheds. Click anywhere to see how that area drains to the ocean: mapricot.com/gallery/watersheds/",
+    "postedAt": "2026-11-13T17:39:31.053Z",
+    "day": 12,
+    "color": "#283838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreiel4k6atrmwzghvo4t5ganiesr4fcretjjetzr7j5azsqtrzsysgu/thumbnail.jpg",
+    "hash": "9694480302260422"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n25u4ep5as2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n25u4ep5as2u",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 12 · Power Tibesti, Chad: a volcano and a caldera read as a Gothic rib vault. Ribs follow the stress in a thin sheet draped over the terrain (Föppl–von Kármán); keystones sit where stress is equa…",
+    "postedAt": "2026-11-13T01:40:51.319Z",
+    "day": 12,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreibmo5cpgrgvynfhwv3yfbjxumtkcuijvtyfaxy3lt5eyzcvyaxfnu/thumbnail.jpg",
+    "hash": "9e2b0b0f3f3fcc20"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n25sd5miwk2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n25sd5miwk2y",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 12: POWER - POWERING-UP LISBON - The powerlines that feed Lisbon and the additional infrastructure that distributes it inside the city. Only medium and high-tension lines are s…",
+    "postedAt": "2026-11-13T01:08:51.288Z",
+    "day": 12,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117606455056409984"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreie6lhpdbuky2gfnpzz3v6zwupntgyy7tdux74lowxdkfovnliky6e",
+    "hash": "6a60646263636b66"
+  },
+  {
+    "id": "bluesky:at://did:plc:q66r3vy7xepmx62ti4vt7uzb/app.bsky.feed.post/3n25oukm3pk2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/wyman10.bsky.social/post/3n25oukm3pk2l",
+    "author": {
+      "name": "UofA Map/GIS Librarian",
+      "handle": "@wyman10.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreieugoc3tac53xrv77vkifppfgmetcjapc7dmvt5qexpel2otw7zom"
+    },
+    "text": "#30daymapchallenge #Power - Classic #Euratom 1964 Location of Nuclear Power plants, uranium mining research establishment, etc. - Time Slider #Nuclear Power Plant Explorer world-nuclear.org/informati…",
+    "postedAt": "2026-11-13T00:07:00.364Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreigprucmi6u24vmzbs7ivyiqk253imn3dmr73kk5cms6gdzqo4a2jq",
+    "hash": "98b0f2d2f1c40a1a"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117605979657436913",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117605979657436913",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 12. Power. Not electricity this time, but the power of water. Each line is a river channel coloured by stream power, the erosive energy of the flow. The comb-like valleys of the Carpathian foothi…",
+    "postedAt": "2026-11-12T23:07:16.082Z",
+    "day": 12,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n25lk7a42c2f"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n25lk7a42c2f"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/605/978/283/515/503/small/ec9403c69edd9db5.png",
+    "hash": "08220651311f3270"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n25kawhzu223",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3n25kawhzu223",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "Day 12 of #30DayMapChallenge: “Power” Design Director Nicolette Hayes created small multiples to demonstrate the reality of post-election power over the decades: the winner takes all, regardless of p…",
+    "postedAt": "2026-11-12T22:44:26.730Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3n25kawhzu223"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n25kawhzu223",
+      "mastodon:https://vis.social/users/stamen/statuses/117605910725143044"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreihry4rub6imc7b4xlfsmcwummtmznsfx6vn7avfarcmv54dk4f224",
+    "hash": "80c8cd657466a0a8"
+  },
+  {
+    "id": "bluesky:at://did:plc:olyhtg4yyp5y6mvimhbvjse5/app.bsky.feed.post/3n25iiyqq7k2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/visben.bsky.social/post/3n25iiyqq7k2f",
+    "author": {
+      "name": "Benjamin Niedermann",
+      "handle": "@visben.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:olyhtg4yyp5y6mvimhbvjse5/bafkreihljxijpbmu2dnl47plalq5wdkp2gy2yyhdrz673jbbfjvhqbxzje"
+    },
+    "text": "#30DayMapChallenge Day 12: Power Where does each country get its electricity from? Zoom into the map to see, and to compare with ten years earlier. Try it: visquill.com/gallery/world-electricity Data…",
+    "postedAt": "2026-11-12T22:13:10.095Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aolyhtg4yyp5y6mvimhbvjse5/bafkreicybryhzwryg37iydheul5l7f67ojudfmscbjb4gkgvvhjxwiq3tu/thumbnail.jpg",
+    "hash": "0e18dcd2c3d1301e"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n25fjlvqv224",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n25fjlvqv224",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 12: Power YOU have the power to restore wildlife in your neighbourhood! www.gloucestershirewildlifetrust.co.uk/peoples-natu...",
+    "postedAt": "2026-11-12T21:19:48.955Z",
+    "day": 12,
+    "color": "#688828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreiamgwkqjgrgw4re3tly24lp3bj4jz5srgkf6diihpbjvhtcivt2ly",
+    "hash": "1f17181a19942593"
+  },
+  {
+    "id": "bluesky:at://did:plc:2xhwqs7x3xnnpbtxzik2xkpe/app.bsky.feed.post/3n25exj7nrs2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chaneyswiney.com/post/3n25exj7nrs2h",
+    "author": {
+      "name": "Chaney Swiney",
+      "handle": "@chaneyswiney.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreib3l4jkjoqmhebpanyaxgh6pm3pamrjq7jltl2lht52xcgkkp2v7u"
+    },
+    "text": "#30DayMapChallenge Day 12 - Power Okay, follow me here: power -> electricity -> lightning -> Mt Thielsen Its 9,184-foot summit is probably the most dramatic in all of Oregon, nicknamed \"the Lightning…",
+    "postedAt": "2026-11-12T21:09:42.154Z",
+    "day": 12,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreibfolyl7adgtvwqhpekzh5hmlkwi24ravl5mqxfhrjegxdpqfjn5e",
+    "hash": "48f4b38306814080"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117605435585710625",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117605435585710625",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day12 : Power La consommation moyenne d'électricité résidentielle (MWh par habitant) dans les communes des Côtes d'Armor en 2025. (Source : Énédis)",
+    "postedAt": "2026-11-12T20:48:54.000Z",
+    "day": 12,
+    "color": "#e8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/605/423/169/508/241/small/3e5d51db60c33c3c.jpg",
+    "hash": "d8cb6c8c9ef8c903"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3n25bl4dotc2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3n25bl4dotc2j",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Nothing to see here! Just a little money and power. Day 12—power—of the #30DayMapChallenge. This is endowments at public and private, non-profit, 4-year colleges and universities in the contiguous 48…",
+    "postedAt": "2026-11-12T20:09:04.770Z",
+    "day": 12,
+    "color": "#586868",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreig6hir2wx5vc2znxqhtgsfjmxxrog43sznko7qqptgpchbylfvcv4",
+    "hash": "6c24d6a2c18b6d69"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n25632siyc2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n25632siyc2d",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Ever wondered what these giant pale areas west of Cologne are? They are lignite open-pit mines. Together they cover about a quarter of Cologne's area. #30DayMapChallenge Day 12 - Power #ggplot2",
+    "postedAt": "2026-11-12T19:06:25.063Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreic6xldb4xsn7ed7ucjx47sewzezpxlmmawn2n4o7pdnyxjjq7p3ya",
+    "hash": "909127279b1b0cc0"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n25556qzrk2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n25556qzrk2w",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "⚡ Day 12/30: Power | Power to the People For Day 12 of the #30DayMapChallenge, I'm imagining a future Silicon Valley powered by community microgrids! SDK spotlight: SketchLayer (beta), new in ArcGIS…",
+    "postedAt": "2026-11-12T18:49:42.582Z",
+    "day": 12,
+    "color": "#382828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreibcy4fbg4xi6mbwinxboi24vx6fpstp2o3ptrkrrcjvaas6uxxloy/thumbnail.jpg",
+    "hash": "da53cfe7e333c1d8"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3n252ewkxib2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3n252ewkxib2i",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "The Netherlands has almost twice as many solar panels per person as Spain #30DayMapChallenge Day 12: Power 👇🏻",
+    "postedAt": "2026-11-12T18:00:21.171Z",
+    "day": 12,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidtlgmivhzphyjcp44uwh3z3omouh543fjvneyw5mdmnn2qd6busi",
+    "hash": "d0a004b0a8dd8a80"
+  },
+  {
+    "id": "bluesky:at://did:plc:yv2grvouscdaq7w3ikyljbae/app.bsky.feed.post/3n24zgntvds2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dkane.net/post/3n24zgntvds2l",
+    "author": {
+      "name": "David Kane",
+      "handle": "@dkane.net",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreib7ochgvr42yhu7n5cp4k4an34rlgeneqdri62dfokjpxlxwzdllq"
+    },
+    "text": "#30DayMapChallenge Day 12: Power How far is a country's population from the centre of power? These map show the distance from the 3 largest cities in a country to that country's capital. For lots (bu…",
+    "postedAt": "2026-11-12T17:43:25.427Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreiep6lfylhe4ejjrc4w3jgieescicsm7rutzcniyw6avtzssjndnb4",
+    "hash": "aed8d8526a4b4c9e"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117604664323613604",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117604664323613604",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day12: Power In Germany, small-scale PV systems with a maximum rated output of 2,000 watts can be installed and commissioned by anyone, without the need for a licensed electrician.…",
+    "postedAt": "2026-11-12T17:32:45.687Z",
+    "day": 12,
+    "color": "#383838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/604/656/614/005/944/small/d0f48ba285044dec.png",
+    "hash": "115a07332f168761"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n24ytj66js2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3n24ytj66js2b",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 12: Power ⚡️ China passed the US in power plant capacity in 2013 and now has more than twice as much. China built coal fast after 2003 while US coal peaked in 2011. Today China…",
+    "postedAt": "2026-11-12T17:32:42.987Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreibxgjmvjlqi7odz475nvnt3svn2rse6e7xxvaafxrq7d3fuy7w7ce/thumbnail.jpg",
+    "hash": "c931653563632393"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n24xsfg7w22w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n24xsfg7w22w",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 12/30 · Power 🎧 Cluj-Napoca 3D map in Three.js, where 465 ha of roofs could make ~625 GWh/yr (est.) and city hall's panels have made 1,726.55 MWh to date. Inspired by @kylewalker.bsk…",
+    "postedAt": "2026-11-12T17:14:11.759Z",
+    "day": 12,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117604598389361732"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreibodeeblr2mwgkgprumurmg5qm2u2voiv24vrkskzzau6gfvh46q4/thumbnail.jpg",
+    "hash": "c9c626d7979c3cec"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n24wpc4zt227",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n24wpc4zt227",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 12: Power The Growth of the Twin Cities' Municipal Borders As their name suggests, the Twin Cities are today much more alike than not. But the two cities began as fierce rivals…",
+    "postedAt": "2026-11-12T16:54:33.903Z",
+    "day": 12,
+    "color": "#384848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreihckqshkgjtbpfilavk5qgw5yakdx4ibovay5zsqogtipmbx3aifm",
+    "hash": "4c2e3113354d6426"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n24vcbqckr2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n24vcbqckr2s",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 12 of #30DayMapChallenge, Power. All passenger lines in Uppsala County run under wires, fed by the railway's own grid. Only freight to Hargshamn and the Lennakatten heritage line run without. Cod…",
+    "postedAt": "2026-11-12T16:29:21.294Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreih3gmu7qf7ix2hqoo7kzsswmp5ubyu4plbq3qsus7v7dmuumt5ege",
+    "hash": "a2d862ea92b0d8c4"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n24ttksodk2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n24ttksodk2g",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 12 of #30DayMapChallenge: Power. Canada's 159,139 km of transmission lines, and the 207 communities off the North American grid. 143 of them make their power by burning fuel, mostly diesel, and a…",
+    "postedAt": "2026-11-12T16:03:15.997Z",
+    "day": 12,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiev5h7bbo4aeo4vqqwxrgfxegfcv27xrprapz7pgqk5wuxa5szfh4",
+    "hash": "41757f3b39292b43"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n24toywp332i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n24toywp332i",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 12 · Power. Mount Etna, one of the most active volcanoes on Earth, drawn as contour lines climbing to its summit craters. Data: public elevation data. Made with Printed Canyon, which I run. #30Da…",
+    "postedAt": "2026-11-12T16:00:42.922Z",
+    "day": 12,
+    "color": "#f8e8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117604302549091093"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117604302549091093"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreif4h3os5wxmmanja2ghzvirmhxluouhl52zsuvc3xqyd7tagzln2q",
+    "hash": "c4e2f0f0f0c86858"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3n24rpq5qdk2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3n24rpq5qdk2u",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 12: Power. I mapped out the composition of the #Big12 football power conference over the last 30-ish years. Man I wish school names were standardized, mapping different dataset…",
+    "postedAt": "2026-11-12T15:25:19.899Z",
+    "day": 12,
+    "color": "#f84838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreih52lrnfgv6pfrxkhb5no66ixhero7zzbmabfgxekybvoo65ewcs4",
+    "hash": "0b4949494dc9494d"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n24q5xveqs27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n24q5xveqs27",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 316 of #365DaysOfMaps. November 12th is National Pizza with the Works Except Anchovies Day. Niche, but worth celebrating! #30DayMapChallenge day 12 tie-in: power US States Favourite Pizza Topping…",
+    "postedAt": "2026-11-12T14:57:30.292Z",
+    "day": 12,
+    "color": "#f8e8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreiguxmr6rfr2ehcvfb7ybu5liosvort3l6mhxuo6oeuxmdwk2ouyb4",
+    "hash": "2d2ca830e2d01221"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n24ptsl3vps2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n24ptsl3vps2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 12: Power The Grid Is Full ⚡ 70% of TenneT’s 271 substations have no room for new consumers, 73% none for new feed-in. Randstad is full for taking power, the north and east for…",
+    "postedAt": "2026-11-12T14:51:46.000Z",
+    "day": 12,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117604031304053156"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicnmwoduy3ivtzqjdojbt6ryhmlr27czf6xvolwqt4wshzokzsoty",
+    "hash": "3718191337a59595"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n24ovodprk2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n24ovodprk2p",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day12: Power Power generation by type - Lake Ontario #LakeOntario",
+    "postedAt": "2026-11-12T14:34:58.103Z",
+    "day": 12,
+    "color": "#686868",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117603962059589716"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreiahe5g4j5bd57tnphe75bz5m726iwa5n56q5cblypl2pdmbiajtve",
+    "hash": "9a8ef2e2dcf69e8e"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n24nvpjleo2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n24nvpjleo2u",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 12 of #30DayMapChallenge · Power The Tuolumne powers San Francisco There's more behind it on the page. #HetchHetchy #hydropower brooksgroves.com/30DayMapChallenge/2026/share/day-12.html",
+    "postedAt": "2026-11-12T14:17:05.572Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreidlgrbwhunz3tw5653okjbvny7epnow63ojighqjdmpqryb4mjsxq",
+    "hash": "a48486862993198a"
+  },
+  {
+    "id": "bluesky:at://did:plc:74eu6geapoaod2cbyudkxmgp/app.bsky.feed.post/3n24ksstmts2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tulparmaps.bsky.social/post/3n24ksstmts2e",
+    "author": {
+      "name": "Alin",
+      "handle": "@tulparmaps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:74eu6geapoaod2cbyudkxmgp/bafkreidjjzlxdoql42okgj7pux2guzo54oyppo5elwqhi7bk3nhuk7gkyq"
+    },
+    "text": "1️⃣2️⃣Day 12 - Reported strikes landed on Ukraine | Power ℹ️ Data Sources: Zhukov, Yuri and Natalie Ayers (2023). \"VIINA 2.0: Violent Incident Information from News Articles on the 2022 Russian Invas…",
+    "postedAt": "2026-11-12T13:21:47.186Z",
+    "day": 12,
+    "color": "#181818",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:74eu6geapoaod2cbyudkxmgp/bafkreigcermk7o5gryew3uo7l7rin4yvmufnejpv53zaw5ghlv5drixrju",
+    "hash": "07160b036383574f"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117603640297075528",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117603640297075528",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 12 of the 30 day map challenge: power. I suspect there will be a million maps of carbon emissions of power grids so I am going with 'economic power' instead. In France, we currently have mass pro…",
+    "postedAt": "2026-11-12T13:12:20.000Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3n24kbzdf6oi2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3n24kbzdf6oi2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/603/601/574/137/080/small/2f7dc77689ecf8a2.png",
+    "hash": "8325e5c545d3d3c8"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n24iojrkyc24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n24iojrkyc24",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge | Day 12 Power | Winds of Wisconsin I’ve always loved raster particle maps but had never made one. Wind maps tend to share the same styling, bright colors on a dark basemap, so I w…",
+    "postedAt": "2026-11-12T12:43:35.979Z",
+    "day": 12,
+    "color": "#e8e8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n24iojrkyc24"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n24iojrkyc24"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ay2tlozu7i2chvfwmkrlnqp4i/bafkreihuvhkusgje5iphhnmt2zfgzzeab2xhebeuzlristknw7mggspz6u/thumbnail.jpg",
+    "hash": "dc78606464187950"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n24hiu6pkc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n24hiu6pkc2e",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 12: Power #30DayMapChallenge Argentina generated 142.8 TWh of electricity in 2025. Gas still leads (53%), but wind, solar and bioenergy climbed from 0.4% in 2012 to 18%. Data: CAMMESA, Secretaría…",
+    "postedAt": "2026-11-12T12:22:31.827Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreihrpatkawj3jojyiyb6cdct2yexy6mb2jtjnkhocemqg6dzayczwu",
+    "hash": "c290f0a4a49aec80"
+  },
+  {
+    "id": "bluesky:at://did:plc:tkdpike4cdijsneixhgd3gik/app.bsky.feed.post/3n24felhwzc2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cambiumai.bsky.social/post/3n24felhwzc2u",
+    "author": {
+      "name": "Cambium AI",
+      "handle": "@cambiumai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkdpike4cdijsneixhgd3gik/bafkreieor4icsmfkklyrjop7fhqgkn7sh3gb46ogmzzgns65v2nthhjfia"
+    },
+    "text": "#30DayMapChallenge Day 12: Power 🗺️ We took it as the power of the vote. Simulated Boston residents head to 164 polling places on Election Day evening, 4:30 to 7:30 pm. The typical trip is about 600…",
+    "postedAt": "2026-11-12T11:44:20.993Z",
+    "day": 12,
+    "color": "#283848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Atkdpike4cdijsneixhgd3gik/bafkreigvhwz2uur7jb42nqptekkdnv2us5hnzh47s35byxutb32bbxuwtu/thumbnail.jpg",
+    "hash": "df2d0d0d8d2d2f0b"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3n24ax6eg4s2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3n24ax6eg4s2z",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "Solaire VS éolien : quelle énergie est exploitée près de chez vous ? 🤔 #30DayMapChallenge – J12 #Power 📊 BD TOPO® EXPRESS Octobre 2026 ✍️ Béatrice BURLIN Les cartes sur ign.fr/mag/30-daymapchalleng…",
+    "postedAt": "2026-11-12T10:25:16.045Z",
+    "day": 12,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://social.numerique.gouv.fr/@ignfrance/117602991949806574"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117602991949806574"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreidymeec52zzv6vymd37zwmcu5bjqxiubvcsg4upseezw5md4fcu3y",
+    "hash": "c5071d830d0d6a72"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117602770748505530",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117602770748505530",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 12 - Power Earth's Invisible Shield 🌍🛡️ Geomagnetic field lines coloured by intensity, revealing the South Atlantic Anomaly. https://app.kumoy.io/public/map/2f79fa3a-5c7b-47d…",
+    "postedAt": "2026-11-12T09:31:12.016Z",
+    "day": 12,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3n245wjjcu72q"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n245wjjcu72q"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/602/770/120/135/176/small/56f8737a0a95c69b.png",
+    "hash": "d8d1d1c4f0f0f0f0"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3n23ziezwfk2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3n23ziezwfk2k",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 12: the #30DayMapChallenge prompt is 'Power' - so this is (part of) the Target Map for Rjukan, used after Operations FRESHMAN and GUNNERSIDE. Visit the museum at Vemork today, the hydro plant, an…",
+    "postedAt": "2026-11-12T08:11:43.556Z",
+    "day": 12,
+    "color": "#585858",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreic3o65wcosofykxh5dfcwfd3zp2dglmodu6u6ndhnj6unm26bbbfi",
+    "hash": "0a3a052214693150"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3n23xn5b7vc27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3n23xn5b7vc27",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "Day 12 of the #30daymapchallenge: Power ⚡ For today's topic @zimrick.bsky.social and I decided to map 126k public streetlights of Paris. Interactive version coming soon!",
+    "postedAt": "2026-11-12T07:38:35.696Z",
+    "day": 12,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asiffbzrxoxnvwpbab5dg7mfk/bafkreibbw35srjnb4ow5ra7ziztjfkfbducbumbyrneqwzws2rpzidnaq4/thumbnail.jpg",
+    "hash": "b86936074701c141"
+  },
+  {
+    "id": "bluesky:at://did:plc:wxffxcxq7ckdwj7jmftnzkzs/app.bsky.feed.post/3n23vioidm72f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/gloswildlife.bsky.social/post/3n23vioidm72f",
+    "author": {
+      "name": "Gloucestershire Wildlife Trust",
+      "handle": "@gloswildlife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxffxcxq7ckdwj7jmftnzkzs/bafkreiez32mm4ir3okbmbvvb4pp3yyj3gbtkb6iklqj73wsibm6jsil42m"
+    },
+    "text": "It's day 12 of the #30DayMapChallenge. He's a sneak peek at today's map by Gloucestershire Centre for Environmental Records You can be part of the People's Nature Reserve by pledging your patch for n…",
+    "postedAt": "2026-11-12T07:00:17.241Z",
+    "day": 12,
+    "color": "#d8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wxffxcxq7ckdwj7jmftnzkzs/bafkreieg7cmcloqgjk5fznmxgjp3mzybqjleuhugj6mdmwdgzx5w2bnala",
+    "hash": "4652d9b0a4e040c2"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3n23tj4lvz523",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3n23tj4lvz523",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 12: Power Solar farms in England and Wales: 1,236 built (12.1 GW), mostly in the south, then 915 approved (24.6 GW), though not all will be built. The new ones are bigger and f…",
+    "postedAt": "2026-11-12T06:24:33.973Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreih7rxhvqw5fxr65ysymlir6hmp3xipjjoid4edm2g7xwkz4vmb3le/thumbnail.jpg",
+    "hash": "900a0c9c3a98818a"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n23stvuev22l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n23stvuev22l",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 12 | Power | #30DayMapChallenge | Where Is Germany Strongest? German powerlifting by state: who lifts the most, and where. Data: OpenPowerlifting Made with #RStats #ggplot2 #datatable #rnaturalea…",
+    "postedAt": "2026-11-12T06:12:54.103Z",
+    "day": 12,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117601990529500471"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreig2xp3pzqmxmdda2ofcuvmp4ceoug7i2lbe352wi35i7yxsv23tti",
+    "hash": "c4fcfcf4e0f0e0d8"
+  }
+]

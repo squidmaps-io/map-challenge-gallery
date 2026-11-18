@@ -1,0 +1,801 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvxcokz42o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvxcokz42o",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 13: Interactions A true/false game built with squidmaps' two interactions! Hover an emoji to read a statement about that place, decide if it's true or false, then click to find…",
+    "postedAt": "2026-11-18T15:50:51.414Z",
+    "day": 13,
+    "color": "#383838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreib4qctkmbnuy5r5t24b4meindhvmnb2bm2iztpm356izduffripri",
+    "hash": "e47c7c73721520d8"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2ghualhrj2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2ghualhrj2w",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 13: Dynamic map. Ueno, Tokyo. A vending machine, a giant whale and a temple, photographed on Fotoshi. Photos: bannyaaa and eneerhut, CC BY 4.0. Map: OSM / OpenMapTiles. fotoshi.com/explore #30Day…",
+    "postedAt": "2026-11-16T11:54:29.074Z",
+    "day": 13,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117625987367479720"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117625987367479720"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Avc37hx4tzbyb4h3akkkh7txm/bafkreiag23qxoddbwvq32i6afxmhclvabkn3j2ehsf3mg2pkqin2i2dw5a/thumbnail.jpg",
+    "hash": "7974c8cc8cf49cac"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3n2ddm3kd362k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3n2ddm3kd362k",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 13 · Interactions Sports are full of interactions, so I revisited the Valkyries' playoff shots from Day 4 to look at assists. 57% of their baskets came off a pass, rising to 83…",
+    "postedAt": "2026-11-15T06:01:14.000Z",
+    "day": 13,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreigqeklvnxrmlcoe6oidi4jyqbxwvt6hqmmiv2xsk2nqq62jvwe3vy",
+    "hash": "0e839513d39d8311"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3n2cniqcfuc2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3n2cniqcfuc2j",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "Day 13 of #30DayMapChallenge: Interactions. For this topic @zimrick.bsky.social and I got inspired to experiment with a map where you can easily compare distances between cities. The video is a scree…",
+    "postedAt": "2026-11-14T23:25:48.636Z",
+    "day": 13,
+    "color": "#182848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asiffbzrxoxnvwpbab5dg7mfk/bafkreigraam4vhhml55jcnd4a5nukinbq3kfhldprpt3454lxm3wzt3msm/thumbnail.jpg",
+    "hash": "040e1f0f0f170e08"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3n2c4cjf4g22k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3n2c4cjf4g22k",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 13: Interactions. I plotted every #byu football matchup by decade, and used gganimate to show the decades one by one. I like the bones, and Ill probably come back to this later…",
+    "postedAt": "2026-11-14T18:18:06.448Z",
+    "day": 13,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Apb2c57oc2v4b6643mj7a7trw/bafkreien4tfcgqlyqjylpqgj6kc77ij7xcrfbdnaqknegksramuxbwbcai/thumbnail.jpg",
+    "hash": "4ca3b2b4c8f134da"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3n2azvhekms2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3n2azvhekms2n",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 13 - Interactions & 14 - Borgesian map Map: Children's Hands Challenge: Draw the contour of your hand and your sibling’s hand on paper",
+    "postedAt": "2026-11-14T08:02:20.888Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreid7dgsct3bu5bjaoxiwvmus23kmnzosq2qjvbog7eniqsmawq4auy",
+    "hash": "1190d8d4d9707971"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117612396298751702",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117612396298751702",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day13: Interactions One of the most visible interactions between cities and their surrounding areas is daily commuting. Based on 2025 data, today's map highlights the municipalitie…",
+    "postedAt": "2026-11-14T02:19:06.000Z",
+    "day": 13,
+    "color": "#787878",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/612/372/266/862/626/small/17cf2a7b329d9ea9.png",
+    "hash": "5e1b2737060f8b44"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n2afkeqobs2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n2afkeqobs2y",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 13: INTERACTIONS - POPULAR FAIRS AND STREETMARKETS IN LISBON - These maps show a distribution of the most relevant popular fairs and street markets in Lisbon across the ages. T…",
+    "postedAt": "2026-11-14T01:58:14.215Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117612308395453711"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreihr357bigvdc47dtn3qo47bo42aqfzqrobwitvnyizvrwnynr4xfq",
+    "hash": "00801e8eaeae2f1a"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3n2acn3haus2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3n2acn3haus2b",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Excited about this one! Day 13—Interactions— #30DayMapChallenge. An interactive dashboard for US county depopulation, 1950–2020. Website: www.rachelfranklin.org/landscape-of... Underlying paper led b…",
+    "postedAt": "2026-11-14T01:06:03.898Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreigq3bmcszdkw3k6q54x55ko6t4g4pj24mxznppwyua4oisy7pvhau",
+    "hash": "30b3c8c2e2e64206"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3n2aclmam2k2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3n2aclmam2k2l",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 13 · Interactions: Lights, Camera, Interaction 13 rides, shows, and tours at Universal Studios Hollywood on 10 Nov. Each one an interaction with the park: a slightly t…",
+    "postedAt": "2026-11-14T01:05:14.409Z",
+    "day": 13,
+    "color": "#282818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreieseftso5vtvxiostuegpqiddioumh6w37z2knsgdrq2etk4amm5y",
+    "hash": "59596c1d91c23272"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117611538617012490",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117611538617012490",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 13. Interactions Gravity of Ukraine: modelled pull between towns and cities (pop × pop / distance²). Line width = strength, dot size = population. Potential, not observed flows. Data: OSM, QGIS,…",
+    "postedAt": "2026-11-13T22:40:59.077Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2a2kcs6ds2s"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2a2kcs6ds2s"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/611/537/411/475/577/small/a0e558318820f4c8.png",
+    "hash": "dbb0b4a6bc302809"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n27vtwlm4223",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3n27vtwlm4223",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "Day 13 of the #30DayMapChallenge is \"Interactions.\" \"What's in a (place) name?\" draws a line from 1,584 cities to whatever they're named after: a person's birthplace, another place, a river or a word…",
+    "postedAt": "2026-11-13T21:17:15.045Z",
+    "day": 13,
+    "color": "#181828",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3n27vtwlm4223"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n27vtwlm4223",
+      "mastodon:https://vis.social/users/stamen/statuses/117611164557771048"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreihgmcyuieisn4ftw4jdm4ruqyllxnexqch4wkg4dhsjgrfucmkvla",
+    "hash": "23c3e337cecc6464"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n27vlczv4c24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n27vlczv4c24",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "✨ Day 13/30: Interactions | Draw Your Connections For Day 13 of the #30DayMapChallenge, I'm turning my map into an interactive playground! SDK spotlight: ScreenPolygon support in hitTest(), new in Ar…",
+    "postedAt": "2026-11-13T21:12:26.110Z",
+    "day": 13,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreia4sxdtnn3wa3uqgpogvrkd2mjypjui63zyaltlyov5vnznp3iqd4/thumbnail.jpg",
+    "hash": "eb6320a194136061"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n27rrzgpcc2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n27rrzgpcc2p",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 13/30 · Interactions 🎧 A Three.js 3D map you walk through, five stops in the old town of Cluj-Napoca, 1.7 km on OpenStreetMap footpaths, a question before every name. Inspired by Spi…",
+    "postedAt": "2026-11-13T20:04:35.957Z",
+    "day": 13,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117610918587753482"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreia2pwfc4nrljag4jkvpug2da575v32bdryevzhlb6jdoa3dazvfdm/thumbnail.jpg",
+    "hash": "bd9696b3b3b0b10d"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n27rind2vc2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n27rind2vc2w",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Cologne’s 86 districts as a network. Neustadt/Nord in the city center has the most directly neighboring districts (10). Langel (very south) has only one direct neighbor, Zündorf. Probably not the mos…",
+    "postedAt": "2026-11-13T19:59:21.262Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreib7rcmn7tqc2ydwg7p6nzwkx736beupm76piv6kenkhz7vh56piga",
+    "hash": "90c8e17078389ad2"
+  },
+  {
+    "id": "bluesky:at://did:plc:q66r3vy7xepmx62ti4vt7uzb/app.bsky.feed.post/3n27ohtyexs2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/wyman10.bsky.social/post/3n27ohtyexs2l",
+    "author": {
+      "name": "UofA Map/GIS Librarian",
+      "handle": "@wyman10.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreieugoc3tac53xrv77vkifppfgmetcjapc7dmvt5qexpel2otw7zom"
+    },
+    "text": "#30daymapchallenge #Interactions between MacKay's Ice Cream and... the world #InPerson #Interactive #WallMap + #PushPins #MapSherpa #GallProjection #mapsinthewild #SandwichBoard #CochraneAlberta",
+    "postedAt": "2026-11-13T19:05:13.467Z",
+    "day": 13,
+    "color": "#88a8b8",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreia7hdj3drtkff2ixsn4u4b6nceeqn3yqyon5orkw6npbqlc3nmef4",
+    "hash": "5cde9e5c5e5a7bb3"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117610454235713038",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117610454235713038",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day 13 : Interactions La République des Lettres : réseau de correspondance et circulation des imprimés en Europe au XVIe siècle (flux d'ouvrages et de lettres)",
+    "postedAt": "2026-11-13T18:05:12.000Z",
+    "day": 13,
+    "color": "#585848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/610/452/047/999/947/small/798f40fecda2d583.jpg",
+    "hash": "202c0c7b3ba8bcfb"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n27eeuaxsb2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n27eeuaxsb2h",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 13 — Interactions 🏎️ Ready, set, race! Earth Racer: City Circuit built by Moritz Förster turns an interactive map into a racing experience, bringing a playful new dimension to…",
+    "postedAt": "2026-11-13T16:04:34.060Z",
+    "day": 13,
+    "color": "#484858",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreifnb47i3sacztbqmpb4iz4otzwfqfz62ssdo2jqlv4rewpkafldya",
+    "hash": "5135242539c8d0c9"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n27e5zgwfl2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n27e5zgwfl2g",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 13 · Interactions. Where two plates meet: at the Mariana Trench the Pacific plate dives under the Mariana plate, and the seafloor drops to nearly 11 km below the sea. Data: GEBCO_2026 Grid. Made…",
+    "postedAt": "2026-11-13T16:00:46.103Z",
+    "day": 13,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117609965046239955"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117609965046239955"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreig2zyktivzji25464acrhzeptikoheg7htn4hnlsxx3afibhzzqpe",
+    "hash": "c0d8ccece0c0c8d4"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n27dbvvers2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n27dbvvers2s",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 317 of #365DaysOfMaps. November 13th is World Kindness Day. Be nice to someone, but as Shakespeare once wrote in Hamlet, sometimes you also have to be cruel to be kind. #30DayMapChallenge day 13…",
+    "postedAt": "2026-11-13T15:45:02.976Z",
+    "day": 13,
+    "color": "#081848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreifir7fy5c5i4ixaspise23zbwp6osa3p5edmiigv6b4fctvm2ysra",
+    "hash": "263d4f460b334d4f"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n27chrp63k2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n27chrp63k2b",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 13: Interactions This map depicts interactions between birds and buildings in downtown Minneapolis.",
+    "postedAt": "2026-11-13T15:30:26.164Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreifp4qgk6mjjhu7222jhyskxgtoubnycdi6ef76x5uafbzl37cwu7a",
+    "hash": "e4d4c8e4c4c1c9c3"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117509382044663033/statuses/117609844342286211",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@walkably/117609844342286211",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/117/513/442/944/882/621/original/f92990bbe865b45a.png"
+    },
+    "text": "Day 13, Interactions: on the Walkably map you click a spot and the panel says why it scored. At Singel in Amsterdam the score is 87 out of 100. Reach, the walk to the eight daily needs, is 93. Street…",
+    "postedAt": "2026-11-13T15:30:06.000Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/walkably.org/post/73mmzwc2zlrc2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/73mmzwc2zlrc2"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/573/862/830/139/657/small/8175ea937244080a.png",
+    "hash": "2348405250303692"
+  },
+  {
+    "id": "bluesky:at://did:plc:tkdpike4cdijsneixhgd3gik/app.bsky.feed.post/3n27bilxkik2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cambiumai.bsky.social/post/3n27bilxkik2d",
+    "author": {
+      "name": "Cambium AI",
+      "handle": "@cambiumai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkdpike4cdijsneixhgd3gik/bafkreieor4icsmfkklyrjop7fhqgkn7sh3gb46ogmzzgns65v2nthhjfia"
+    },
+    "text": "Day 13 of #30DayMapChallenge: Interactions. 12:15 on a Tuesday in downtown Providence. The dots are synthetic people and vehicles. Click a dot, and EIKOS tells you who it is. This resident is 71, wor…",
+    "postedAt": "2026-11-13T15:12:59.970Z",
+    "day": 13,
+    "color": "#e8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Atkdpike4cdijsneixhgd3gik/bafkreibiojtnbnb7edytctqbkttgbx5gmfk4km26ab6ko5fmyf57i7wism/thumbnail.jpg",
+    "hash": "ced4f4f84c64d486"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n27a7652zs24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n27a7652zs24",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 13: Interactions #30DayMapChallenge Argentina vs Brazil, played in trucks 🚚⚽ Each border crossing is a match: whoever sends more tonnes wins. Simple, silly, but effective! Data: Comex Stat Brasi…",
+    "postedAt": "2026-11-13T14:49:49.740Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A432cbxpbyzrkhv6pzaxsxoj2/bafkreib4wjvvtezmfuvm2w3lpw7qh5kg6dmvki3inlk5oh4rbtvkcrhgza/thumbnail.jpg",
+    "hash": "a084f8d2e4e2c290"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n276m4tmcg23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n276m4tmcg23",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 13 of #30DayMapChallenge · Interactions Follow a raindrop There's more behind it on the page. #hydrology #SierraNevada brooksgroves.com/30DayMapChallenge/2026/share/day-13.html",
+    "postedAt": "2026-11-13T14:21:17.066Z",
+    "day": 13,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreicvksmbtdjn6nhisvjhtb5bkxfztd4fypcmg5kd7fwhwcj3jfmz5y",
+    "hash": "252d67153318984e"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n275moptbc2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n275moptbc2q",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 13 of #30DayMapChallenge: Interactions. I routed every pair of Canada's 50 largest cities, both ways: 2,450 drives. Between Thunder Bay and Nipigon, one road carries 561 of the 1,225 pairs. Live…",
+    "postedAt": "2026-11-13T14:03:42.112Z",
+    "day": 13,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreifmvpz4d4iviwec4q5fzshmbmuz76ivvbwlztozfrtiia54g4vg3u",
+    "hash": "32337b4b47664646"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n273ensszq23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n273ensszq23",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 13 of #30DayMapChallenge, Interactions. 21 851 Uppsala residents work in Stockholm County, almost twice the 12 182 who commute into Uppsala from the rest of the county. Code: https://github.com/g…",
+    "postedAt": "2026-11-13T13:23:22.956Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreigqfgzt7qrzoovpx3ae5bdykrb375d2oljdocwk5hptsy36u33aoa",
+    "hash": "c8c8a3f0f8f8f8cc"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n272w2wiss2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n272w2wiss2u",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 13: Interactions #LakeOntario What kind of interactions? Maybe some nasty ones between the US and Britain in the War of 1812 focused on Lake Ontario. Some Friday the 13th greml…",
+    "postedAt": "2026-11-13T13:15:15.675Z",
+    "day": 13,
+    "color": "#d8c8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117609308775404969"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreidb24sugbxudkpdmir7mc6szi6trzt5azuu2qwlz5fnsc4lvkyvoq",
+    "hash": "00210b374683e6c6"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3n26zeijtwk2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3n26zeijtwk2z",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 13: Interactions Where people move between councils in England and Wales, by age. At 18 to 19 London loses people to university cities. At 22 to 24 it flips and London gains 26…",
+    "postedAt": "2026-11-13T12:42:22.413Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreibupuqcr5yw57pf2rlarsxdxcvdvcery5gjaw6x4mbv6fd7ezf4yu/thumbnail.jpg",
+    "hash": "b2908c9c9e9ca0a0"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n26xzh6zjs2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n26xzh6zjs2d",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge | Day 13 Interactions | Bike Map of Madison I’ve had the print version of this bike map for a while, but wanted to try translating its design and schema into an interactive version…",
+    "postedAt": "2026-11-13T12:23:27.976Z",
+    "day": 13,
+    "color": "#b8e8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n26xzh6zjs2d"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n26xzh6zjs2d"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ay2tlozu7i2chvfwmkrlnqp4i/bafkreicndvljxe3z2l7qqnakvtso5djmkqbhjxmwsajfhus2voxbek4xma/thumbnail.jpg",
+    "hash": "0a10a171396d4e85"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117608758424450131",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117608758424450131",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 13 of the 30 day map challenge - interactions. A few days ago I posted a map of alphabet lengths in Europe and was heckled relentlessly for making the simplification that each country speaks one…",
+    "postedAt": "2026-11-13T10:53:56.000Z",
+    "day": 13,
+    "color": "#a8a8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3n26szi26dpp2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3n26szi26dpp2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/608/683/109/882/157/small/fdf81d5b3f8dded3.png",
+    "hash": "5878d89aed3ad2e5"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n26sivillk22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n26sivillk22",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 13 · Interactions OPTIO, PICTI MALEDICTI VALLVM TRANSCENDVNT! IGNEM ACCENDE! Shortest beacon chain, Hadrian's Wall to Londinium: 12 fires, 419 km. Sightlines with Earth curvature and refraction.…",
+    "postedAt": "2026-11-13T10:44:43.838Z",
+    "day": 13,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreidxw5ljxjlw7l6k42hp4uhtcagmynl2v5ppvlu4ixw4whm3i6vu5e/thumbnail.jpg",
+    "hash": "231a9ccc66968800"
+  },
+  {
+    "id": "bluesky:at://did:plc:snoxbw3vfmi2jxk6i6wtijqe/app.bsky.feed.post/3n26rrgbqgc26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/vova-today.bsky.social/post/3n26rrgbqgc26",
+    "author": {
+      "name": "vova.today / data & fun",
+      "handle": "@vova-today.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:snoxbw3vfmi2jxk6i6wtijqe/bafkreidlxw6bdempujan6btefdvgj5rzcwlwkzpbpowaywf32uuold7zby"
+    },
+    "text": "#30DayMapChallenge - Day 13: Interactions An explosion off the coast of Perth. A microphone near Bermuda. In 1960, sound traveled almost halfway around the Earth in 3 hours and 43 minutes.",
+    "postedAt": "2026-11-13T10:31:36.133Z",
+    "day": 13,
+    "color": "#182828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asnoxbw3vfmi2jxk6i6wtijqe/bafkreibdmubl6uvz5naxjtie2adduumr3lz6rwgwvrecfglbpt3cuhneba/thumbnail.jpg",
+    "hash": "4e2025a35717a204"
+  },
+  {
+    "id": "bluesky:at://did:plc:xab6a5uoaqodxwtxl4ehq6th/app.bsky.feed.post/3n26qulv6jg2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dtcrompton.bsky.social/post/3n26qulv6jg2v",
+    "author": {
+      "name": "Daniel Crompton",
+      "handle": "@dtcrompton.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xab6a5uoaqodxwtxl4ehq6th/bafkreiccp6s5saal5cgqcw2pozolqrit57deohymjpnejq2djh66nktcjy"
+    },
+    "text": "Day 13 of #30DayMapChallenge: Interactions 24 albatross GPS tracks became 24 art prints. This page connects them: pick a bird, press play, and its track draws itself beside the piece it became. Switc…",
+    "postedAt": "2026-11-13T10:15:28.914Z",
+    "day": 13,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Axab6a5uoaqodxwtxl4ehq6th/bafkreidxudpd2i3zhaes2f7e2ps5w5wg6kabzy2hl5pd5qlvkjrfbdhmpa/thumbnail.jpg",
+    "hash": "f29aeeb282b2b2b2"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n26pt52kvk2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n26pt52kvk2x",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 13: Interactions We used MapLibre and some custom icons and popups to show where @gloswildlife.bsky.social has interacted with schools over the last 5 years. Click on an acorn…",
+    "postedAt": "2026-11-13T09:56:46.083Z",
+    "day": 13,
+    "color": "#f8f8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreihtlz6r5is2ysfxoytxblmtvmjixz4t7hyhvrnqod376nqtka7f3a",
+    "hash": "c8e4e2e0f0bca9a4"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n26o2podav2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3n26o2podav2t",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 13 - Interactions Sister Cities of Japan 🎌 1024 friendship links worldwide, like Mont-Saint-Michel twinned with Hatsukaichi/Miyajima ⛩️ app.kumoy.io/public/map/9... Made in #Q…",
+    "postedAt": "2026-11-13T09:25:12.807Z",
+    "day": 13,
+    "color": "#081838",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117608410094597171"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117608410094597171"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreihjnwzimhfhwo4tm4qr4w7sj4wilzopyau5bxh5srmu33ar2xg63i/thumbnail.jpg",
+    "hash": "c8dbd3c5cce4c6d4"
+  },
+  {
+    "id": "bluesky:at://did:plc:nytjvigw5fzupdb32uzgrwqi/app.bsky.feed.post/3n26g7jhfpt2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tickerkarte.de/post/3n26g7jhfpt2o",
+    "author": {
+      "name": "tickerkarte.de",
+      "handle": "@tickerkarte.de",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nytjvigw5fzupdb32uzgrwqi/bafkreiglun2wu6z5tgpfou7ky3sigswqr7onvsdaxpwoen45gdta7ersiq"
+    },
+    "text": "#30DayMapChallenge Day 13, Interactions: who meets whom in a crash. When a car, truck or motorbike meets a pedestrian, German police name serious or fatal injuries in half of the reports. With cyclis…",
+    "postedAt": "2026-11-13T07:04:43.899Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@tickerkarte/117607872784133999"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117490470636616464/statuses/117607872784133999"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Anytjvigw5fzupdb32uzgrwqi/bafkreigudhkchak2edy6uxjsl4vdqo4jh7v6uzv5hhu2n4rbmb4qqdpquy/thumbnail.jpg",
+    "hash": "b18d0e15c0a1b843"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n26eutdb6k27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n26eutdb6k27",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 13 | Interactions | #30DayMapChallenge | The Road to Bundesliga: Hertha BSC 2026–2027. Every Hertha match left this season: 23 games against 17 opponents. Data: DFL 2. Bundesliga 2026/27 schedule…",
+    "postedAt": "2026-11-13T06:40:51.830Z",
+    "day": 13,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117607763005657716"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreignmzhv5brf4ccnqdmvyjb3nbhl7zstcbw3ggxuxe65ryyxwmna6a",
+    "hash": "e865f1f8a8d2d0e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n26epf7m5z22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n26epf7m5z22",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 13: Interactions Every drop the Rhine and Meuse bring into the Netherlands fell on someone else's land first: 180,294 km² of upstream catchment, over 4× the size of NL. Rhine a…",
+    "postedAt": "2026-11-13T06:37:46.000Z",
+    "day": 13,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117607751128215627"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreibnxsj3jvzcxzofijs76rzxohdadxaiaynawywo3a6pccxskun5nu",
+    "hash": "94f038389c9c0c86"
+  }
+]

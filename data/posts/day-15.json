@@ -1,0 +1,692 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvxkbgti2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvxkbgti2l",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 15: Inside Out Inspired by the land/water swap maps going around, here's an NYC version. Get you an apartment overlooking the \"Bayonne Bight\"! 🌊 Made with @squidmaps.bsky.soci…",
+    "postedAt": "2026-11-18T15:50:59.442Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreibsvcv4j3m6b5p6r5qi4jankkkvxj44c7pzwcuhvaumsifs74gck4",
+    "hash": "923327636f276767"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2ljpmiddc2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2ljpmiddc2s",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 15: Inside out. Batthyány Square Market, Budapest. The same building, photographed inside and outside. Photos: strabo, CC BY 4.0. Map: OSM / OpenMapTiles. fotoshi.com/explore #30DayMapChallenge #…",
+    "postedAt": "2026-11-18T12:12:00.237Z",
+    "day": 15,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117637377031071031"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117637377031071031"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreibhebmz2zyzpt5ykeu5ehechfd64b3tim4ccfx54zqps5d5nsboem",
+    "hash": "717b8185949c1c5c"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3n2hygsj2ks2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3n2hygsj2ks2q",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 15: Inside Out. I plotted most of the major real-life locations that Pixar films took place in, including Inside Out! #rstats #pixar #ggplot",
+    "postedAt": "2026-11-17T02:24:53.695Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreibc7j6chsepv3v5cvjfzaf2x6x6oecmhxg4l25o4nsyyvqegy5kv4",
+    "hash": "d4ecdcd8506a6240"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3n2gtffqq3c2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3n2gtffqq3c2i",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "Day 15 of #30daymapchallenge: Inside out with @zimrick.bsky.social",
+    "postedAt": "2026-11-16T15:21:58.306Z",
+    "day": 15,
+    "color": "#183858",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreieknobooq76njixzxuuehqd7mnvx6q6dfjugo6zwqjv3tzjqs4j2y",
+    "hash": "7f6b291343434d47"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n2fbsas5hc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n2fbsas5hc2e",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 15: INSIDE OUT - THE INVERTED CITY - Not 'inside out' but rather 'the other way around'. When printing errors joined hands with lack of direct knowledge, bird's-eye views of Li…",
+    "postedAt": "2026-11-16T00:34:22.226Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117623300931468914"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreib2of45jq4g2xvbvwcx5ym4smkatolgnpz2xfaq5dcvxd3ohi7sme",
+    "hash": "4fc8d415048ab22e"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117622974733916806",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117622974733916806",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 15. Inside out Inside the Earth. What if you looked at the globe from the inside? East and west swap places, and even the colors are reversed. Orthographic projection, mirrored X axis. QGIS. #30D…",
+    "postedAt": "2026-11-15T23:09:20.370Z",
+    "day": 15,
+    "color": "#3878a8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2f52nqdz22n"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2f52nqdz22n"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/622/973/750/153/314/small/12f661b07faefb8e.png",
+    "hash": "468b92906d4c1a3a"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117507330241455296/statuses/117622560989306730",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@DartVadius/117622560989306730",
+    "author": {
+      "name": "DartVadius",
+      "handle": "@DartVadius@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/507/330/241/455/296/original/056a9f88a0f09492.png"
+    },
+    "text": "#30DayMapChallenge Day 15: Inside out The night sky as a globe you look at from outside, then from inside, the way we actually see it from Earth. Made in Terrella, a globe app I'm building. Data: HYG…",
+    "postedAt": "2026-11-15T21:24:07.131Z",
+    "day": 15,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://files.mastodon.social/media_attachments/files/117/622/558/331/361/573/small/03dac250f1920870.png",
+    "hash": "0c8623232323060c"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n2ettlizac2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n2ettlizac2g",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 15: Inside out #30DayMapChallenge Lago Escondido sits in a public reserve, but a private gate blocks the only road. In 2021 a judge closed the case over Joe Lewis's land purchase; in 2022 he and…",
+    "postedAt": "2026-11-15T20:24:34.608Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreiakghdx7osu7xkjgxqejgxcbybu24tzs37q7ikssc7wazperqmwey",
+    "hash": "888292f2d2b2b280"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117622074193794682",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117622074193794682",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day15: Inside out Today's map explores the assumptions we bring to the way we read and interpret maps. It plays with a familiar visual convention in topographic cartography, challe…",
+    "postedAt": "2026-11-15T19:20:19.000Z",
+    "day": 15,
+    "color": "#f8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/622/066/385/650/066/small/caaa2a0a5f35a880.png",
+    "hash": "71b89a9ebcb8d833"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117621602193942237",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117621602193942237",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 15 of the 30 day map challenge: \"inside out\" People who like maps love talking about their favourite projections, but they forget that the majority of Earth's biomass lives beneath the surface. S…",
+    "postedAt": "2026-11-15T17:20:17.000Z",
+    "day": 15,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3n2ejkfrgklk2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3n2ejkfrgklk2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/621/602/141/545/685/small/5f679188a12bb7da.png",
+    "hash": "a3be3265071f90c2"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n2eimngvlz2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n2eimngvlz2u",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 15 — Inside Out 🏢 What if maps could take you inside the building? With Mapbox GL JS, developers can bring indoor spaces to life with detailed floor plans, room layouts, and i…",
+    "postedAt": "2026-11-15T17:03:50.425Z",
+    "day": 15,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Am6ycobnhtarpiehfqpd4kszr/bafkreiarx2hshzopgiy2zsr67evungdefg5ddroeczkgodkntaats3p75y/thumbnail.jpg",
+    "hash": "0000000000000000"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2ehl7r4bk2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2ehl7r4bk2u",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Maybe I was hungry when I came up with the idea? When I read today’s prompt, I immediately thought of inside out maki. So here’s a map of the Sushi restaurants in Cologne. #30DayMapChallenge Day 15 -…",
+    "postedAt": "2026-11-15T16:45:08.979Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidoxii7pcvlteabgfegrv2dgj3mj6vmzx225my3oh45tupy7i4cnq",
+    "hash": "89c6e6f1f0f0b4d4"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n2ehcn6x2c2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n2ehcn6x2c2d",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 15 of #30DayMapChallenge: Inside out. I drew downtown Calgary from the inside: the +15, its bridges and walkways one storey up. The farthest walk across it is 2.21 km over 19 bridges, and even th…",
+    "postedAt": "2026-11-15T16:40:21.073Z",
+    "day": 15,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreigud6dpzsf43db2afs4tgqi7oakceok7esw4cdjpztixaxbckobp4",
+    "hash": "996a05174d0953cc"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2efouhgxc2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2efouhgxc2c",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 15/30 · Inside out 💧 Canalul Morii, 7.2 km in Cluj-Napoca, 579.5 m in culverts. A Three.js 3D map follows it, then cuts the ground. Inspired by @simondev.bsky.social. Which stretches…",
+    "postedAt": "2026-11-15T16:11:23.864Z",
+    "day": 15,
+    "color": "#b8b8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117621398866817745"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreicm7rmd4nenbqurhkp77r565dwafyrpeehjgme4kbpbyrpr6icjeu/thumbnail.jpg",
+    "hash": "3bd274a292305617"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n2ef3josii2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n2ef3josii2g",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 15 · Inside out. Australia south-up, title and all: its elevation as stacked strata, turned the way a map drawn from the south might see it. Data: public elevation data. Made with Printed Canyon,…",
+    "postedAt": "2026-11-15T16:00:34.905Z",
+    "day": 15,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117621288938513889"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117621288938513889"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreidqq3pwjuknswapwo27r3fik2fm7b7fyl5xkdysbcjrfyamm6zyfu",
+    "hash": "4c15343923070756"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117509382044663033/statuses/117621169018199738",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@walkably/117621169018199738",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/117/513/442/944/882/621/original/f92990bbe865b45a.png"
+    },
+    "text": "Day 15, Inside out: in Madrid, the middle Walkably score (0 to 100) is 90.1 within 1 km of the centre, 69.5 at 8 to 12 km and 36.8 at 12 km and more, and in each distance band half of the cells are h…",
+    "postedAt": "2026-11-15T15:30:07.000Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/walkably.org/post/5psqchyyfep33"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/5psqchyyfep33"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/574/552/320/443/327/small/0b49e86cf8272c1d.png",
+    "hash": "861edcccccd8c89c"
+  },
+  {
+    "id": "bluesky:at://did:plc:4bjkgoxyomscsc5ymeeio5dh/app.bsky.feed.post/3n2ec4b5bx22x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cartoart.bsky.social/post/3n2ec4b5bx22x",
+    "author": {
+      "name": "Carto Art",
+      "handle": "@cartoart.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreidpuxdz4b2fnodp5hqkf5h2jwl66ebk2fkjw2qmwsmn3m3o5zwkfe"
+    },
+    "text": "Day 15: Inside out. Los Angeles with every street drawn and every freeway erased. They're still the first thing you see: black rivers through the grid, and a moat around downtown. Which one did you s…",
+    "postedAt": "2026-11-15T15:07:18.402Z",
+    "day": 15,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreibclz73gsdk7le5ixx4y3hlt3jwejofl5f4k4wzf4oejhvunpiydm",
+    "hash": "777d2d0d0d153f2f"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2e7cffvtb2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2e7cffvtb2k",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 15 of #30DayMapChallenge · Inside out Inside Kīlauea There's more behind it on the page. #Kilauea #volcano brooksgroves.com/30DayMapChallenge/2026/share/day-15.html",
+    "postedAt": "2026-11-15T14:17:02.931Z",
+    "day": 15,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreicdjf3o7onudphzplehpulbqxwmuwwfn62yosrtlzyunmf7j7xdlq",
+    "hash": "80808c8cd4c4c4ca"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2e3hnzbkk2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2e3hnzbkk2l",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 15: Inside out Ontario Island #LakeOntario",
+    "postedAt": "2026-11-15T13:08:24.810Z",
+    "day": 15,
+    "color": "#b8e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117620609265431787"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreian2i4sg6qdcdmxijcvsmwbwdky3a4orbspfh7gg2gf66yhhonbry",
+    "hash": "88a0c6f0e898c000"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n2e2nmoybc2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n2e2nmoybc2m",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 15 · Inside out Mount Fuji on the Riemann sphere, turned 180°: w=R^2/z. The summit goes to infinity, the world folds into the centre, north ends up at the bottom. Every frame is a conformal Möbiu…",
+    "postedAt": "2026-11-15T12:53:51.008Z",
+    "day": 15,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreibd2kxgdfwsqjxa47226abliutbeii2hvb6gbkc4abn2krirczy7i/thumbnail.jpg",
+    "hash": "aa3f2b2b3333c003"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3n2dzanl7222n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3n2dzanl7222n",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 15 - Inside out & 16 - Collaborative map Map: Fuller projection map by Eric Gaba, @WikimediaCommons Challenge: Cut on the black lines, fold on the dashed lines a…",
+    "postedAt": "2026-11-15T12:28:41.972Z",
+    "day": 15,
+    "color": "#080808",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreifb2f45355cpnkytpttiqflgocggll2e23slmsnsinj7f22ous3rq",
+    "hash": "1911132d3d565672"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2dysy7hr22d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n2dysy7hr22d",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge | Day 15 Inside out | Capitol Colors In Wisconsin, Democrats are IN and Republicans are OUT of the majority, after Democrats won a trifecta with the governor’s office and both cham…",
+    "postedAt": "2026-11-15T12:21:03.368Z",
+    "day": 15,
+    "color": "#f8f8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n2dysy7hr22d"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2dysy7hr22d"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreiaa6mrab3cclbcrkxzenqorf4bppucosvpdr7xtm5yhyyeyen2iee",
+    "hash": "9a9a1a9a9a9a9a9a"
+  },
+  {
+    "id": "bluesky:at://did:plc:toc26aoj5cxt2udmzfsozeal/app.bsky.feed.post/3n2dx426j422y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapchannels.bsky.social/post/3n2dx426j422y",
+    "author": {
+      "name": "Map Channels",
+      "handle": "@mapchannels.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:toc26aoj5cxt2udmzfsozeal/bafkreih7fj6gqyhpx5e5bafxjctvxrorbojkvp2mukug33z6ldbunugode"
+    },
+    "text": "🌍🔄 #30DayMapChallenge Day 15: Inside Out Oceans drained, trenches became mountains and every city sank. Each one is now its own Atlantis 🏛️ Take a submersible 🚢 and follow sonar pings 📡 to find…",
+    "postedAt": "2026-11-15T11:50:19.944Z",
+    "day": 15,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Atoc26aoj5cxt2udmzfsozeal/bafkreifgzywakrgwngqxgxj36ktjmlbzvxnql4oh4bnhrf5kev7zi4lojm/thumbnail.jpg",
+    "hash": "0000000000000000"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n2ds6aiwvc2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n2ds6aiwvc2s",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 15: Inside out We used Leaflet with Simple CRS to put an inside housing estate map onto the outside 😉 www.gcer.co.uk/30DMC_Day15_...",
+    "postedAt": "2026-11-15T10:22:04.975Z",
+    "day": 15,
+    "color": "#98e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreid5i4ehsfgj6jgu6ggighsanl7oxrpvpvnjrs4mkden7rmdgc55yi",
+    "hash": "003930193d393319"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n2dqeonlov2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n2dqeonlov2u",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 15 of #30DayMapChallenge, Inside Out. A road map of central Uppsala with the cycleways in place of the roads. Code: https://github.com/gkaramanis/30DayMapChallenge/tree/main/2026/15-inside-out #R…",
+    "postedAt": "2026-11-15T09:49:51.363Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreiafwv7urhqp7fytj4hexwmzyj2ass3wigwcyyqksuwqr3uj7744mu",
+    "hash": "c8b270f4f2b0a3e9"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3n2dommhr522o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3n2dommhr522o",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Nice and simple for Day 15: 'Inside out'. Something's not right this map. Everything, in fact: the place names are code words, so men could study the ground without knowing where it was. BOGUS mappin…",
+    "postedAt": "2026-11-15T09:18:32.298Z",
+    "day": 15,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreiajdz3kslhu53vkfr3s4qkovwu7yh6pjb4b47xhj5dr65jwqq4igq",
+    "hash": "949aa2a0c8841026"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/stevefaeembra/statuses/117619588676805068",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@stevefaeembra/117619588676805068",
+    "author": {
+      "name": "stevefaeembra",
+      "handle": "@stevefaeembra@mapstodon.space",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/419/649/933/155/459/original/ed5b3c9cf561f3c4.png"
+    },
+    "text": "Day 15. Inside out #30DayMapChallenge Globe becomes the anti-globe, each point swapping with its antipode. Each point moves to its antipode, using an easing function. This starts at the poles and mov…",
+    "postedAt": "2026-11-15T08:48:13.000Z",
+    "day": 15,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/619/583/617/875/624/small/ef0710a0862ef5eb.png",
+    "hash": "689606070f0fcc32"
+  },
+  {
+    "id": "bluesky:at://did:plc:qrkikjfpm3nsf554z4bmwbgp/app.bsky.feed.post/3n2dmjkl7pb2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/marineregions.bsky.social/post/3n2dmjkl7pb2v",
+    "author": {
+      "name": "Marine Regions",
+      "handle": "@marineregions.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qrkikjfpm3nsf554z4bmwbgp/bafkreid7dxxlatsxm4prwcamfqzpcrlryrom5xurshd5l7vqw2kus262hy"
+    },
+    "text": "#30DayMapChallenge | Day 15: Inside out Welcome to the Black Continent! 🌐 This map was created using GEBCO's bathymetry data and Marine Regions' Maritime Boundaries dataset (www.marineregions.org).…",
+    "postedAt": "2026-11-15T08:41:02.149Z",
+    "day": 15,
+    "color": "#c8e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qrkikjfpm3nsf554z4bmwbgp/bafkreif4ni3npdyfnftt7phdipqnbjwbhfapbh242z53ni2aljg3cy5lty",
+    "hash": "8e2cd5e9ce9ae7bf"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n2dlm2x7w222",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n2dlm2x7w222",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 15: Inside out I multiplied a DEM of the Rur catchment by −1 and ran the usual hydrological analysis. Mountains become basins, so the “rivers” now trace the ridges and watershe…",
+    "postedAt": "2026-11-15T08:24:29.000Z",
+    "day": 15,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117619495385171587"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicujmc323dhmub7oe6s73646fohwhq4njhrhhn6lzcsuowgycpwpq",
+    "hash": "71c8ecceeea8cc94"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117619349321946048",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117619349321946048",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day 15 : Inside out Inside out, upside down. Something on this map is not quite right. On fait simple : La France sens dessus-dessous ! 😉",
+    "postedAt": "2026-11-15T07:47:20.000Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/619/344/866/616/869/small/1b0267444f091a13.jpg",
+    "hash": "25656a6adbd37348"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2dgmujpmk2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2dgmujpmk2g",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 15 | Inside out | #30DayMapChallenge | Inside and Outside the Berlin’s S-Bahn Ring | Data: OSM, Natural Earth and Berlin Geoportal. Tools: #Rstats #ggplot2 #igraph #dplyr #ggspatial #patchwork #sf",
+    "postedAt": "2026-11-15T06:55:30.827Z",
+    "day": 15,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117619142438687218"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreihldc4sc6exzkessqzocxy5kip5guuoqhhmkagkpvhk6725sm2rz4",
+    "hash": "031d0f0f6321312d"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117619096780128238",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117619096780128238",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 15 - Inside Out The Inverted Earth 🌏🔃 A world where the relief is inverted and where the ocean's water is redistributed. https://app.kumoy.io/public/map/b42ced7f-b0b5-4317-b2…",
+    "postedAt": "2026-11-15T06:43:07.492Z",
+    "day": 15,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3n2dfwtsam22k"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n2dfwtsam22k"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/619/096/400/180/176/small/c8d47d3ca2ec5b58.png",
+    "hash": "ced5d9d1d6cccdd8"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3n2cqbfu5522r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3n2cqbfu5522r",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "Day 15 #30DayMapChallenge. Inside Out. For those wanting to step out from amongst the shadows on the wall, into the hard light of reality, here are the non-allegorical cave mouths of New Zealand",
+    "postedAt": "2026-11-15T00:15:24.026Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreidmd5bxia2dmgsxm5u3skbvryy7gfyrwog4eqc4z3wvj2qpzhjlqu",
+    "hash": "808090b920604c80"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3n2ckctx3d22o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3n2ckctx3d22o",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "Seismic tomography > see inside Earth #Tectoglob3D by Philippe Cosentino🙏 e.g. Challenger Deep, Marianas Trench Micronesia c11000m (c36,120 ft) deep where Pacific Plate subducts beneath Mariana plat…",
+    "postedAt": "2026-11-14T22:28:49.908Z",
+    "day": 15,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreifuivepjlxoyal64llez43quammgqhk6depzf6rbw72ipycrjdn4i/thumbnail.jpg",
+    "hash": "25240484a5852425"
+  }
+]

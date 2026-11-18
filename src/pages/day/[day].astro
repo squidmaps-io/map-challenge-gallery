@@ -1,0 +1,75 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Calendar from '../../components/Calendar.astro';
+import Gallery from '../../components/Gallery';
+import { forClient, postsForDay, themes } from '../../lib/data';
+import { YEAR, withBase } from '../../lib/site';
+
+export function getStaticPaths() {
+  return themes.map(({ day }) => ({ params: { day: String(day) } }));
+}
+
+const day = Number(Astro.params.day);
+const { theme } = themes.find((t) => t.day === day)!;
+const posts = postsForDay(day);
+const people = new Set(posts.map((p) => p.author.handle)).size;
+const prev = themes.find((t) => t.day === day - 1);
+const next = themes.find((t) => t.day === day + 1);
+const arrow =
+  'flex min-w-0 items-center gap-2 rounded-full border border-zinc-300 py-1.5 pr-3.5 pl-2.5 text-sm font-semibold hover:border-ink-400 hover:text-ink-600 dark:border-zinc-700 dark:hover:text-ink-300';
+---
+
+<Layout
+  title={`Day ${day}: ${theme} · #30DayMapChallenge ${YEAR} Gallery`}
+  description={`${posts.length} maps for day ${day} (${theme}) of the #30DayMapChallenge ${YEAR}, collected from Bluesky and Mastodon.`}
+  image={posts[0]?.image}
+>
+  <section class="mx-auto flex max-w-7xl flex-col gap-8 px-4 pt-8 pb-8 sm:px-6 sm:pt-12 md:flex-row md:items-end md:justify-between">
+    <div class="min-w-0">
+      <a href={withBase('/')} class="font-display text-sm font-extrabold tracking-widest text-ink-500 uppercase hover:text-ink-600">
+        Day {day} of 30
+      </a>
+      <h1 class="mt-1 font-display text-4xl font-black tracking-tight sm:text-6xl">{theme}</h1>
+      {posts.length > 0 && (
+        <p class="mt-2 text-zinc-600 dark:text-zinc-400">
+          {posts.length} maps by {people} {people === 1 ? 'mapmaker' : 'mapmakers'}
+        </p>
+      )}
+      <div class="mt-5 flex flex-wrap gap-2">
+        {prev && (
+          <a href={withBase(`day/${prev.day}/`)} class={arrow} data-nav="prev">
+            <span aria-hidden="true">←</span> <span class="truncate">{prev.day} · {prev.theme}</span>
+          </a>
+        )}
+        {next && (
+          <a href={withBase(`day/${next.day}/`)} class={arrow} data-nav="next">
+            <span class="truncate">{next.day} · {next.theme}</span> <span aria-hidden="true">→</span>
+          </a>
+        )}
+      </div>
+    </div>
+    <Calendar variant="mini" current={day} />
+  </section>
+
+  <section class="mx-auto max-w-7xl px-2 sm:px-6">
+    {posts.length > 0 ? (
+      <Gallery client:load initial={posts.slice(0, 48).map(forClient)} total={posts.length} dataUrl={withBase(`data/day-${day}.json`)} />
+    ) : (
+      <div class="mx-2 rounded-2xl border border-dashed border-zinc-300 px-6 py-20 text-center dark:border-zinc-700">
+        <p class="font-display text-2xl font-extrabold">Coming soon</p>
+        <p class="mx-auto mt-2 max-w-md text-zinc-600 dark:text-zinc-400">
+          We haven't collected maps for this day yet. Posting one? <a class="text-ink-600 underline underline-offset-2" href={withBase('about/#included')}>Here's how it gets included.</a>
+        </p>
+      </div>
+    )}
+  </section>
+</Layout>
+
+<script>
+  document.addEventListener('keydown', (e) => {
+    if (e.metaKey || e.ctrlKey || e.altKey || (e.target as HTMLElement).closest('input,textarea,select')) return;
+    const dir = e.key === 'ArrowLeft' ? 'prev' : e.key === 'ArrowRight' ? 'next' : null;
+    const link = dir && document.querySelector<HTMLAnchorElement>(`[data-nav="${dir}"]`);
+    if (link) location.href = link.href;
+  });
+</script>

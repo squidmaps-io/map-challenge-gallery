@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Nunito', ui-rounded, system-ui, sans-serif;
+  /* squidmaps teal */
+  --color-ink-50: #eef7f5;
+  --color-ink-100: #d5ece7;
+  --color-ink-300: #7cc3b6;
+  --color-ink-400: #3fa595;
+  --color-ink-500: #1e7a6c;
+  --color-ink-600: #18665a;
+  --color-ink-700: #13524a;
+}
+
+@layer base {
+  :root { color-scheme: light dark; }
+  html { -webkit-tap-highlight-color: transparent; }
+  body { @apply bg-[#f5f7f6] text-zinc-900 antialiased dark:bg-zinc-950 dark:text-zinc-100; }
+}
+
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }

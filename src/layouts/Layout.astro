@@ -1,0 +1,110 @@
+---
+import '../styles/global.css';
+import { CHALLENGE_URL, CONTACT_EMAIL, CONTACT_URL, REPO_URL, SQUIDMAPS_URL, YEAR, withBase } from '../lib/site';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+}
+const { title, description = `A community gallery of #30DayMapChallenge ${YEAR} maps from Bluesky and Mastodon.`, image } = Astro.props;
+const ogImage = image ? (/^https?:/.test(image) ? image : new URL(withBase(image), Astro.site).href) : undefined;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href={withBase('brand/squidmaps-favicon.svg')} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="min-h-dvh flex flex-col">
+    <header class="sticky top-0 z-30 border-b border-zinc-200/70 bg-[#f5f7f6]/85 backdrop-blur-md dark:border-zinc-800/70 dark:bg-zinc-950/85">
+      <div class="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:px-6">
+        <a href={SQUIDMAPS_URL} class="shrink-0" aria-label="squidmaps">
+          <img src={withBase('brand/squidmaps-lockup.png')} alt="squidmaps" class="h-[24px] w-auto mix-blend-multiply dark:hidden" />
+          <img src={withBase('brand/squidmaps-lockup-outline.png')} alt="squidmaps" class="hidden h-[24px] w-auto dark:block" />
+        </a>
+        <span class="h-5 w-px shrink-0 bg-zinc-300 dark:bg-zinc-700" aria-hidden="true"></span>
+        <a href={withBase('/')} class="min-w-0 truncate font-display text-[15px] font-extrabold tracking-tight hover:text-ink-600 sm:text-base">
+          #30DayMapChallenge <span class="hidden text-zinc-400 sm:inline dark:text-zinc-500">Gallery {YEAR}</span>
+        </a>
+        <nav class="ml-auto flex items-center gap-1.5 text-sm">
+          <a href={withBase('about/')} class="rounded-full px-3 py-1.5 font-medium text-zinc-600 hover:bg-zinc-100 hover:text-zinc-900 sm:inline-block dark:text-zinc-400 dark:hover:bg-zinc-900 dark:hover:text-zinc-100">
+            About
+          </a>
+          <a href={SQUIDMAPS_URL} class="shrink-0 rounded-full bg-ink-500 px-3.5 py-1.5 font-bold text-white hover:bg-ink-600">
+            Make a map
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="flex-1">
+      <slot />
+    </main>
+
+    <footer class="mt-16 border-t border-zinc-200 dark:border-zinc-800">
+      <div class="mx-auto grid max-w-7xl gap-8 px-4 py-10 text-sm sm:px-6 md:grid-cols-3">
+        <div class="relative md:col-span-1">
+          <img src={withBase('brand/squidmaps-mascot.png')} alt="" width="54" class="mb-3" />
+          <p class="font-display text-lg font-extrabold">Make your next map with squidmaps</p>
+          <p class="mt-1 text-zinc-600 dark:text-zinc-400">Draw or import data and make a shareable web map in minutes — no code.</p>
+          <a href={SQUIDMAPS_URL} class="mt-3 inline-flex items-center gap-1 rounded-full bg-ink-500 px-4 py-2 font-medium text-white hover:bg-ink-600">Try squidmaps →</a>
+        </div>
+        <div>
+          <p class="font-semibold">Missing a map?</p>
+          <p class="mt-1 text-zinc-600 dark:text-zinc-400">
+            Public Bluesky and Mastodon posts tagged #30DayMapChallenge are added automatically. <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href={withBase('about/#included')}>How it works</a>.
+            Something missing, or want your map removed? Email <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href={CONTACT_URL}>{CONTACT_EMAIL}</a>.
+          </p>
+          <p class="mt-2 text-zinc-600 dark:text-zinc-400">The gallery is open source <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href={REPO_URL}>on GitHub</a>.</p>
+        </div>
+        <div>
+          <p class="font-semibold">About</p>
+          <p class="mt-1 text-zinc-600 dark:text-zinc-400">
+            Maps belong to their creators; every tile links to the original post. The <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href={CHALLENGE_URL}>#30DayMapChallenge</a> is a community event founded by <a class="underline decoration-zinc-300 underline-offset-2 hover:text-ink-600" href="https://tjukanov.org/">Topi Tjukanov</a>.
+          </p>
+        </div>
+      </div>
+    </footer>
+    <button
+      type="button"
+      id="back-to-top"
+      aria-label="Back to top"
+      tabindex="-1"
+      class="pointer-events-none fixed right-4 bottom-4 z-40 grid size-12 translate-y-3 place-items-center rounded-full bg-ink-500 text-white opacity-0 shadow-lg ring-1 ring-black/5 transition duration-200 hover:bg-ink-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ink-400 data-[shown]:pointer-events-auto data-[shown]:translate-y-0 data-[shown]:opacity-100 sm:right-6 sm:bottom-6"
+    >
+      <svg viewBox="0 0 24 24" class="size-5" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 19V5M5 12l7-7 7 7" />
+      </svg>
+    </button>
+
+    <script>
+      const btn = document.getElementById('back-to-top')!;
+      const update = () => {
+        const shown = window.scrollY > 600;
+        btn.toggleAttribute('data-shown', shown);
+        btn.tabIndex = shown ? 0 : -1;
+      };
+      update();
+      window.addEventListener('scroll', update, { passive: true });
+      btn.addEventListener('click', () => {
+        const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+        window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+      });
+    </script>
+  </body>
+</html>

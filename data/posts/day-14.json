@@ -1,0 +1,759 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvxgb2up27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvxgb2up27",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 14: Borgesian Map New York as if it were itself a map. Borges imagined a map the size of the empire; this goes the other way, giving the city GIS 101 map furniture at full size…",
+    "postedAt": "2026-11-18T15:50:55.498Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreihpps45d6wpz72mrpuzi5co77jiro2r5eonhktycnuwohfszkwd4m",
+    "hash": "4b6b63616b6d6b6b"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2izaqqb4i2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2izaqqb4i2w",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 14: Borgesian map. A photographed map of Buda Castle Quarter beside the Fotoshi basemap. The marker locates the map board. Photo: strabo, CC BY 4.0. Map: OSM / OpenMapTiles. #30DayMapChallenge #F…",
+    "postedAt": "2026-11-17T12:12:00.270Z",
+    "day": 14,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117631714683706112"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117631714683706112"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiec2bl4fu3mbehaj5rfbwuewzkfxlyguqaxnqpg5msirw3avv6y4i",
+    "hash": "693c632355614355"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n2f3ajejhc2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n2f3ajejhc2y",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 14: BORGESIAN MAP - THE EXACTITUDE IN SCIENCE HAS TO BE SACRIFICED TO LEGIBILITY or YOU CANNOT SEE EVERYTHING, EVERYWHERE, AT THE SAME TIME - The city of Lisbon shown in two di…",
+    "postedAt": "2026-11-15T22:37:04.791Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117622839317664919"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreih7ztexomncwnpnsxw4qgvhxag77klykymezzzdx7dh6a43c3ro54",
+    "hash": "fdd9b9bb9e808200"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3n2eru3hlr22x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3n2eru3hlr22x",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Map becomes the territory, sure, no problem… How to represent that territory? Would have been funnier with even more versions, but here are three different abstractions of the Massachusetts coastline…",
+    "postedAt": "2026-11-15T19:49:03.881Z",
+    "day": 14,
+    "color": "#588888",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidqhoj7asoumztzowrq5v3tabtauc453mngvmtlk5wrowmyq3wbte",
+    "hash": "818189c520001435"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n2el33cpb22d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n2el33cpb22d",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 319 of #365DaysOfMaps. November 15th is Drummer Day. Here's an animated drum kit map celebrating the legendary #PhilCollins on his induction into the #rockhall because... #30DayMapChallenge day 1…",
+    "postedAt": "2026-11-15T17:47:42.411Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aogassymqxmcwphwo2icaq3ts/bafkreibtvu6awdvrqpzfwhahu6kadne5obkvik5o2z65jeuilkzn6iusgi/thumbnail.jpg",
+    "hash": "595d557151519671"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/wnd/statuses/117619842077271595",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@wnd/117619842077271595",
+    "author": {
+      "name": "Will Deakin",
+      "handle": "@wnd@fosstodon.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/592/746/376/489/477/original/b9105a2448e8def1.jpg"
+    },
+    "text": "For the fifteenth #30MapsInAMonth ask is an inside out map, so here is the a segment of the map and a sets of three two-dimensional Fourier transforms of the 1:1 Borgesian map from the previous day.…",
+    "postedAt": "2026-11-15T09:52:39.000Z",
+    "day": 14,
+    "color": "#782838",
+    "imageCount": 4,
+    "source": "feed",
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/619/833/404/798/843/small/db7a0112a7e7daa0.jpg",
+    "hash": "63f1ccb2b6cc6932"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3n2cjlvctnk2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3n2cjlvctnk2l",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 14 · Borgesian map: Kits and the kitchen sink I still don't really know what a Borgesian map is, but cramming 42 layers of open data for Kitsilano, Vancouver, into one…",
+    "postedAt": "2026-11-14T22:15:59.590Z",
+    "day": 14,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aliv3preakawilocsu5jaggtn/bafkreih374yphv75slabuoe6geh5akzyju7lcszr2xj3nlvefmtocrl7xq/thumbnail.jpg",
+    "hash": "35273883033d8071"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2cge4coo22z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2cge4coo22z",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Every single one of the 108,054 trees located on public streets and on developed municipal properties, managed and maintained by the City of Cologne. #30DayMapChallenge Day 14 - Borgesian map #ggplot2",
+    "postedAt": "2026-11-14T21:17:57.263Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreicoerrvs2oa4ft2e4r62wrqfokm46gg7wozyynp3gmwoydig2bpqq",
+    "hash": "d0cc63f0f0f038e4"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117616847826304897",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117616847826304897",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 14. Borgesian map Every settlement in Ukraine, drawn at its true shape on a 1:6,900,000 map (A4). No symbols, no generalisation. Once the map shows everything, there’s no room left for anything e…",
+    "postedAt": "2026-11-14T21:11:11.185Z",
+    "day": 14,
+    "color": "#283838",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2cfyhfiec2s"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2cfyhfiec2s"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/616/846/972/873/182/small/1b3b41eed0ece2c0.png",
+    "hash": "64667b5b41cb124c"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2cc4vrjmk2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2cc4vrjmk2b",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 14/30 · Borgesian map 🗺️ A Three.js 3D map of Cluj-Napoca goes from the whole Earth to 1:1, no cut. The data stops at 1:130; below it, a few paving stones, modeled. OpenStreetMap. In…",
+    "postedAt": "2026-11-14T20:02:20.562Z",
+    "day": 14,
+    "color": "#a8a898",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreibrwzcxz2dyulclu2j2migpb4p7noy3pmkkjha2itz6wia6xq7mlm/thumbnail.jpg",
+    "hash": "3432da82cfd6c6c3"
+  },
+  {
+    "id": "bluesky:at://did:plc:yv2grvouscdaq7w3ikyljbae/app.bsky.feed.post/3n2c7dbmz2k24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dkane.net/post/3n2c7dbmz2k24",
+    "author": {
+      "name": "David Kane",
+      "handle": "@dkane.net",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreib7ochgvr42yhu7n5cp4k4an34rlgeneqdri62dfokjpxlxwzdllq"
+    },
+    "text": "#30DayMapChallenge Day 14: Borgesian map I've made a fairly wide interpretation of this one. What proportion of Great Britain would be covered if you laid out all the paper maps that Ordnance Survey…",
+    "postedAt": "2026-11-14T19:12:13.099Z",
+    "day": 14,
+    "color": "#d8d8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreidrfe5e52dhxhvtjk37z6fxlstn3ooqhxx2q33qagnxf3xynltd64",
+    "hash": "c9c0911092024224"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n2c5uufzrk2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n2c5uufzrk2t",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 14: A Borgesian map—a map so detailed it becomes the territory. In this 2-page spread on the hills of St. Paul, the roads and trails literally jump out of the map. These grades…",
+    "postedAt": "2026-11-14T18:46:15.729Z",
+    "day": 14,
+    "color": "#f8e8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiflhrke23kkzrxqhb4xvwi2vwir7kos6nihwd762z5shasplhdene",
+    "hash": "8c888682cadcca8a"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117616253183515466",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117616253183515466",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day14: Borgesian map Contrary to my expectations, I actually ended up enjoying this topic. Yesterday, I happened to photograph a few leaves scattered along a path. As it turned out…",
+    "postedAt": "2026-11-14T18:39:57.654Z",
+    "day": 14,
+    "color": "#788888",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/616/231/156/154/072/small/c8cf99bcb92e8bc5.png",
+    "hash": "9c8786762ceeee33"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n2c445ajh22n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n2c445ajh22n",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 318 of #365DaysOfMaps. November 14th is National Spicy Guacamole Day. Print the map out to see 1:1 scaled 🥑 because... #30DayMapChallenge day 14 tie-in: Borgesian Map Hispanic population and Mex…",
+    "postedAt": "2026-11-14T18:14:32.377Z",
+    "day": 14,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreicyi6tku5sl7rm2zc7wxhp2uom52k42kgx3gqao7iffu7yas56jai",
+    "hash": "49b2aa82c36e8b0b"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3n2c43zz6sk2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3n2c43zz6sk2k",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 14: Borgesian. Oops, wrong Borges! Here's what Victor Borge would've named cities in New Jersey",
+    "postedAt": "2026-11-14T18:14:29.000Z",
+    "day": 14,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreiewkusqqtye72vg3riwapbrb5mpv4ljawsk3rsyb2jl4oqzpfjdou",
+    "hash": "aab06c7878e8c160"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2c33xz2us2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n2c33xz2us2c",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge | Day 14 Borgesian Map | Bike Map XL Not quite a true Borgesian map, but it’s the closest I’ve gotten! My Bike Map of Madison is the most detailed map I’ve made, and it’s now scale…",
+    "postedAt": "2026-11-14T17:56:33.153Z",
+    "day": 14,
+    "color": "#c8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n2c33xz2us2c"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2c33xz2us2c"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreienyqjxhjei4ur5spsgfmdl4x74oxgtgsg62rjjk3jrrkqtm7y4xu",
+    "hash": "3030313139661070"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n2c2clxxgs24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n2c2clxxgs24",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 14 of #30DayMapChallenge: Borgesian map. From 1871 Canada laid a survey grid over the prairies, and the roads grew onto it. 69.3% of 543,571 km of public road inside it runs on a section line, wh…",
+    "postedAt": "2026-11-14T17:42:21.671Z",
+    "day": 14,
+    "color": "#484848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreig5yrlwxgapur6jwsbamclphl323x2tj2344v6hvfc3i7ovugnsyq",
+    "hash": "9febd7b4bc0c0645"
+  },
+  {
+    "id": "bluesky:at://did:plc:q66r3vy7xepmx62ti4vt7uzb/app.bsky.feed.post/3n2byrxl7ic2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/wyman10.bsky.social/post/3n2byrxl7ic2u",
+    "author": {
+      "name": "UofA Map/GIS Librarian",
+      "handle": "@wyman10.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreieugoc3tac53xrv77vkifppfgmetcjapc7dmvt5qexpel2otw7zom"
+    },
+    "text": "#30daymapchallenge #Borgesian #Map 1:1 render of place names, characters, and prose in Jorge Luis #Borges - Death and the Compass. #Imagine on #exactitude in #science as a #detective story. #Argentin…",
+    "postedAt": "2026-11-14T17:15:09.673Z",
+    "day": 14,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreic4ay4dgdbmwzfcb4bpbjd2uxcgr4vowutkv2mmw35u6duzfq36fe",
+    "hash": "7170333296f071b4"
+  },
+  {
+    "id": "mastodon:https://subdued.social/users/alan/statuses/117615917423178309",
+    "platform": "mastodon",
+    "url": "https://subdued.social/@alan/117615917423178309",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan@subdued.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/627/775/480/222/382/original/4e41924fd533257c.jpeg"
+    },
+    "text": "#30DayMapChallenge Day 14: Borgesian Map The #BayModel is a massive indoor 1:1000 scale model of the #SanFranciscoBay and its adjacent waters, built by the U.S. Army Corps of Engineers. The sheer siz…",
+    "postedAt": "2026-11-14T17:14:34.000Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mappingmashups.net/post/3n2byu33v3k26"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3n2byr4cqy4s2"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/post/3n2byu33v3k26"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3n2byu33v3k26",
+      "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3n2byr4cqy4s2",
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3n2byu33v3k26"
+    ],
+    "image": "https://cdn.masto.host/subduedsocial/media_attachments/files/117/615/817/545/522/618/small/ac17c1774579d235.png",
+    "hash": "f0399e4d657b6d4f"
+  },
+  {
+    "id": "bluesky:at://did:plc:4bjkgoxyomscsc5ymeeio5dh/app.bsky.feed.post/3n2bvd2p5ok2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cartoart.bsky.social/post/3n2bvd2p5ok2v",
+    "author": {
+      "name": "Carto Art",
+      "handle": "@cartoart.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreidpuxdz4b2fnodp5hqkf5h2jwl66ebk2fkjw2qmwsmn3m3o5zwkfe"
+    },
+    "text": "Day 14: Borgesian map. When does a map start to become a place? Barcelona’s Eixample, rendered as a miniature city of blocks and courtyards. #30DayMapChallenge #Cartography #Maps",
+    "postedAt": "2026-11-14T16:13:08.409Z",
+    "day": 14,
+    "color": "#182828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreihbkouwqmb2iobj5vo73x7zqt4j37itdh2cjr7fa5ghvvqkhoppi4",
+    "hash": "7b1b4d4b4b4f6f96"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n2bumxkoh62k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n2bumxkoh62k",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 14 · Borgesian map. Central Tokyo with every building drawn, so dense the map starts to become the city, and the Tokyo Marathon course in red from Shinjuku to Tokyo Station. Data: © OpenStreetMap…",
+    "postedAt": "2026-11-14T16:00:46.791Z",
+    "day": 14,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117615627451877080"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117615627451877080"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreicc5bk6rjnyn2arobb2mktfk3le2645modqvesbl62lhcsecks23e",
+    "hash": "8aaa88d8848a8071"
+  },
+  {
+    "id": "bluesky:at://did:plc:fzrvpyqvd3xtzjnaevlqlyfq/app.bsky.feed.post/3n2bujvgc622i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/sarahbell.bsky.social/post/3n2bujvgc622i",
+    "author": {
+      "name": "Sarah Bell",
+      "handle": "@sarahbell.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreicc5uendj3rtjisnwkikvpdnv3lnow4cuwu2335hvxrzdzpmjbs3u"
+    },
+    "text": "Eeek. Misspelled #30DayMapChallenge thanks to a copy-paste suggestion from Insta. Day 14. Borgesian. Reposting my Borgesian maps here",
+    "postedAt": "2026-11-14T15:59:04.012Z",
+    "day": 14,
+    "color": "#88c8d8",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreibxicipzqwlwfbegzlvw4jilrqql3i2eeiznounwpyfudlxlga76m",
+    "hash": "8e9d6b75e19d7997"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2botlhzpa2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2botlhzpa2j",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 14 of #30DayMapChallenge · Borgesian map 1:1 There's more behind it on the page. #Borges #cartography brooksgroves.com/30DayMapChallenge/2026/share/day-14.html",
+    "postedAt": "2026-11-14T14:17:06.658Z",
+    "day": 14,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreif6r6yo62v2ondxnegb6cu2rqvh4ti6y676shfqjgv5uziud3zveu",
+    "hash": "6000406018032000"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n2boosvzls2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n2boosvzls2r",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 14: A Borgesian map #30DayMapChallenge Villa Epecuén drew 25,000 visitors a season until its salt lake swallowed it in 1985. Its hotels and dance halls are ruins now. Data: OpenStreetMap, Landsat…",
+    "postedAt": "2026-11-14T14:14:26.705Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreihhmsz6lfc3epfg4fkdksrenfs7llynxxxgezbwfy2xjb7seq7lba",
+    "hash": "8852169416949490"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3n2bm2yxuys2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3n2bm2yxuys2q",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "Connaissez-vous la carte à l'échelle 1:1 de Jorge Luis Borges ? 🤔 Ce pastiche cartographique se limite à une unique information géographique, à la fois précise et vague. #30DAYMAPCHALLENGE – Jour 14…",
+    "postedAt": "2026-11-14T13:27:34.190Z",
+    "day": 14,
+    "color": "#984848",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://social.numerique.gouv.fr/@ignfrance/117615030733948239"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117615030733948239"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreiayodh5wvzme7peytra45q5pnede4pvpr4xragg6wxtfqg57ttsfy",
+    "hash": "aa6d28490fbeec8a"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117614993779565362",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117614993779565362",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 14 of the 30 day map challenge: Borgesian (1:1) maps. A population cartogram of the planet filled with stills from recent live webcams, so it's 1:1 in space and time, kinda. Annoyingly Windy.com'…",
+    "postedAt": "2026-11-14T13:19:40.000Z",
+    "day": 14,
+    "color": "#a8a8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3n2blmyvhpgo2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3n2blmyvhpgo2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/614/979/129/789/678/small/e8565abc04ae897a.png",
+    "hash": "7472b2e568c6b8a9"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/wnd/statuses/117614833407009021",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@wnd/117614833407009021",
+    "author": {
+      "name": "Will Deakin",
+      "handle": "@wnd@fosstodon.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/592/746/376/489/477/original/b9105a2448e8def1.jpg"
+    },
+    "text": "For the fourteenth #30MapsInAMonth the theme is a Borgesian map. Here is a map of my front room carpet at an approximate 1:1 scale. This is based on the idea that a fictional map could show \"the scal…",
+    "postedAt": "2026-11-14T12:38:53.000Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/614/829/669/090/428/small/7951d161fffcac6e.jpg",
+    "hash": "196e6c8e0454e2d4"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2bijpe46s2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2bijpe46s2l",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 14: Borgesian map #LakeOntario A detailed map of a small place I know well along the shore of Lake Ontario - Ontario Beach Park. Not named \"America\" Beach and probably never wi…",
+    "postedAt": "2026-11-14T12:24:12.748Z",
+    "day": 14,
+    "color": "#b8b8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117614773598565538"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia3vgenp344rptcrrdyz35nhdtgdat5ivuizchqtfhfahbadobqa4",
+    "hash": "92fc98adc392ceed"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3n2bglhrge226",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3n2bglhrge226",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Love this. Day 14 of the #30DayMapChallenge is the Borgesian map: a map so detailed, it becomes a copy of the ground itself. For operations and invasion plans, Allied and Axis planners made huge 3D m…",
+    "postedAt": "2026-11-14T11:49:24.422Z",
+    "day": 14,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreia3sgpv3ou3klblrhvyhp5pe2zhxpxtrrmcoiseyqsxen3z5egexq",
+    "hash": "1f0f4f1f1f173f1f"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n2bdsexh672o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n2bdsexh672o",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 14 of #30DayMapChallenge, Borgesian. Uppsala's buses report their position every second, even when parked. 3.6 million GPS pings from one day draw the Fyrislund bus depot. Code: https://github.co…",
+    "postedAt": "2026-11-14T10:59:32.835Z",
+    "day": 14,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreignpvym7boocttqfosviqovgbhdnbawuht4fa5wjlds3hl6js6taq",
+    "hash": "c4aae0f8e0d8d8d4"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117614415927122901",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117614415927122901",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day 14 : Borgesian map",
+    "postedAt": "2026-11-14T10:52:43.000Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/614/408/385/857/620/small/99bf71b5ca397ae3.jpg",
+    "hash": "e4e6b2b0a29684ce"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n2bbmb3ids2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n2bbmb3ids2o",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 14 Borgesian map Yes, you can map a whole empire at 1:1 scale... just not a human one! www.gcer.co.uk/30DMC_Day14_...",
+    "postedAt": "2026-11-14T10:20:22.258Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreif7kmgqhpkzsevgasaeczfpwp2zrcbrh372q6tuyjhohesqgj6qbu",
+    "hash": "30797978b666e6e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2b256b4yc2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2b256b4yc2z",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 14 | Borgesian map | #30DayMapChallenge | Every Tree, Lamp and Bench in Klausenerplatz. 1,959 objects mapped in a single Berlin neighbourhood. Data: Baumbestand Berlin, LOR 2021 (Geoportal Berlin…",
+    "postedAt": "2026-11-14T08:06:39.782Z",
+    "day": 14,
+    "color": "#d8e8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreigwokbred2ythj5atx7bgaxxdj5omxtrgihsn3lavfdcqdiem4nwq",
+    "hash": "f056e6766474620c"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n2axnexu6dp2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n2axnexu6dp2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 14: Borgesian map One Rotterdam street corner, copied three times: as a map (BGT, every kerb and lamp post), an image (8 cm aerial photo) and a measurement (AHN6 LiDAR). Then t…",
+    "postedAt": "2026-11-14T07:21:57.000Z",
+    "day": 14,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117613587164473527"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aokii3zmymwq2hejauqlnivq2/bafkreia4jghgcseb3anbhtifine7j3faijjj56sz7jtbraj2b3rszmfz5i/thumbnail.jpg",
+    "hash": "90f2e2ce987264e4"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117613556493694045",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117613556493694045",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 14 - Borgesian map Grid to Japan ✏️🗾 Squares hand-drawn on grid paper. Zoom in and watch them turn into the real Japan. https://app.kumoy.io/public/map/45e43fb3-0a8a-471d-b967…",
+    "postedAt": "2026-11-14T07:14:09.433Z",
+    "day": 14,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3n2ax7f5odq2p"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n2ax7f5odq2p"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/613/556/036/019/774/small/770b0f62eef547be.png",
+    "hash": "4130353939302c03"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3n2as6wlp7c2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3n2as6wlp7c2k",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "Day 14 of #30DayMapChallenge, a Borgesian map. A 1:1 map of my palm.",
+    "postedAt": "2026-11-14T05:44:28.919Z",
+    "day": 14,
+    "color": "#c8c8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieqqrjbfdh2cnixhu3hjg3usfzguoh3rzw5hr374zqg3m7nxhphym",
+    "hash": "3133223234313333"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n2a46rpo6223",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n2a46rpo6223",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 14 · Borgesian map Map of field sample 5001/14, a stone from an expedition to northern Yakutia, at 1:1. 12 handheld photos, a phone light walking round it > stereo+photometric stereo > 0.25 mm DE…",
+    "postedAt": "2026-11-13T23:10:41.488Z",
+    "day": 14,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreieaa55ydhc3saqnnxzvcrvsvqu3yjcs24i4xog4zq5alrwf4uqloe/thumbnail.jpg",
+    "hash": "8c0339793b33c401"
+  }
+]

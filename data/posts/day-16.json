@@ -1,0 +1,644 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvxnzgvt2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvxnzgvt2t",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 16: Crowdsourced 🌯 I used Claude to summarize a recent r/FoodNYC thread on the best burritos. Here are the top 20 by upvotes, colored by burrito style. Electric Burrito in the…",
+    "postedAt": "2026-11-18T15:51:03.469Z",
+    "day": 16,
+    "color": "#c8c8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreicjiiokqy7osj6tiducv5ej3qo5z5qjhpvderg55hefrlfh6b4ovm",
+    "hash": "978d646460606060"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n2k3l2jmlk2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n2k3l2jmlk2l",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 16: COLLABORATIVE MAP - CROWDSOURCED EXACTITUDE IN GEOGRAPHY - OpenStreetMap as the prime example of collaborative cartography, here also showing the names of the 3171 users wh…",
+    "postedAt": "2026-11-17T22:26:17.019Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreigzgmzdrmsg4bplkzapy3qbte3jp3omi5sjhrgyiqkas6hxcdtqre",
+    "hash": "d2d2d2d2d2d2d2f2"
+  },
+  {
+    "id": "bluesky:at://did:plc:fl3akftlhopv5ku367zygs5m/app.bsky.feed.post/3n2jek2v73c27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/annariling.bsky.social/post/3n2jek2v73c27",
+    "author": {
+      "name": "Anna Riling",
+      "handle": "@annariling.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fl3akftlhopv5ku367zygs5m/bafkreiba5ail6hjg55h4c7seuwf6zql27ey2sokgoavvxpkh3gvsyh2vle"
+    },
+    "text": "#30DayMapChallenge Day 16: Collaborative Map! Help choose the colors for my new Colorado Trail map! The map features 500 miles of trail, 14ers, elevation profiles, resupply towns & hand-drawn icons.…",
+    "postedAt": "2026-11-17T15:34:07.780Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fl3akftlhopv5ku367zygs5m/bafkreigaikpmbvkinjjcgr6i5hvywtcjtzxenzbd5d6degcnlqc32dl5j4",
+    "hash": "b2b2b29292b2b1b0"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n2hrrkybis24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n2hrrkybis24",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 16: Collaborative map #30DayMapChallenge Three high school friends, the farthest apart we've been: Orlando, Buenos Aires, Barcelona. 36.1M km². Biggest triangle between 1M+ cities? San Diego-Curi…",
+    "postedAt": "2026-11-17T00:25:38.710Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreiarg7gazrimbda5ubzq2dc4suzr244edccalzlulwnqbeid45aijy",
+    "hash": "a2e0c4e0e0e0a424"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117628605361038689",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117628605361038689",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 16. Collaborative map. How many hands mapped Cherkasy? 1,014 people in OpenStreetMap since 2008, but 9 of them made 80% of the edits. Left: when each object was first mapped. Right: unique editor…",
+    "postedAt": "2026-11-16T23:01:16.922Z",
+    "day": 16,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2hn36csp22o"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2hn36csp22o"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/628/604/602/607/187/small/7fe474bd482a3c7f.png",
+    "hash": "a56733333239b1e3"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2hk53q7qc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2hk53q7qc2e",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 16/30 🤝 Anyone can map a green space. The money is harder to find. Parks per resident, 2022-25 mean, Cluj-Napoca 497 lei, Florești 156. Inspired by Claudiu C. Bogdan. Data transparen…",
+    "postedAt": "2026-11-16T22:08:55.437Z",
+    "day": 16,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreiaba4ilcaelhk4gtzklaohusqmzeuyu5ytuncux6awqw4udnn6kzq/thumbnail.jpg",
+    "hash": "c424041251c26267"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117628290031096051",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117628290031096051",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day16: Collaborative map Every year, volunteers contribute to citizen science projects by observing and counting birds in their spare time. This series of maps traces the autumn mi…",
+    "postedAt": "2026-11-16T21:41:05.375Z",
+    "day": 16,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/628/285/932/613/919/small/61c010aa2f9b908e.png",
+    "hash": "92928aaaa286a5e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n2habbz6vk2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3n2habbz6vk2i",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "#30DayMapChallenge Day 16: a hand-painted map of Plato’s Academy in Athens, by Eric Rodenbeck for artist Anna Pangalou’s site-specific work Sacred Olives. In this collaboration-of-materials, Eric mad…",
+    "postedAt": "2026-11-16T19:12:18.803Z",
+    "day": 16,
+    "color": "#d8d8d8",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3n2habbz6vk2i"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n2habbz6vk2i"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreiayf4wfaw2olll2loo5dzoqfuqijqrklloadpoghmbac2g2yrw6ay",
+    "hash": "2e5ed4cca6e6e26a"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n2h6f6chyk2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n2h6f6chyk2x",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 16 of #30DayMapChallenge: Collaborative map. 59.5% of Canada's 1,528,478 km of road in OpenStreetMap came from federal open data, and 7.9% was traced by mappers. Red Squirrel Road in Ontario has…",
+    "postedAt": "2026-11-16T18:38:41.664Z",
+    "day": 16,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreibnmvinx3yk5kobgy4bhg4wdsxufpztktxqf226qo2z7mnlldtxjq",
+    "hash": "45757b3939196373"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n2h5uhiaps2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n2h5uhiaps2b",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🗺️ Day 16/30: Collaborative Map | Two People. One NYC. For today's #30DayMapChallenge, my friend and I each picked three places we'd like to visit in NYC, plus one shared stop. ✨ ArcGIS Map Componen…",
+    "postedAt": "2026-11-16T18:29:20.868Z",
+    "day": 16,
+    "color": "#a8d8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreiforewgwvl5haflwcquhy6ziwcok5oejhy2dufmugo6tpqwaihkqi/thumbnail.jpg",
+    "hash": "13d383989c868687"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n2gzbpgjew2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n2gzbpgjew2e",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 16 — Collaborative Map Mapbox and BMW Group joined forces to bring a new kind of 3D navigation to BMW's next-generation vehicles that combines lane-level guidance, live vehicle…",
+    "postedAt": "2026-11-16T17:07:16.488Z",
+    "day": 16,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Am6ycobnhtarpiehfqpd4kszr/bafkreicb52x3i34tfvmczqwtpm6n3qisd7odn5cr4ohjrxdcizvzfxiady/thumbnail.jpg",
+    "hash": "0000000000000000"
+  },
+  {
+    "id": "bluesky:at://did:plc:2nymwfhraoi6puox63ehc5a2/app.bsky.feed.post/3n2gxrclhes2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/timostler1.bsky.social/post/3n2gxrclhes2n",
+    "author": {
+      "name": "Tim Ostler",
+      "handle": "@timostler1.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreigmye3nhbmxxzv4nmrnbjn6rqtrxndz5f34nnszk7hxaw2axtq4eu"
+    },
+    "text": "#30DayMapChallenge 2026 | Day 16: Collaboration Cartography is rarely done alone, so I wanted to shout out organisations like @bcsmaps.bsky.social, who organise many events and resources to help cart…",
+    "postedAt": "2026-11-16T16:40:12.614Z",
+    "day": 16,
+    "color": "#d8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreicwe4sv5cfqfhtkzwg4ifcz23zxh3jaonvi4tsfa4hrqnrazay3ce",
+    "hash": "9a9999990c1c1c98"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2gxcnlv6s2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2gxcnlv6s2w",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Mapping is a family business. Cologne’s boroughs mapped with LEGO. #30DayMapChallenge Day 16 - Collaborative map",
+    "postedAt": "2026-11-16T16:32:00.841Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreiccsykf6cmsbwvwpjay7ilczdxavtjputnoso4z3wd4iwxebjp5um",
+    "hash": "b8c6c290dccc9cf0"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n2gxbknacs2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n2gxbknacs2c",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 16: Collaborative Map Where is Uptown? In summer 2025, I built a Star Tribune project to collaborate with our readers to define the boundaries of Uptown, the illusive urban dis…",
+    "postedAt": "2026-11-16T16:31:24.192Z",
+    "day": 16,
+    "color": "#e8d8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreifpifnuxo2tv2vlqmkvw7m7tql6ghryqxx3c3xs2nyz3rgaebcyn4",
+    "hash": "81d8f8f8f0b0f0f0"
+  },
+  {
+    "id": "bluesky:at://did:plc:mzhenu62mgjfuct5m6qxqfot/app.bsky.feed.post/3n2guptfrc22i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/lisahornung.bsky.social/post/3n2guptfrc22i",
+    "author": {
+      "name": "Lisa Hornung",
+      "handle": "@lisahornung.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreifq42axbo6atx5xztz6om2e472kcompyhqvnacdicqewrbzezpkcu"
+    },
+    "text": "#30DayMapChallenge Day 16 Collaboration + Day 17 Light & Dark Fun experiment with @dkane.net looking at hours of daylight in the UK in summer vs winter. Each of us separately made a map to then bring…",
+    "postedAt": "2026-11-16T15:45:41.918Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreighmvv25o7wey4gkye26fixddkvzztd3bynvcpyjqvr4ccqikf4ee",
+    "hash": "5adb5bdbdbd9d9db"
+  },
+  {
+    "id": "bluesky:at://did:plc:yv2grvouscdaq7w3ikyljbae/app.bsky.feed.post/3n2gu2hifb22t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dkane.net/post/3n2gu2hifb22t",
+    "author": {
+      "name": "David Kane",
+      "handle": "@dkane.net",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreib7ochgvr42yhu7n5cp4k4an34rlgeneqdri62dfokjpxlxwzdllq"
+    },
+    "text": "#30DayMapChallenge Day 16 Collaboration / Day 17 Light & Dark A collaboration with @lisahornung.bsky.social - how many hours of daylight do you get in the UK in midsummer and midwinter? Lisa's map on…",
+    "postedAt": "2026-11-16T15:33:44.779Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@kanedr/117626861886682179"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/users/kanedr/statuses/117626861886682179",
+      "mastodon:https://fosstodon.org/users/LisaHornung/statuses/117626901438124620"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreibsqbxvkz4qufeofmzg7gr3klbkwm4znrplwnyidekqv6epzzfo64",
+    "hash": "5adb5bdbdbd9d9db"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2gprfgvjt2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2gprfgvjt2k",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 16 of #30DayMapChallenge · Collaborative map Washington's favorite outdoors, by vote #PNW #hiking brooksgroves.com/30DayMapChallenge/2026/share/day-16.html",
+    "postedAt": "2026-11-16T14:17:05.656Z",
+    "day": 16,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreibf7wih5fev4jk5h6trk4uyd7tojsg3c7wqkepr6xgj3yqib4kqwm",
+    "hash": "80a88ccc4c0c2c0e"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n2gpkfedq22g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n2gpkfedq22g",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 320 of #365DaysOfMaps. November 16th is National Button Day, mostly of the fastening kind. #30DayMapChallenge day 16 tie-in: collaboration Great Button Isles (320/365) mapdesign.icaci.org/2026/11…",
+    "postedAt": "2026-11-16T14:13:10.705Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreihnkwy57mspqvsufzs73v2hsziise3ma6jujeeav6lgx5fh23sgn4",
+    "hash": "0c70f070c898ba68"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2gnhyxvpc2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2gnhyxvpc2l",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge - Day 16 : Collaborative map #LakeOntario My best friend, my dog Forest helped me make this map of all the places he wants me to take him around Lake Ontario. I took an image of hi…",
+    "postedAt": "2026-11-16T13:36:03.126Z",
+    "day": 16,
+    "color": "#080808",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreibwrfnp3owelnxupni5xhltygxpgk56eaodaaqnwokuu6e6sbsife",
+    "hash": "9c60d8c6c2c2d6d1"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2gmby5mcs2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n2gmby5mcs2y",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge | Day 16 Collaborative map | Every Door in Atwood Ok it’s been a few weeks, but very happy to share that Every door in Atwood is officially surveyed! The last of 2,319 front doors…",
+    "postedAt": "2026-11-16T13:14:47.194Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n2gmby5mcs2y"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2gmby5mcs2y"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreiaq6knuq4yd65irgstqdw6a3rr25x22ist7mpjb7nsr4xojbwx4ni",
+    "hash": "8d9e6fb525c92aa3"
+  },
+  {
+    "id": "bluesky:at://did:plc:4bjkgoxyomscsc5ymeeio5dh/app.bsky.feed.post/3n2glw3luss2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cartoart.bsky.social/post/3n2glw3luss2s",
+    "author": {
+      "name": "Carto Art",
+      "handle": "@cartoart.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreidpuxdz4b2fnodp5hqkf5h2jwl66ebk2fkjw2qmwsmn3m3o5zwkfe"
+    },
+    "text": "Day 16: Collaborative map. You pick the place, I make the poster. Reply with a city, mountain or coastline and I'll map the first replies here. Map data © OpenStreetMap contributors. #30DayMapChallen…",
+    "postedAt": "2026-11-16T13:08:08.158Z",
+    "day": 16,
+    "color": "#180808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreic2ynhdwo4nrjsiyzyjrpsmajsqw3exwrh3u3yzv6kpk7y46ptggu",
+    "hash": "090f07295d4f1713"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117626256721989884",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117626256721989884",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day 16 : Collaborative map",
+    "postedAt": "2026-11-16T13:03:59.000Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/626/257/845/188/535/small/6b09599d5b3010f8.jpg",
+    "hash": "8e92610d9c8d950d"
+  },
+  {
+    "id": "bluesky:at://did:plc:fzrvpyqvd3xtzjnaevlqlyfq/app.bsky.feed.post/3n2glcyikck2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/sarahbell.bsky.social/post/3n2glcyikck2z",
+    "author": {
+      "name": "Sarah Bell",
+      "handle": "@sarahbell.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreicc5uendj3rtjisnwkikvpdnv3lnow4cuwu2335hvxrzdzpmjbs3u"
+    },
+    "text": "#30DayMapChallenge Day 16. Collaborative. As soon as I saw this category I knew I wanted to collaborate with Poet @sati-m.bsky.social. This map is inspired by her poem 'Sunset,' showing Bellingham Ba…",
+    "postedAt": "2026-11-16T12:57:27.362Z",
+    "day": 16,
+    "color": "#181828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreiautpq2jo5lmcovitpp7z5bcf3rfsuhngxdrkmfqjuxsjrtievu4q",
+    "hash": "cbcbe3791906692d"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117625982568335972",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117625982568335972",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 16 of the 30 day map challenge: collaborative. A map of all of the routes https://compute.olie.science/fahrtle players have taken I like how you can see Paris, Madrid, Vienna, Chicago and Budapes…",
+    "postedAt": "2026-11-16T11:54:16.000Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3n2ghs5xooyv2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3n2ghs5xooyv2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/625/971/430/918/203/small/dd38ac935d6c1366.png",
+    "hash": "2961809193922274"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n2gdaf3jpc2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n2gdaf3jpc2a",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 16: Collaborative So many things to check on all @gloswildlife.bsky.social nature reserves... mapping collaboration is the only way to keep track gcer.maps.arcgis.com/apps/dash…",
+    "postedAt": "2026-11-16T10:32:49.970Z",
+    "day": 16,
+    "color": "#484828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifn5pxbd5cr7kfovhofxfwwmo2ysh3jpdfoy6wombkizmtnby3ix4",
+    "hash": "cb8c35cd98886169"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117625470762989032",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117625470762989032",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 16 - Collaborative Map Exquisite Corpse Game ✂️ Four mapmakers each styled a quarter of the world in #QGIS, without seeing the others, then assembled in #Kumoy. https://app.kum…",
+    "postedAt": "2026-11-16T09:44:06.750Z",
+    "day": 16,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3n2gajgeyyl2e"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n2gajgeyyl2e"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/625/470/493/756/655/small/aa99cc236d653d83.png",
+    "hash": "2c4c6d6d4d4ec64c"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3n2gaiortfs22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3n2gaiortfs22",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "Pique-nique géographique ! Résultat : une ébauche de la gastronomie française, partielle et collaborative 🤝. #30DAYMAPCHALLENGE - J-16 : #CollaborativeMap 📊 Boulangeries, épiceries, fruitières, mar…",
+    "postedAt": "2026-11-16T09:43:47.250Z",
+    "day": 16,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://social.numerique.gouv.fr/@ignfrance/117626567502868212"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117626567502868212"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreifawmyuepwooxezegrsormps45gobh4jnzbdqmwy2dcexre6f6flm",
+    "hash": "b69ae58dcd839a9a"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2fvibavxc2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2fvibavxc2z",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 16 | Collaborative map | #30DayMapChallenge | Caring Together: Berlin’s Diabetes Care Network. Data: Deutsche Diabetes Gesellschaft, Diabetiker Bund Berlin, OpenStreetMap and Natural Earth. Tools…",
+    "postedAt": "2026-11-16T06:26:42.005Z",
+    "day": 16,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117624691409396640"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreiaeab62p5k2etmzrggzkrkha6akx2mdoyjs3mrlreiyislhm4z42a",
+    "hash": "47550d1f0d614b0b"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n2fvfzdfpzq2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n2fvfzdfpzq2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 16: Collaborative map How many different people have edited #OpenStreetMap in each 150 m hexagon around Delft station? Between 61 and 161 per cell. The darkest cells follow the…",
+    "postedAt": "2026-11-16T06:25:09.000Z",
+    "day": 16,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117624688466008107"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreibaodyhmayq4nezlpghzxvvfy5oq7gtzktqpikubfcigcyr2jlyam",
+    "hash": "86a4e4e2f2ecd81a"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3n2eugmpdls2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3n2eugmpdls2o",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "Y7 class collaborated with #GIS, gathering location data about family links w other countries using #SurveyPoints in #GeoMapper2DPlus. 🌐 They used the data visualise the spatial distribution and cre…",
+    "postedAt": "2026-11-15T20:35:13.428Z",
+    "day": 16,
+    "color": "#283838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreiciumoq7cqz7brep47dbwbwliov53v2xalytdn4jbmxbqpgwkalmu/thumbnail.jpg",
+    "hash": "4ccc3a9cbcf0d6d2"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzh3vmxbdl2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzh3vmxbdl2b",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "#30DayMapChallenge Day 16 is Collaborative, so you pick the place: Uluru, Lake Titicaca, Mount Olympus or Ha Long Bay. Vote here: https://mastodon.social/@relytworks/117555340066041875",
+    "postedAt": "2026-11-04T00:29:00.814Z",
+    "day": 16,
+    "color": "#181818",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n2gvkv2d542s"
+      },
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117626952171433039"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n2gvkv2d542s",
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117626952171433039"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreicc6zvcicuxsl7l546cu6s5rnslwbv4hldm2mdwqp57lvqh234qx4",
+    "hash": "2b332b2b33330fcc"
+  }
+]

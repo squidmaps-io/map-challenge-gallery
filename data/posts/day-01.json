@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "mastodon:https://en.osm.town/users/seav/statuses/117620978263737361",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@seav/117620978263737361",
+    "author": {
+      "name": "Eugene Alvin Villar 🇵🇭",
+      "handle": "@seav@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/296/503/014/137/125/original/8a748c3ba7ce61b0.jpg"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 1️⃣2️⃣: Power 🔋 There are several existing indices that aim to rank the global cities but only one of them uses the word “power” in its name: Global Power Cities Index (GP…",
+    "postedAt": "2026-11-15T14:41:36.000Z",
+    "day": 1,
+    "color": "#f8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/seav4f.bsky.social/post/3n2easx4lx223"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3n2easx4lx223"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/622/110/911/320/418/small/324045c5d5ed0300.webp",
+    "hash": "64644464a4942606"
+  },
+  {
+    "id": "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3n2dfagfkus2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/seav4f.bsky.social/post/3n2dfagfkus2f",
+    "author": {
+      "name": "Eugene Alvin Villar",
+      "handle": "@seav4f.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uazuy62cckhrybqum2bwqhuz/bafkreidbpdbwj3lxa66ct3pfwypjmwonvguqshpyrwhop5tf7vwr3jlpaq"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 1️⃣1️⃣: Sound 👂️ Ra Costelloe’s song “Open Road” talks about traveling 🇳🇿 New Zealand and mentions a bunch of places. But what makes the song kinda famous in online is a…",
+    "postedAt": "2026-11-15T06:30:39.572Z",
+    "day": 1,
+    "color": "#282828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@seav/117619059548823953"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/users/seav/statuses/117619059548823953"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uazuy62cckhrybqum2bwqhuz/bafkreic4ugiakmj7n42bibptkgs7aimzbg6q6qgmvkueutvdm3hvhfce3y",
+    "hash": "325be9f1e7ce6860"
+  },
+  {
+    "id": "bluesky:at://did:plc:v3ccakbboacdbklcue4qzyq5/app.bsky.feed.post/3mzlslq35ic2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/nathan1904.bsky.social/post/3mzlslq35ic2k",
+    "author": {
+      "name": "nathan1904.bsky.social",
+      "handle": "@nathan1904.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v3ccakbboacdbklcue4qzyq5/bafkreif5twdj6xy4p2xnb2ympakenwnf6ytrj2yoqtx5k2ltvq4r2z2eva"
+    },
+    "text": "Day 1 of #30DayMapChallenge (Points): where DesignSafe’s published natural hazards projects happened. nathanfranklin.github.io/30daymapchal...",
+    "postedAt": "2026-11-05T21:25:43.789Z",
+    "day": 1,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v3ccakbboacdbklcue4qzyq5/bafkreifngpkvibu2qwbse3wnmzyrlnpfcxzzkzebujq4gcr5hrecsxs6qi",
+    "hash": "5d5bb79315155551"
+  },
+  {
+    "id": "bluesky:at://did:plc:2mufthrc2jhu6ubvosggmbm7/app.bsky.feed.post/3mzl7sdfcsc2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/alexiii.bsky.social/post/3mzl7sdfcsc2j",
+    "author": {
+      "name": "Alexis E.",
+      "handle": "@alexiii.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mufthrc2jhu6ubvosggmbm7/bafkreietmeqezedwij3gj4j7b7qexdfe7jzwonjvztz2jyp25zk7azkpoi"
+    },
+    "text": "Starting the #30DayMapChallenge a bit late. Day 1: Points",
+    "postedAt": "2026-11-05T15:49:24.267Z",
+    "day": 1,
+    "color": "#4898c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2mufthrc2jhu6ubvosggmbm7/bafkreihujeirlvxdbtbgtkmyuy6tvccvagnhtiujz3cihpfb5rn3keamci",
+    "hash": "28f2d295f3318b89"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzgaiw2w6c27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzgaiw2w6c27",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "On Day 1 of #30DayMapChallenge the prompt is 'points' ~ for mapmakers, that means one dot per thing, each pinned to its own coordinates. For me, 'points' made me think of Pointe du Hoc (stick with me…",
+    "postedAt": "2026-11-03T16:18:01.163Z",
+    "day": 1,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreifpeldgtgwg72twng4kjybezlqgot72p3hbyhbttdhosmhm3izhi4",
+    "hash": "5d49517135356d0d"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3mzeuymz2ru2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3mzeuymz2ru2p",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 01-Points Starting off easy with noise complaints from NYC’s 311 data. Manhattan had 443 ice cream truck noise complaints in 2025. #rstats #dataviz",
+    "postedAt": "2026-11-03T03:19:56.000Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreigxscrjr4uh6jkefnbzkktlpwdb2wik3cwc5hscq5bpxit7obsbiu",
+    "hash": "c00c1818306060c0"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3mzemzycmmc26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3mzemzycmmc26",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 1: points. Nothing special, but it feels good to get back into mapping, plus if I do work-related things it's easier to get away with it at work! I moved to New Jersey this yea…",
+    "postedAt": "2026-11-03T00:57:41.563Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreigquaabv2r7xfq3e2hejqjk6jofvr6a2lcqwz4yby5dzfzjde2qpy",
+    "hash": "3000103030303030"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzejupvaz22b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzejupvaz22b",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 1 · Points. The sky over the Atacama Desert at 04:00 UTC on 14 July 2026: each star a single point, joined by constellation lines. Data: Yale Bright Star Catalogue, d3-celestial. Made with Printe…",
+    "postedAt": "2026-11-03T00:01:03.596Z",
+    "day": 1,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117549568289228272"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117549568289228272"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreib2pjz4ydo5w3lnk3fxlcrx7ophb7mx4yn6bdrvwy2575wtlmvzzq",
+    "hash": "0002050d04061614"
+  },
+  {
+    "id": "bluesky:at://did:plc:mb3sfykdnohdmfzifvpe6f2e/app.bsky.feed.post/3mzediharlc24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ferdinandschenck.bsky.social/post/3mzediharlc24",
+    "author": {
+      "name": "Ferdinand Schenck",
+      "handle": "@ferdinandschenck.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb3sfykdnohdmfzifvpe6f2e/bafkreig43ydx5j2xx7opgwm6ibhbx5vizdqrbdqyrn56zzroqjo7lninim"
+    },
+    "text": "#30DayMapChallenge Day 1: Points 🟣 There are quite a few places in the world named \"Something Point\" or \"Point Something\" (and even a few just called \"Point\") and mapped here is every place in the w…",
+    "postedAt": "2026-11-02T22:06:49.569Z",
+    "day": 1,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mb3sfykdnohdmfzifvpe6f2e/bafkreihevjca5snpwtz55ypsp254zqsaxwylhrx6ed4dhhqo26yt7rfali",
+    "hash": "170e353595941070"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3mze6b47tph2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3mze6b47tph2j",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 1: Points. Jeju Island, South Korea. 117 photographed places on Fotoshi. Every point connects a real-world object to photos. fotoshi.com/explore #30DayMapChallenge #Fotoshi #Jeju #OpenStreetMap",
+    "postedAt": "2026-11-02T20:33:13.152Z",
+    "day": 1,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117548752778659989"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117548752778659989"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreic5ksbqwxhvlzudkowksop7wfbqeokml5nv4kplfpx443bappzxnu",
+    "hash": "682c2f030f3e7939"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3mze44hhnb22l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3mze44hhnb22l",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 1 - Points & 2 - Lines Map: Donville-les-Bains, FR Challenge: Find the itinerary between pairs of points without crossing the lines!",
+    "postedAt": "2026-11-02T19:54:50.948Z",
+    "day": 1,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreiazwhqad5k6ingn2673aydsnrethdtmstqzds2vhmfd6b4att6gaa",
+    "hash": "434359654767677e"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/jcarlson/statuses/117548575129713306",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@jcarlson/117548575129713306",
+    "author": {
+      "name": "Josh Carlson",
+      "handle": "@jcarlson@mapstodon.space",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/288/786/844/433/120/original/3ac8602e288ce986.jpg"
+    },
+    "text": "#30DayMapChallenge Day 1 - Points 5km hex bins of Illinois elevation data. Symbolized the bins based on the derived \"range\" output of Zonal Statistics. Result is basically a very coarse ruggedness in…",
+    "postedAt": "2026-11-02T19:48:32.000Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/548/556/660/179/471/small/706582f103d01244.jpg",
+    "hash": "da9ab870341a8c44"
+  },
+  {
+    "id": "bluesky:at://did:plc:mzhenu62mgjfuct5m6qxqfot/app.bsky.feed.post/3mzdxpomjfc2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/lisahornung.bsky.social/post/3mzdxpomjfc2h",
+    "author": {
+      "name": "Lisa Hornung",
+      "handle": "@lisahornung.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreifq42axbo6atx5xztz6om2e472kcompyhqvnacdicqewrbzezpkcu"
+    },
+    "text": "#30DayMapChallenge Day 1 Points - German supermarkets in London. 🗺️🛒 Lidl has more shops than Aldi (source: OpenStreetMaps). Both plan to expand in 2026 and already hold ~19% of total market share…",
+    "postedAt": "2026-11-02T18:36:07.279Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/LisaHornung/statuses/117548304941946917"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreig44sgidrczksfw7mousydg66wfx4bdcepr23mwutgkeiqaax27g4",
+    "hash": "6860f0f4d8f0f098"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3mzdtrfl6zk2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3mzdtrfl6zk2z",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🌐 Day 1/30: Points | The Web Has an Address The internet didn't just happen. It happened somewhere! 📍 For #30DayMapChallenge, I'm building One Map That Grows! Today: 5 places that shaped the web, p…",
+    "postedAt": "2026-11-02T17:25:29.942Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreiezikh3cbtq3i4lruxhaimnsgaenahewjgkape4js2h5huwcxfnae/thumbnail.jpg",
+    "hash": "16165c5a59d0c444"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:5rymx2lm5by2tq2zz66cuqox/app.bsky.feed.post/3mzdtkqwzms2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:5rymx2lm5by2tq2zz66cuqox/post/3mzdtkqwzms2y",
+    "author": {
+      "name": "Tom watson",
+      "handle": "@tomcw.xyz",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/116/557/739/361/068/069/original/1e21ab4b742a5713.jpeg"
+    },
+    "text": "#30DayMapChallenge Finally got round to it after years of only realising it was on in Mid Nov. Day 1 Points What better way to combine maps and points than Trig Points. Bonus maps of highest Trig Poi…",
+    "postedAt": "2026-11-02T17:21:46.982Z",
+    "day": 1,
+    "color": "#f8f8e8",
+    "imageCount": 3,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/tomcw.xyz/post/3mzdtkqwzms2y"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/tom-c-watson.mastodon.social.ap.brid.gy/post/3mzgo4v27x2j2"
+      },
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@Tom_c_watson/117554370841990858"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:5rymx2lm5by2tq2zz66cuqox/app.bsky.feed.post/3mzdtkqwzms2y",
+      "bluesky:at://did:plc:6eoyz7pbzsg5hqfiwimntd5g/app.bsky.feed.post/3mzgo4v27x2j2",
+      "mastodon:https://mastodon.social/users/Tom_c_watson/statuses/117554370841990858"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rymx2lm5by2tq2zz66cuqox/bafkreigcyjwtkfy2s53ogfbt5yavlaiq5cvqqhygkzvwfksiqcl4vos3dy",
+    "hash": "80523039127ac9c0"
+  },
+  {
+    "id": "bluesky:at://did:plc:2xhwqs7x3xnnpbtxzik2xkpe/app.bsky.feed.post/3mzdpnxzxds2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chaneyswiney.com/post/3mzdpnxzxds2h",
+    "author": {
+      "name": "Chaney Swiney",
+      "handle": "@chaneyswiney.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreib3l4jkjoqmhebpanyaxgh6pm3pamrjq7jltl2lht52xcgkkp2v7u"
+    },
+    "text": "#30DayMapChallenge Day 1 - Points Only a day behind. Here's every waypoint I've marked while out on a field check since October of 2020. That's 2,459 notes across the US and Canada, all in service of…",
+    "postedAt": "2026-11-02T16:12:00.113Z",
+    "day": 1,
+    "color": "#c8c888",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreidd7orzte34zodzp3hu5pfivza2xf7peapbeihplhvdkhtsovl47y",
+    "hash": "1d1f1d4b4b4f2f0f"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3mzdng44a3h24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3mzdng44a3h24",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "Half of Europe's city dwellers live in just 80 cities #30DayMapChallenge Day 1: Points 🧵",
+    "postedAt": "2026-11-02T15:31:48.424Z",
+    "day": 1,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreid6cxj24cruvretrx2a76abzeivxvwgmpu3dxru7jhdskgb7wdnty",
+    "hash": "e080cb1dc5c6a5d8"
+  },
+  {
+    "id": "bluesky:at://did:plc:ca2lu4tjmgi2vod3hvztwxxv/app.bsky.feed.post/3mzdlm5svhs2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hfxshippingnews.bsky.social/post/3mzdlm5svhs2s",
+    "author": {
+      "name": "Halifax Shipping News",
+      "handle": "@hfxshippingnews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreihdpm4mu3tmxdwbshdxdxyivncdsoaactfxqnpz5gvdrjcqti2fy4"
+    },
+    "text": "Day 1 - Points #30DayMapChallenge",
+    "postedAt": "2026-11-02T14:59:24.096Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreidbvtz35nxdik7sq6kdb2i2i4rhv4thkvxlmxsmucqxmd36p5zu6y",
+    "hash": "4e675bc1455a13a2"
+  },
+  {
+    "id": "bluesky:at://did:plc:rqcdegxr22bnmi5c2bsrji3m/app.bsky.feed.post/3mzdiptuyek2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tanyashapiro.bsky.social/post/3mzdiptuyek2d",
+    "author": {
+      "name": "Tanya Shapiro",
+      "handle": "@tanyashapiro.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rqcdegxr22bnmi5c2bsrji3m/bafkreidroxkbmif67xagaifiv2lgnhpirevtrqm45e562cffdtq6wgrn6y"
+    },
+    "text": "Here we go, Day 1 of #30DayMapChallenge (yes, I know I'm already a day behind) For fun, a map of the places I've lived, averaged into one midpoint...which puts me somewhere close to the Titanic? Exci…",
+    "postedAt": "2026-11-02T14:07:46.673Z",
+    "day": 1,
+    "color": "#e8e8e8",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rqcdegxr22bnmi5c2bsrji3m/bafkreibxoc56hd2iuledaehs3rrimdh4szxpvfkuaobx7too77r5a2vpjy",
+    "hash": "840c1e1a9c8c8c8f"
+  },
+  {
+    "id": "mastodon:https://vis.social/users/adiherzog/statuses/117546978808613115",
+    "platform": "mastodon",
+    "url": "https://vis.social/@adiherzog/117546978808613115",
+    "author": {
+      "name": "Adrian Herzog",
+      "handle": "@adiherzog@vis.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/313/762/933/923/959/original/a487ba9fdd327855.png"
+    },
+    "text": "Day 1 of the #30DayMapChallenge | Prompt: Points Where are people interested in the climate, and where do they create a corresponding chart on climate.mapresso.com? #map #climate #climatechart",
+    "postedAt": "2026-11-02T13:02:34.000Z",
+    "day": 1,
+    "color": "#082828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.masto.host/vissocial/media_attachments/files/117/546/958/237/089/350/small/4621b3d211f68a61.png",
+    "hash": "19533e3e4e8eb5c2"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3mzcm6rqifc23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3mzcm6rqifc23",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 1 · Points: 4,959 heartbeats My 30-minute run in Kitsilano, Vancouver, as one GPS point every 5 seconds, sized by pace and coloured by heart rate, with notes on why I…",
+    "postedAt": "2026-11-02T05:37:09.232Z",
+    "day": 1,
+    "color": "#181828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreigbqr2v7owgoqfe67wo3r4ammaarrnuuvq764tneocagmh23egb5q",
+    "hash": "6c4e8b2733375671"
+  },
+  {
+    "id": "bluesky:at://did:plc:2hvjmbw263gctmvb25tove5c/app.bsky.feed.post/3mzcd5flotk2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/deepalikank.in/post/3mzcd5flotk2i",
+    "author": {
+      "name": "🪔Deepali Kank🪔",
+      "handle": "@deepalikank.in",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2hvjmbw263gctmvb25tove5c/bafkreigo6cxqq6bvjzhsg5ef2hgp6fhzlmyfp37comg6b4ecwrcxilfw2i"
+    },
+    "text": "#TidyTuesday week 43 - IKEA Sofas and Their Swedish Places #30DayMapChallenge Day 1 - Points #Rstats #DataViz #DataVisualization #Ikea",
+    "postedAt": "2026-11-02T02:55:19.261Z",
+    "day": 1,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2hvjmbw263gctmvb25tove5c/bafkreierxsdwleg57f4sywtnkx7e2nut5ovlfyvtpf7flndhmidv47hq4y",
+    "hash": "a2dc98989230f08c"
+  },
+  {
+    "id": "bluesky:at://did:plc:wuc4pxiuogwvg4pamwjdva32/app.bsky.feed.post/3mzc6tkaxsk24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/michalskop.bsky.social/post/3mzc6tkaxsk24",
+    "author": {
+      "name": "Michal Škop",
+      "handle": "@michalskop.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wuc4pxiuogwvg4pamwjdva32/bafkreid6lpa4uiq6o7uqwjo57z3ycps5uf5n4rj72umiheid4kxigs22k4"
+    },
+    "text": "#30DayMapChallenge, day 1 - points Cities', towns' and villages' names endings of German-speaking regions of Europe. Interactive version: databites.datatimes.cz/2026-krajina...",
+    "postedAt": "2026-11-02T01:38:13.638Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wuc4pxiuogwvg4pamwjdva32/bafkreicmgtzd2qtnbmiudqvqjciy3j73mz2dnsqgasdyc5xhtipiomtszi",
+    "hash": "26242c1868747060"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzbzotrqz22u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzbzotrqz22u",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 1: Points #30DayMapChallenge Drive through Argentine Patagonia and the gas stations turn blue. YPF runs 35% of Argentina’s gas stations, but 54% of those in Patagonia. Each dot is a 50 km zone, c…",
+    "postedAt": "2026-11-02T00:06:07.147Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreie2zy2ikmm4fu347siz2qhlvcmjvx5goe7zeobqeerxtmm6sniwt4",
+    "hash": "90c0c1c888988a90"
+  },
+  {
+    "id": "bluesky:at://did:plc:olyhtg4yyp5y6mvimhbvjse5/app.bsky.feed.post/3mzbyb6cgd22r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/visben.bsky.social/post/3mzbyb6cgd22r",
+    "author": {
+      "name": "Benjamin Niedermann",
+      "handle": "@visben.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:olyhtg4yyp5y6mvimhbvjse5/bafkreihljxijpbmu2dnl47plalq5wdkp2gy2yyhdrz673jbbfjvhqbxzje"
+    },
+    "text": "#30DayMapChallenge Day 1: Points Berlin's tree register lists almost 1,000,000 trees. This interactive lens shows their types and ages, down to the single tree at street level. visquill.com/gallery/b…",
+    "postedAt": "2026-11-01T23:40:34.676Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://vis.social/@visben/117543853124332715"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://vis.social/ap/users/117072417730931523/statuses/117543853124332715"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aolyhtg4yyp5y6mvimhbvjse5/bafkreiee6inq4na3rbvitzon5qyc6xewfntpkgsah2f2wldqkqph3iqrau/thumbnail.jpg",
+    "hash": "3192b273b2b29226"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/kanedr/statuses/117543674131741038",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@kanedr/117543674131741038",
+    "author": {
+      "name": "David Kane",
+      "handle": "@kanedr@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/031/461/original/e4967cbb2ba08738.jpg"
+    },
+    "text": "#30DayMapChallenge Day 1 - points Using UK Land Registry price paid data - houses sold for £5 million or more in 2026.",
+    "postedAt": "2026-11-01T23:02:09.219Z",
+    "day": 1,
+    "color": "#280878",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/dkane.net/post/3mzdo4sviss2x"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yv2grvouscdaq7w3ikyljbae/app.bsky.feed.post/3mzdo4sviss2x"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/543/669/378/846/959/small/703597c47c388c24.png",
+    "hash": "307031f8e4f2d2cc"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3mzbtplhnv22g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3mzbtplhnv22g",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "Happy to join this year’s #30DayMapChallenge together with @zimrick.bsky.social ! Kicking off Day 1 (Points) with a map of air quality stations in the Po Valley in Italy, coloured by their 2022 avera…",
+    "postedAt": "2026-11-01T22:19:09.527Z",
+    "day": 1,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreifkycfzx7selghqsu5dt2jzrwtzi2ivgus2xp2fw5ywd5fqmgasy4",
+    "hash": "3fe0d89b21b11c9c"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3mzbtcnanq22f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3mzbtcnanq22f",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 1 of #30DayMapChallenge: Points. I mapped every populated place in Canada, one dot each: 29,749 of them from NRCan's geographical names database. On the prairies they fall in rows along the railw…",
+    "postedAt": "2026-11-01T22:11:55.189Z",
+    "day": 1,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreigyj6exxo4bxikj5lqykufelr2eae4uaxey2thnxca4yj5iq6npk4",
+    "hash": "757f3b393d6b637b"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117543455542298013",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117543455542298013",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day01: Points Before the last election, I covered every street within a 1-kilometer radius of my polling station, mapping a total of 1,740 election posters from 12 different politi…",
+    "postedAt": "2026-11-01T22:06:33.000Z",
+    "day": 1,
+    "color": "#f8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/543/452/634/420/125/small/9924961569fa0174.png",
+    "hash": "b41293aaaa1325a1"
+  },
+  {
+    "id": "bluesky:at://did:plc:bc2gbxtx5scfvyoajyacw3ao/app.bsky.feed.post/3mzbsfqtnwk2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/benunsworth.co.uk/post/3mzbsfqtnwk2s",
+    "author": {
+      "name": "Ben Unsworth",
+      "handle": "@benunsworth.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bc2gbxtx5scfvyoajyacw3ao/bafkreig5nk2q3hp43qpuurfamo5beabx2cvbb7e6uhzulh27gigre4zm4a"
+    },
+    "text": "#30DayMapChallenge Day 1: Points 📍 Playing with Instinct AI again. Asked it to map the chicken shops in Kingston and Sutton. Went off and queried @openstreetmap.bsky.social and the ONS for chicken s…",
+    "postedAt": "2026-11-01T21:55:45.878Z",
+    "day": 1,
+    "color": "#e8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bc2gbxtx5scfvyoajyacw3ao/bafkreiee7ffdjyfljousf5ab774si2nblijr6oefzwgmf5wg3qrbbfdu6q",
+    "hash": "6263c469f859db28"
+  },
+  {
+    "id": "bluesky:at://did:plc:6g5ixjkahesst7wcfujtzy7a/app.bsky.feed.post/3mzbpxz5eks2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rajodm.bsky.social/post/3mzbpxz5eks2e",
+    "author": {
+      "name": "Rajo",
+      "handle": "@rajodm.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6g5ixjkahesst7wcfujtzy7a/bafkreiecoh3cmcjyraiiou77xg5ymw767gkey3s73jandt56f77tfk7fce"
+    },
+    "text": "Here's my entry for day 1 of the #30DayMapChallenge 2026 - points #dataviz #rstats #ggplot2",
+    "postedAt": "2026-11-01T21:12:17.319Z",
+    "day": 1,
+    "color": "#182838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6g5ixjkahesst7wcfujtzy7a/bafkreidfckygzfh5i5awwxrsoq2f65xpod7hz4t7prbgepjj344nbtlxyq",
+    "hash": "cc4d4d6466660d25"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117543238743893452",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117543238743893452",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 1: Points #30DayMapChallenge Just in Case: Tourniquets at Hand On Oct 4 I asked civilian followers: how many tourniquets do you have, which city, and do you have an IFAK? 65 replies, 117 tourniqu…",
+    "postedAt": "2026-11-01T21:11:25.720Z",
+    "day": 1,
+    "color": "#582848",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3mzbqhpphjc2p"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3mzbqhpphjc2p"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/543/234/483/937/592/small/51276ed295d2eb73.png",
+    "hash": "564d8c971149e96a"
+  },
+  {
+    "id": "bluesky:at://did:plc:ns72r66rds454ummf3avh4pa/app.bsky.feed.post/3mzbpau3cxc2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/heatherchamberlain.bsky.social/post/3mzbpau3cxc2j",
+    "author": {
+      "name": "Heather Chamberlain",
+      "handle": "@heatherchamberlain.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ns72r66rds454ummf3avh4pa/bafkreif3bxbmgz7vcogmd3tflysyuwgzogoa67nvh6v2wduvnp4rdcz3ha"
+    },
+    "text": "It’s November already, which means it’s once again the start of the #30DayMapChallenge! After not participating for the last couple of years, I’m hoping to put together at least a few maps this time.…",
+    "postedAt": "2026-11-01T20:59:20.277Z",
+    "day": 1,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ns72r66rds454ummf3avh4pa/bafkreigfrnkugk5656ckfur7wypudkbp5cpjeqyqu3p7ktj63qjgyeb6sa",
+    "hash": "6c0d0f0f0f0e0e02"
+  },
+  {
+    "id": "bluesky:at://did:plc:5s24ulxt7szxmr2utxwed5ta/app.bsky.feed.post/3mzbhk4q6222v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/aftp.bsky.social/post/3mzbhk4q6222v",
+    "author": {
+      "name": "Antoine Peris",
+      "handle": "@aftp.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5s24ulxt7szxmr2utxwed5ta/bafkreie3grvy7hwxwi4jbivam7vbyjh2bw7rpdxn756y3bify3hzjp46aa"
+    },
+    "text": "#30DayMapChallenge Day 1 - Points Coliving accommodations in Marseille. Today, Marseille marched for victims of past building collapses and for dignified housing. The recent growth of coliving in the…",
+    "postedAt": "2026-11-01T18:41:21.389Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5s24ulxt7szxmr2utxwed5ta/bafkreifputdcrhbr6gwxdmbc4p6qaluwpr72xywy2cgwakemrhi2zqro7i",
+    "hash": "480a09cd8e828a0c"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3mzbfaqerak2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3mzbfaqerak2z",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 1: Points 📍 I built an interactive map showing the live locations of satellites using CelesTrak's dataset, along with their orbital paths. See it live or read more: mapricot.c…",
+    "postedAt": "2026-11-01T18:00:18.978Z",
+    "day": 1,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreibh3apwywdwtei36hcwynoufu7w6uhtmuu433m77ihvi3jlf4rqfq",
+    "hash": "cccc868686860e09"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzbeuzf5ws2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:yfnobzoj6stytscno32m6cge/post/3mzbeuzf5ws2n",
+    "author": {
+      "name": "Hemed",
+      "handle": "@725hemeed.bsky.social",
+      "avatar": "https://cdn.fosstodon.org/cache/accounts/avatars/115/430/701/984/923/748/original/9589cf20f98b011e.jpeg"
+    },
+    "text": "🌍 Africa’s Cities — Bonus Map 🗺️ From the Nile to the Atlantic coast, points reveal Africa’s urban patterns. Circles show Natural Earth metropolitan population estimates, with mixed reference years…",
+    "postedAt": "2026-11-01T17:53:45.764Z",
+    "day": 1,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/725hemeed.bsky.social/post/3mzbeuzf5ws2n"
+      },
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@Hemed725/117542489445203281"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzbeuzf5ws2n",
+      "mastodon:https://mastodon.social/users/Hemed725/statuses/117542489445203281"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yfnobzoj6stytscno32m6cge/bafkreig2fbrtzm7i4rslc4st7j6qshka256wgioojiroxyvayrw4cv6scy",
+    "hash": "5e1d35130747651e"
+  },
+  {
+    "id": "mastodon:https://subdued.social/users/alan/statuses/117542398098022491",
+    "platform": "mastodon",
+    "url": "https://subdued.social/@alan/117542398098022491",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan@subdued.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/627/775/480/222/382/original/4e41924fd533257c.jpeg"
+    },
+    "text": "Today Seattle fell back an hour. Vancouver didn't. So now you drive 200 km north (and a bit west) from Seattle and set your watch an hour *ahead*, as if you'd gone east. I was curious if this happens…",
+    "postedAt": "2026-11-01T17:37:38.000Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 4,
+    "source": "feed",
+    "image": "https://cdn.masto.host/subduedsocial/media_attachments/files/117/542/376/807/619/585/small/72a6dbbd454d5ff9.jpg",
+    "hash": "a180b292dadaf2e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3mzbdh7yfyx2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3mzbdh7yfyx2y",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 1 of #30DayMapChallenge · Points 1,190 caches There's more behind it on the page. #geocaching #GIS brooksgroves.com/30DayMapChallenge/2026/share/day-01.html",
+    "postedAt": "2026-11-01T17:28:09.116Z",
+    "day": 1,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreif75kalf4zo4wun2vdujcg3qexx77ucewhttgpc43pk5hik2j4zo4",
+    "hash": "808a8e0e0e8a8ccc"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3mzbbzzjsn32n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3mzbbzzjsn32n",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 1 — Points 📍 Mapboxer James Piacentini created Third Places NYC, an interactive map built with Mapbox GL JS and deck.gl that helps New Yorkers discover the cafés, parks, libra…",
+    "postedAt": "2026-11-01T17:02:52.285Z",
+    "day": 1,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Am6ycobnhtarpiehfqpd4kszr/bafkreibiszaze5zl3nsaaveqpzc5zeub7ht3zgmz2b5tt4stst3daiqnm4/thumbnail.jpg",
+    "hash": "000000000000204f"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3mzbb2x3uwc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3mzbb2x3uwc2e",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 1 | Points This map shows the economic realities faced by younger generations—where they can afford a home and where they can afford to start a family—and by older generations…",
+    "postedAt": "2026-11-01T16:45:29.714Z",
+    "day": 1,
+    "color": "#082848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiffufnla5z4cioo4drajzmnyqy6em2t7yhzvn3q2li4zx5h4xahoe",
+    "hash": "ca65c14787d641cb"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzb6mtjsac27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzb6mtjsac27",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 305 of #365DaysOfMaps. November 1st is National Vinegar Day. No need to be sour. #30DayMapChallenge day 1 tie-in: points. A World of Vinegar (305/365) mapdesign.icaci.org/2026/11/nati...",
+    "postedAt": "2026-11-01T16:01:48.737Z",
+    "day": 1,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreia3yftiipup44uldkm7ephzwmfoofi7ttzy2atb3b56ynqg3e2ndu",
+    "hash": "702723071d1b6d69"
+  },
+  {
+    "id": "bluesky:at://did:plc:qrkikjfpm3nsf554z4bmwbgp/app.bsky.feed.post/3mzb5kbyg2s2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/marineregions.bsky.social/post/3mzb5kbyg2s2x",
+    "author": {
+      "name": "Marine Regions",
+      "handle": "@marineregions.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qrkikjfpm3nsf554z4bmwbgp/bafkreid7dxxlatsxm4prwcamfqzpcrlryrom5xurshd5l7vqw2kus262hy"
+    },
+    "text": "#30DayMapChallenge - Day 1: Points It's tiiiiime ✨ Happy #30DayMapChallenge! Connect the dots of our maritime boundaries and feel like a true Marine Regions team member 💪 Disclaimer: may cause a lac…",
+    "postedAt": "2026-11-01T15:42:29.501Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qrkikjfpm3nsf554z4bmwbgp/bafkreie2pqc53cub5e32flrtokhu5lhtdlzlzokt5htomf6a7diwpk7pzm",
+    "hash": "c49b88c72f1c797d"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117509382044663033/statuses/117541896202647616",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@walkably/117541896202647616",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably@en.osm.town",
+      "avatar": "https://cdn.masto.host/enosmtown/accounts/avatars/117/509/382/044/663/033/original/d25740900ad7a468.png"
+    },
+    "text": "Day 1, Points: the places of eight daily needs within 400 m of Yppenplatz in Vienna, in a straight line. Each need has its own colour: groceries, food and drink, shops, health, school, parks, culture…",
+    "postedAt": "2026-11-01T15:30:00.163Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/walkably.org/post/65hdigd43syiv"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/65hdigd43syiv"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/511/938/459/088/961/small/2851b8235f9aa8b0.png",
+    "hash": "8267783c743434b8"
+  },
+  {
+    "id": "bluesky:at://did:plc:dunzzrcjelu2h2wfg4u6p2jv/app.bsky.feed.post/3mzb4sy7ffk25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/oatflakelab.bsky.social/post/3mzb4sy7ffk25",
+    "author": {
+      "name": "Oatflake Lab",
+      "handle": "@oatflakelab.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dunzzrcjelu2h2wfg4u6p2jv/bafkreiabyljzakdliaucg57sctbgh5uhtyfbd6vkww73t3qo4h5lusuzby"
+    },
+    "text": "Day 1, Points: seven Indian cities at one scale. Purple dots are where people live, blue dots are metro and rail stations. Next we let a simulated slime mould, fed only where people live, grow its ow…",
+    "postedAt": "2026-11-01T15:29:27.493Z",
+    "day": 1,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dunzzrcjelu2h2wfg4u6p2jv/bafkreic7c4l45ezcjsmom422ase34pi5ytf2d7xbndg57dajktz6knvuyi",
+    "hash": "5c4c29250655553a"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3mzb37tsnbf27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3mzb37tsnbf27",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 1/30 · Points 🌳 A tree can be right outside your window and still be missing from the map. Cluj's trees leaf out at the pace people mapped them: 5,881 so far. Inspired by Craig Taylo…",
+    "postedAt": "2026-11-01T15:00:51.406Z",
+    "day": 1,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117546067206567358"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreib2bw3itlcgatgr75m6vgtdauleluijnrfzpybon4jcmxhpkt67c4/thumbnail.jpg",
+    "hash": "26268f0f1f5a563a"
+  },
+  {
+    "id": "bluesky:at://did:plc:xqzh4fw7ayszaqf42lqhdih2/app.bsky.feed.post/3mzb37a42ss2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latitude-explorer.com/post/3mzb37a42ss2q",
+    "author": {
+      "name": "Latitude Explorer",
+      "handle": "@latitude-explorer.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xqzh4fw7ayszaqf42lqhdih2/bafkreiattlczg6hquzvzxjhquudgsmnaavtqfx7ayzpxqyg4f5iesemelm"
+    },
+    "text": "No 5mi (8km) band of latitude holds more big cities than this one at 33°36′N: Casablanca, Rawalpindi, Huai'an, Suzhou, Fukuoka, and Luohe, each over a million people. Widen the band to 25 mi and Phoe…",
+    "postedAt": "2026-11-01T15:00:30.941Z",
+    "day": 1,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xqzh4fw7ayszaqf42lqhdih2/bafkreiduuuek2tofmvb337mygnvikayy5zybeeqcmjabe4vcnjka7nly2u",
+    "hash": "1217978d5d6f6949"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3mzaykjuofo2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3mzaykjuofo2o",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "#30DayMapChallenge is here! My theme for this year is transport in Uppsala. Day 1, Points Uppsala C has 1736 departures, Skolgatan 741 and Vaksala torg 636. The median stop has 111 Code: https://gith…",
+    "postedAt": "2026-11-01T14:13:06.901Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreiedvzfk6gbjnh54hrr377xsv5pmpmfhu354h3rfoyc37xtzgqyegi",
+    "hash": "e0e83470e0e06471"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzawwgnuuc2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzawwgnuuc2p",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 1: Points The Great Lakes as a constellation-with the actual names of the lakes not the stupid names that were quickly adopted by the spineless tech bros at Apple and Google",
+    "postedAt": "2026-11-01T13:44:00.860Z",
+    "day": 1,
+    "color": "#080848",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117541478010400143"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreifzmrxnhpp3rxftvygzrrkmmgeeqldjqf7wrtpimukzlbkq34u6am",
+    "hash": "a620302c3b24008b"
+  },
+  {
+    "id": "bluesky:at://did:plc:fzrvpyqvd3xtzjnaevlqlyfq/app.bsky.feed.post/3mzaw6dedc22j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/sarahbell.bsky.social/post/3mzaw6dedc22j",
+    "author": {
+      "name": "Sarah Bell",
+      "handle": "@sarahbell.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreicc5uendj3rtjisnwkikvpdnv3lnow4cuwu2335hvxrzdzpmjbs3u"
+    },
+    "text": "#30DayMapChallenge Day 1: Points. Active lighthouses along the west coast of the contiguous US. Map created with ArcGIS Pro, Maps for Adobe, Adobe Illustrator and Photoshop",
+    "postedAt": "2026-11-01T13:30:32.089Z",
+    "day": 1,
+    "color": "#080808",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreie5wxf23jxqik5dypa4g4zm4iyvbfhswu6ncrobn27sfcyhtoql7e",
+    "hash": "1fff3717787f4f40"
+  },
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3mzavv2alak2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3mzavv2alak2e",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 1: Points 📍 Christaller's Central Place Theory, Geography 101 style, mapped around Indianapolis: one 🏦 metro, a ring of 🛍️ regional cities, and a lattice of 🛒 county seats…",
+    "postedAt": "2026-11-01T13:25:20.544Z",
+    "day": 1,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreidejkftbv3rrkou3y52u7462vshv3soi4nyp3vzoyif73izcoy6xq",
+    "hash": "0e9693333313160f"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzavj5oiys2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3mzavj5oiys2g",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge | Day 1 Points | Fall Foliage: Street Trees Madison hit a milestone of 100,000 street trees in May of last year, and the city began planting about 1,000 more this fall.",
+    "postedAt": "2026-11-01T13:18:41.482Z",
+    "day": 1,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3mzavj5oiys2g"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzavj5oiys2g"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreieru7nkr4z52p6exbsi6v3zllzfqey45z22ttwk7tvwfsjyvzz5om",
+    "hash": "8d1b32e0e6262430"
+  },
+  {
+    "id": "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3mzaug7sxkc2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/seav4f.bsky.social/post/3mzaug7sxkc2u",
+    "author": {
+      "name": "Eugene Alvin Villar",
+      "handle": "@seav4f.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uazuy62cckhrybqum2bwqhuz/bafkreidbpdbwj3lxa66ct3pfwypjmwonvguqshpyrwhop5tf7vwr3jlpaq"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 1️⃣: Points ⏺️ Oh boy, another year of daily mapmaking! For Day 1, I decided to create a map of the extant airports of the 🇵🇭 #Philippines that have either an IATA or ICA…",
+    "postedAt": "2026-11-01T12:59:09.327Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@seav/117541303793162420"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/users/seav/statuses/117541303793162420"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uazuy62cckhrybqum2bwqhuz/bafkreicdtfqwlkkvetdo56v4jxl4r5qx6ntli5rwfg2wj5ymx4elbaqww4",
+    "hash": "88181818bc2e2e0a"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3mzapg5sswk2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3mzapg5sswk2u",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 1 · Points The Catskills in pure-pigment dots, Seurat-style. Your eye does all the colour mixing. Up close it's confetti; from across the room it's mountains. QGIS + Python (NumPy, GDAL) + ffmpeg…",
+    "postedAt": "2026-11-01T11:29:38.522Z",
+    "day": 1,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreie4rnvy5cqcespjnvq5iw3fgqtsz22ezk3edhtpo4ryv577hafbke/thumbnail.jpg",
+    "hash": "8e0f23072b238621"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzanojw3p223",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzanojw3p223",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Drinking fountains are an essential part of heat preparedness in the city. At these public locations, you can refill your water bottles for free. Throughout the Cologne metropolitan area, you will fi…",
+    "postedAt": "2026-11-01T10:58:32.163Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreibpfc7r4bc5okffbofqgay4wxbbwevjw7cpsigzti3nfgv6xbgwne",
+    "hash": "c4c6c6e1f0f0b4c4"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3mzamtiqjnny2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3mzamtiqjnny2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 1: Points 💧 Qanat, falaj, foggara, khettara, karez, puquio: one idea, many names. Hand-dug tunnels that bring groundwater to the surface by gravity, from Hili 15 in Al Ain (~1…",
+    "postedAt": "2026-11-01T10:43:19.000Z",
+    "day": 1,
+    "color": "#e8c8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117540768946942516"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreic6xa4j5jyxenjznhf7utecthaafnvjy34ydiysop2xc7x55v3vcy",
+    "hash": "aa1f3e988ccce02e"
+  },
+  {
+    "id": "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117540611016094363",
+    "platform": "mastodon",
+    "url": "https://social.numerique.gouv.fr/@ignfrance/117540611016094363",
+    "author": {
+      "name": "IGN France",
+      "handle": "@ignfrance@social.numerique.gouv.fr",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/301/799/901/104/098/original/d3cddda1a14a08e3.jpg"
+    },
+    "text": "Le point commun entre ces îles ? C’est leur relief ! C’est le parti pris de cette première création qui inaugure la participation de nos agents au #30DayMapChallenge. Toutes les cartes https://www.ig…",
+    "postedAt": "2026-11-01T10:03:09.000Z",
+    "day": 1,
+    "color": "#e8e8d8",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://social.numerique.gouv.fr/system/media_attachments/files/117/540/608/899/394/815/small/1f1aef7c6ba33489.png",
+    "hash": "861e62e3c41c9e03"
+  },
+  {
+    "id": "bluesky:at://did:plc:7jiwstnfx6jv6v6rxdgerkji/app.bsky.feed.post/3mzab2oja7s2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/pocketswitzerland.bsky.social/post/3mzab2oja7s2u",
+    "author": {
+      "name": "Pocket Switzerland",
+      "handle": "@pocketswitzerland.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7jiwstnfx6jv6v6rxdgerkji/bafkreigi66xtckofqaf6qsv737wwsa6c4tmpcsowrwpy3ezdsvzkncwdeq"
+    },
+    "text": "#30DayMapChallenge Day 1 · Points A full turn over the Bernese Alps, then up until Switzerland shows its points: 63 destinations, 160 sites. Dusk falls on Interlaken, and we fly on to the Valais. Ter…",
+    "postedAt": "2026-11-01T07:12:40.996Z",
+    "day": 1,
+    "color": "#c8d8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@pocketswitzerland/117539981804211215"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117178011293714910/statuses/117539981804211215"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A7jiwstnfx6jv6v6rxdgerkji/bafkreigp3gn5bc2f6ybkqhb7upouukgqge27fmap3e3u7e6vuxmb6gte4u/thumbnail.jpg",
+    "hash": "b29c9ba74e4f4f1e"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzaa3gkgjj2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzaa3gkgjj2t",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 1 - Points Japan Autumn à la Van Gogh 👨‍🎨 15.8M point brushstrokes, guided by the terrain and colored by vegetation. Made in #QGIS, powered by #Kumoy app.kumoy.io/public/map/…",
+    "postedAt": "2026-11-01T06:55:12.242Z",
+    "day": 1,
+    "color": "#b8b8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117539872178539970"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117539872178539970"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreibppkttrnxyi6am53fccpbyabffgfhmeagmgrlrgtf4x4mwa4qe2q/thumbnail.jpg",
+    "hash": "c5fcfcfcfcf8f0f4"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3mz7ovtf3jc2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3mz7ovtf3jc2j",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 1: POINTS - WASTE BASKETS IN LISBON - All 18541 of them. They are called \"papeleiras\", or paper bins but are generally used for ordinary rubbish. Paper meant for recycling is c…",
+    "postedAt": "2026-11-01T01:47:50.972Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117538644414823756"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreibjgo5vvujh3g6kvgxf43meyi5jeo435yr47qt4cjjf3m7rk5rdmi",
+    "hash": "19991a341c1c1803"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3mz7iqsazd22u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3mz7iqsazd22u",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "#30daymapchallenge Day 1: Points. This one goes back to early October, when I looked at an online map of regions more than 100km from the coast and thought \"that is not correct for NZ\". My initial st…",
+    "postedAt": "2026-10-31T23:57:39.568Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreiek7grmithixoctswj7dhvi2b4nt53o3ssy2otlbaiubyqv2m33yq",
+    "hash": "e810181830206040"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3mz7g74nldk2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3mz7g74nldk2g",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "🎨 Pointillist landscapes mapped! 🎨 #30DayMapChallenge Day 1: Points 'Pointillism' initiated by Georges Seurat + Paul Signac Some key pointillist landscapes georef > #GIS mapped w#GeoGallery 🔗https…",
+    "postedAt": "2026-10-31T23:11:59.006Z",
+    "day": 1,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreia3mcq5hwq2g6y5zruez55y7l4uoxv7jiyp7yaetnusca3s427nwm/thumbnail.jpg",
+    "hash": "60c20a49f4b63633"
+  }
+]

@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwfrn2g2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwfrn2g2p",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters How many buildings over 200 ft tall are in each U.S. metro? NYC > Miami > Dallas > Chicago > L.A. lead. Data: FAA Digital Obstacle File + Census MSAs. Tallest in ea…",
+    "postedAt": "2026-11-18T15:50:21.169Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifcik5v2gcn6p7yywbsteoyfy467sdlqxm44o4fharsa6ahvh63zy",
+    "hash": "9a892bb36c6c6c63"
+  },
+  {
+    "id": "bluesky:at://did:plc:6g5ixjkahesst7wcfujtzy7a/app.bsky.feed.post/3mzt7w56krc2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rajodm.bsky.social/post/3mzt7w56krc2r",
+    "author": {
+      "name": "Rajo",
+      "handle": "@rajodm.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6g5ixjkahesst7wcfujtzy7a/bafkreiecoh3cmcjyraiiou77xg5ymw767gkey3s73jandt56f77tfk7fce"
+    },
+    "text": "Trying to catch up, #30DayMapChallenge Day 4: Clusters Where Tasmanian devils die on the road. #dataviz #rstats #ggplot2",
+    "postedAt": "2026-11-08T20:12:49.867Z",
+    "day": 4,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6g5ixjkahesst7wcfujtzy7a/bafkreihbdrpbeubcphrargdtwh4dd5ga6ba7utgq2luykltdm4norj5o5e",
+    "hash": "157555272103054f"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3mzo23dgewk2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3mzo23dgewk2r",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "Day 4 of #30DayMapChallenge: Clusters 🏰 France protects over 6,000 châteaux, fortresses and palaces as historic monuments. Each hexagon covers ~30 km. The darker the color, the more castles it holds…",
+    "postedAt": "2026-11-06T18:45:03.059Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreif5dser663boq3mnauockmshjv5mw6mqqungikz6l2buwywpc7zdm",
+    "hash": "8c9cb83a9c9e98cc"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:7ebnmsusl3r2uuaf24igiazh/app.bsky.feed.post/3mzn7mjbcbs2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:7ebnmsusl3r2uuaf24igiazh/post/3mzn7mjbcbs2r",
+    "author": {
+      "name": "Guillaume Noblet",
+      "handle": "@gnoblet.eurosky.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/114/261/874/505/266/330/original/1d23c1c8a79f6891.jpeg"
+    },
+    "text": "#Day04 is Retro vintage at #30DayMapChallenge. Sarthe department lost half is railways and all of its tramways since 1947. #rstats #ggplot2 #dataviz #map #geo Link to code below.",
+    "postedAt": "2026-11-06T10:51:28.484Z",
+    "day": 4,
+    "image": "https://eurosky.social/xrpc/com.atproto.sync.getBlob?did=did:plc:7ebnmsusl3r2uuaf24igiazh&cid=bafkreihgv7avfjnfaigxwehxmsqokqd5vb5jfs6r52nmy4wquzcit3cwqy",
+    "color": "#e8d8b8",
+    "hash": "84d0b6f4d0e0d8d8",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3mzmelh74i323",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3mzmelh74i323",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 04 · Clusters I’m not a huge basketball fan, but it’s hard not to get caught up in the playoffs. The Valkyries' made shots clustered in the paint and beyond the arc, as you’d e…",
+    "postedAt": "2026-11-06T02:47:33.000Z",
+    "day": 4,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreihda43gbapkvzlmlvkqcrmx4bqhd4en6ifoz25dmtol5p3zyh2jwi",
+    "hash": "84906028a862380c"
+  },
+  {
+    "id": "bluesky:at://did:plc:dunzzrcjelu2h2wfg4u6p2jv/app.bsky.feed.post/3mzlfcqdxd22j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/oatflakelab.bsky.social/post/3mzlfcqdxd22j",
+    "author": {
+      "name": "Oatflake Lab",
+      "handle": "@oatflakelab.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dunzzrcjelu2h2wfg4u6p2jv/bafkreiabyljzakdliaucg57sctbgh5uhtyfbd6vkww73t3qo4h5lusuzby"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters Each dot is an Indian post office. Of the 975 with a word ending in -halli, 849 are in Karnataka. Of the 1,306 ending in -patti, 1,136 are in Tamil Nadu. Made by an…",
+    "postedAt": "2026-11-05T17:28:03.443Z",
+    "day": 4,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dunzzrcjelu2h2wfg4u6p2jv/bafkreicjmnmjwedvo74cleeniujwbagwvbomnhkqoznearvr6ng3dclliy",
+    "hash": "5e5eb03e2e389847"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3mzkvmx6heq2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3mzkvmx6heq2w",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 4: Clusters. Seoul. 194 photographed places in 500 m hexagons. Selected area, not total city coverage. Photos: eneerhut, CC BY 4.0. Map: © OpenStreetMap contributors. fotoshi.com/explore #30DayMa…",
+    "postedAt": "2026-11-05T12:47:24.464Z",
+    "day": 4,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117563908096435508"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117563908096435508"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreihxaeukdv232aytnib4tu4xroat36brnbaklkzadhqtsnrn5ep7uy",
+    "hash": "6056024c52e16369"
+  },
+  {
+    "id": "bluesky:at://did:plc:2hvjmbw263gctmvb25tove5c/app.bsky.feed.post/3mzkbpuecs22r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/deepalikank.in/post/3mzkbpuecs22r",
+    "author": {
+      "name": "🪔Deepali Kank🪔",
+      "handle": "@deepalikank.in",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2hvjmbw263gctmvb25tove5c/bafkreigo6cxqq6bvjzhsg5ef2hgp6fhzlmyfp37comg6b4ecwrcxilfw2i"
+    },
+    "text": "#TidyTuesday week 44 - Grambank #30DayMapChallenge Day 4 - Clusters #Rstats #DataViz #Languages",
+    "postedAt": "2026-11-05T06:51:09.149Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2hvjmbw263gctmvb25tove5c/bafkreia2qhfilsvwn4m5hiz5mfioudvoqi23fgma3r2c52pan47jt4ayh4",
+    "hash": "a8d8542ad0e2cec8"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3mzk5xvbj7c2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3mzk5xvbj7c2u",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 4 · Clusters: Café constellations Downtown Vancouver's cafés drawn as a night sky, the way a stargazing app would show it. Every star is a café, Tim Hortons shine brig…",
+    "postedAt": "2026-11-05T05:44:03.576Z",
+    "day": 4,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreic6cat3i5ftw75ni5nqev7brmdium77n3cxfkpllgg6t62v4qerdq",
+    "hash": "2fafa3a70a1d2973"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3mzjq3qx3dc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3mzjq3qx3dc2e",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 4: CLUSTERS - CHARGING THE ELECTRIC MOBILITY - Electric charging stations located inside the Lisbon municipality, clustered according to the number of vehicles able to charge a…",
+    "postedAt": "2026-11-05T01:35:40.870Z",
+    "day": 4,
+    "color": "#381838",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117561259070453913"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreih7a6ppm223hhkfopd5an7ft3uudqxjly5ddeb5twvwh6mk54k3fm",
+    "hash": "6265e5cde3e7eff8"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117561167333606663",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117561167333606663",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters What do Ukrainian place names end with? West: -ів, -ці. North: -ичі. East & south: -ське, -е. I sorted ~30k OSM place names by ending and found clusters (DBSCAN). D…",
+    "postedAt": "2026-11-05T01:10:54.291Z",
+    "day": 4,
+    "color": "#182848",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3mzjoq4t4hs2c"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3mzjoq4t4hs2c"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/561/165/768/889/565/small/26e3b30de7a1134b.png",
+    "hash": "5d49db0d69656d78"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117560735777764051",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117560735777764051",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day04: Clusters Traffic accidents are an unfortunate reality of urban life. In 2025, a total of 1,174 collisions between cyclists and cars were recorded within the city limits of H…",
+    "postedAt": "2026-11-04T23:21:09.274Z",
+    "day": 4,
+    "color": "#484848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/560/729/825/100/624/small/52c936d8db03eaaa.png",
+    "hash": "46870e0f191d7779"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3mzjb7lkqd22j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3mzjb7lkqd22j",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 4: Clusters. Here I'm showing the spatial footprint of QuickChek c-stores across the decades starting from 1970 to future stores! #ggplot #rstats",
+    "postedAt": "2026-11-04T21:09:23.316Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreiccpir2u46cdcxvobj6hiacdj4s4ocjopuoflxu3kxhkbuwehgqoq",
+    "hash": "3032323232323230"
+  },
+  {
+    "id": "bluesky:at://did:plc:k7rq5xax44qrrsa5svqtd4t7/app.bsky.feed.post/3mzjavozvbk2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/walterra.dev/post/3mzjavozvbk2v",
+    "author": {
+      "name": "Walter M. Rafelsberger",
+      "handle": "@walterra.dev",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k7rq5xax44qrrsa5svqtd4t7/bafkreichjc4mbwsxxdmvc7dlmlpki2jqrwlryontyz46h6mcmpziw3nehu"
+    },
+    "text": "#30DayMapChallenge Day 4 - Clusters This one maps travel destinations by country of origin. Each bubble represents the overnight stays of residents from one country in that destination. Blog post wit…",
+    "postedAt": "2026-11-04T21:03:51.414Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://indieweb.social/ap/users/116036481148665801/statuses/117560222206874244"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ak7rq5xax44qrrsa5svqtd4t7/bafkreif752zgkgjdcbq774n5mhuunbbwuedgtsgqhjokedc5rle3qvdcb4/thumbnail.jpg",
+    "hash": "24e692b2b2a4c198"
+  },
+  {
+    "id": "bluesky:at://did:plc:td2azo5v5udhxmkydsliillx/app.bsky.feed.post/3mzj7b2crys2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cga-harvard.bsky.social/post/3mzj7b2crys2y",
+    "author": {
+      "name": "Center for Geographic Analysis @ Harvard",
+      "handle": "@cga-harvard.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:td2azo5v5udhxmkydsliillx/bafkreifcsmljsttv2ual6knycr2c5rgiaukzwxqbrw7zobyv6qdpmjbg2a"
+    },
+    "text": "And Day 4 (clusters) of the #30DayMapChallenge! This CGA team contribution is from visiting PhD student, Jaiany Rocha—clusters of over 2300 waypoints to show the state's diverse tourism hubs, from Gr…",
+    "postedAt": "2026-11-04T20:34:24.814Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:td2azo5v5udhxmkydsliillx/bafkreihi7luegvg7wj4ihg7xaglrzvsar2t7fav3g7m25i52e6cxz26bja",
+    "hash": "e8dc88a46c8ab686"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzj6vmf32s2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:yfnobzoj6stytscno32m6cge/post/3mzj6vmf32s2k",
+    "author": {
+      "name": "Hemed",
+      "handle": "@725hemeed.bsky.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/115/439/660/728/843/456/original/0460df2d7865e5e6.jpeg"
+    },
+    "text": "#30DayMapChallenge Day 04: Clusters 🇹🇿 Where do schools & hospitals cluster? Explore 24,544 school and 1,217 hospital objects in OSM. Zoom from heatmaps to individual points. Explore the map 🔗:htt…",
+    "postedAt": "2026-11-04T20:28:01.151Z",
+    "day": 4,
+    "color": "#282838",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/725hemeed.bsky.social/post/3mzj6vmf32s2k"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzj6vmf32s2k"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ayfnobzoj6stytscno32m6cge/bafkreiau2umffoiwmye3l3ybjwsh7v6t5fmq4k635krcfxixftltbv732e/thumbnail.jpg",
+    "hash": "e6e6e6663c349a9b"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3mzj5va3eb22f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3mzj5va3eb22f",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Clusters of disappointment! Seven of them, to be precise. My contribution to Day 4 (clusters) of the #30DayMapChallenge. Thank you for your attention to this matter.",
+    "postedAt": "2026-11-04T20:09:54.492Z",
+    "day": 4,
+    "color": "#b8b8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreieuyo6brbt7q4foaoy2g535n2igu54asqsifeoimkbk3muiwzjk64",
+    "hash": "889c7c1536161322"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzj4pbf7js23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzj4pbf7js23",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 4: Clusters #30DayMapChallenge Buenos Aires has a Coffee Belt: 70% of its cafés sit in 16% of the city. Back in the 2010s, there was a burger shop boom in Buenos Aires. In the 2020s, it's all abo…",
+    "postedAt": "2026-11-04T19:48:40.805Z",
+    "day": 4,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreiavcrbpb6qiv5a5wk24ftxdy7sdqbwd2dayap4l6p4cwkh6gbuqe4",
+    "hash": "d0f2d2c2f8fcde94"
+  },
+  {
+    "id": "bluesky:at://did:plc:qm7cpwn6wbrids6k4j3gjtug/app.bsky.feed.post/3mzizimz6ec2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/daveatcogs.bsky.social/post/3mzizimz6ec2d",
+    "author": {
+      "name": "Dave MacLean",
+      "handle": "@daveatcogs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qm7cpwn6wbrids6k4j3gjtug/bafkreig7nyhwnr25q47tbks3okuamnhkszgejhaksyovdrwxgtlzsds54u"
+    },
+    "text": "For Day 4 - topic: clusters - for the #30DayMapChallenge for 2026, here is an interactive map with over 10 600 photographs taken by astronauts and cosmonauts of #Earth. www.arcgis.com/apps/instant...",
+    "postedAt": "2026-11-04T18:51:16.893Z",
+    "day": 4,
+    "color": "#383838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qm7cpwn6wbrids6k4j3gjtug/bafkreifg6xskjng4kk3zna6xxjrijvjxuxtoszp3t3ui2j5qgdzkrt65j4",
+    "hash": "633b43b755db56cf"
+  },
+  {
+    "id": "mastodon:https://vis.social/ap/users/117072417730931523/statuses/117559565876124005",
+    "platform": "mastodon",
+    "url": "https://vis.social/@visben/117559565876124005",
+    "author": {
+      "name": "Benjamin Niedermann",
+      "handle": "@visben@vis.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/117/072/993/396/932/407/original/472053638993ab14.png"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters Where do planes fly over London, and how low? The map shows the arrivals and departures of London's airports on two summer days. Choose a band of altitudes and a ti…",
+    "postedAt": "2026-11-04T18:23:37.000Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/visben.bsky.social/post/3mziy6nz5ws2b"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:olyhtg4yyp5y6mvimhbvjse5/app.bsky.feed.post/3mziy6nz5ws2b"
+    ],
+    "image": "https://cdn.masto.host/vissocial/media_attachments/files/117/559/522/287/266/543/small/ce4696954f9f8aaf.png",
+    "hash": "874969492b278999"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3mzixmzirfc2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3mzixmzirfc2m",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "Missing Halloween yet? For the #30DayMapChallenge Day 4: \"Clusters\", we have Kelsey Taylor's map of candy clusters! 🍬 See each state's most popular Halloween candy, hover a state for details, or pic…",
+    "postedAt": "2026-11-04T18:17:56.717Z",
+    "day": 4,
+    "color": "#f8d8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3mzixmzirfc2m"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3mzixmzirfc2m",
+      "mastodon:https://vis.social/users/stamen/statuses/117559518723070101"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreihdya6gajcdb5kvx6trsq3hdi4yrfzs5z3wx3mp6mpdnezmdmtijq",
+    "hash": "54d9437978c869a9"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3mzixk7vihk2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3mzixk7vihk2o",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "✨ Day 4/30: Clusters | Where Ideas Cluster For today's #30DayMapChallenge, I've expanded my evolving map to 29 technology landmarks, using featureReduction in the ArcGIS Maps SDK for JavaScript to gr…",
+    "postedAt": "2026-11-04T18:16:22.766Z",
+    "day": 4,
+    "color": "#787878",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreig7vspzpsrjej6dgzcc7jn67neebwmds5q2tsavutvbtkjsa2tewe/thumbnail.jpg",
+    "hash": "160e058783079793"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3mziwwv3alk2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3mziwwv3alk2n",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "The election news coincides nicely with #30DayMapChallenge Day 4: Clusters. It's often said \"land doesn't vote\" as a response to a common misinterpretation of election maps that color whole areas by…",
+    "postedAt": "2026-11-04T18:05:33.886Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Arnmpt77vf3pxrd4zb57nwkga/bafkreia3utakpomsvg7sxulburos4oqlmlrxjmrjjbwye7vvukbxb5gsne/thumbnail.jpg",
+    "hash": "188434303020300c"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3mzitlwyt3a2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3mzitlwyt3a2d",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 4 — Clusters 🚲 Where can you find a place to park your bike? RackFinder turns crowdsourced OpenStreetMap (OSM) data into an interactive map of bicycle racks, built with Mapbox.",
+    "postedAt": "2026-11-04T17:05:43.672Z",
+    "day": 4,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreid5bd5kfgfdkpgeekmxu5w6nonx4rbnkr7z5jnizohejlc6pvt7eu",
+    "hash": "007d717975756580"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzit4zvwik2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzit4zvwik2t",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "How the 86 districts of Cologne voted in the 2025 Federal Election More Green and Left in the center relatively, CDU and AfD perform relatively worse there. And there is one outlier with regards to C…",
+    "postedAt": "2026-11-04T16:57:25.313Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreic6dqvgjwlcsivo7tfinja5bc6bngqinismcj4y6ht5nbry6tbmqy",
+    "hash": "c0d2b0b292b492d2"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzis3oi4os26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzis3oi4os26",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 4 of the #30DayMapChallenge, and the prompt is 'clusters'. In 1944 Londoners thought V1s were aimed precisely. Germany's boffins weren't as genius as all that. But I would venture the London Coun…",
+    "postedAt": "2026-11-04T16:38:46.024Z",
+    "day": 4,
+    "color": "#d8c8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreibdaraazjda3ivdg2fpcc6u4ceopirei74fhegrz74atnd5ri6gwy",
+    "hash": "333347a763a39b0b"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3mzirtoztx62g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3mzirtoztx62g",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 4 of #30DayMapChallenge, Clusters. The 113 bus trips that reach Uppsala Central Station between 07:30 and 08:00 on a Wednesday. Each route gets darker as the bus nears the station. Code: https://…",
+    "postedAt": "2026-11-04T16:34:14.288Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreicufjm4p7gdqbfddmt4kkcv6v7vsroecjp5uavd5vu7fbzllrzxye",
+    "hash": "c0d896f0f0b076d6"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep4v4qi2wmilctpshoehyde5/app.bsky.feed.post/3mziqchflcc2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/nuez.io/post/3mziqchflcc2i",
+    "author": {
+      "name": "Teun van Veggel",
+      "handle": "@nuez.io",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep4v4qi2wmilctpshoehyde5/bafkreice6e6oilbqxg36uavcteikus3zygxqrstydoeiqmodxrogheqo64"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters I prefer showing current-page and remaining markers, instead of clusters. All 1,271 UNESCO World Heritage Sites on one map, and no cluster bubbles. What do you thin…",
+    "postedAt": "2026-11-04T16:06:46.005Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aep4v4qi2wmilctpshoehyde5/bafkreiavhneuelhrk5d4efu467vzrsea2two46ji3eghup52vxz7czjhai/thumbnail.jpg",
+    "hash": "4979b93bb6b4b030"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzipxqwxlt2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzipxqwxlt2j",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 4 · Clusters. The Hawaiian Islands, a cluster built by a single hotspot: the Pacific plate drifts northwest over it, so the youngest island, Hawaiʻi, is also the biggest and still erupting. Data:…",
+    "postedAt": "2026-11-04T16:00:46.752Z",
+    "day": 4,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117559004327003127"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117559004327003127"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreifai4wfmsdo5cgpc4itoledzgblapyk5axzhm2m7e2nqgzzdyyzby",
+    "hash": "80514683010e0400"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3mzioaxknp22w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3mzioaxknp22w",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 4 of #30DayMapChallenge: Clusters. I coloured all 136,275 official lake names in Canada by their word for lake. Lac fills Quebec and stops at its border, and names in 68 Indigenous languages clus…",
+    "postedAt": "2026-11-04T15:30:08.351Z",
+    "day": 4,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreichbhakmaltz34osex2sq27sjot6wzmyzkitat4k7oqecevojmveu",
+    "hash": "757f3b594963637b"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117509382044663033/statuses/117558883340560633",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@walkably/117558883340560633",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/117/513/442/944/882/621/original/f92990bbe865b45a.png"
+    },
+    "text": "Day 4, Clusters: Vienna's high-scoring cells form one large cluster around Innere Stadt, with smaller ones in outer districts such as Favoriten, Floridsdorf and Donaustadt. Every scored six-sided cel…",
+    "postedAt": "2026-11-04T15:30:03.000Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/walkably.org/post/75bgsnypur7i6"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/75bgsnypur7i6"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/541/665/889/721/567/small/fd4cd63462fdaf4a.png",
+    "hash": "c0081c78b8b83099"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3mzinzk7hsc2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3mzinzk7hsc2g",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters 🟣 Pennsylvania’s Sheetz vs. Wawa rivalry: Sheetz (red) owns the west, Wawa (blue) the east. Each cluster blends the two by its mix of stores, so the front line tur…",
+    "postedAt": "2026-11-04T15:25:59.477Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreiembhsvn4mci7qy3lmaetykkd5qdouzhkfidgdhuqye22kmlgpl2a/thumbnail.jpg",
+    "hash": "882d1dd7cfdbbb7a"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3mzinvkjzgc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3mzinvkjzgc2e",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "🪦 La France compte 1 258 cimetières militaires étrangers. Cette carte non exhaustive montre les cimetières allemands et britanniques recensés dans la BD TOPO®. Toutes les cartes ign.fr/mag/30-daymap…",
+    "postedAt": "2026-11-04T15:23:45.567Z",
+    "day": 4,
+    "color": "#b89878",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://social.numerique.gouv.fr/@ignfrance/117558860421045567"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117558860421045567"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreig3favizphsftbzk5vrccofikpqgxjmwr76bjyvdp2q4nsmryyr6m",
+    "hash": "f238f8e4e4e4e233"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3mzimon6ejm2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3mzimon6ejm2x",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 4/30 · Clusters 🧭 4,734 places in Cluj-Napoca, Romania, gather into knots. 72% of residents reach 6 of 8 kinds of service in a 10-min walk (estimated). OpenStreetMap (ODbL), GHS-POP…",
+    "postedAt": "2026-11-04T15:01:59.548Z",
+    "day": 4,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117558769824481037"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreih7zn3rjb5uxrq3b7km5e5h5g6wenetcupelo4h34tuwhx45rhhjq/thumbnail.jpg",
+    "hash": "1207494a4e39a1a5"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3mzimime76k2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3mzimime76k2d",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters Is it 'a scope of birders'? A parliament? Or just a nest of birders?! storymaps.arcgis.com/stories/1d05...",
+    "postedAt": "2026-11-04T14:58:37.563Z",
+    "day": 4,
+    "color": "#686838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreiazwtyod6ikroi6kxzknwkxqallw2thk6xviuxtf26mefvfs3dvgm",
+    "hash": "171b190f5bd3d1a9"
+  },
+  {
+    "id": "bluesky:at://did:plc:rpi5p4dknmfdr4ala6n5n65o/app.bsky.feed.post/3mzilksngls23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/isroeaw.bsky.social/post/3mzilksngls23",
+    "author": {
+      "name": "Institut für Stadt- und Regionalforschung",
+      "handle": "@isroeaw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rpi5p4dknmfdr4ala6n5n65o/bafkreifsgyg4bpctcvrn3jnjwpp5qswzo5lqbfz5dplpfglhu3qd3bbkgm"
+    },
+    "text": "Day 4, Clusters: The synthetic Viennese population register — generated from the original using a Recurrent Neural Network to guarantee privacy for the individuals contained — reproduces the spatial…",
+    "postedAt": "2026-11-04T14:41:57.519Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rpi5p4dknmfdr4ala6n5n65o/bafkreiax2d47pipa5cj7n6jbk5hrsvmuoy7yaz5y47nhsyotxvocobijzq",
+    "hash": "62c0c2a464c0c0a0"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/Quarticle/statuses/117558669124107525",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@Quarticle/117558669124107525",
+    "author": {
+      "name": "Quarticle",
+      "handle": "@Quarticle@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/113/905/174/346/965/473/original/1bd2d1fea4bbc7f7.jpg"
+    },
+    "text": "Day 4 of #30DayMapChallenge: Clusters Mapping road traffic accidents in Germany (2024), with a closer look at Stuttgart. The clusters reveal where accidents are concentrated and how severity varies a…",
+    "postedAt": "2026-11-04T14:35:34.649Z",
+    "day": 4,
+    "image": "https://files.mastodon.social/media_attachments/files/117/558/659/443/985/605/small/153195d83d3e0719.jpg",
+    "color": "#f8f8f8",
+    "hash": "cc4c446890084460",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:5rymx2lm5by2tq2zz66cuqox/app.bsky.feed.post/3mziky6a63c2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:5rymx2lm5by2tq2zz66cuqox/post/3mziky6a63c2v",
+    "author": {
+      "name": "Tom watson",
+      "handle": "@tomcw.xyz",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/116/557/739/361/068/069/original/1e21ab4b742a5713.jpeg"
+    },
+    "text": "#30DayMapChallenge Day 4 - Clusters BOG MOSS. Yes. That's what I said. For day 4 I explored data about moss. This uses data from NBN Atlas and clusters recorded sightings of different species of moss",
+    "postedAt": "2026-11-04T14:31:32.132Z",
+    "day": 4,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/tomcw.xyz/post/3mziky6a63c2v"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/tom-c-watson.mastodon.social.ap.brid.gy/post/3mzil3hjgedi2"
+      },
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@Tom_c_watson/117558660305415700"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:5rymx2lm5by2tq2zz66cuqox/app.bsky.feed.post/3mziky6a63c2v",
+      "bluesky:at://did:plc:6eoyz7pbzsg5hqfiwimntd5g/app.bsky.feed.post/3mzil3hjgedi2",
+      "mastodon:https://mastodon.social/users/Tom_c_watson/statuses/117558660305415700"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rymx2lm5by2tq2zz66cuqox/bafkreie4m4rjvzkrvdm4eufanncep2iksjl5ajt47im42krmoy2gnzv2zu",
+    "hash": "828088c0b4b4c280"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3mzike7wv2i22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3mzike7wv2i22",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 4 of #30DayMapChallenge · Clusters Rainier's swarms There's more behind it on the page. #MountRainier #earthquakes brooksgroves.com/30DayMapChallenge/2026/share/day-04.html",
+    "postedAt": "2026-11-04T14:20:22.809Z",
+    "day": 4,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreic5kc27ha3wlckxruyiurqdak777lhch7eeip5fvszp3hdfteluxi",
+    "hash": "82e4e4e0ece42a8e"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117558577938430353",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117558577938430353",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "30 day map challenge day 4 - clusters. Fastest town to reach by public transport. Slightly depressing how perfectly this follows borders for the most part https://compute.olie.science/expo/?data=trav…",
+    "postedAt": "2026-11-04T14:12:23.000Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3mzijwkpfgad2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3mzijwkpfgad2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/558/528/600/159/531/small/9e5c2117a39df928.png",
+    "hash": "c2438291e561b139"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzii56ei3c2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzii56ei3c2z",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 4 - Clusters Plastic particle pollution clusters in Lake Ontario.",
+    "postedAt": "2026-11-04T13:40:38.821Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117558457793128723"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreif5wqzdoqsbq5yr6wgxtkopdqzvci4nz64m7edwiw6d24vmrlkk3a",
+    "hash": "00c40e6ee0c888e0"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/studiohaverstraat/statuses/117558437426494474",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@studiohaverstraat/117558437426494474",
+    "author": {
+      "name": "Anton van Tetering",
+      "handle": "@studiohaverstraat@mapstodon.space",
+      "avatar": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/accounts/avatars/109/335/895/797/941/543/original/2e386d409ad33327.jpg"
+    },
+    "text": "Day 4 of the 30 day mapchallenge: clusters. I used openstreetmap to explore the distribution of different types of summit names in Switzerland. #30DayMapChallenge #clusters #cartography #maps #switze…",
+    "postedAt": "2026-11-04T13:36:39.215Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "bluesky:at://did:plc:rrwqd4t2hvmpcgngnrei5vz3/app.bsky.feed.post/3mzihoyvkhs2y"
+    ],
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/558/435/928/428/633/small/4ab255a76f2c139a.jpg",
+    "hash": "98386cd8fae2e9c8"
+  },
+  {
+    "id": "bluesky:at://did:plc:ca2lu4tjmgi2vod3hvztwxxv/app.bsky.feed.post/3mzihnj6n5c2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hfxshippingnews.bsky.social/post/3mzihnj6n5c2s",
+    "author": {
+      "name": "Halifax Shipping News",
+      "handle": "@hfxshippingnews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreihdpm4mu3tmxdwbshdxdxyivncdsoaactfxqnpz5gvdrjcqti2fy4"
+    },
+    "text": "Day 4 - Clusters #30DayMapChallenge",
+    "postedAt": "2026-11-04T13:31:53.290Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreie3ctlnetxfkv6yvuthrlxnvth2yyvkehptf4gfcmewdteajvq5re",
+    "hash": "d55d6633d2662ab2"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzid7nh4o225",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3mzid7nh4o225",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/115/475/501/540/498/909/original/bd4c99abd16de7f8.jpeg"
+    },
+    "text": "#30daymapchallenge Day 4 Clusters | Early Industry in Madison Another book map teaser: the early industries that formed the manufacturing base for the city. What stands out is where they clustered: c…",
+    "postedAt": "2026-11-04T12:12:33.034Z",
+    "day": 4,
+    "color": "#a8c8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/latlong.shop/post/3mzid7nh4o225"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzid7nh4o225"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreia5u4hco2vfd5pdn23pp2oijzvt3uxio3f6c5pu66gawe4x6abjsu",
+    "hash": "402421c91eb8e0f0"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzi2wf6sgt2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzi2wf6sgt2t",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 4 - Clusters Japan Traffic Accidents 🚗💥 Injured and fatal traffic accidents by municipalities in 2025 Made in #QGIS, powered by #Kumoy app.kumoy.io/public/map/f...",
+    "postedAt": "2026-11-04T09:44:12.241Z",
+    "day": 4,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117557523825197630"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117557523825197630"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreifkd4ravoqdvzizu2tdsnr5kiqav3ean4263ir3zpt7s7qd5tsnay/thumbnail.jpg",
+    "hash": "ded6d6d6ccc8f3d4"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117557283513823462",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117557283513823462",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge / Day 4 : Clusters / Le cluster de la connaissance d'Érasme au XVIe siècle. Réalisation sous #QGIS.",
+    "postedAt": "2026-11-04T08:43:11.000Z",
+    "day": 4,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/557/281/375/403/253/small/e9220895e4792178.jpg",
+    "hash": "b1211119894dc68a"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3mzhqvlzyi22s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3mzhqvlzyi22s",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 4 | Clusters | #30DayMapChallenge. Which Berlin neighbourhoods share the same trees? | Neighbourhoods grouped by the species mix of their street and park trees. #RStats #sf #ggplot2 #vegan #clust…",
+    "postedAt": "2026-11-04T06:44:48.661Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117556817497214761"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreihilj7nvuoiihjddjcl2ozimg5jezp3t7haizz37gj6samnirfazu",
+    "hash": "ccc6c482a27460e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3mzhp7vv5btt2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3mzhp7vv5btt2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters Traditional windmills (orange) cluster in the wet west: Zaanse Schans, Schermer, the polders around Leiden and Kinderdijk, where they kept the land dry. Modern turb…",
+    "postedAt": "2026-11-04T06:14:27.000Z",
+    "day": 4,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117556698637003387"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreifhu6gau7npmrjy24edgbcm6d37fbbhc3iccpfzlrxtf6cgvobxlq",
+    "hash": "acb0b282828e86a2"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/users/seav/statuses/117556611336942292",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@seav/117556611336942292",
+    "author": {
+      "name": "Eugene Alvin Villar 🇵🇭",
+      "handle": "@seav@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/296/503/014/137/125/original/8a748c3ba7ce61b0.jpg"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 4️⃣: Clusters 🍀 Here’s a map of the Seven Lakes of San Pablo in the province of Laguna in the 🇵🇭 #Philippines. These are volcanic maars filled with water and are part of…",
+    "postedAt": "2026-11-04T05:52:15.000Z",
+    "day": 4,
+    "color": "#f8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/seav4f.bsky.social/post/3mzho3rbydk24"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3mzho3rbydk24"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/556/556/073/761/320/small/ae65d8e9dcb6ad54.webp",
+    "hash": "cbc4a46a9ba0c38f"
+  },
+  {
+    "id": "bluesky:at://did:plc:ttny5w2ro55gy5jtqm5qst3g/app.bsky.feed.post/3mzhnbcnmbs2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/xenongt.bsky.social/post/3mzhnbcnmbs2g",
+    "author": {
+      "name": "Sandon",
+      "handle": "@xenongt.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreibprbo5mjroycctfixh55zz6ghccu5qjcxgaauf55pm64k7k33cgi"
+    },
+    "text": "#30DayMapChallenge - Day 4 - Clusters Today’s map focuses on Ohio and their over 400 Taco Bell locations. I was curious about how they are distributed throughout the state. This cluster map shows the…",
+    "postedAt": "2026-11-04T05:39:46.504Z",
+    "day": 4,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreia5foph5pu36ipufevb67aqebtdtrn4c2xbqg62uxkzbgsl7jcnl4",
+    "hash": "1611032b2d2e37cc"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3mzhlal4cmz2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3mzhlal4cmz2m",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 4: Clusters Gyms per person across England, counted over the 100,000 people nearest each square km, so towns and the countryside around them share a figure. Gyms cluster most i…",
+    "postedAt": "2026-11-04T05:03:32.590Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreibgxzw2r4qmix5wv7t363qvb3sdjtjhgaxmyretzlysku2yjl6jjy",
+    "hash": "10a6e6e668e8c98c"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3mzhbtz6bw22a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3mzhbtz6bw22a",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "#30DayMapChallenge · Day 4 · Clusters Central Vanuatu as a Roman mosaic. No points get clustered here. The terrain itself is split into k=25K clusters, and each cluster is laid as one tessera. The vi…",
+    "postedAt": "2026-11-04T02:15:29.196Z",
+    "day": 4,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreiey4pwfrgzgadxm7ndxg5e6x25lu6dhavo243ffwzixoumyjdlruu/thumbnail.jpg",
+    "hash": "9e17071f3f2fc630"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3mzgxp3uh5c2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3mzgxp3uh5c2b",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "*Bright clusters* 🌐 Explore the Earth At Night using the 'Compare Basemap Layers' swipe tool in #GeoMapper2DPlus for basemaps in gallery e.g. @thenasaearth.bsky.social Black Marble v Nat Geog #GIS #…",
+    "postedAt": "2026-11-03T23:13:46.833Z",
+    "day": 4,
+    "color": "#78a8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreia3ytxefwxcvv2ob3vrs3kkskfrt37oocwa4n3ywxykcjxf3c2e4u/thumbnail.jpg",
+    "hash": "4231b3a7a7959253"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/nrennie/statuses/117554332833345362",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@nrennie/117554332833345362",
+    "author": {
+      "name": "Nicola Rennie",
+      "handle": "@nrennie@fosstodon.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/245/538/926/592/687/original/24f535045b452575.jpg"
+    },
+    "text": "This week's #TidyTuesday is all about features of different languages 🗣️ Mapping which languages have gender distinction in independent 3rd person pronouns (so maybe also an early Day 4 entry for th…",
+    "postedAt": "2026-11-03T20:12:48.000Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/nrennie.bsky.social/post/3mzgnlpzko22m"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3mzgnlpzko22m"
+    ],
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/554/309/748/257/571/small/2ffce5b4a9ddeed8.png",
+    "hash": "9492a6ccdc726a11"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3mzgiug2zjs26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3mzgiug2zjs26",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "#30DayMapChallenge Day 04- Clusters. My personal backstory with this data, and representations of it, is about a decade old.",
+    "postedAt": "2026-11-03T18:48:19.173Z",
+    "day": 4,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreie55rwsfc6c3jodym3wqs3jayyfmxcyftvwgaooegtjhpvahqwugi",
+    "hash": "c8e4d0dcd496a03c"
+  }
+]

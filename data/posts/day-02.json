@@ -1,0 +1,1431 @@
+[
+  {
+    "id": "bluesky:at://did:plc:ns72r66rds454ummf3avh4pa/app.bsky.feed.post/3mzladuq5ds2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/heatherchamberlain.bsky.social/post/3mzladuq5ds2g",
+    "author": {
+      "name": "Heather Chamberlain",
+      "handle": "@heatherchamberlain.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ns72r66rds454ummf3avh4pa/bafkreif3bxbmgz7vcogmd3tflysyuwgzogoa67nvh6v2wduvnp4rdcz3ha"
+    },
+    "text": "A late post for Day 2 of the #30DayMapChallenge on the theme of lines. Population per 1 degree line of latitude and longitude globally, plus a bivariate colour scheme gets you a sort of global tartan…",
+    "postedAt": "2026-11-05T15:59:12.880Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ns72r66rds454ummf3avh4pa/bafkreiaw32gbenx2kkaoq4354rnxclcezmifsctoinp2g7ujmdbxywjge4",
+    "hash": "a0f8fcdcdcdcf80c"
+  },
+  {
+    "id": "bluesky:at://did:plc:2mufthrc2jhu6ubvosggmbm7/app.bsky.feed.post/3mzl7x5azfc2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/alexiii.bsky.social/post/3mzl7x5azfc2w",
+    "author": {
+      "name": "Alexis E.",
+      "handle": "@alexiii.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mufthrc2jhu6ubvosggmbm7/bafkreietmeqezedwij3gj4j7b7qexdfe7jzwonjvztz2jyp25zk7azkpoi"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines Or in this case, a single one.",
+    "postedAt": "2026-11-05T15:52:05.616Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2mufthrc2jhu6ubvosggmbm7/bafkreig5a2t23k66mibvzeu5rbykx6vjkzjioohgi5d5gp4tpw6qcuvfg4",
+    "hash": "c76b4f86a73fcb8e"
+  },
+  {
+    "id": "bluesky:at://did:plc:mzhenu62mgjfuct5m6qxqfot/app.bsky.feed.post/3mzhzaly3ls2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/lisahornung.bsky.social/post/3mzhzaly3ls2y",
+    "author": {
+      "name": "Lisa Hornung",
+      "handle": "@lisahornung.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreifq42axbo6atx5xztz6om2e472kcompyhqvnacdicqewrbzezpkcu"
+    },
+    "text": "#30DayMapChallenge Day 2 - Lines: House prices in London 🏠💷 Median prices grew in most areas between 2015-25, especially outer London. Slight fall or no change in central or already more expensive…",
+    "postedAt": "2026-11-04T09:14:07.630Z",
+    "day": 2,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/LisaHornung/statuses/117557411520586693"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreiapqhkgmjhco26rxpcgbh5gg4tgnbg4zljwhnfzfwxesqjge7aik4",
+    "hash": "13180f27070e0e04"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3mzhihkeh7d2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3mzhihkeh7d2c",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 02-Lines Keeping it simple by continuing to use NYC’s 311 data, this time looking for street segments with a lot of potholes. The island of Manhattan had over 3,000 pothole com…",
+    "postedAt": "2026-11-04T04:13:36.000Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreigubhwxs2uxpay6wnopnuqyjyajy6avp6xc4nvwqvwu3l7qniisfu",
+    "hash": "c018923464c0c080"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3mzgznyppcc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3mzgznyppcc2e",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 2: LINES - PUBLIC TRANSPORTATION ROUTES IN LISBON - Reducing all public transportation routes inside the city to simple lines, using color according to their type. Tools: #JOSM…",
+    "postedAt": "2026-11-03T23:48:57.459Z",
+    "day": 2,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117555176055696288"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreifsxonp2d3lpzlzo67iqz3mulqqwgizhmfbktmtiahorwl5nfcok4",
+    "hash": "e665e5e9e7e7e3ea"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3mzgijax5at2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3mzgijax5at2y",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 2: Lines. A line on the map, a place in the world. Stauffacherbrücke, Zürich, through Fotoshi: fto.sh/i/xTKtQilN Photo: strabo, CC BY 4.0. Map: © OpenStreetMap contributors. #30DayMapChallenge #F…",
+    "postedAt": "2026-11-03T18:42:03.318Z",
+    "day": 2,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117553978012461065"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117553978012461065"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreidwqwr7ekdsel2mty42llpaa7xwvppoo3fpkpej4v674m53i5o4g4",
+    "hash": "1c1d440e498c062b"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzgajhausk27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzgajhausk27",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 2's #30DayMapChallenge prompt was 'lines' - still with me? For mapmakers today, a line is joined up points – perhas a road or river. In Italy, in 1944, lines meant German defences: as seen on thi…",
+    "postedAt": "2026-11-03T16:18:01.164Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreidfih4h54fj3nixgh46amctkdc3sfwndfno5canxkmp47rqj2g7tu",
+    "hash": "d1044cb09884165c"
+  },
+  {
+    "id": "bluesky:at://did:plc:rqcdegxr22bnmi5c2bsrji3m/app.bsky.feed.post/3mzfuaufcos2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tanyashapiro.bsky.social/post/3mzfuaufcos2i",
+    "author": {
+      "name": "Tanya Shapiro",
+      "handle": "@tanyashapiro.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rqcdegxr22bnmi5c2bsrji3m/bafkreidroxkbmif67xagaifiv2lgnhpirevtrqm45e562cffdtq6wgrn6y"
+    },
+    "text": "Day 2 #30DayMapChallenge: Lines This one is a throwback to my NYC days. I really don't miss commuting into work...or the smells of the MTA subway. But we made the most of it with podcasts & books. Lo…",
+    "postedAt": "2026-11-03T12:39:28.268Z",
+    "day": 2,
+    "color": "#483838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rqcdegxr22bnmi5c2bsrji3m/bafkreigndpxuurxbyj5q4ce3t6crdeaovzwvphejq2znx2ipysjkrxdavu",
+    "hash": "53d397e76b5255c5"
+  },
+  {
+    "id": "bluesky:at://did:plc:2hvjmbw263gctmvb25tove5c/app.bsky.feed.post/3mzf3u3hmbs2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/deepalikank.in/post/3mzf3u3hmbs2l",
+    "author": {
+      "name": "🪔Deepali Kank🪔",
+      "handle": "@deepalikank.in",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2hvjmbw263gctmvb25tove5c/bafkreigo6cxqq6bvjzhsg5ef2hgp6fhzlmyfp37comg6b4ecwrcxilfw2i"
+    },
+    "text": "#30DayMapChallenge Day 2 - lines. #Rstats #DataViz #Cats #Map",
+    "postedAt": "2026-11-03T05:22:49.674Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2hvjmbw263gctmvb25tove5c/bafkreigsa3x3shzq7is5ktjf74nk2fnymdjrt6jh2g2pvj2b5sveo7qkfu",
+    "hash": "82c296969694b6a0"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3mzexie4h5k2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3mzexie4h5k2c",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 2 · Lines: Making waves A 30-minute run along False Creek in Vancouver, drawn as a boat's wake. The faster I ran, the wider the wake spreads, and the harder my heart w…",
+    "postedAt": "2026-11-03T04:04:41.125Z",
+    "day": 2,
+    "color": "#182828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreiflekg5pjmhcehbrkixfemvnfxcu2vj2eckiwcmqxaxu44fy4mwha",
+    "hash": "2f2f82194ba24c67"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzerhzvj6k2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzerhzvj6k2q",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 2: Lines #30DayMapChallenge Buenos Aires once had visible streams. Now, streets and avenues run over them. They flooded frequently and were used as dumps, so the City buried them between 1920-193…",
+    "postedAt": "2026-11-03T02:17:07.958Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreib4egnumbqyrsppdm7l6batvutz244ukiqlfw7wno3xouxlugicku",
+    "hash": "98a2e4d4e2c2c490"
+  },
+  {
+    "id": "bluesky:at://did:plc:y455hk4obaeuiqgfswykv7oa/app.bsky.feed.post/3mzeovf5mi22h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsteve388.bsky.social/post/3mzeovf5mi22h",
+    "author": {
+      "name": "Rachel",
+      "handle": "@rsteve388.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y455hk4obaeuiqgfswykv7oa/bafkreicohpwm3p3jmgwqrbjolbur7ny6clxwmpxwvhd6kpmmz23bjtovyu"
+    },
+    "text": "#30DayMapChallenge #GISChat Day 2 Lines These last two days have really allowed me to explore making maps in a portrait layout, which isn't something I have experimented with much. Also I don't often…",
+    "postedAt": "2026-11-03T01:30:54.742Z",
+    "day": 2,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y455hk4obaeuiqgfswykv7oa/bafkreiasffe2mgpweew3xi3rv6pqhsxkbiexrxy7pdl2xsbtvhzqimswym",
+    "hash": "d49c9c5a54745194"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3mzen42s5o226",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3mzen42s5o226",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 2: Lines. Navigating the NJDOT data portal was a huge pain, but at least I got something! #rstats #ggplot #nj",
+    "postedAt": "2026-11-03T00:58:51.280Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreih2yqzkjzkolkliwzrmnikhpny7ob36sh2kzf27wtdit337dlzmye",
+    "hash": "3030321230b03030"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzejv2g6eu2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzejv2g6eu2p",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 2 · Lines. Yesterday's New York City Marathon: 26.2 miles from the Verrazzano-Narrows Bridge to Central Park as one line over every street in the five boroughs. Course: The NYC Marathon Guide; da…",
+    "postedAt": "2026-11-03T00:01:14.631Z",
+    "day": 2,
+    "color": "#183878",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117549568977092934"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117549568977092934"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreicfvfgunv2jcvac4iggsegvb2i4c7r4kpf7azsaitwnk4zms6kd5m",
+    "hash": "7b470523454f6d92"
+  },
+  {
+    "id": "bluesky:at://did:plc:k7rq5xax44qrrsa5svqtd4t7/app.bsky.feed.post/3mzehdo53as2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/walterra.dev/post/3mzehdo53as2c",
+    "author": {
+      "name": "Walter M. Rafelsberger",
+      "handle": "@walterra.dev",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k7rq5xax44qrrsa5svqtd4t7/bafkreichjc4mbwsxxdmvc7dlmlpki2jqrwlryontyz46h6mcmpziw3nehu"
+    },
+    "text": "#30DayMapChallenge Day 2 - Lines Here's a simple map that reminds me of one of my own biases. If I don't have a map like this in front of me, Kyiv feels further away than Lisboa from where I live. I…",
+    "postedAt": "2026-11-02T23:15:43.990Z",
+    "day": 2,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://indieweb.social/ap/users/116036481148665801/statuses/117549638591746303"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k7rq5xax44qrrsa5svqtd4t7/bafkreibkzfi4uuxo3scrfujkequ7o7dp24gi7zeq4e3ezaynmduhnfh4im",
+    "hash": "def27c72e49e9782"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117549253850051962",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117549253850051962",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day02: Lines The Vendée Globe is a non-stop, single-handed sailing race held every four years. In November 2024, 40 men and women set off on a 45,000-kilometre journey around the w…",
+    "postedAt": "2026-11-02T22:41:08.000Z",
+    "day": 2,
+    "color": "#183858",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/549/242/657/611/644/small/e4c2535f34ed17a8.png",
+    "hash": "6767360f033a797e"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3mzec2a23mk2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3mzec2a23mk2d",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "Day 2 of the #30DayMapChallenge: Lines. This is a patch of the Simpson Desert in central Australia. Every line is a sand dune formed by prevailing winds over a very long time. Some of them run for we…",
+    "postedAt": "2026-11-02T21:40:58.506Z",
+    "day": 2,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreiccsbsa4yisp7oagpkcgdwq4yoa4atv4kuhl3cwtrrvoahcsxrnk4",
+    "hash": "d9ed5c141c8cc6d0"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3mze776s5m22f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3mze776s5m22f",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Day 2 (lines) for the #30DayMapChallenge. Had to stop messing with it because I have an actual job that is not (only) about making maps. This is average temperature for my 44 \"run every street in Cam…",
+    "postedAt": "2026-11-02T20:50:03.736Z",
+    "day": 2,
+    "color": "#b89858",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreihzjrwgr4ss4krrx5f3tl4sqckn5fpgacqm3vn7ssrvwfwqkt3fpy",
+    "hash": "01219329aeda7871"
+  },
+  {
+    "id": "bluesky:at://did:plc:wuc4pxiuogwvg4pamwjdva32/app.bsky.feed.post/3mze6zaul6k24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/michalskop.bsky.social/post/3mze6zaul6k24",
+    "author": {
+      "name": "Michal Škop",
+      "handle": "@michalskop.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wuc4pxiuogwvg4pamwjdva32/bafkreid6lpa4uiq6o7uqwjo57z3ycps5uf5n4rj72umiheid4kxigs22k4"
+    },
+    "text": "#30DayMapChallenge, day 2 - lines Lines? Wiener Linien! @wienerlinien.bsky.social 🇦🇹 Public transport in Vienna, Austria.",
+    "postedAt": "2026-11-02T20:46:44.602Z",
+    "day": 2,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awuc4pxiuogwvg4pamwjdva32/bafkreia3c77aofhjjeevmuogamjm5qisx4uefl5tfdxvx33ruiozqobf7y/thumbnail.jpg",
+    "hash": "b2828282c2d09282"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117548749707609374",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117548749707609374",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 02. Lines #30DayMapChallenge Total land border length of European countries. Every line starts at the prime meridian; colors show neighbors by rank, longest border to shortest. Ukraine: 5,581 km.…",
+    "postedAt": "2026-11-02T20:32:56.353Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3mze6cricqk2v"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3mze6cricqk2v"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/548/745/591/532/388/small/326cd32baa548940.png",
+    "hash": "c8e2c6c6c6819636"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3mze4zlpzy22z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3mze4zlpzy22z",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "📡 Day 2/30: Lines | The First Message In 1969, the first ARPANET message was supposed to be \"LOGIN\". Only \"LO\" made it! 💻 Today I'm animating that connection with `CIMSymbolAnimationMoveAlongLine`,…",
+    "postedAt": "2026-11-02T20:11:08.505Z",
+    "day": 2,
+    "color": "#383838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreia4lehqj2l6oz5wl53fa4jtzbkeg6shcw4bcnyd4wsdlstqmnugmi/thumbnail.jpg",
+    "hash": "6a48cd8482d3c199"
+  },
+  {
+    "id": "bluesky:at://did:plc:5s24ulxt7szxmr2utxwed5ta/app.bsky.feed.post/3mze3jg42wk2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/aftp.bsky.social/post/3mze3jg42wk2m",
+    "author": {
+      "name": "Antoine Peris",
+      "handle": "@aftp.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5s24ulxt7szxmr2utxwed5ta/bafkreie3grvy7hwxwi4jbivam7vbyjh2bw7rpdxn756y3bify3hzjp46aa"
+    },
+    "text": "#30DayMapChallenge Day 2 - Lines Real estate owned in Dubai by residents of each country, 2019 GenZ is looking for money to fund education in more and more countries, here are some ideas Data from th…",
+    "postedAt": "2026-11-02T19:44:11.983Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5s24ulxt7szxmr2utxwed5ta/bafkreid3x23dyorcytehvyszsfgqx36dm6o7ipdf5qjfbhbqdeo4ozbheu",
+    "hash": "e060d0e3e1cc40a0"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117548473871502318",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117548473871502318",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge / Day 2 : Lines / Les dessertes aériennes depuis les aéroports bretons",
+    "postedAt": "2026-11-02T19:22:47.000Z",
+    "day": 2,
+    "color": "#d8e8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/548/471/611/323/731/small/c7288a19721a1f35.jpg",
+    "hash": "d0c16be3909e9b1e"
+  },
+  {
+    "id": "bluesky:at://did:plc:c6b4jhahjjn75k4k2rvhsvyh/app.bsky.feed.post/3mzdzj4sacs2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsimmon.bsky.social/post/3mzdzj4sacs2z",
+    "author": {
+      "name": "Robert Simmon",
+      "handle": "@rsimmon.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c6b4jhahjjn75k4k2rvhsvyh/bafkreibopvoikbd5vikga7jthlircybwtynqzprb7bvynd3kkentweu7nu"
+    },
+    "text": "Ever had trouble with doubled boundaries when using polygons? Use boundary lines instead! Available for admin0 (countries) and some nation’s admin1 (states/provinces) in Natural Earth www.naturaleart…",
+    "postedAt": "2026-11-02T19:08:14.745Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c6b4jhahjjn75k4k2rvhsvyh/bafkreigzeqrha3a2lgamhwefzzr5ibvgp3yrz3u2zu2ad6cza2c6psxmwe",
+    "hash": "84c29484c4d0e464"
+  },
+  {
+    "id": "bluesky:at://did:plc:6g5ixjkahesst7wcfujtzy7a/app.bsky.feed.post/3mzdyvaq6ac2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rajodm.bsky.social/post/3mzdyvaq6ac2q",
+    "author": {
+      "name": "Rajo",
+      "handle": "@rajodm.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6g5ixjkahesst7wcfujtzy7a/bafkreiecoh3cmcjyraiiou77xg5ymw767gkey3s73jandt56f77tfk7fce"
+    },
+    "text": "A map of the Roman Empire's road network for #30DayMapChallenge 2026 day 2 - Lines #dataviz #rstats #Rspatial #ggplot2",
+    "postedAt": "2026-11-02T18:57:07.779Z",
+    "day": 2,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6g5ixjkahesst7wcfujtzy7a/bafkreih235btr322wi2tuapnin3pgj2wf6faprznuunrmgl2aoxzmu5l6y",
+    "hash": "19313d6f5111417f"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3mzdxev6dlw2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3mzdxev6dlw2h",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "Rotterdam handles 21% of the containers in Europe's top 10 ports. It's the closest port for just 3% of city dwellers #30DayMapChallenge Day 2: Lines 🧵",
+    "postedAt": "2026-11-02T18:30:05.043Z",
+    "day": 2,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreid353rootgj6exnbp7jxv7x3arieykvke5ldc6yjzdwaecphshr7u",
+    "hash": "c8d48e8c44036ac0"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzdwtdhdsc2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:yfnobzoj6stytscno32m6cge/post/3mzdwtdhdsc2z",
+    "author": {
+      "name": "Hemed",
+      "handle": "@725hemeed.bsky.social",
+      "avatar": "https://cdn.fosstodon.org/cache/accounts/avatars/115/430/701/984/923/748/original/9589cf20f98b011e.jpeg"
+    },
+    "text": "🇹🇿 Tanzania in Lines Some peaks are mountains. Others are people 🟢 Elevation 🔵 Population: WorldPop 2020 🟢🔵 Both Three views explore the land and where people live, colours inspired by Tanzania…",
+    "postedAt": "2026-11-02T18:20:16.022Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/725hemeed.bsky.social/post/3mzdwtdhdsc2z"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzdwtdhdsc2z"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yfnobzoj6stytscno32m6cge/bafkreiaq37yajgwrudnti3ipyfqszerb6ecnn6ukmbvz572u3sgibqxpsu",
+    "hash": "0e07451707c0f078"
+  },
+  {
+    "id": "bluesky:at://did:plc:xqzh4fw7ayszaqf42lqhdih2/app.bsky.feed.post/3mzdwlklg3s2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latitude-explorer.com/post/3mzdwlklg3s2b",
+    "author": {
+      "name": "Latitude Explorer",
+      "handle": "@latitude-explorer.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xqzh4fw7ayszaqf42lqhdih2/bafkreiattlczg6hquzvzxjhquudgsmnaavtqfx7ayzpxqyg4f5iesemelm"
+    },
+    "text": "The line of latitude at 10°58′N crosses 27 countries- the most of any latitude. Count Somaliland with Somalia and it’s 26, still the record. I followed it around the globe in Latitude Explorer. #30Da…",
+    "postedAt": "2026-11-02T18:15:55.090Z",
+    "day": 2,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xqzh4fw7ayszaqf42lqhdih2/bafkreibdyhfnfpv25ovvefrijab6xyp5bsoanku3lre2k62welywcmzqne",
+    "hash": "1b6dccce44646461"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzdwgfi5nc2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzdwgfi5nc2q",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Cologne’s bus and tram networks. Tram route length: approx. 215 km, busses: 577 km (Network length within city limits. Each route section counted once; for tram lines, parallel tracks for opposite di…",
+    "postedAt": "2026-11-02T18:13:01.965Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreif36dmo7wbktwh7kkvwbjcadaaab3q6gfzyvkkfhrburlalpito7u",
+    "hash": "88c6c060f0f0b4f4"
+  },
+  {
+    "id": "bluesky:at://did:plc:2xhwqs7x3xnnpbtxzik2xkpe/app.bsky.feed.post/3mzdw3pwphcnu",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chaneyswiney.com/post/3mzdw3pwphcnu",
+    "author": {
+      "name": "Chaney Swiney",
+      "handle": "@chaneyswiney.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreib3l4jkjoqmhebpanyaxgh6pm3pamrjq7jltl2lht52xcgkkp2v7u"
+    },
+    "text": "#30DayMapChallenge Day 2 - Lines Updating my entry from last year because I just like it so much. GPS tracks from 7 years of annual backpacking trips. This year was the first non-loop: a point-to-poi…",
+    "postedAt": "2026-11-02T18:07:03.833Z",
+    "day": 2,
+    "color": "#f8f8d8",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreihdyyohkvf7th5bp4xiol3slchzwf2se4fuqj5fdondikdiozv4km",
+    "hash": "00b29192c0a8d800"
+  },
+  {
+    "id": "mastodon:https://subdued.social/users/alan/statuses/117548162165349492",
+    "platform": "mastodon",
+    "url": "https://subdued.social/@alan/117548162165349492",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan@subdued.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/627/775/480/222/382/original/4e41924fd533257c.jpeg"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines Today I'm working on some experiments with \"Interrupted Contour Lines\". What if contour lines weren't continuous? Could splitting up contours into fragments give us a…",
+    "postedAt": "2026-11-02T18:03:31.000Z",
+    "day": 2,
+    "color": "#d8e8e8",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3mzdvzb6syh72"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mappingmashups.net/post/3mzdw2yyu2k2f"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/post/3mzdw2yyu2k2f"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3mzdvzb6syh72",
+      "bluesky:at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3mzdw2yyu2k2f",
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3mzdw2yyu2k2f"
+    ],
+    "image": "https://cdn.masto.host/subduedsocial/media_attachments/files/117/548/151/440/055/157/small/2c1c22c4d8f2c21f.png",
+    "hash": "20ac121b31b72410"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/Hemed725/statuses/117548154228780199",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@Hemed725/117548154228780199",
+    "author": {
+      "name": "Hemed",
+      "handle": "@Hemed725@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/110/711/985/589/512/216/original/af408276f379fe5d.jpg"
+    },
+    "text": "🚌 Dar es Salaam’s mwendokasi, mapped as a subway-style network. Six colours trace existing and future BRT corridors—from Kimara and Mbagala to Tegeta and Gongo la Mboto. 📍 Day 02: Lines | #30DayMap…",
+    "postedAt": "2026-11-02T18:01:30.075Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/725hemeed.bsky.social/post/3mzdvssmihk2z"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:yfnobzoj6stytscno32m6cge/post/3mzdvssmihk2z"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzdvssmihk2z",
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzdvssmihk2z"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/548/152/087/841/205/small/6172db3d6c9a2c21.png",
+    "hash": "e966b6f070d8b4b6"
+  },
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3mzdvka7fds2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3mzdvka7fds2c",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines Today's map highlights notable lines of latitude around the world used as borders, treaties, and ceasefire demarcations. Hover each one to see the name, then click for…",
+    "postedAt": "2026-11-02T17:57:16.914Z",
+    "day": 2,
+    "color": "#383838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreia52hzfgqfos6xeuhtfylanqobuxnzari2iubdh2lptsjrxel3q44",
+    "hash": "7272363039793170"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:5rymx2lm5by2tq2zz66cuqox/app.bsky.feed.post/3mzdtrorupk2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:5rymx2lm5by2tq2zz66cuqox/post/3mzdtrorupk2y",
+    "author": {
+      "name": "Tom watson",
+      "handle": "@tomcw.xyz",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/116/557/739/361/068/069/original/1e21ab4b742a5713.jpeg"
+    },
+    "text": "#30DayMapChallenge Day 2 The lines we've lost. Trains are wonderful things. Some of my happiest memories are of being on trains. I've traveled far and wide on them. This map is closer to home, \"The G…",
+    "postedAt": "2026-11-02T17:25:39.598Z",
+    "day": 2,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/tomcw.xyz/post/3mzdtrorupk2y"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/tom-c-watson.mastodon.social.ap.brid.gy/post/3mzgol6aqjmj2"
+      },
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@Tom_c_watson/117554401650195640"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:5rymx2lm5by2tq2zz66cuqox/app.bsky.feed.post/3mzdtrorupk2y",
+      "bluesky:at://did:plc:6eoyz7pbzsg5hqfiwimntd5g/app.bsky.feed.post/3mzgol6aqjmj2",
+      "mastodon:https://mastodon.social/users/Tom_c_watson/statuses/117554401650195640"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rymx2lm5by2tq2zz66cuqox/bafkreiftnyzgpxgsjmckpmy6d7ll6v42ce4gc3rwyc42dppcjtbpkxcfge",
+    "hash": "8c214898b978da91"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3mzdslo5t5d2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3mzdslo5t5d2q",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 2 — Lines 📈 Mapboxer Pratik Yadav built two interactive weather observatories using Mapbox, bringing storm paths, animated wind patterns, and weather forecasts to life on a ma…",
+    "postedAt": "2026-11-02T17:04:21.998Z",
+    "day": 2,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreid522ewr3yiyrgqbk6ua5xra3n3uace7yc4ohuk65epxr22glwdz4",
+    "hash": "006060c99b3f6e75"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3mzdriq7q5o22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3mzdriq7q5o22",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 2 of #30DayMapChallenge, Lines. Every train that stops at Uppsala Central today, one strand per operator. South of Uppsala SL Pendeltåg runs 82 trains, Mälartåg 79 and SJ 70 Code: https://github.…",
+    "postedAt": "2026-11-02T16:44:49.725Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreihscrszao3aer25rsw36esjxj6dnghfwc66hwosaprx4mbqegqlni",
+    "hash": "c468b63058f868ec"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/haraldkliems/statuses/117547690801060269",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@haraldkliems/117547690801060269",
+    "author": {
+      "name": "Harald Kliems",
+      "handle": "@haraldkliems@fosstodon.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/315/867/741/904/033/original/e24b9f222766ad05.png"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines. I follow up on the theme of public bookcases in #MadisonWI: Yesterday we established that a lot of them don't have photos yet. What would it take to travel to all of…",
+    "postedAt": "2026-11-02T16:03:38.000Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/haraldkliems.fosstodon.org.ap.brid.gy/post/3mzdp74bs36j2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:5b3ag5o5f6ztoc2npctowb5i/app.bsky.feed.post/3mzdp74bs36j2"
+    ],
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/547/690/624/913/289/small/bec964af54d71b77.png",
+    "hash": "a894b0f2b898a4cc"
+  },
+  {
+    "id": "bluesky:at://did:plc:dunzzrcjelu2h2wfg4u6p2jv/app.bsky.feed.post/3mzdp2vyzgc2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/oatflakelab.bsky.social/post/3mzdp2vyzgc2z",
+    "author": {
+      "name": "Oatflake Lab",
+      "handle": "@oatflakelab.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dunzzrcjelu2h2wfg4u6p2jv/bafkreiabyljzakdliaucg57sctbgh5uhtyfbd6vkww73t3qo4h5lusuzby"
+    },
+    "text": "Day 2, Lines: yellow is the network a simulated slime mould grew in seven Indian cities, fed only where people live. Blue is the real metro, plus suburban rail in Mumbai. All seven at one scale. Made…",
+    "postedAt": "2026-11-02T16:01:20.452Z",
+    "day": 2,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dunzzrcjelu2h2wfg4u6p2jv/bafkreie4rsudi3ppe3bj5uis32ivueprdnqbkjq4zsah6qzkptrwfqa7dy",
+    "hash": "5c5c292d0555451c"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3mzdod7vuhc2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3mzdod7vuhc2u",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines ✏️ After a quiet hurricane season this year, it's wild to look back at 2024, with 31 named storms across the Atlantic and Eastern Pacific: Beryl, Helene, Milton and mo…",
+    "postedAt": "2026-11-02T15:48:05.529Z",
+    "day": 2,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreif2m3yqyvjmc32jyeibe6a2kyi2xaaiipcpfola24cwf7liqgf35i/thumbnail.jpg",
+    "hash": "979e0c9c1a4c2333"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3mzdoculft22w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3mzdoculft22w",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines The snowiest sidewalks in Minneapolis — these blocks had the highest number of 311 complaints about unshoveled sidewalks. From The Twin Cities in 50 Maps, available he…",
+    "postedAt": "2026-11-02T15:47:53.650Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreigh3zwrmjxna5oa2tk7gemo6kp3p67q66t4bgcsoix5xdl3d3lw2m",
+    "hash": "ced6b0a0c088c0e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ca2lu4tjmgi2vod3hvztwxxv/app.bsky.feed.post/3mzdo3s6yjs2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hfxshippingnews.bsky.social/post/3mzdo3s6yjs2s",
+    "author": {
+      "name": "Halifax Shipping News",
+      "handle": "@hfxshippingnews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreihdpm4mu3tmxdwbshdxdxyivncdsoaactfxqnpz5gvdrjcqti2fy4"
+    },
+    "text": "Day 2 - Lines #30DayMapChallenge",
+    "postedAt": "2026-11-02T15:43:56.262Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreihwra4i3mnu7htjnrmcgidq4weg7wlpszuzvfqelklrnkpzwfehqy",
+    "hash": "2baab0985ccddb62"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117509382044663033/statuses/117547558819051858",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@walkably/117547558819051858",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably@en.osm.town",
+      "avatar": "https://cdn.masto.host/enosmtown/accounts/avatars/117/509/382/044/663/033/original/d25740900ad7a468.png"
+    },
+    "text": "Day 2, Lines: the streets around Piazza Vittorio in Rome. On the Walkably map a busy road has a thick line and a calm street has a thin one. The line shows street quality, which is part of the walkin…",
+    "postedAt": "2026-11-02T15:30:04.833Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/walkably.org/post/aehaczwvjd2tv"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/aehaczwvjd2tv"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/511/938/568/594/333/small/bb8156bfd58b04b9.png",
+    "hash": "8887a59247367a1d"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzdn2mykmc22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzdn2mykmc22",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 306 of #365DaysOfMaps. November 2nd is Recreation Day Tasmania. Be a devil, and go play! #30DayMapChallenge day 2 tie-in: lines. Map-a-sketch Tasmania (306/365) mapdesign.icaci.org/2026/11/recr...",
+    "postedAt": "2026-11-02T15:25:23.516Z",
+    "day": 2,
+    "color": "#c8c8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aogassymqxmcwphwo2icaq3ts/bafkreihcxsf2fzlx2lmvueyskdw7evahyfxlr532rdp6tuxcd4bar7l6ym/thumbnail.jpg",
+    "hash": "96962b2b2b2bcccc"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3mzdmrvoxok2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3mzdmrvoxok2y",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 2 of #30DayMapChallenge: Lines. The fastest drive from Calgary to 3,033 places in Canada, drawn as one tree. Lines get wider where routes share a road. The farthest is Nain, Labrador: 97 hours, t…",
+    "postedAt": "2026-11-02T15:20:30.646Z",
+    "day": 2,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreia3nl6djtkgfxkgpu5i5zuicxkhbvignw4wfpe5nkza5t2y23cj2i",
+    "hash": "713a393b2b633726"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3mzdlq6b3oa2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3mzdlq6b3oa2n",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 2/30 · Lines 🚋 A line is a route someone takes: tram 100 across Cluj, then all 72 lines and 438 stops mapped by OpenStreetMap volunteers (ODbL), over Copernicus relief. Inspired by A…",
+    "postedAt": "2026-11-02T15:01:38.595Z",
+    "day": 2,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreiel3tkcu6dpwvipvpmpk2vc64pq5wjfdnlw6gsj442dalqgl2mxiq/thumbnail.jpg",
+    "hash": "0e07890b0b15140c"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3mzdlkwnowk23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3mzdlkwnowk23",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines on the map Follow the Cotswold Way! experience.arcgis.com/experience/c...",
+    "postedAt": "2026-11-02T14:58:43.017Z",
+    "day": 2,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreiavyk2sffxrf376ain5dqbno2dqwtqlipjor2izit2x7tnz4l3tzy",
+    "hash": "c990d4a5ae0eccd8"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3mzdhy4p6xu2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3mzdhy4p6xu2t",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 2 of #30DayMapChallenge · Lines The Seawall #Vancouver #StanleyPark brooksgroves.com/30DayMapChallenge/2026/share/day-02.html",
+    "postedAt": "2026-11-02T13:54:30.550Z",
+    "day": 2,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreicmjp5fq4ajylkxb457hlefowyjqjfcsg5jdplboemlwxrzmlxgym",
+    "hash": "8de0d098aecece86"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/users/seav/statuses/117547087442812895",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@seav/117547087442812895",
+    "author": {
+      "name": "Eugene Alvin Villar 🇵🇭",
+      "handle": "@seav@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/296/503/014/137/125/original/8a748c3ba7ce61b0.jpg"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 2️⃣: Lines 〰️ Here is an infographic poster of the diagrams of all 23 participating circuits in the 2026 #FormulaOne World Championship. 🏁 Data: Circuits are from #OpenStr…",
+    "postedAt": "2026-11-02T13:30:12.000Z",
+    "day": 2,
+    "color": "#282828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/seav4f.bsky.social/post/3mzdgxg72v22x"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3mzdgxg72v22x"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/547/043/295/868/744/small/c60e1f39025421a2.webp",
+    "hash": "2b2a2aaa2b2794d0"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzddoeongk2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzddoeongk2p",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines The US/Canadian border line as it travels through Lake Ontario",
+    "postedAt": "2026-11-02T12:37:28.474Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117546877693438327"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreicznogt7tzvoowr4yfubnvtxyvajdwfrwooozy7dfvclzefo2yipm",
+    "hash": "000f3eeef09c8c00"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/nrennie/statuses/117546792190419457",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@nrennie/117546792190419457",
+    "author": {
+      "name": "Nicola Rennie",
+      "handle": "@nrennie@fosstodon.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/245/538/926/592/687/original/24f535045b452575.jpg"
+    },
+    "text": "Day 2 of the #30DayMapChallenge | Prompt: Lines A simple world map with lines showing flight routes from Edinburgh airport ✈️ #RStats #RSpatial #ggplot2 #DataViz",
+    "postedAt": "2026-11-02T12:15:07.000Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/nrennie.bsky.social/post/3mzdchjjzws2w"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3mzdchjjzws2w"
+    ],
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/546/786/963/322/321/small/160d985921241bf4.png",
+    "hash": "21eed0d05a6a4a05"
+  },
+  {
+    "id": "bluesky:at://did:plc:rpi5p4dknmfdr4ala6n5n65o/app.bsky.feed.post/3mzdbfzohys2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/isroeaw.bsky.social/post/3mzdbfzohys2r",
+    "author": {
+      "name": "Institut für Stadt- und Regionalforschung",
+      "handle": "@isroeaw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rpi5p4dknmfdr4ala6n5n65o/bafkreifsgyg4bpctcvrn3jnjwpp5qswzo5lqbfz5dplpfglhu3qd3bbkgm"
+    },
+    "text": "#30DayMapChallenge Day 2 Lines 10 m contour map of Vienna (Austria). Elevations are relative to the City Hall. Contours come from Stadt Wien open data and are clipped to the OpenStreetMap city bounda…",
+    "postedAt": "2026-11-02T11:57:01.015Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rpi5p4dknmfdr4ala6n5n65o/bafkreic43j6yryf45asdldx4kaktmmf54rgpk2c64emv25tz6mi5j6jd5i",
+    "hash": "d4a27272a6b6a451"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/kanedr/statuses/117546636385566020",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@kanedr/117546636385566020",
+    "author": {
+      "name": "David Kane",
+      "handle": "@kanedr@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/031/461/original/e4967cbb2ba08738.jpg"
+    },
+    "text": "#30DayMapChallenge Day 2 - Lines Underground-style line diagram for the sadly shelved Crossrail 2 North-South London line. Based on https://en.wikipedia.org/wiki/Crossrail_2",
+    "postedAt": "2026-11-02T11:35:29.618Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/dkane.net/post/3mzdo7k2xj22x"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yv2grvouscdaq7w3ikyljbae/app.bsky.feed.post/3mzdo7k2xj22x"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/546/628/307/023/248/small/ffa7326702c9fea1.png",
+    "hash": "18789898386ccccc"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzd7o37mhc2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3mzd7o37mhc2d",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.fosstodon.org/cache/accounts/avatars/115/475/501/542/301/897/original/b1c419acfd04ce0b.jpeg"
+    },
+    "text": "#30daymapchallenge Day 2 Lines | Owners vs. Renters Here’s one from my forthcoming book, Madison in 50 Maps—I’ll be sharing a few this month (but also can’t spoil the whole thing!). Each line represe…",
+    "postedAt": "2026-11-02T11:25:43.571Z",
+    "day": 2,
+    "color": "#585838",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/latlong.shop/post/3mzd7o37mhc2d"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzd7o37mhc2d"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreidklzhfm4itdhqmibynysmncbc5hexf7oqh5ublm6vy42tdjnikby",
+    "hash": "b2c40d0f07795b4e"
+  },
+  {
+    "id": "bluesky:at://did:plc:olyhtg4yyp5y6mvimhbvjse5/app.bsky.feed.post/3mzd7dz634c2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/visben.bsky.social/post/3mzd7dz634c2z",
+    "author": {
+      "name": "Benjamin Niedermann",
+      "handle": "@visben.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:olyhtg4yyp5y6mvimhbvjse5/bafkreihljxijpbmu2dnl47plalq5wdkp2gy2yyhdrz673jbbfjvhqbxzje"
+    },
+    "text": "The Kungsleden trail in northern Sweden. The elevation profile sits on a baseline beside the trail and moves with the map, so you read heights where the trail is. visquill.com/gallery/kung... Data: O…",
+    "postedAt": "2026-11-02T11:20:05.885Z",
+    "day": 2,
+    "color": "#98b8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://vis.social/@visben/117546584847594208"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://vis.social/ap/users/117072417730931523/statuses/117546584847594208"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aolyhtg4yyp5y6mvimhbvjse5/bafkreifjola65ztngldgnzai77wuzakfkgcg33cwqafytkhgirvtuo4qte/thumbnail.jpg",
+    "hash": "901112a428486323"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3mzd3omgtg22d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3mzd3omgtg22d",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "Connaissez-vous l’histoire de la rivalité entre Roald Amundsen et Robert Falcon Scott, qui s’est transformée en drame pour les animaux ? 🤔 #30daymapchallenge – J2 #LINES 📊 Récits de R. Amundsen (19…",
+    "postedAt": "2026-11-02T10:14:26.511Z",
+    "day": 2,
+    "color": "#b8c8c8",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://social.numerique.gouv.fr/@ignfrance/117546322848237653"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117546322848237653"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreig54t2t7m6xjqbujcc444byy2kiry3zcy7vtygqghhd2wetnogize",
+    "hash": "b1a9ef878e3b0b67"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzczt6wp4l2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzczt6wp4l2v",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 2 - Lines 🛬 Dubai, Grounded Flights from DXB before, during, and after the 2026 Middle East crisis. Made in #QGIS, powered by #Kumoy app.kumoy.io/public/map/5...",
+    "postedAt": "2026-11-02T09:41:12.593Z",
+    "day": 2,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117546188208164591"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117546188208164591"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreicmaf7zywgwlbiwmdsed463r3iylrx4cp345xe6vyeeehj6qeo764/thumbnail.jpg",
+    "hash": "606c636467636b64"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/Quarticle/statuses/117546136818527907",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@Quarticle/117546136818527907",
+    "author": {
+      "name": "Quarticle",
+      "handle": "@Quarticle@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/113/905/174/346/965/473/original/1bd2d1fea4bbc7f7.jpg"
+    },
+    "text": "We’re joining the #30DayMapChallenge! Day 2 of 30: Lines — submarine cables. Our global Submarine Cables layer maps active and planned cable routes behind global connectivity. Explore it in the Quart…",
+    "postedAt": "2026-11-02T09:28:26.830Z",
+    "day": 2,
+    "image": "https://files.mastodon.social/media_attachments/files/117/546/122/193/560/769/small/c1492e64968e2a30.jpg",
+    "color": "#b8d8d8",
+    "hash": "e0818c4665654460",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:qrkikjfpm3nsf554z4bmwbgp/app.bsky.feed.post/3mzcxls5w5u2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/marineregions.bsky.social/post/3mzcxls5w5u2j",
+    "author": {
+      "name": "Marine Regions",
+      "handle": "@marineregions.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qrkikjfpm3nsf554z4bmwbgp/bafkreid7dxxlatsxm4prwcamfqzpcrlryrom5xurshd5l7vqw2kus262hy"
+    },
+    "text": "#30DayMapChallenge | Day 2: Lines Guess the sea from its maritime boundaries! These maps show only the international boundaries in three seas taken from Marine Regions' Maritime Boundaries v12 datase…",
+    "postedAt": "2026-11-02T09:01:17.002Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qrkikjfpm3nsf554z4bmwbgp/bafkreidmv7ejqra4in7sgoanjrwfwafioqapi3god7oi2qmxixizokupvu",
+    "hash": "242a2c62da98a42c"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/studiohaverstraat/statuses/117545971638952836",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@studiohaverstraat/117545971638952836",
+    "author": {
+      "name": "Anton van Tetering",
+      "handle": "@studiohaverstraat@mapstodon.space",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/335/962/986/849/234/original/71c6c814bf3b5c63.jpg"
+    },
+    "text": "A classic for day 2 of the 30 day mapchallenge (lines): a Joy Plot of a well known island. #30daymapchallenge #cartography #maps",
+    "postedAt": "2026-11-02T08:46:26.000Z",
+    "day": 2,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/545/963/444/512/916/small/2c0d85785c25ee79.png",
+    "hash": "4086868e96968640"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117507330241455296/statuses/117545930678705454",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@DartVadius/117545930678705454",
+    "author": {
+      "name": "DartVadius",
+      "handle": "@DartVadius@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/507/330/241/455/296/original/056a9f88a0f09492.png"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines Rivers of the Amazon basin. As you zoom in, smaller tributaries show up level by level. Made in Terrella, a globe app I'm building. Data: Natural Earth (rivers), NOAA…",
+    "postedAt": "2026-11-02T08:36:01.385Z",
+    "day": 2,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://files.mastodon.social/media_attachments/files/117/545/925/199/030/408/small/258f22359ec2f488.png",
+    "hash": "1f1f1f1717131717"
+  },
+  {
+    "id": "bluesky:at://did:plc:dhkzuubapdaekmh6twharwqu/app.bsky.feed.post/3mzcubct26k26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jmviglino.bsky.social/post/3mzcubct26k26",
+    "author": {
+      "name": "Jean-Marc Viglino",
+      "handle": "@jmviglino.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreido346cvr3n2wavudziovnxgamdhcsj5cdmbqb3sbjwtca56n47yu"
+    },
+    "text": "#30DayMapChallenge Day 2: Lines 🚇 La carte des lignes du #métro parisien si les stations correspondaient à leur lieu dans le monde. 🗺️Voir la carte interactive ▶️ macarte.ign.fr/carte/gali1A...",
+    "postedAt": "2026-11-02T08:01:44.183Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreic3ye2nsboc6aa4r322sfyqezwihcrub3in6rnpzcio7prfsiqfmy",
+    "hash": "86233383ab332ba6"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3mzcsflmuclc2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3mzcsflmuclc2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "Day 2 of #30DayMapChallenge: Lines Fingerprints of Water: radial (Taranaki), centripetal (Ngorongoro), trellis (Pennsylvania) and dendritic (Loess Plateau) drainage, styled by Strahler order. SRTM 30…",
+    "postedAt": "2026-11-02T07:28:09.000Z",
+    "day": 2,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117545663836595906"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreif3rjjhglhlz4zqlfokkecrz5a6ciuq6eijnwdqnqbnome3gn4ndq",
+    "hash": "175f5d5919132b31"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117178011293714910/statuses/117545494116941481",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@pocketswitzerland/117545494116941481",
+    "author": {
+      "name": "Pocket Switzerland",
+      "handle": "@pocketswitzerland@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/178/011/293/714/910/original/56738fdef401325a.png"
+    },
+    "text": "#30DayMapChallenge Day 2 · Lines From Montreux to Vaduz, the Via Alpina crosses the Swiss Alps in 20 stages and 392 km. We fly it low from Lake Geneva, then climb until the trail runs to the horizon.…",
+    "postedAt": "2026-11-02T06:44:59.980Z",
+    "day": 2,
+    "color": "#08a8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://files.mastodon.social/media_attachments/files/117/545/471/002/022/150/small/487b7dd85edb3938.png",
+    "hash": "e0a42228b1307c41"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3mzcpsethic23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3mzcpsethic23",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 2 | Lines | #30DayMapChallenge. Berlin’s 20 Green Main Trails | Signposted walking routes through parks, forests and neighbourhoods, from the city centre to the edge of Berlin, mostly away from c…",
+    "postedAt": "2026-11-02T06:41:48.009Z",
+    "day": 2,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117545485223058593"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidiwzkw6ddwvilvi76iyowxyr62ljj7e7mewrzcuk5zxumh6kfjwu",
+    "hash": "f05cd484eca47c2c"
+  },
+  {
+    "id": "bluesky:at://did:plc:7jiwstnfx6jv6v6rxdgerkji/app.bsky.feed.post/3mzcpeqqfxk2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/pocketswitzerland.bsky.social/post/3mzcpeqqfxk2b",
+    "author": {
+      "name": "Pocket Switzerland",
+      "handle": "@pocketswitzerland.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7jiwstnfx6jv6v6rxdgerkji/bafkreigi66xtckofqaf6qsv737wwsa6c4tmpcsowrwpy3ezdsvzkncwdeq"
+    },
+    "text": "#30DayMapChallenge Day 2 · Lines Via Alpina: Montreux to Vaduz in 20 stages, 392 km across the Alps. Flown low from Lake Geneva, then up until the trail runs to the horizon. Trail: FEDRO & Switzerlan…",
+    "postedAt": "2026-11-02T06:34:10.734Z",
+    "day": 2,
+    "color": "#98b8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A7jiwstnfx6jv6v6rxdgerkji/bafkreif6nj6vcc5ofivl4as6eh77a7qqz5ox7wripc2e3imsyyy65hxjju/thumbnail.jpg",
+    "hash": "3010d0d2f1e39786"
+  },
+  {
+    "id": "bluesky:at://did:plc:ttny5w2ro55gy5jtqm5qst3g/app.bsky.feed.post/3mzck4fjysc27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/xenongt.bsky.social/post/3mzck4fjysc27",
+    "author": {
+      "name": "Sandon",
+      "handle": "@xenongt.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreibprbo5mjroycctfixh55zz6ghccu5qjcxgaauf55pm64k7k33cgi"
+    },
+    "text": "#30DayMapChallenge - Day 2 - Lines The weather this year has been strange for the City of Lincoln Park, Michigan; a densely populated suburb bordering Detroit. Tornadoes are a rarity there with often…",
+    "postedAt": "2026-11-02T05:00:01.843Z",
+    "day": 2,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreigd3quyhe6s3rg6thjkfipg2ean7aitwz4lvj7t7u6ro225zut5vq",
+    "hash": "1894429084ac2628"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3mzbzr7cspk2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3mzbzr7cspk2o",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "Where are our migration source countries? Year 8 students gathered data about migration source countries for people in their families using #GIS #SurveyPoints in Geo Mapper 2D #DesireLines #GoGIS4GA…",
+    "postedAt": "2026-11-02T00:07:26.350Z",
+    "day": 2,
+    "color": "#083848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreih3nzyktf6wp6zip2q3ouc5g4ppado36xlpycxae4yn3bibtc366q/thumbnail.jpg",
+    "hash": "b2910e0e8aba96a6"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3mzbu7f5j7s2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3mzbu7f5j7s2i",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "#30DayMapChallenge · Day 2 · Lines · Banknote guilloche is contour lines with no terrain underneath. Here it gets some: La Palma, engraved by turning one knob. DEM: Copernicus GLO-30, via Google Eart…",
+    "postedAt": "2026-11-01T22:27:59.778Z",
+    "day": 2,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreiaq74wg625jrodxn7pjmpvkhgvkn57bc5sq2elx3yerfbueeau5ti/thumbnail.jpg",
+    "hash": "8e27733333338e21"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3mzblyellm22n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3mzblyellm22n",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "#30DayMapChallenge Day 2 - Lines. NZ's undersea internet cables. This is why computer folk in the south are far more interested in Datagrid's Invercargill - Melbourne cable plan than their plans for…",
+    "postedAt": "2026-11-01T20:00:54.372Z",
+    "day": 2,
+    "color": "#080848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreicsc4b2himzly2c7ymncniehr2zxgfxzk5ymoddybb57hvtcay4ee",
+    "hash": "b2b282ae72f2d2b2"
+  }
+]

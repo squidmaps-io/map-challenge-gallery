@@ -1,0 +1,999 @@
+[
+  {
+    "id": "bluesky:at://did:plc:v3ccakbboacdbklcue4qzyq5/app.bsky.feed.post/3n2enefqhfk25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/nathan1904.bsky.social/post/3n2enefqhfk25",
+    "author": {
+      "name": "nathan1904.bsky.social",
+      "handle": "@nathan1904.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v3ccakbboacdbklcue4qzyq5/bafkreif5twdj6xy4p2xnb2ympakenwnf6ytrj2yoqtx5k2ltvq4r2z2eva"
+    },
+    "text": "FUSSBALL!! I’ve “sighted” a lot of Fussball stickers around Galway. Day 5 of #30DayMapChallenge (Sight) #footballstickers #aufkleber nathanfranklin.github.io/30daymapchal...",
+    "postedAt": "2026-11-15T18:28:42.823Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v3ccakbboacdbklcue4qzyq5/bafkreig7phojlwrjiehwdok5ljcfevvohfpgq3cw2yy2utzmrxwrvxdwoy",
+    "hash": "808ad28ccccec8dc"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3mzsyng3mgu2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3mzsyng3mgu2r",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 05 · Senses: Sight How many fire towers can you see from here? About 30% of Catskill Park is in view of at least one of its five restored fire towers. Viewshed in #ArcGIS Pro,…",
+    "postedAt": "2026-11-08T18:02:32.000Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieuoxa77obocc2rfmkutuf5phwk2bikewjwmsgoihdnv2lztxov2m",
+    "hash": "980a0e2eacacac2e"
+  },
+  {
+    "id": "bluesky:at://did:plc:mzhenu62mgjfuct5m6qxqfot/app.bsky.feed.post/3mzqgdeq5rc24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/lisahornung.bsky.social/post/3mzqgdeq5rc24",
+    "author": {
+      "name": "Lisa Hornung",
+      "handle": "@lisahornung.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreifq42axbo6atx5xztz6om2e472kcompyhqvnacdicqewrbzezpkcu"
+    },
+    "text": "#30DayMapChallenge Day 5 sights 🌸 Cherry trees are the most common type of publicly maintained tree in London (>150,000). You can enjoy cherry blossom almost everywhere, but here are the statistical…",
+    "postedAt": "2026-11-07T17:29:37.247Z",
+    "day": 5,
+    "color": "#884868",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/LisaHornung/statuses/117576345548716430"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreietrkqh7h4r3i2lejwgjalurchhhvut5h3edhuzb656qqjgjvubza",
+    "hash": "460d39338b076b3e"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3mzott6iryk2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3mzott6iryk2e",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 5: SENSES: SIGHT - ONE OF THE BEST PANORAMIC VIEWS OF LISBON THAT YOU CAN (NO LONGER) SEE - The field of view of a no longer available Lisbon viewpoint. Tools: Image Composite…",
+    "postedAt": "2026-11-07T02:25:46.747Z",
+    "day": 5,
+    "color": "#281818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117572778152669973"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreigtalyfccsuwuxo33e2abkxrq5kq7q7gxvpv762o7r2xoe6h7wowi",
+    "hash": "95939393969a9c99"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3mzo3tmntt22s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3mzo3tmntt22s",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 5 - Sight & 6 - Vintage Map: London, UK commons.wikimedia.org/wiki/File:Sn... Challenge: Find and circle all the pumps on John Snow’s 1854 map",
+    "postedAt": "2026-11-06T19:16:31.794Z",
+    "day": 5,
+    "color": "#e8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreicxgp7tli3fh2rawvegkvfvdqoroamsdna2byfgsgr3gxgf4c3odm",
+    "hash": "657b6b7939336f7f"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3mznjgdnqli2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3mznjgdnqli2x",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 5: Sight. Pyoseon Beach, Jeju. A photo, its camera direction and its place on the map. The fan is illustrative, not measured visibility. Photo: eneerhut, CC BY 4.0. Map: © OpenStreetMap contribut…",
+    "postedAt": "2026-11-06T13:46:57.440Z",
+    "day": 5,
+    "color": "#282828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117569804623389147"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117569804623389147"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreidl7ocug6tbciib3yxr5pu24gh6fq4hlbni6fqzmkcvgnayoec37e",
+    "hash": "c18fdc1e5e1f1f49"
+  },
+  {
+    "id": "bluesky:at://did:plc:5b3ag5o5f6ztoc2npctowb5i/app.bsky.feed.post/3mzmhvtwzkvb2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/haraldkliems.fosstodon.org.ap.brid.gy/post/3mzmhvtwzkvb2",
+    "author": {
+      "name": "Harald Kliems",
+      "handle": "@haraldkliems.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5b3ag5o5f6ztoc2npctowb5i/bafkreidchqbmkzgavf7emjcq4y3nenzt62bq6ksxommmwabghy7nfiarsi"
+    },
+    "text": "I skipped yesterday, but today I'm back for #30DayMapChallenge. The theme is sight and so I mapped streetlights in Madison. https://haraldkliems.netlify.app/posts/2026-11-05-30mapchallenge-day-5-sigh…",
+    "postedAt": "2026-11-06T03:47:09.000Z",
+    "day": 5,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5b3ag5o5f6ztoc2npctowb5i/bafkreihrotcvozwa2ic4ojmhxn3xklx3jyte2nlih5fzu3fxi7yvbxbs4a",
+    "hash": "e480e6acbc4800a4"
+  },
+  {
+    "id": "bluesky:at://did:plc:6fpgmbazsx6xgdzhdwfrzqaj/app.bsky.feed.post/3mzmhcmd67k22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tchaulla.bsky.social/post/3mzmhcmd67k22",
+    "author": {
+      "name": "Tiffany Chau",
+      "handle": "@tchaulla.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreid5vuy6vcrdqyzyipkvdzgrb2bmn3vennhjsj2ocjwmbludkwycdy"
+    },
+    "text": "#30DayMapChallenge Day 5 - Sight Natirir Park, NJ, USA This Andy Warhol-esque birds-eye map was made with ESRI's Aspect-Slope tool. Color means direction: green = land facing north, pink = land is fa…",
+    "postedAt": "2026-11-06T03:36:26.439Z",
+    "day": 5,
+    "color": "#a89898",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreid7fyqdlefjlmetyhsnvdlxcr2adhetcuvknspdpaufjxirgvbq5a",
+    "hash": "a26724bdeb1812a4"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/users/seav/statuses/117567383734586385",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@seav/117567383734586385",
+    "author": {
+      "name": "Eugene Alvin Villar 🇵🇭",
+      "handle": "@seav@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/296/503/014/137/125/original/8a748c3ba7ce61b0.jpg"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 5️⃣: Sight 👀 According to the Guinness World Records, the longest line of sight on earth photographed 📸 is from the Karagöl peak ⛰️ in 🇹🇷 #Türkiye to Shkhara peak on th…",
+    "postedAt": "2026-11-06T03:31:49.000Z",
+    "day": 5,
+    "color": "#b8d8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/seav4f.bsky.social/post/3mzmhbscbuk2f"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3mzmhbscbuk2f"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/618/411/849/509/222/small/38e961916c4699b8.webp",
+    "hash": "8e26935220c08b27"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3mzm5ktvtms2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3mzm5ktvtms2d",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 5: Sight. I marked out all the National Historic Landmarks in New Jersey, and whether or not I'd been there or wanted to go there. I'm hoping to build on this tomorrow for Vint…",
+    "postedAt": "2026-11-06T00:42:05.414Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreidji4dhagfvfwkbd5nadtqyqdko6df3yl37t2r3rhabpuge5lz7fi",
+    "hash": "2060d062ead0c040"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117566310217114143",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117566310217114143",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 05. Sight. #30DayMapChallenge How much sky does each point of the land see? Sky View Factor of the Dnipro valley: pale plateaus open to the horizon, dark ravines where the sky shrinks to a sliver…",
+    "postedAt": "2026-11-05T22:58:48.465Z",
+    "day": 5,
+    "color": "#a8b8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3mzlxsoxnm22q"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3mzlxsoxnm22q"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/566/309/642/902/173/small/05763c469a356793.jpg",
+    "hash": "8a9b8b8922029240"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3mzlxasetjk27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3mzlxasetjk27",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 5 · Senses: Sight: What Vancouver keeps in view Vancouver caps building heights to keep 24 mountain views protected. Today I walked up to the Queen Elizabeth Park view…",
+    "postedAt": "2026-11-05T22:49:05.811Z",
+    "day": 5,
+    "color": "#e8d8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreidrwhcmzf3mlyi3ir4rou4qrmc4bak6w4mltmui6mjjgushnreyhu",
+    "hash": "c89296d54d799202"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117566252794081788",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117566252794081788",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day05: Sight Neuschwanstein Castle was commissioned by King Ludwig II in the late 19th century as his private retreat. However, he died before its completion, and just six weeks af…",
+    "postedAt": "2026-11-05T22:44:12.259Z",
+    "day": 5,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/566/245/220/685/095/small/b6af54b75293c84c.png",
+    "hash": "d4f0f4a8a886f071"
+  },
+  {
+    "id": "bluesky:at://did:plc:amr3hqxnrb3essb4mns5gcph/app.bsky.feed.post/3mzltlt6zx22j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/1cartograph.bsky.social/post/3mzltlt6zx22j",
+    "author": {
+      "name": "1cartograph.bsky.social",
+      "handle": "@1cartograph.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:amr3hqxnrb3essb4mns5gcph/bafkreicm3d2qm4hbjdswwmlazvcyjeoqobwvxjpyetac4zmbl3zhzjgh5e"
+    },
+    "text": "How many of the five 4000m peaks can you see while running Sierre-Zinal ? All five are visible at once from only a few spots along the 31 km, and for the majority of the run, none of them is in sight…",
+    "postedAt": "2026-11-05T21:43:40.799Z",
+    "day": 5,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amr3hqxnrb3essb4mns5gcph/bafkreifof2klpjx2aubtszjc76auczsrgnr7fqrs4j2yd47ykpifz72hdq",
+    "hash": "78e3c3a36965e496"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3mzlqy23c3c2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3mzlqy23c3c2z",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "For the #30DayMapChallenge Day 5: \"Sight\", we have a Viewshed Viewer created by Alex Parlato. This project uses the excellent open source Digital Elevation Models from @mapterhorn.com: Try it here, a…",
+    "postedAt": "2026-11-05T20:56:49.438Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3mzlqy23c3c2z"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3mzlqy23c3c2z",
+      "mastodon:https://vis.social/users/stamen/statuses/117565791936076217"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreia2spbbgi4727yq5eth2tlkhqdonzkhlnxib7lxrnlpfb7d6d6die",
+    "hash": "9634783818980109"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3mzlqw5jff22r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3mzlqw5jff22r",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "My map for Day 5 (sight) of the #30DayMapChallenge — public streetlights in Paris, France This one's for all the folks who give talks about expected results, data, and models, using the story about t…",
+    "postedAt": "2026-11-05T20:55:45.869Z",
+    "day": 5,
+    "color": "#282838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreigp6gllcvwh2beuhfsrg2yjk5dykyymiu6tdg2oigw2ccwoi57nom",
+    "hash": "6b4f0f2717358726"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/Tom_c_watson/statuses/117565728480828541",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@Tom_c_watson/117565728480828541",
+    "author": {
+      "name": "Tom Watson",
+      "handle": "@Tom_c_watson@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/109/244/852/500/494/905/original/4fa50ed4f7866816.jpg"
+    },
+    "text": "#30DayMapChallenge - Sight Inspired by one of my favourite spots in the Lakes, Dale Head. Run from Keswick, over cat bells, and high spy, the slog up to dale head is worth it. From there you can see…",
+    "postedAt": "2026-11-05T20:30:51.872Z",
+    "day": 5,
+    "color": "#e8e8e8",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://files.mastodon.social/media_attachments/files/117/565/722/881/462/200/small/6cccbaf62122c35b.png",
+    "hash": "8a02780c86c247f2"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzlovrvybk2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzlovrvybk2a",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Where can you see Cologne Cathedral / Kölner Dom from street level? Best view? You probably didn't need this map to guess it's from across the Rhine. #30DayMapChallenge Day 05 - Senses: Sight 📊 #ggp…",
+    "postedAt": "2026-11-05T20:19:46.291Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreiaxqwrazixaloygkkzw77xnqhdofj7j7rv4scag2oq6sxuk5si75u",
+    "hash": "8c14f0f286e4f470"
+  },
+  {
+    "id": "bluesky:at://did:plc:k7rq5xax44qrrsa5svqtd4t7/app.bsky.feed.post/3mzlnk7nvgk2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/walterra.dev/post/3mzlnk7nvgk2i",
+    "author": {
+      "name": "Walter M. Rafelsberger",
+      "handle": "@walterra.dev",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k7rq5xax44qrrsa5svqtd4t7/bafkreichjc4mbwsxxdmvc7dlmlpki2jqrwlryontyz46h6mcmpziw3nehu"
+    },
+    "text": "#30DayMapChallenge Day 5 - Senses: Sight Explored some viewshed visualizations. This one follows a cycling track to Wilder Kaiser mountain range. The green area is the visible land surface you can se…",
+    "postedAt": "2026-11-05T19:55:24.314Z",
+    "day": 5,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ak7rq5xax44qrrsa5svqtd4t7/bafkreide5qsnsdfwqnyeuho4zmazhiruhano6uztohono7sq5vzux2wtfu/thumbnail.jpg",
+    "hash": "9b7cb4f64690e082"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117565585213018927",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117565585213018927",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 5 of the 30 day map challenge - sight. The 16-day average colour of a satellite image pixel near the centre of each hexagon for each month of the year in 2025. https://compute.olie.science/expo/?…",
+    "postedAt": "2026-11-05T19:54:25.000Z",
+    "day": 5,
+    "color": "#a8a8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3mzlnipdyypk2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3mzlnipdyypk2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/565/585/147/278/058/small/6c7f44e93637b8d0.png",
+    "hash": "d8f8eae5a4d1cb89"
+  },
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3mzlkaumk622c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3mzlkaumk622c",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 5: Sight Where can you see the Empire State Building? With Claude, I mapped every NYC street spot with a line of sight to the ESB, colored by how much of the building is visibl…",
+    "postedAt": "2026-11-05T18:56:29.520Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreibuakac4lki4r3vq6jrvawibk7vh4gpc3lprg7qntlhgx4ktbiibe",
+    "hash": "7874797170787879"
+  },
+  {
+    "id": "bluesky:at://did:plc:2xhwqs7x3xnnpbtxzik2xkpe/app.bsky.feed.post/3mzljyzzuj2ci",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chaneyswiney.com/post/3mzljyzzuj2ci",
+    "author": {
+      "name": "Chaney Swiney",
+      "handle": "@chaneyswiney.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreib3l4jkjoqmhebpanyaxgh6pm3pamrjq7jltl2lht52xcgkkp2v7u"
+    },
+    "text": "#30DayMapChallenge Day 5 - Sight Another version of an idea I was playing with recently: labeling my own photos from airplane windows. This time we're in the skies over Idaho, looking down on the Saw…",
+    "postedAt": "2026-11-05T18:52:06.764Z",
+    "day": 5,
+    "color": "#d8e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreiec2aawvline3d5eetpoiwmwpbjpgw4bo6xw2bxgfffyrmjyix77y",
+    "hash": "33fa2dd62b297033"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3mzljfyp3fl2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3mzljfyp3fl2o",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 5 of #30DayMapChallenge, Sight. The streets, cycleways and railways in Uppsala where you can see the tops of the cathedral towers above the buildings and trees. Code: https://github.com/gkaramani…",
+    "postedAt": "2026-11-05T18:41:25.301Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreib6yb2bp6eqldpeip7biytu7h5uwk26rrzbq4ngz6o5eamelbi2mq",
+    "hash": "d0f46be0e0a8ccc8"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3mzlfwuiphh2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3mzlfwuiphh2k",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "Two total eclipses in a row cross Spain, and Madrid and Barcelona miss both 👇🏻 #30DayMapChallenge Day 5: Sight",
+    "postedAt": "2026-11-05T17:39:18.836Z",
+    "day": 5,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreiflvjtduc7umugli7dbjrfsw2r45oscyul6vdgqw6dcfogbw4dazy",
+    "hash": "a080e1b11e0f8490"
+  },
+  {
+    "id": "bluesky:at://did:plc:ttny5w2ro55gy5jtqm5qst3g/app.bsky.feed.post/3mzlerazt3k2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/xenongt.bsky.social/post/3mzlerazt3k2s",
+    "author": {
+      "name": "Sandon",
+      "handle": "@xenongt.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreibprbo5mjroycctfixh55zz6ghccu5qjcxgaauf55pm64k7k33cgi"
+    },
+    "text": "#30DayMapChallenge - Day 5 - Sight This is a reinterpretation of a map from last year when I arranged US states by size into units of “Alaska”. This time I thought it might be fun to arrange those st…",
+    "postedAt": "2026-11-05T17:18:16.953Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreicl4mq7h7n4orb3sqzw4ieu53fpv2azyqmb6nthbw6ketwk5yemeu",
+    "hash": "3070683470cab45a"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3mzle35m5rb2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3mzle35m5rb2q",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 5 — Senses: Sight 👀 Take a virtual sightseeing tour of iconic bridges around the world with Mapbox Standard's detailed 3D landmark models.",
+    "postedAt": "2026-11-05T17:05:53.501Z",
+    "day": 5,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreigesml5ss4rc2uurx5q7jt6lezg3nskv7kwcuzhivzpwx7rylhtum",
+    "hash": "01494171414d1b80"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3mzldfdyalc2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3mzldfdyalc2l",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 5: Sight 👀 Most web maps aren't accessible. To a screen reader, they're a line of alt text at best. I tried to build out what an accessible web map might look like. Navigate t…",
+    "postedAt": "2026-11-05T16:53:43.657Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreidc5twb5jtnpa7gokp3flrjv2slw6afvzvnciaxmd7uhrh6cyxp74",
+    "hash": "a689cdd042b131f3"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3mzlc7f3rpc2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3mzlc7f3rpc2r",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 5: Senses - Sight. All the points from which you can see the Cathedral of Saint Paul. This map ended up being maybe my favorite in the whole book, and it was a complete acciden…",
+    "postedAt": "2026-11-05T16:32:29.686Z",
+    "day": 5,
+    "color": "#382818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreid353kbbipfj4bwdnglz4s3jvf4lt3dtdimcpqn7d2hdznze72mhi",
+    "hash": "373777733135165b"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzlagilkhe2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzlagilkhe2m",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 5 · Senses: Sight. Mount Fuji, which you can see from Tokyo about 100 km away on a clear day, drawn as rings of equal height closing in on the crater. Data: public elevation data. Made with Print…",
+    "postedAt": "2026-11-05T16:00:40.657Z",
+    "day": 5,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117564666222041827"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117564666222041827"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreifw6eo5hvkz3rjk4mym7jdbpbqspprxl3rsssn6rz2icpxe6yoetu",
+    "hash": "19330f0f0f03160e"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep4v4qi2wmilctpshoehyde5/app.bsky.feed.post/3mzl7ggalus22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/nuez.io/post/3mzl7ggalus22",
+    "author": {
+      "name": "Teun van Veggel",
+      "handle": "@nuez.io",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep4v4qi2wmilctpshoehyde5/bafkreice6e6oilbqxg36uavcteikus3zygxqrstydoeiqmodxrogheqo64"
+    },
+    "text": "Day 5 of #30DayMapChallenge, Sight: how far out at sea can you see a lighthouse? Each circle is the range of one light: 3,642 lighthouses from Wikidata. Where coasts are dense, the circles blur into…",
+    "postedAt": "2026-11-05T15:42:44.615Z",
+    "day": 5,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mapstodon.space/@mapsemble/117564596756158369"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/ap/users/117558929687552468/statuses/117564596756158369"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aep4v4qi2wmilctpshoehyde5/bafkreidjooiz2lfwpp4sm2etktz6kicgn7sp5iyvjmn7crjh67fddrqkkq/thumbnail.jpg",
+    "hash": "6c6c666666626e74"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3mzl7a2rjf22q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3mzl7a2rjf22q",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 5 of #30DayMapChallenge: Senses: sight. I mapped how many of Alberta's 979 named Rocky Mountain summits you could see from each square kilometre. About 132,000 km², a fifth of the province, can s…",
+    "postedAt": "2026-11-05T15:39:11.260Z",
+    "day": 5,
+    "color": "#383838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreib6ftbpowetbmgostkymmfcb5xpcxn2snfc4mwtpofphnynkfar2u",
+    "hash": "623a1c9c4da56647"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3mzl54onywx2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3mzl54onywx2j",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 5/30 · Senses: Sight ☀️ From Cetățuia, Cluj-Napoca, you see a fifth of the city (~35 km², estimated), and the day is 13 min shorter than on a flat horizon. Inspired by stevefaeembra.…",
+    "postedAt": "2026-11-05T15:01:30.235Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreifngso5d5s7nsedkshtdzwlhcbvmig76li7nepho44zbokd5y7tby/thumbnail.jpg",
+    "hash": "27c8c88b03b5da74"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3mzl2nx2e4b2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3mzl2nx2e4b2w",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 5 of #30DayMapChallenge · Sight Where you can see Rainier from There's more behind it on the page. #MountRainier #viewshed brooksgroves.com/30DayMapChallenge/2026/share/day-05.html",
+    "postedAt": "2026-11-05T14:17:28.335Z",
+    "day": 5,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreifmjayiurakhluvpxbc67ol3zmnibw74y3swyjzq6dn3poc4r7y3q",
+    "hash": "d0c0f2e0e4ece8e8"
+  },
+  {
+    "id": "bluesky:at://did:plc:ca2lu4tjmgi2vod3hvztwxxv/app.bsky.feed.post/3mzkzehfs4k2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hfxshippingnews.bsky.social/post/3mzkzehfs4k2w",
+    "author": {
+      "name": "Halifax Shipping News",
+      "handle": "@hfxshippingnews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreihdpm4mu3tmxdwbshdxdxyivncdsoaactfxqnpz5gvdrjcqti2fy4"
+    },
+    "text": "Day 5 - Sight #30DayMapChallenge",
+    "postedAt": "2026-11-05T13:54:16.267Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreigcm2klus6xftt2qjnoo6k53kdxbm6ucdayu2o4m5ckmafmyydim4",
+    "hash": "ea6c30b89e83c3a2"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzkwstzlgk2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzkwstzlgk2z",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 5: Sight #30DayMapChallenge I love running, especially when I am in a beautiful place! These are some runs I remember for the sights: whales in Puerto Madryn, the Monumental on the Buenos Aires M…",
+    "postedAt": "2026-11-05T13:08:38.009Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreicsclmlupu4iyzcp3q2qjrehng3xxtwwfkvxkznrtrnryx6ywjt3e",
+    "hash": "90b28e86ae8e9a94"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzkwfou54c2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzkwfou54c2z",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 5 - Sight What you're looking towards across Lake Ontario",
+    "postedAt": "2026-11-05T13:01:16.407Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117563962407684394"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreiha2mcfspkdrvatg4ae46nj4r7b6art7cnjlihlwqmw5ug3w3biaa",
+    "hash": "818a4ece9e88d0c0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3mzkw6q2ioc2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3mzkw6q2ioc2q",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 5: Sight Check out the stunning bird's-eye view map of @gloswildlife.bsky.social Trillis Banks nature reserve 🦅 storymaps.arcgis.com/stories/0aad...",
+    "postedAt": "2026-11-05T12:57:22.787Z",
+    "day": 5,
+    "color": "#586878",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreihz467rcq36sbvx3ex3tjm2f6u46a5bqlhizmhuubxki7jfcjye4u",
+    "hash": "8c67624066ece7d0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzkvsni26k2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzkvsni26k2l",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 309 of #365DaysOfMaps. November 5th is See Something Day. Try out Ian's first person interactive recognition map. #30DayMapChallenge day 5 tie-in: sight How Do You See Something? (309/365) mapdes…",
+    "postedAt": "2026-11-05T12:50:37.425Z",
+    "day": 5,
+    "color": "#588878",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreie66sv2fwjd3et7po56s5ouvqdg63vxld4hvprxyiudfimk3njzu4",
+    "hash": "ad0d6f6571658424"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzkrzez7hc2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3mzkrzez7hc2w",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.fosstodon.org/cache/accounts/avatars/115/475/501/542/301/897/original/b1c419acfd04ce0b.jpeg"
+    },
+    "text": "#30daymapchallenge Day 5 Senses: Sight | Madison’s Pre-Settlement Landscape Go back to the mid-1800s and here’s the landscape you would have seen across the isthmus: sturdy oak forest, with white, bl…",
+    "postedAt": "2026-11-05T11:42:48.469Z",
+    "day": 5,
+    "color": "#e8e8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/latlong.shop/post/3mzkrzez7hc2w"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzkrzez7hc2w"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifupt7aqvhdy3qzo4fo64x5fqttlzadpxdtj65ui5u2yhwl7omeja",
+    "hash": "1cc1580dc55ab888"
+  },
+  {
+    "id": "bluesky:at://did:plc:bc2gbxtx5scfvyoajyacw3ao/app.bsky.feed.post/3mzkpmw6cys2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/benunsworth.co.uk/post/3mzkpmw6cys2c",
+    "author": {
+      "name": "Ben Unsworth",
+      "handle": "@benunsworth.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bc2gbxtx5scfvyoajyacw3ao/bafkreig5nk2q3hp43qpuurfamo5beabx2cvbb7e6uhzulh27gigre4zm4a"
+    },
+    "text": "#30DayMapChallenge Day 5: Senses - sight 👀 Map of protected views in london. Again, one shot prompt in an agent and using the @squidmaps.bsky.social ephemeral API. squidmaps.io/ben-unsworth...",
+    "postedAt": "2026-11-05T11:00:02.771Z",
+    "day": 5,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bc2gbxtx5scfvyoajyacw3ao/bafkreicyqppicf7tlncmmxxuqeuuk246bb5qgrycrgqpjuqirj2nnm6gxa",
+    "hash": "a68b2ca4660b3bb4"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3mzkp3krfwa42",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3mzkp3krfwa42",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 5: Sight 🏙️ Two LiDAR surveys, AHN2 (2007–2012) and AHN6 (2025–2027), show Rotterdam growing vertically. Along a 2.3 km transect: the Zalmhaven tower (215 m), timber SAWA (~50…",
+    "postedAt": "2026-11-05T10:50:13.000Z",
+    "day": 5,
+    "color": "#180828",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117563445333149875"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreibztji7vp6xzvbwixsqb7qbj67w4c6clximhzvy3iuyf5fahn64rm",
+    "hash": "0f472d197161594b"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzkl67zpjj2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzkl67zpjj2w",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 5 - Senses: Sight The disappeared Tokuyama village Zoom in and visualize a former village submerged by Tokuyama Dam in 2006. app.kumoy.io/public/map/8... Made in #QGIS, powered…",
+    "postedAt": "2026-11-05T09:40:14.608Z",
+    "day": 5,
+    "color": "#082818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117563170629345202"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117563170629345202"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreibb2y6uc34nrmuj43d6gkgfaoo7q2ybmywuj66axgyshul2mqlp6m/thumbnail.jpg",
+    "hash": "66eeefe7466e6d6c"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzkhuqk6ic2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzkhuqk6ic2w",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 5: the #30DayMapChallenge prompt is 'sight'. At Cassino, who could see whom decided everything. Broadly speaking, the Allies believed the monastery was a German lookout. Voila, a lesser-known map…",
+    "postedAt": "2026-11-05T08:41:15.364Z",
+    "day": 5,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreidateqtambdiuv5t3h7zylxictmp7wetejpmceizextru32gdbgoa",
+    "hash": "555715696b5f4747"
+  },
+  {
+    "id": "bluesky:at://did:plc:dhkzuubapdaekmh6twharwqu/app.bsky.feed.post/3mzkgzwed6s2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jmviglino.bsky.social/post/3mzkgzwed6s2s",
+    "author": {
+      "name": "Jean-Marc Viglino",
+      "handle": "@jmviglino.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreido346cvr3n2wavudziovnxgamdhcsj5cdmbqb3sbjwtca56n47yu"
+    },
+    "text": "#30DayMapChallenge : Day 5 - Sight - Belvédaires de Paris. 🗺️ Carte en ligne #Macarte : macarte.ign.fr/carte/zIeGFk... 📂 Source : OpenData @iledefrance.bsky.social : data.iledefrance.fr/explore/dat…",
+    "postedAt": "2026-11-05T08:26:15.497Z",
+    "day": 5,
+    "color": "#9878a8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreifiik656tliija5xrob4v4coxjh53jnfjxivulocxlrgg6yxid7ay",
+    "hash": "dc9c658f9b0fa78e"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117562738017716660",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117562738017716660",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge / Day 5 : Senses: Sight / Les points de vue remarquables en Bretagne (données OpenStreetMap)",
+    "postedAt": "2026-11-05T07:50:21.000Z",
+    "day": 5,
+    "color": "#e8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/563/013/784/264/962/small/38603ce79d703dbc.jpg",
+    "hash": "b377ccd3cef4989e"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3mzk6uxpm322l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3mzk6uxpm322l",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 5: Sight A full turn at eye height in six places, with a map filling in the land in line of sight. From Oxford Circus the farthest thing in sight is 2.2 km away. From Yr Wyddfa…",
+    "postedAt": "2026-11-05T06:00:01.690Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreiebeuekjuwao7wdq73j3mcwz2dv7dzszy7tsokzwr5ihglf6nsyri/thumbnail.jpg",
+    "hash": "241ecf7df3918086"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3mzk46r5k6k2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3mzk46r5k6k2q",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 5 | Sight | #30DayMapChallenge. What Berlin Sees. How much of the city can be seen, and from where? viewsheds of every viewpoint and observation tower. #RStats #sf #terra #ggplot2 #osmdata #patch…",
+    "postedAt": "2026-11-05T05:12:06.644Z",
+    "day": 5,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117562117252716377"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreid4npjshxdxisi2geueyftr5dsimjii7tyuiqdowqwtaupuwi4vaa",
+    "hash": "0f8b3b3b391bbb03"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3mzjazs3vbs2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3mzjazs3vbs2a",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "👁️🌐How accurately do people *see* the geography of their country? How well do we know our places and spaces? An excellent #GIS dataviz crowdsourcing project by Nicolas @habibicode #GoGIS4GA #30DayM…",
+    "postedAt": "2026-11-04T21:06:08.844Z",
+    "day": 5,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreifduj4t76syx647lnv2sbkph2ykwoxybki7j2dlxhndzjw6jwqaji/thumbnail.jpg",
+    "hash": "00006c3f570c0000"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3mzj6rg7tbk2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3mzj6rg7tbk2b",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 5 · Sight How do you see? You bring light into focus. Richat Structure as the surface of water, the sun shining through to the floor. Its rings act as lenses: light gathers into caustics, oversho…",
+    "postedAt": "2026-11-04T20:25:40.468Z",
+    "day": 5,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreidhvxki55a7jwyu3ffbc4vd2vgtliwa4oe7j7fhxhh3pxxco7fk5a/thumbnail.jpg",
+    "hash": "27070b0d47230e40"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3mziy3ut2v22b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3mziy3ut2v22b",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "#30DayMapChallenge Day 5 - Sight. Looking to our election results starting from the evening of the 7th, I have made a template for #rstats cowplot Picture in Picture style electorate maps where you j…",
+    "postedAt": "2026-11-04T18:26:15.127Z",
+    "day": 5,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreidoxqzl2yvqocysfalgscmikibr6csauecsnjj6ezx3dkpjbgiphi",
+    "hash": "008d88b4aa523800"
+  }
+]

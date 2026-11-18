@@ -1,0 +1,907 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwuui5k27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwuui5k27",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 10: Prompting Only Amelia Earhart's 1937 attempt to fly around the world, made entirely by prompting Claude: arrows, text callouts, and a vintage 1930s look. Hover each leg for…",
+    "postedAt": "2026-11-18T15:50:37.225Z",
+    "day": 10,
+    "color": "#d8c8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreihaozwvymu7fimftdgzpzhmsygrgvlxye3oqxb74as2g7k2ykfb2y",
+    "hash": "969c7a786b6c6c6c"
+  },
+  {
+    "id": "bluesky:at://did:plc:mzhenu62mgjfuct5m6qxqfot/app.bsky.feed.post/3n2eppstys22b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/lisahornung.bsky.social/post/3n2eppstys22b",
+    "author": {
+      "name": "Lisa Hornung",
+      "handle": "@lisahornung.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreifq42axbo6atx5xztz6om2e472kcompyhqvnacdicqewrbzezpkcu"
+    },
+    "text": "#30DayMapChallenge Day 10 - Prompting only. A Voronoi map of London pubs that have a colour in their name. Quite conflicted with this one. Of course it's impressive how fast I can move and build thin…",
+    "postedAt": "2026-11-15T19:10:53.149Z",
+    "day": 10,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/LisaHornung/statuses/117622011325732852"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mzhenu62mgjfuct5m6qxqfot/bafkreihw4bz4mhicn4xzdtbnymig2khod2u7a4zeechtpnego677ymzveq",
+    "hash": "304c0b2b0b0e8e0d"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3n262eng4ls2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3n262eng4ls2v",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 10 · Prompting Only: Crater Expectations Crater Lake National Park, Oregon, at golden hour on a November afternoon, with little 3D models marking the visitor centres,…",
+    "postedAt": "2026-11-13T03:32:51.344Z",
+    "day": 10,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreigq7llkql6ifekc6xkafdkjtwbhszukvvmocbinrx3kgbtnqnlzku",
+    "hash": "135fb44b49367779"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3n25of3tdq324",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3n25of3tdq324",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 10 · Prompting only Looking at how the WNBA teams have evolved since 1997. Made only with Claude prompts in R.",
+    "postedAt": "2026-11-12T23:58:13.000Z",
+    "day": 10,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreidznzkk4kjmuswo22javmadus33txxpzqgfv47aawmurxlaabycjq",
+    "hash": "88c0c4dcc8e1e400"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n25f2djalc2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n25f2djalc2y",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 10: PROMPTING ONLY - LISBOA - A MODERN CITY DRAWN IN THE MANNER OF AN ANCIENT CHART - A somewhat mediavalesque rendition of some aspects of Lisbon, generated via the gpt-6.1-so…",
+    "postedAt": "2026-11-12T21:11:16.839Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117605518736986976"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreihccz6iqdhot4d4je5lsoj6rl6pczpn2jwwjozuunm2b7wgltyeaa",
+    "hash": "172f55151303e090"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3n22ub3zy2k2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3n22ub3zy2k2k",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Really pushing the limits of the theme, I suspect. Day 10 of the #30DayMapChallenge is \"sound.\" This is my humble offering: places name-checked in The Smiths' song, \"Panic,\" which I knew from the rad…",
+    "postedAt": "2026-11-11T21:05:30.789Z",
+    "day": 10,
+    "color": "#e8e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreiafjkghy7bofhvz5bvqbfhbeqehw6kxwafah4akncq36gn2kj6m2e",
+    "hash": "156e66e693b1b161"
+  },
+  {
+    "id": "mastodon:https://subdued.social/users/alan/statuses/117595655450237508",
+    "platform": "mastodon",
+    "url": "https://subdued.social/@alan/117595655450237508",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan@subdued.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/627/775/480/222/382/original/4e41924fd533257c.jpeg"
+    },
+    "text": "For #30DayMapChallenge Day 10, “Prompting only,” I used Claude to automate the tedious parts of making “Blender maps”: real @kontur population data + real @Blender ray-traced shadows. These maps are…",
+    "postedAt": "2026-11-11T03:21:41.000Z",
+    "day": 10,
+    "color": "#f8e8d8",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3mzyyt3jrdf32"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3mzyyt3jrdf32"
+    ],
+    "image": "https://cdn.masto.host/subduedsocial/media_attachments/files/117/595/648/614/025/444/small/54d1df13506d254d.jpg",
+    "hash": "c196241c7866d880"
+  },
+  {
+    "id": "bluesky:at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3mzyyjfunes2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mappingmashups.net/post/3mzyyjfunes2a",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@mappingmashups.net",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/bafkreifjfjut2fwr6ni7woujuo2yf4zdfwjazedfpy5apvfhzxciv3weau"
+    },
+    "text": "Day 10 of the #30DayMapChallenge: “Prompting only.” I had Claude Code build those trendy 3D population spike maps from real data, with real ray-traced shadows. Then I compared them with what chatbots…",
+    "postedAt": "2026-11-11T03:16:25.028Z",
+    "day": 10,
+    "color": "#f8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/bafkreiayfodhrmrziqgpa7ulbprq4pnzn3ck33xkuisyteygtu4trtbgrq",
+    "hash": "80e36474ecf83988"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117594640303924146",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117594640303924146",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 10. Prompting only One prompt, three LLMs, three maps of Ukraine. Very different answers. #30DayMapChallenge",
+    "postedAt": "2026-11-10T23:03:31.281Z",
+    "day": 10,
+    "color": "#183858",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3mzykfmos422b"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3mzykfmos422b"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/594/639/608/242/925/small/dcd7d3b84b54b8a5.png",
+    "hash": "6665614d6b796c69"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/jcarlson/statuses/117594573641067199",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@jcarlson/117594573641067199",
+    "author": {
+      "name": "Josh Carlson",
+      "handle": "@jcarlson@mapstodon.space",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/288/786/844/433/120/original/3ac8602e288ce986.jpg"
+    },
+    "text": "Look, \"prompting only\" doesn't have to mean you were coaching a stochastic parrot. #30DayMapChallenge Day 10: Prompting Only I introduced my son to #OpenStreetMap and verbally coached him as he start…",
+    "postedAt": "2026-11-10T22:46:34.000Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/594/545/265/170/737/small/22195e231599eb9c.jpg",
+    "hash": "628ec3c52388c8da"
+  },
+  {
+    "id": "bluesky:at://did:plc:dhkzuubapdaekmh6twharwqu/app.bsky.feed.post/3mzy7cnzwdk2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jmviglino.bsky.social/post/3mzy7cnzwdk2v",
+    "author": {
+      "name": "Jean-Marc Viglino",
+      "handle": "@jmviglino.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreido346cvr3n2wavudziovnxgamdhcsj5cdmbqb3sbjwtca56n47yu"
+    },
+    "text": "🗺 #30DayMapChallenge Day10 - Prompting only 🤖 And now, a humorous map depicting the Internet as a fictional place",
+    "postedAt": "2026-11-10T19:45:15.157Z",
+    "day": 10,
+    "color": "#c8c898",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreietrt3pb7wru4r5pjup2tqh25qrxysr6lgkjangjbrz6n5clf4tsq",
+    "hash": "0b4f161253b62333"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/AtanasE/statuses/117593805750843664",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@AtanasE/117593805750843664",
+    "author": {
+      "name": "Atanas",
+      "handle": "@AtanasE@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/109/246/517/786/497/710/original/bed56ae1f5569bc9.png"
+    },
+    "text": "I do not participate in the #30DayMapChallenge , but I could not resist Day 10 - Prompting Only So here's a map of New Jersey, prompted to look antique and artistic.",
+    "postedAt": "2026-11-10T19:31:17.011Z",
+    "day": 10,
+    "color": "#e8c898",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://files.mastodon.social/media_attachments/files/117/593/805/058/809/591/small/ed04a5949a30211f.jpg",
+    "hash": "8669646773584d9d"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzy35gambc26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzy35gambc26",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "The 86 districts of Cologne, set in their own names. Typographic map made with Claude. #30DayMapChallenge Day 10 - Prompting only #Köln",
+    "postedAt": "2026-11-10T18:30:44.254Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreich7bx3l3zvnqdalhlnioksdzpobl3r6dqody4ic73f2zj7rbsviu",
+    "hash": "dac0e0f49672b890"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3mzy2ekkrx22c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3mzy2ekkrx22c",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🤖 Day 10/30: Prompting Only | Four Words. One Map. What can AI build from just four words? For Day 10 of the #30DayMapChallenge, my entire prompt was: \"ok its day 10\" The result? An AI-authored ArcG…",
+    "postedAt": "2026-11-10T18:16:49.925Z",
+    "day": 10,
+    "color": "#384868",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreid3wqpadt7opokeuhrbekncxegcvda2kvkh7mdg5efw4mrwdeqqyy/thumbnail.jpg",
+    "hash": "fd6d67b37b696c6e"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3mzxzoss5722v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3mzxzoss5722v",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 10 of #30DayMapChallenge: Prompting only. BC, Alberta, the NWT and Manitoba kept summer time on 1 November, so 28.8% of Canadians did not fall back. I made the map by prompting alone, from 165,38…",
+    "postedAt": "2026-11-10T18:04:40.356Z",
+    "day": 10,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreifnaudiv5v3dnmk4nr33asuzhaqtd6nwkl2hh4vwwbdpaluhuug7y",
+    "hash": "59353f39292d4b73"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3mzxzhimqab2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3mzxzhimqab2p",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "I asked 5 AIs to draw Europe from memory (with no internet!) #30DayMapChallenge Day 10 👇🏻",
+    "postedAt": "2026-11-10T18:00:34.802Z",
+    "day": 10,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aad6qm246w2e3wvue4dobauvk/bafkreibuaqladjggbtoclfyvknzu27qfng35uivft6k3gkjbrricvnhr74/thumbnail.jpg",
+    "hash": "a8a4133d5d795985"
+  },
+  {
+    "id": "bluesky:at://did:plc:ttny5w2ro55gy5jtqm5qst3g/app.bsky.feed.post/3mzxwwryjus22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/xenongt.bsky.social/post/3mzxwwryjus22",
+    "author": {
+      "name": "Sandon",
+      "handle": "@xenongt.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreibprbo5mjroycctfixh55zz6ghccu5qjcxgaauf55pm64k7k33cgi"
+    },
+    "text": "#30DayMapChallenge - Day 10 - Prompting Only Took about three prompts in ChatGPT to come up with this map. I can’t speak too much about the accuracy of the map but it certainly seems better than AI p…",
+    "postedAt": "2026-11-10T17:15:26.726Z",
+    "day": 10,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreieyqmpr3bb54cxswgpffbwfywnlcrhk23zooya67ufokw7rjm6ode",
+    "hash": "175d367a4aba325a"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3mzxw2ae2xf2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3mzxw2ae2xf2x",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 10 of #30DayMapChallenge, Prompting Only. Claude Code made it from my own code template. Håbo has 3.9 m of cycle path per person. 77% of Uppsala County is below the county's 2.4 m. Code: https://…",
+    "postedAt": "2026-11-10T16:59:26.191Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreigfkf53pimqdjxivfim54edyyrn55aq6wnxpudpt37k4w5t2gsr4e",
+    "hash": "e8e2c878c9c8e0e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3mzxtzna7zk2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3mzxtzna7zk2m",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 10: Prompt 🚅 Tokyo’s railways apologize when a train leaves 20 seconds early. Yet the Saikyo Line handed out late notes on 99% of weekday mornings. The catch is one late train…",
+    "postedAt": "2026-11-10T16:23:21.175Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreidwxkzi5jdb47qkgef2typ4zuxecnjhylcnowrol3sp2r4vmhje7e/thumbnail.jpg",
+    "hash": "86ad69f1b4a4bcf8"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzxss2lxe62w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzxss2lxe62w",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 10 · Prompting only. Crater Lake, which fills the caldera left when Mount Mazama collapsed about 7,700 years ago. An AI agent made this one from a chat prompt: it picked the place, set up the ren…",
+    "postedAt": "2026-11-10T16:01:12.867Z",
+    "day": 10,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117592979881260342"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117592979881260342"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreidb5irg4h5tarnbaxpwwtmpduh4xqgty5h64a657pn5k2jg4yhddi",
+    "hash": "16570713070f160e"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117592954363189921",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117592954363189921",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day10: Prompting only In 2024, there was already an “AI only” challenge, and the maps didn’t look particularly good back then. So I didn’t go into this expecting much. I still won’…",
+    "postedAt": "2026-11-10T15:54:45.890Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/592/908/527/575/067/small/fc01faeb4d79446d.png",
+    "hash": "53554545554545ae"
+  },
+  {
+    "id": "bluesky:at://did:plc:wxffxcxq7ckdwj7jmftnzkzs/app.bsky.feed.post/3mzxr4dxk2k2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/gloswildlife.bsky.social/post/3mzxr4dxk2k2b",
+    "author": {
+      "name": "Gloucestershire Wildlife Trust",
+      "handle": "@gloswildlife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxffxcxq7ckdwj7jmftnzkzs/bafkreiez32mm4ir3okbmbvvb4pp3yyj3gbtkb6iklqj73wsibm6jsil42m"
+    },
+    "text": "It's day 10 of the #30DayMapChallenge! Can you guess today's map from @glosrecords.bsky.social? Hint: prompting only... Check it out here: www.gcer.co.uk/30-day-map-g...",
+    "postedAt": "2026-11-10T15:31:10.888Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wxffxcxq7ckdwj7jmftnzkzs/bafkreibxtvvqzp7nzj2wf6atdl5drnfh2jhl6ui7f7mor2zlfgyxnt6lby",
+    "hash": "18b8707970607168"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3mzxqh44kus2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3mzxqh44kus2o",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 10 — Prompting Only 🤖 What happens when you combine Figma, AI, and Mapbox? At BUILD with Mapbox 2026, Mapboxer Nikita Slavin showcased how to bring real maps directly into Fig…",
+    "postedAt": "2026-11-10T15:19:18.022Z",
+    "day": 10,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Am6ycobnhtarpiehfqpd4kszr/bafkreih5yo6gr3wijsnxw7zcgtjb5ww5af6zr6vmnv6ykxme2sysebmpti/thumbnail.jpg",
+    "hash": "0000000000000000"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzxqfzjk3222",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzxqfzjk3222",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 314 of #365DaysOfMaps. November 10th is Sesame Street Day. Here's a map maze game to help kids find their way. #30DayMapChallenge day 10 tie-in: prompting only... yep, that's what our daily AI ex…",
+    "postedAt": "2026-11-10T15:18:41.744Z",
+    "day": 10,
+    "color": "#f8f8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreigpokxj2qh7lgtvxusdpk5a7dzpb7o4j6qdhutdhbio26jek3gaui",
+    "hash": "ecd497eaf296b09a"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3mzxph7mtii2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3mzxph7mtii2w",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 10/30 · Prompting only 💬 \"How many schools within a 10-min walk of Piața Mihai Viteazu?\" A Three.js 3D map of Cluj-Napoca, no chatbot: 9 in a straight line, 7 on foot (est.). Inspire…",
+    "postedAt": "2026-11-10T15:01:27.780Z",
+    "day": 10,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117592743137783867"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreifbirjagcd5swbmdhfw4pbp77jngufqjvbnzu4mhan6ersq3ymaku/thumbnail.jpg",
+    "hash": "888030307070b3d7"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3mzxmwxry5w22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3mzxmwxry5w22",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 10 of #30DayMapChallenge · Prompting only A map made only by asking There's more behind it on the page. #FORTRAN #retrocomputing brooksgroves.com/30DayMapChallenge/2026/share/day-10.html",
+    "postedAt": "2026-11-10T14:16:35.330Z",
+    "day": 10,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreiffghva5whi5klfko66isg467xkfvezi7jy7mfpgqrg5thebu7274",
+    "hash": "a02061504c6163c6"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3mzxmw2ngv223",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3mzxmw2ngv223",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Thanks, Claude! #30DayMapChallenge day 10—prompting only. No data, code, or laptop were touched to make this global map of my Strava history. Wonder if I’ll ever run in Antarctica. For those interest…",
+    "postedAt": "2026-11-10T14:16:04.826Z",
+    "day": 10,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreihkhebun6u5fdwd557vkkitietk2grkx5adrwloni5bultrcfhwwi",
+    "hash": "291b1b177376164e"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzxmmh6qyk2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzxmmh6qyk2p",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 10: Prompting only I'm surprisingly impressed with Claude even if the map's a bit crude. 1. make a map of Lake Ontario 2. now include major rivers 3. draw the river courses ins…",
+    "postedAt": "2026-11-10T14:10:42.434Z",
+    "day": 10,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117592547278025556"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreiha7jms2rqcej6okm6i3hbzx5ad6df3xagckvge74373q4ljq2q7q",
+    "hash": "53537b514d4d1d11"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzxgw7tdgc26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzxgw7tdgc26",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "I asked AI to \"be creative\" for day 10 of the #30DayMapChallenge, and it decided to draw the world map by memory. Does AI think an \"AI memory\" drawing is impressive? I find it a bit sad... Also, it c…",
+    "postedAt": "2026-11-10T12:28:47.812Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreibtnlayvmxz6zpvbukoclb2o6oozcizfazeg2c4ucnq64jbgyicri",
+    "hash": "a8d8d0e2e8aa2aaa"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep4v4qi2wmilctpshoehyde5/app.bsky.feed.post/3mzxg7mpygs2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/nuez.io/post/3mzxg7mpygs2m",
+    "author": {
+      "name": "Teun van Veggel",
+      "handle": "@nuez.io",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep4v4qi2wmilctpshoehyde5/bafkreice6e6oilbqxg36uavcteikus3zygxqrstydoeiqmodxrogheqo64"
+    },
+    "text": "#30DayMapChallenge Day 10, Prompting only 🌋 1,213 volcanoes active in the last 12,000 years, built in two chat messages to Claude using Mapsemble MCP (mapsemble.com/docs/claude-...). Colored by last…",
+    "postedAt": "2026-11-10T12:16:09.583Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aep4v4qi2wmilctpshoehyde5/bafkreifdp7jz4xcge6ocdiretmge2akupzlog6fysy6rfy3nhmkomfm2ni/thumbnail.jpg",
+    "hash": "100060e0ccccc000"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/nrennie/statuses/117591940741232199",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@nrennie/117591940741232199",
+    "author": {
+      "name": "Nicola Rennie",
+      "handle": "@nrennie@fosstodon.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/245/538/926/592/687/original/24f535045b452575.jpg"
+    },
+    "text": "Day 10 of the #30DayMapChallenge | Prompt: Prompting only A map of Manhattan showing differences in street layout ✈️ #RStats #RSpatial #ggplot2 #DataViz",
+    "postedAt": "2026-11-10T11:36:59.000Z",
+    "day": 10,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/nrennie.bsky.social/post/3mzxdzo6jzt2w"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:jiushxoiyvgcw2tgsjyvd2mc/app.bsky.feed.post/3mzxdzo6jzt2w"
+    ],
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/591/940/622/392/803/small/cd305ea6971c98b6.png",
+    "hash": "6d6d19334d5b9705"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3mzxdapawd22p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3mzxdapawd22p",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 10 | Prompt Only | #30DayMapChallenge Prompts: 1 Create a map using Berlin data and RustGIS 2 Look into GitHub #30DayMapChallenge repositories to get a better composition 3 Pick other data with m…",
+    "postedAt": "2026-11-10T11:23:04.561Z",
+    "day": 10,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117591886620074600"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreiagtjwof5qcturevl3dffnoef42w3f2lv3hpbjvw4rbdq2clhrgqu",
+    "hash": "809498b89931c980"
+  },
+  {
+    "id": "bluesky:at://did:plc:msxhbwvgmgp5t4bcrgefgmbz/app.bsky.feed.post/3mzxbway3d22h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/quarticle.bsky.social/post/3mzxbway3d22h",
+    "author": {
+      "name": "Quarticle",
+      "handle": "@quarticle.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:msxhbwvgmgp5t4bcrgefgmbz/bafkreid7l7z4q4cea4tuplyvt3hh43xfw5pe46lmnuj6h3ovu5xg3ioeyq"
+    },
+    "text": "For #30DayMapChallenge Day 10, the theme is Prompting Only. This map brings together GDACS (Global Disaster Alert and Coordination System) alerts from the last 30 days, covering earthquakes, tropical…",
+    "postedAt": "2026-11-10T10:59:20.305Z",
+    "day": 10,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@Quarticle/117591803388694891"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/users/Quarticle/statuses/117591803388694891"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:msxhbwvgmgp5t4bcrgefgmbz/bafkreia2xazsvj3vvmsyq6pzylcxv5xklgl62yjzxb3jxzdf5rtoxza32i",
+    "hash": "c383821ada536160"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzxbmgjt522j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3mzxbmgjt522j",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge | Day 10 Prompting only | Data Centers and Moratoria I mainly use AI for data preparation or complex expressions. But for this prompt, I made the final map directly through convers…",
+    "postedAt": "2026-11-10T10:53:50.582Z",
+    "day": 10,
+    "color": "#080808",
+    "imageCount": 2,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3mzxbmgjt522j"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzxbmgjt522j"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreie3lu65hdmspkyj5w3ztewihd7s3bj7zydjjqhsemfgycpyqjseay",
+    "hash": "1ba2292b2b03030f"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3mzxa6lndgk2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3mzxa6lndgk2f",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "👉 Donnez une autre dimension à vos cartes grâce au MCP Geocontext. Explorer la carte ignf-act.github.io/tour_eiffel/ #30daymapchallenge – J10 #PromptingOnly 📊 BD TOPO®, MCP Geocontext ✍️ Mickael BO…",
+    "postedAt": "2026-11-10T10:28:12.442Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://social.numerique.gouv.fr/@ignfrance/117591672517055448"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117591672517055448"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A6j7dfu4urjderngdgf2nh7gw/bafkreihbvvwiug4m3ibb7lklymfx53326dwisko5dlzseea53x6j23fopa/thumbnail.jpg",
+    "hash": "8266ac4d4d812023"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117591577528303321",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117591577528303321",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 10 of the 30 day map challenge - (ai) prompting only \"alphabet lengths in europe\" man i feel so dirty doing this even as the most token-maxxing ai booster on the fediverse (i think LLMs can be ki…",
+    "postedAt": "2026-11-10T10:04:37.000Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3mzx6uiigyzw2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3mzx6uiigyzw2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/591/563/797/042/362/small/ce3378f1d8dfbbf2.png",
+    "hash": "8ea6a66662f2d292"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117591477314100047",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117591477314100047",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 10 - Prompting only The World à la Mondrian 🟥 🟨 🟦 Install the Mapsuke plugin on QGIS, connect to Claude, and create such a map in 12 prompts. https://app.kumoy.io/public/map…",
+    "postedAt": "2026-11-10T09:39:07.899Z",
+    "day": 10,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzx5hb4rr222"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzx5hb4rr222"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/591/476/929/593/812/small/f9512235ec70eea1.png",
+    "hash": "a5d9d2d4d78b83cd"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzx4lbgzpk2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzx4lbgzpk2f",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 10 of the #30DayMapChallenge, and it's bit of a curve ball. The rules allow one map to be made by AI. Here's mine: Dunkirk's escape routes, drawn using Admiralty figures. Not sure how I feel abou…",
+    "postedAt": "2026-11-10T09:23:42.987Z",
+    "day": 10,
+    "color": "#183848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreiakwkstpdbnm2hl5egezcij3ahlq2bqrxw6dj6d2vlgdumvldkedu",
+    "hash": "484bc8c4a101999e"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3mzx3w4jyfc2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3mzx3w4jyfc2q",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 10: map generated by AI prompt only The type of AI isn't specified THINGS GET HAIRY.... www.gcer.co.uk/30DMC_Day10_...",
+    "postedAt": "2026-11-10T09:11:53.200Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifg6k5r43b7qmcc2vs7kiij5cdinvicgprayvtmtozv4ekoe2m5ma",
+    "hash": "18b8707970607170"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3mzwy62unfm2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3mzwy62unfm2l",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 10: Prompting only 24.3 million home sales in England and Wales, 2000 to 2025, as light. Made start to finish by AI. Tax deadlines flash, then go dark. After England's stamp du…",
+    "postedAt": "2026-11-10T08:04:31.928Z",
+    "day": 10,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreid44n2hjziucwljdaokqaz34vrck66suxxud7g7dsdjedyrqpch6e/thumbnail.jpg",
+    "hash": "4746000808028071"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117590996754517446",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117590996754517446",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge Day 10: Prompting only For this map, make AI work for its money and produce something from start to finish in a chat window or on the command line. Prompt1: Construis une carte de…",
+    "postedAt": "2026-11-10T07:36:55.000Z",
+    "day": 10,
+    "color": "#d8e8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/590/984/440/279/937/small/d38eb3d0e6998f2e.jpeg",
+    "hash": "cad93974f230484d"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3mzwwdgkza5x2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3mzwwdgkza5x2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 10: Prompting Only 🗺️ I mapped the Rur catchment across Belgium, Germany and the Netherlands using prompts in QGIS. The workflow combined and dissolved upstream BasinATLAS cat…",
+    "postedAt": "2026-11-10T07:31:55.000Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117590977103296862"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreiegq4wbuddxixgmxkhvnl37uf6vgyyheqxjvyf25fufw74t5t3vs4",
+    "hash": "8282c2c2c2a2a080"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3mzvsgbatak2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3mzvsgbatak2v",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "Geo Counties...or how vibe-coding is a game changer! 🆕 A new app created with just1️⃣prompt in @Claude AI which took 22 mins ✅WWW = A great little app! ❌EBI = improve colours; some data missing #30D…",
+    "postedAt": "2026-11-09T20:49:17.858Z",
+    "day": 10,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreibkejyrqmxd3dxpac2yu47ko3ldbvipicdfvst4nt4r5qgo4a34ly/thumbnail.jpg",
+    "hash": "e06519c3404aca84"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117574838418309546",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@fotoshi/117574838418309546",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/117/334/098/102/725/235/original/2f1951a2753e02e7.jpg"
+    },
+    "text": "Day 10: Prompting only. Taipei. “One landmark. Its city. Its photograph.” Chiang Kai-shek Memorial Hall, mapped with a real Fotoshi photo and OpenStreetMap geography. Photo: eneerhut, CC BY 4.0. Map:…",
+    "postedAt": "2026-11-07T11:07:38.000Z",
+    "day": 10,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n26xidfxcm2a"
+      },
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117609074682506263"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n26xidfxcm2a",
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117609074682506263"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/574/838/391/398/925/small/88613d82922ff9c5.jpeg",
+    "hash": "630c15d02f0f8e78"
+  }
+]

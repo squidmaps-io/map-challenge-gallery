@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwr5eoj2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwr5eoj2i",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 9: Urban-Rural Much of Northwest D.C. was once farmland. This map overlays part of an 1879 map with its background removed, so you can compare the historic roads and farms with…",
+    "postedAt": "2026-11-18T15:50:33.266Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreia6zmbbv3xqg6gdac4mgfyiyowdimehe764yzuagfkjfjlw7mn7da",
+    "hash": "92c869b9982d8c06"
+  },
+  {
+    "id": "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3n2btr4mbds2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/seav4f.bsky.social/post/3n2btr4mbds2i",
+    "author": {
+      "name": "Eugene Alvin Villar",
+      "handle": "@seav4f.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uazuy62cckhrybqum2bwqhuz/bafkreidbpdbwj3lxa66ct3pfwypjmwonvguqshpyrwhop5tf7vwr3jlpaq"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 9️⃣: Urban-rural 🏢 Decided to keep it simple and just compare the urban areas in 🇯🇵 Japan 🗾 between the night lights seen in NASA’s 2016 Black Marble imagery and the 1:…",
+    "postedAt": "2026-11-14T15:45:12.636Z",
+    "day": 9,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@seav/117615569117175569"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/users/seav/statuses/117615569117175569"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uazuy62cckhrybqum2bwqhuz/bafkreifdklon4mx22ofdupyjwvnjtog2iub6zc7krhwwqaqoj43p6ft6oe",
+    "hash": "417b3a0207314100"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3n2522vtyz225",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3n2522vtyz225",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 9 · Urban-rural: The boulevard and the park Two walks in Los Angeles: 1.2 km along Hollywood Blvd in the street grid, and 3.0 km down through the hills of Griffith Par…",
+    "postedAt": "2026-11-12T17:54:44.903Z",
+    "day": 9,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreihqyu4fm2ttqywuj7nbypkb4sibk6pnm7k7og57huio5q2yqausia",
+    "hash": "48ee622c0c19570a"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n24gz2hrby2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n24gz2hrby2o",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 9: Urban-rural. Zug and Rigi, Switzerland, at the same map zoom with real Fotoshi photos. Photos: CC BY 4.0. Map: © OpenStreetMap contributors. #30DayMapChallenge #Fotoshi",
+    "postedAt": "2026-11-12T12:13:40.133Z",
+    "day": 9,
+    "color": "#283828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117603411667709122"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117603411667709122"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreid5dc5dwlygashox73oznc2arnxg6hebwohuanyncncqajybhuly4",
+    "hash": "6307110431715b4d"
+  },
+  {
+    "id": "bluesky:at://did:plc:rpi5p4dknmfdr4ala6n5n65o/app.bsky.feed.post/3n243ti2azc2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/isroeaw.bsky.social/post/3n243ti2azc2c",
+    "author": {
+      "name": "Institut für Stadt- und Regionalforschung",
+      "handle": "@isroeaw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rpi5p4dknmfdr4ala6n5n65o/bafkreifsgyg4bpctcvrn3jnjwpp5qswzo5lqbfz5dplpfglhu3qd3bbkgm"
+    },
+    "text": "Day 9, Urban-rural: Ethnic residential segregation in the city region of Linz shrunk by 20% between 2011 and 2021. Natural change and residential mobility within 822 neighbourhoods defined by 250-m-g…",
+    "postedAt": "2026-11-12T08:53:43.294Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rpi5p4dknmfdr4ala6n5n65o/bafkreiard4d2qtcjmg66ivullkxq6f5twttsikwu66qljg53rzg2noutgq",
+    "hash": "90b1f070f0616a69"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n23cfwsmv22l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n23cfwsmv22l",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 9: URBAN/RURAL - EVERY LOCATION IN LISBON THAT INCLUDES QUINTA (FARM) IN ITS NAME - Locations inside the Lisbon municipality that include the word quinta (farm) in their names…",
+    "postedAt": "2026-11-12T01:18:45.466Z",
+    "day": 9,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117600829425410245"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreiaqu4bjpaqz336lugnemromco4p6veii4zs6pncvt3uhfdxm362qi",
+    "hash": "e6e5e5ebe1efebec"
+  },
+  {
+    "id": "mastodon:https://techhub.social/users/GregCocks/statuses/117596649819279241",
+    "platform": "mastodon",
+    "url": "https://techhub.social/@GregCocks/117596649819279241",
+    "author": {
+      "name": "💧🌏 Greg Cocks",
+      "handle": "@GregCocks@techhub.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/525/741/316/716/720/original/7a5a2c901ab85f07.jpg"
+    },
+    "text": "H/T Melanie van Enter https://lnkd.in/p/gWanGtDu — “🐑 EWE VS. US: The Great Kiwi Sheep Showdown! Day 09 – Rural / Urban | #30DayMapChallenge Yeah nah, the countryside is still sheep country! 😂 For…",
+    "postedAt": "2026-11-11T07:34:34.000Z",
+    "day": 9,
+    "color": "#f8f8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://files.techhub.social/media_attachments/files/117/596/649/286/212/439/small/a60f9bc4da1cd303.jpg",
+    "hash": "b66da738ebe68a9a"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3mzy45mdnnk2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3mzy45mdnnk2f",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "Day 9 of #30DayMapChallenge: Urban-rural. For this one @zimrick.bsky.social and I experimented with a circle cartogram where each circle is a country or territory, sized by population, with the fille…",
+    "postedAt": "2026-11-10T18:48:44.388Z",
+    "day": 9,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreic6pawtbihjk562aiuy4gkqkogmiu6g5yiuew6dfoxgf3pldo73pa",
+    "hash": "0ce46c30aaa6a420"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:7ebnmsusl3r2uuaf24igiazh/app.bsky.feed.post/3mzxea5b7nc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:7ebnmsusl3r2uuaf24igiazh/post/3mzxea5b7nc2e",
+    "author": {
+      "name": "Guillaume Noblet",
+      "handle": "@gnoblet.eurosky.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/114/261/874/505/266/330/original/1d23c1c8a79f6891.jpeg"
+    },
+    "text": "#Day09 and #Day10 with an Urban/Rural map and a prompting one #30DayMapChallenge. #rstats #ggplot2 #dataviz #map #geo Link to code below.",
+    "postedAt": "2026-11-10T11:40:39.404Z",
+    "day": 9,
+    "image": "https://eurosky.social/xrpc/com.atproto.sync.getBlob?did=did:plc:7ebnmsusl3r2uuaf24igiazh&cid=bafkreigtuensothwufklqlpyhdurmk4win73akrlps6cigfolm54bkykku",
+    "color": "#181818",
+    "hash": "5f6f2b2b2b2b2b2b",
+    "imageCount": 2,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:2xhwqs7x3xnnpbtxzik2xkpe/app.bsky.feed.post/3mzw27zqoochf",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chaneyswiney.com/post/3mzw27zqoochf",
+    "author": {
+      "name": "Chaney Swiney",
+      "handle": "@chaneyswiney.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreib3l4jkjoqmhebpanyaxgh6pm3pamrjq7jltl2lht52xcgkkp2v7u"
+    },
+    "text": "#30DayMapChallenge Day 9 - Urban/Rural Nevada is mostly rural, *but* there are some urban areas! That counts, right? I recently worked on updating the Nevada Land Cover map for Raven. I am big fan of…",
+    "postedAt": "2026-11-09T23:08:58.597Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 4,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreidi6xiteo7twktzuyzo23kjsiksp5cjiollnbeqf5n6vjv6v6qm5a",
+    "hash": "aca8a6baf47ede46"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3mzvyako5i22c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3mzvyako5i22c",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Everyone's entitled to at least one chaos map during the #30DayMapChallenge. Here's one from me for Day 9—urban-rural. (probably not the last) All it shows is one line: the length of Hadrian's Wall i…",
+    "postedAt": "2026-11-09T22:33:28.725Z",
+    "day": 9,
+    "color": "#b8c8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreicbm56ku6bcezzfomq6vqcyljtq2nitriuqfbbrqf4ieu2t6vrbv4",
+    "hash": "8684b43a2ad29048"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117588851344449559",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117588851344449559",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 09. Urban-Rural #30DayMapChallenge Neither city nor village: Ukraine's dachas. Garden cooperatives from OSM, split by position relative to settlement boundaries. Not just an OSM allotments dump.",
+    "postedAt": "2026-11-09T22:31:18.771Z",
+    "day": 9,
+    "color": "#082848",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3mzvyc62dqc2i"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3mzvyc62dqc2i"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/588/844/884/493/348/small/c03b55bf024dbfb0.png",
+    "hash": "bd6e4b2521cd9396"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117588528231192224",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117588528231192224",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day09: Urban-Rural In 2025, around 80% of households in Germany had access to gigabit-speed internet or faster. However, the rollout of high-speed broadband continues to lag behind…",
+    "postedAt": "2026-11-09T21:09:08.000Z",
+    "day": 9,
+    "color": "#182838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/588/524/967/338/388/small/390ff545281049da.png",
+    "hash": "3ac3030737216521"
+  },
+  {
+    "id": "bluesky:at://did:plc:4ubq2h42rhiv4bm4hdfjvmpz/app.bsky.feed.post/3mzvp2xmdfc2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/elseebb.bsky.social/post/3mzvp2xmdfc2r",
+    "author": {
+      "name": "Sebastian",
+      "handle": "@elseebb.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ubq2h42rhiv4bm4hdfjvmpz/bafkreieipyr4lu6mw6i4qilcf2vbzat67nyxx6f3uw6yv5jff2o4pkamai"
+    },
+    "text": "#30DayMapChallenge 2026 | Day 9 Urban-rural",
+    "postedAt": "2026-11-09T19:49:17.425Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A4ubq2h42rhiv4bm4hdfjvmpz/bafkreia3qa2xjg2cq652do3xfa4kdlnw3rbqewiksdz2sy6575srqtjeki/thumbnail.jpg",
+    "hash": "c8d0c0e06c646424"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3mzvmlj3jik22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3mzvmlj3jik22",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 9 - Urban-rural & 10 - Prompting only Map + Prompts: National Geographic education.nationalgeographic.org/resource/map... Challenge: Color the land 🟩. Color the…",
+    "postedAt": "2026-11-09T19:04:51.394Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreibo4bn5fwb2cy6uxpaajfo57z6qh3cao3wfyfoman75ezk4ish6fi",
+    "hash": "38a0d296abd4aa8a"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3mzvljxd6ak2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3mzvljxd6ak2m",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🌆🌾 Day 9/30: Urban-rural | Where the Grid Gives Way Where does the city end and the countryside begin? For Day 9 of the #30DayMapChallenge, I'm following the changing landscape from San Francisco's…",
+    "postedAt": "2026-11-09T18:46:05.474Z",
+    "day": 9,
+    "color": "#082838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreidpk7oe5f6ultigih2777b3cub36lkru5fiud3fzgv2i4dps5tbgm/thumbnail.jpg",
+    "hash": "60e260e0b1606268"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzvj4kmewc2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzvj4kmewc2z",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "How often does service run here? Central Cologne has access to frequent public transit, while peripheral districts face longer waiting times and fewer direct links. #30DayMapChallenge Day 09 - Urban-…",
+    "postedAt": "2026-11-09T18:02:48.451Z",
+    "day": 9,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreifia7tct4iezjsrfvd2cmajgonafhdryayq5xhwkyqe2b3deut7ly",
+    "hash": "572339170f0b2b0b"
+  },
+  {
+    "id": "bluesky:at://did:plc:mpvc7sixlzbiwtxe4ypwbpag/app.bsky.feed.post/3mzvj4awsoc22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/animaldiseaseoutbreaks.com/post/3mzvj4awsoc22",
+    "author": {
+      "name": "Animal Disease Outbreaks",
+      "handle": "@animaldiseaseoutbreaks.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mpvc7sixlzbiwtxe4ypwbpag/bafkreihefwthu4fiamvpublocc2hdtaplvfjlf6dop445ep6q6yl2ewnhe"
+    },
+    "text": "#30DayMapChallenge Day 9, urban-rural. 56% of wild birds that tested positive for bird flu in England and Wales this year were found in urban council areas, which cover 31% of the land. APHA tests de…",
+    "postedAt": "2026-11-09T18:02:38.308Z",
+    "day": 9,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mpvc7sixlzbiwtxe4ypwbpag/bafkreihiekxmyzdemlcysaty53co4pxptgoaxnz5vmotkppva3ce5c3nbq",
+    "hash": "e8986c68607071e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3mzvizkihij2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3mzvizkihij2t",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "Europe's cities grow. Its countryside empties. #30DayMapChallenge Day 9: Urban-rural 👇🏻",
+    "postedAt": "2026-11-09T18:01:07.627Z",
+    "day": 9,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidienyguwxvtbyyjnvrnsfl6qonhfn54qtz6g3vuo2oxu5u2rxqjq",
+    "hash": "c88a9a28d898dcd8"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3mzvhopnab227",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3mzvhopnab227",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 9: Urban-rural A year in the life of an urban coyote",
+    "postedAt": "2026-11-09T17:37:10.218Z",
+    "day": 9,
+    "color": "#485868",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiazby3ahub3xdtdekf2gpgv2ttcab3fq3vtrhjmly3bzy5b2rigwq",
+    "hash": "165795579596d595"
+  },
+  {
+    "id": "bluesky:at://did:plc:2nymwfhraoi6puox63ehc5a2/app.bsky.feed.post/3mzvgnzgykc2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/timostler1.bsky.social/post/3mzvgnzgykc2l",
+    "author": {
+      "name": "Tim Ostler",
+      "handle": "@timostler1.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreigmye3nhbmxxzv4nmrnbjn6rqtrxndz5f34nnszk7hxaw2axtq4eu"
+    },
+    "text": "#30DayMapChallenge 2026 | Day 9: Urban-Rural Back on it today, mapping the interaction between residential areas and protected natural areas in Sydney, Australia. Data from @openstreetmap.bsky.social…",
+    "postedAt": "2026-11-09T17:18:53.201Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreiehhxltjftunpcoumqncoa5cem3ygy7tv6xem36dfzgaxdl4jnkve",
+    "hash": "70f0f47464ede196"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzvfgvqfi22e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzvfgvqfi22e",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 313 of #365DaysOfMaps. November 9th is Visit an Art Museum Day. Here's a world map of opportunities whether you're an urban or rural dweller. #30DayMapChallenge day 9 tie-in: urban-rural Art Live…",
+    "postedAt": "2026-11-09T16:57:00.690Z",
+    "day": 9,
+    "color": "#d8c8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreief3yymcqykgo6vdhgqcsml6gwgwxrvesdb4kqwxqylrpkt4umhka",
+    "hash": "8f988c8b8797978f"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3mzvdzm4r6k2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3mzvdzm4r6k2b",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 9/30 · Urban-rural 🏘️ How much of a village is Florești still? A commune on paper; 52,735 people in 2021, +131%; a global model sees under half. Three.js 3D map. Inspired by Ralph St…",
+    "postedAt": "2026-11-09T16:31:40.667Z",
+    "day": 9,
+    "color": "#e8e8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117587425739157156"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreihncst6tbonkjxvi3kxmp3ep5uvlwxfngzqgpwjchvg74z3lvgxna/thumbnail.jpg",
+    "hash": "9c92316062164067"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3mzvcs32ogc2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3mzvcs32ogc2z",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 9 of #30DayMapChallenge: Urban-rural. I shaded all 5,161 Canadian municipalities by how many of their workers commute into a city, from Statistics Canada 2021 data. 83.9% of Canadians live in a c…",
+    "postedAt": "2026-11-09T16:09:34.145Z",
+    "day": 9,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreifgvrhwj6z47u7h6fh22gtlxls3ue7bfkhtyjt5ids6w5jxebwwfe",
+    "hash": "7d7e7b5b4f436366"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3mzvcmsmnxc2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3mzvcmsmnxc2q",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 9: Urban-Rural. I found some details from the us govt about locations that have shifted designation from urban to rural in the last decade . #rstats #ggplot #nj",
+    "postedAt": "2026-11-09T16:06:37.528Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreialnpfwfixaqja3dzeqzxtkifpusze5mks4ohypisgmrvonv7pdnq",
+    "hash": "a830607870e0f020"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzvccb4sar2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzvccb4sar2p",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 9 · Urban-rural. The urban half: central Paris around the Seine and the Île de la Cité, every street and building as white line work on Prussian blue. Data: © OpenStreetMap, Overture Maps. Made w…",
+    "postedAt": "2026-11-09T16:00:43.484Z",
+    "day": 9,
+    "color": "#183878",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117587315697810922"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117587315697810922"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreid4xm3jhlln2ij2ot46wizn5h4fow4ac2jkkm6x5f6kyyd7zuytfy",
+    "hash": "4b0901390d070d8e"
+  },
+  {
+    "id": "bluesky:at://did:plc:olyhtg4yyp5y6mvimhbvjse5/app.bsky.feed.post/3mzvc44dpg22r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/visben.bsky.social/post/3mzvc44dpg22r",
+    "author": {
+      "name": "Benjamin Niedermann",
+      "handle": "@visben.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:olyhtg4yyp5y6mvimhbvjse5/bafkreihljxijpbmu2dnl47plalq5wdkp2gy2yyhdrz673jbbfjvhqbxzje"
+    },
+    "text": "#30DayMapChallenge Day 9: Urban-rural Who moved in and out of Germany's cities and countryside in 2024? A lens shows each district by age and sex. Try it here: visquill.com/gallery/moving-in-and-out…",
+    "postedAt": "2026-11-09T15:57:17.295Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://vis.social/@visben/117587313313565402"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://vis.social/ap/users/117072417730931523/statuses/117587313313565402"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aolyhtg4yyp5y6mvimhbvjse5/bafkreiab7fl2sksgl46q7tb5qdpxy4l567w5u2fp6qu32cze5tkuzz3hvu/thumbnail.jpg",
+    "hash": "808092f0d0302000"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117509382044663033/statuses/117587194717235189",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@walkably/117587194717235189",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/117/513/442/944/882/621/original/f92990bbe865b45a.png"
+    },
+    "text": "Day 9, Urban-rural: Germany's median cell score is 63.7 out of 100 in urban centres and 10.5 in very low-density rural areas. The score measures the walk to eight daily needs and the quality of the s…",
+    "postedAt": "2026-11-09T15:30:00.000Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/walkably.org/post/633t4k5ohggm6"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/633t4k5ohggm6"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/566/185/556/975/294/small/8fba89f3821413e1.png",
+    "hash": "92dedcbc9898c898"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3mzv76cztpi2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3mzv76cztpi2g",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 9 — Urban Rural 🌳🏙️ Great maps bring both cities and countryside to life. We're enhancing Mapbox Standard with richer rural landscapes, including forest canopies, agricultura…",
+    "postedAt": "2026-11-09T15:04:48.151Z",
+    "day": 9,
+    "color": "#a8d8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreie5rkcnl6iesfofdjlre3pkmgtdbkgbwq22ii3nubm66qh4id7tu4",
+    "hash": "6dcc87a2683c2624"
+  },
+  {
+    "id": "bluesky:at://did:plc:yv2grvouscdaq7w3ikyljbae/app.bsky.feed.post/3mzv6vfjai227",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dkane.net/post/3mzv6vfjai227",
+    "author": {
+      "name": "David Kane",
+      "handle": "@dkane.net",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreib7ochgvr42yhu7n5cp4k4an34rlgeneqdri62dfokjpxlxwzdllq"
+    },
+    "text": "#30DayMapChallenge - Day 9 Urban-rural Does your measure of charity hotspots just find rural areas? \"Charities per head\" is often used as a measure of the distribution of charitable activity across t…",
+    "postedAt": "2026-11-09T14:59:50.808Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreifl6yssc2jcc4jiont3lvjdemtgwpma3x2u6d34mlabxo4mytfepe",
+    "hash": "d494dcccccccccca"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117587041536999729",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117587041536999729",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day 9 : Urban-rural Urbain et rural dans le 1/4 Nord-Ouest de la France selon la classification de l'INSEE en 3 catégories. Erratum : dans la légende, au 3e item, il faut lire :…",
+    "postedAt": "2026-11-09T14:51:03.000Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/587/030/168/763/353/small/bba08393a782281a.jpg",
+    "hash": "d6dbdbe474353a9a"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3mzv4sqfva3x2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3mzv4sqfva3x2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 9: Urban–Rural Draft map for a book chapter with #IHEDelft colleagues Sharlene Gomes & Lucy Gwen Gillis: where peri-urban wetlands have been studied. 130 papers, 84% from the G…",
+    "postedAt": "2026-11-09T14:22:30.000Z",
+    "day": 9,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117586929279384068"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreiga3afrpfv3fj5ijdasdrxdxtifturywzflo3pm5wj3464zfenyuu",
+    "hash": "f09494d242aaaaa8"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3mzv4inara22z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3mzv4inara22z",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 9 of #30DayMapChallenge · Urban-rural Tacoma to Paradise There's more behind it on the page. #Tacoma #MountRainier brooksgroves.com/30DayMapChallenge/2026/share/day-09.html",
+    "postedAt": "2026-11-09T14:16:55.179Z",
+    "day": 9,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreifigvx7eu7owa4m7jdmptyzsielzc6eeszvsgkc7272dvzldgslhq",
+    "hash": "93a3f89082fcde96"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3mzuy6oadys2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3mzuy6oadys2v",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 9 · Urban/Rural Ukiyo-e was a city’s guide to the countryside. Hachijō-jima never made it into the meisho — volcanoes, Tametomo legends, but also Edo’s exile island from 1606. Filling the gap: a…",
+    "postedAt": "2026-11-09T12:59:45.751Z",
+    "day": 9,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreib6odeqdtgqgafdsyy67u4d4m5sjnmtey5unv74fztgdanawblh24/thumbnail.jpg",
+    "hash": "3107032d23079000"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzuxqviql22p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzuxqviql22p",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 9: Urban-rural Lake Ontraio regional land cover. Data from Sentinel-2 imagery via Impact Observatory",
+    "postedAt": "2026-11-09T12:52:03.602Z",
+    "day": 9,
+    "color": "#a8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117586576656886056"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreigoxfzrzfe4ykg7adwrh34jut45adml24wx4hucoeibs74vmpuvqa",
+    "hash": "912eb8822652d2c8"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117586318122030918",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117586318122030918",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 9 of the 30 day map challenge: urban/rural. Mosaics of snippets of aerial imagery of the world at increasing levels of population-weighted population density percentiles (so the 50th percentile i…",
+    "postedAt": "2026-11-09T11:47:04.000Z",
+    "day": 9,
+    "color": "#585848",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3mzuu4xjzg772"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3mzuu4xjzg772"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/586/308/263/677/895/small/2558f2bf0c3b6fd1.jpg",
+    "hash": "f2f34363703a0ac8"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3mzuu4p7aua2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3mzuu4p7aua2j",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 9: Urban-rural Price per m² of second-hand homes by distance from 12 city centres in England and Wales. In London it almost halves in 20 km, and York's is 38% lower 60 km out.…",
+    "postedAt": "2026-11-09T11:46:47.224Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreifnqxgqxfonc6t2xz4gyjp4iyroki3uyxtsjuxk5cnzv4mdsskpta/thumbnail.jpg",
+    "hash": "a80c8c1c5e308680"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3mzut5ryfec2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3mzut5ryfec2p",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "Ici, c’est la ville qui entoure la campagne ! Perchée sur un promontoire, Bourges était naturellement protégée par les marécages environnants. 🗺️Observez le résultat de 170 ans d’urbanisation. #30da…",
+    "postedAt": "2026-11-09T11:29:47.414Z",
+    "day": 9,
+    "color": "#b87888",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://social.numerique.gouv.fr/@ignfrance/117586250852115106"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117586250852115106"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreib6j6u67wuiiqdedwhsteundd3t45245uzo23qa4qr2ajjtb2zm6y",
+    "hash": "385c9ce87070e0b4"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzus5deqds2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzus5deqds2m",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 9: Urban/Rural #30DayMapChallenge 99% of people in Buenos Aires live on 3% of its land. There's a saying here: \"God is everywhere, but his office is in Buenos Aires\". Leaving Greater Buenos Aires…",
+    "postedAt": "2026-11-09T11:11:38.352Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreicpqayyhrrnb4tfjpxv2luemgqfswxv6zzaoki3qypgl3fx6xpgre",
+    "hash": "c484f9c8f0c1cc8c"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzurw4bvlc2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3mzurw4bvlc2f",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge Day 9 Urban-rural | Ice Age Trail The Ice Age Trail follows the edge of the last glacier for about 1,200 miles across Wisconsin, from remote woods to the main streets of small town…",
+    "postedAt": "2026-11-09T11:07:36.033Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3mzurw4bvlc2f"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzurw4bvlc2f"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreigf5aaekkpdyf7d3xiopzqyvlzdxefr56ewcdkx3yw67l2yy22jwu",
+    "hash": "888ca4dc8aeaf060"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3mzupvw4zgk2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3mzupvw4zgk2s",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 9: Urban/Rural Fragments of 'leftover' rural hedges, farmsteads and meadow can be highly valued by residents in new urban or suburban areas. We used an online map platform to g…",
+    "postedAt": "2026-11-09T10:31:42.100Z",
+    "day": 9,
+    "color": "#787838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreicv2ccif2pyvofk7csj46ll2lq7k4ka6slpznrj7doez7c2uqrbxa",
+    "hash": "784108c88c3c3c70"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/Quarticle/statuses/117585849698292666",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@Quarticle/117585849698292666",
+    "author": {
+      "name": "Quarticle",
+      "handle": "@Quarticle@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/113/905/174/346/965/473/original/1bd2d1fea4bbc7f7.jpg"
+    },
+    "text": "Day 9 of #30DayMapChallenge: Urban–Rural How accessible are healthcare services across Europe? This map shows road travel times to the nearest healthcare facilities in urban/rural areas. Explore the…",
+    "postedAt": "2026-11-09T09:47:57.300Z",
+    "day": 9,
+    "image": "https://files.mastodon.social/media_attachments/files/117/585/847/816/133/401/small/fe840dedc99debf9.jpg",
+    "color": "#d8d8d8",
+    "hash": "6e39b18568744060",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzumui46dp2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzumui46dp2f",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 9 - Urban-Rural Old Cities, New Cities ✨️ Explore the urban evolution of world cities. app.kumoy.io/public/map/5... Made in #QGIS, powered by #Kumoy",
+    "postedAt": "2026-11-09T09:37:12.424Z",
+    "day": 9,
+    "color": "#081838",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117585807502976343"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117585807502976343"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreiddyuvm3ipttbhpzpcdfg24owv2cn3vjfmff53zatl4pzm775huvm/thumbnail.jpg",
+    "hash": "d8d7d7d3d5dcd3d4"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzulmtwsk22u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzulmtwsk22u",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 9: 'Urban-rural'. Colonel G.A. Wade MC wrote training manuals and pamphlets for Home Guard volunteers, including one titled 'The Defence Of Bloodford Village'. Marvellous little urban-rural maps…",
+    "postedAt": "2026-11-09T09:15:02.843Z",
+    "day": 9,
+    "color": "#b8a888",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreiamw7tgmbwyj2eyzb2twkqgdqqn2rtyzylgrovdwxetqqwiz34qfm",
+    "hash": "77776775e5e76775"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3mzul4y4ylm2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3mzul4y4ylm2k",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 9 of #30DayMapChallenge, Urban-Rural. Over half the bus lines in Uppsala County are school buses. For about 20,000 people in the countryside, the only bus within 1 km is a school bus. Code: https…",
+    "postedAt": "2026-11-09T09:06:08.575Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreidndu5smu3fowwpio4ol7mtzpmqsyuz5b3sbn5vop2zkj2zt434ie",
+    "hash": "f0f07460e8e1c2ce"
+  },
+  {
+    "id": "bluesky:at://did:plc:nytjvigw5fzupdb32uzgrwqi/app.bsky.feed.post/3mzuf2lstyi2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tickerkarte.de/post/3mzuf2lstyi2a",
+    "author": {
+      "name": "tickerkarte.de",
+      "handle": "@tickerkarte.de",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nytjvigw5fzupdb32uzgrwqi/bafkreiglun2wu6z5tgpfou7ky3sigswqr7onvsdaxpwoen45gdta7ersiq"
+    },
+    "text": "In English: #30DayMapChallenge Day 9, Urban-rural. In Germany's independent cities, one in five police press releases is about violence or robbery; in smaller towns it is one in fourteen. There, traf…",
+    "postedAt": "2026-11-09T07:17:25.909Z",
+    "day": 9,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@tickerkarte/117585273900469803"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117490470636616464/statuses/117585273900469803"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nytjvigw5fzupdb32uzgrwqi/bafkreiaj4ixd4u4pvb5ms2whpostbkr4gqdxa6mqs7njnlax3folqawaji",
+    "hash": "20170e245ce065c2"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3mzucjj34bs2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3mzucjj34bs2v",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 9 | Urban-rural | #30DayMapChallenge | City, Suburb, Village, Field – All of It Berlin. Data: Umweltatlas Berlin 2025 and OpenStreetMap. Made with #RStats #sf #ggplot2 #rnaturalearth #patchwork #…",
+    "postedAt": "2026-11-09T06:32:07.106Z",
+    "day": 9,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117585079672244636"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreiho4u3fmegg76fbxi7bnmhnq5b6w75k7abm7z2srm7sz6fh3bat2y",
+    "hash": "e0e0c4c4a4b43c94"
+  },
+  {
+    "id": "bluesky:at://did:plc:ttny5w2ro55gy5jtqm5qst3g/app.bsky.feed.post/3mzu5mfv4gs2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/xenongt.bsky.social/post/3mzu5mfv4gs2r",
+    "author": {
+      "name": "Sandon",
+      "handle": "@xenongt.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreibprbo5mjroycctfixh55zz6ghccu5qjcxgaauf55pm64k7k33cgi"
+    },
+    "text": "#30DayMapChallenge - Day 9 - Urban / Rural Today I decided to compare the states with the highest percentage of urban areas on the west with the highest rural percentage states on the east, using the…",
+    "postedAt": "2026-11-09T05:04:15.723Z",
+    "day": 9,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreibdfh23edhsmykw6kmddtetdzmhqn7upon3rpfouxzgraqmxl6pzq",
+    "hash": "494bcdd15b6858d8"
+  },
+  {
+    "id": "bluesky:at://did:plc:wuc4pxiuogwvg4pamwjdva32/app.bsky.feed.post/3mztpxnwaqk24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/michalskop.bsky.social/post/3mztpxnwaqk24",
+    "author": {
+      "name": "Michal Škop",
+      "handle": "@michalskop.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wuc4pxiuogwvg4pamwjdva32/bafkreid6lpa4uiq6o7uqwjo57z3ycps5uf5n4rj72umiheid4kxigs22k4"
+    },
+    "text": "Street is called Straße in German, right? 🇩🇪🇦🇹🇨🇭🇱🇮 Well, until you come to Vienna! 🇦🇹 #30DayMapChallenge - day 9 Interactive version with more street names like Weg, Allee, Steig or Pfad: d…",
+    "postedAt": "2026-11-09T01:00:00.862Z",
+    "day": 9,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wuc4pxiuogwvg4pamwjdva32/bafkreie36ahorghpv4uvhyo6ubyo5senccgheqoj4v7cjzhpvbiyxuwz5y",
+    "hash": "92f0f0b178f0b282"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3mztbqrhn7s2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3mztbqrhn7s2o",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "*How does your urban grow?* Spatial #dataviz of growth in over 50 urban areas of Eng + Wales 1880–2021 using data from VOA App created with assistance from @claudeai.bsky.social @openstreetmap.bsky.s…",
+    "postedAt": "2026-11-08T20:45:37.315Z",
+    "day": 9,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreihdb6yusktspgkjqr5bme4pmeyhrhu76xsmam2l6heojjo62ayvhi/thumbnail.jpg",
+    "hash": "f4cc8e968cccadfa"
+  }
+]

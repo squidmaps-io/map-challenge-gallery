@@ -1,0 +1,1375 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwbvdbt2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwbvdbt2d",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons Maryland's 1632 royal charter describes the colony in \"metes and bounds\" text. This map draws it and annotates the key phrases. (Why it doesn't match today's border…",
+    "postedAt": "2026-11-18T15:50:17.068Z",
+    "day": 3,
+    "color": "#c8c8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreihrnziyrcndcb6vtrbqnciquqdp7i6euvo66rmnetsxhwsoustyry",
+    "hash": "93b37a6e7e64786c"
+  },
+  {
+    "id": "bluesky:at://did:plc:3y2dhveykpjyasfzyhbhve5f/app.bsky.feed.post/3mzscomsj5s2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jcolot.bsky.social/post/3mzscomsj5s2e",
+    "author": {
+      "name": "Julien Colot",
+      "handle": "@jcolot.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3y2dhveykpjyasfzyhbhve5f/bafkreic7ws2dz2x3ejq5hnf4gvgr2z5g3tyorliukuhmlueyommlmqrili"
+    },
+    "text": "A bit late for day 3 of #30DayMapChallenge (Polygons), but here's my entry: a general sorter for US state shapes. Pick a statistic (population, land area, density, ...) and the fifty states line up b…",
+    "postedAt": "2026-11-08T11:29:39.323Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A3y2dhveykpjyasfzyhbhve5f/bafkreigtwmgc6gipmz7wkwb2ts2dckxzxgn6y4ngdqmjvsciqmhwups7fm/thumbnail.jpg",
+    "hash": "102cc2d8c8f1b54e"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3mzjuhaophv2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3mzjuhaophv2r",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 03 · Polygons Sticking with NYC 311 data for one more map. Each Manhattan neighborhood’s top 311 complaint in 2025. Heat and hot water wins in nine, all uptown. The surprise wa…",
+    "postedAt": "2026-11-05T02:53:33.000Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreidpdwbdkzrwtqdix4mzxvwuzpn2zclxxrd3uaydo7ug7n7pvqllvm",
+    "hash": "b210a064cc808000"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3mzjmgc54uk2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3mzjmgc54uk2y",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "Running a bit late with the map for the #30DayMapChallenge day 3: Polygons. This map shows where coffee is grown across Mexico, Central America, and the Caribbean. Data: SPAM 2020, v2.2, by the Inter…",
+    "postedAt": "2026-11-05T00:29:59.466Z",
+    "day": 3,
+    "color": "#685858",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreiauoh6phwa4dlvker6ann727gwor6rzkz7zspmtmnpj7davrdw6fe",
+    "hash": "3354cac4f2393565"
+  },
+  {
+    "id": "bluesky:at://did:plc:wuc4pxiuogwvg4pamwjdva32/app.bsky.feed.post/3mzjkg7mjgc24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/michalskop.bsky.social/post/3mzjkg7mjgc24",
+    "author": {
+      "name": "Michal Škop",
+      "handle": "@michalskop.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wuc4pxiuogwvg4pamwjdva32/bafkreid6lpa4uiq6o7uqwjo57z3ycps5uf5n4rj72umiheid4kxigs22k4"
+    },
+    "text": "#30DayMapChallenge, day 3 - polygons Another take on Land does not vote, people do: On the right, the difference of votes for either Democrats or Republicans (the winning margin) in the 2024 presiden…",
+    "postedAt": "2026-11-04T23:54:09.348Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wuc4pxiuogwvg4pamwjdva32/bafkreifgtw7ue3d7bb7zsudk5lnc5gib7tu4lambuzptcgodhxhtyj7vay",
+    "hash": "868c8ece8a8ec645"
+  },
+  {
+    "id": "bluesky:at://did:plc:td2azo5v5udhxmkydsliillx/app.bsky.feed.post/3mzj723fies2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cga-harvard.bsky.social/post/3mzj723fies2y",
+    "author": {
+      "name": "Center for Geographic Analysis @ Harvard",
+      "handle": "@cga-harvard.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:td2azo5v5udhxmkydsliillx/bafkreifcsmljsttv2ual6knycr2c5rgiaukzwxqbrw7zobyv6qdpmjbg2a"
+    },
+    "text": "Our contribution to Day 3—polygons—of the #30DayMapChallenge is from CGA visiting post-doc @martinapardy.bsky.social. Over her past month here, Martina says she couldn't help but notice how green Cam…",
+    "postedAt": "2026-11-04T20:30:31.052Z",
+    "day": 3,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:td2azo5v5udhxmkydsliillx/bafkreicmotq4xbuod7dovdm6w5og4qwtlp6fhcfs2ywrvpgofe7k6f5mx4",
+    "hash": "a696f2a9c844c696"
+  },
+  {
+    "id": "bluesky:at://did:plc:6fpgmbazsx6xgdzhdwfrzqaj/app.bsky.feed.post/3mzj4tv3kp22e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tchaulla.bsky.social/post/3mzj4tv3kp22e",
+    "author": {
+      "name": "Tiffany Chau",
+      "handle": "@tchaulla.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreid5vuy6vcrdqyzyipkvdzgrb2bmn3vennhjsj2ocjwmbludkwycdy"
+    },
+    "text": "#30DayMapChallenge Day 3 - Polygons Round Valley Reservoir, NJ, USA Today’s map features contour polygons made from a digital elevation model, with a continuous color ramp linked to the data’s elevat…",
+    "postedAt": "2026-11-04T19:51:15.678Z",
+    "day": 3,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreifjgqofuc27y4qw3buquwjrjwikxzesdvxnufwp63uwqjfzvkyzru",
+    "hash": "77363f3f0e4f1b9d"
+  },
+  {
+    "id": "bluesky:at://did:plc:c6b4jhahjjn75k4k2rvhsvyh/app.bsky.feed.post/3mzj3oy7qqc2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsimmon.bsky.social/post/3mzj3oy7qqc2e",
+    "author": {
+      "name": "Robert Simmon",
+      "handle": "@rsimmon.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c6b4jhahjjn75k4k2rvhsvyh/bafkreibopvoikbd5vikga7jthlircybwtynqzprb7bvynd3kkentweu7nu"
+    },
+    "text": "Do you know how many time zones there are in the Soviet Union? youtu.be/QDmWYVdN8ug?... #30DayMapChallenge Day 3: Polygons #Negativland",
+    "postedAt": "2026-11-04T19:30:37.448Z",
+    "day": 3,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c6b4jhahjjn75k4k2rvhsvyh/bafkreidnwmvbmm3bosrqka43jir5wjfhwmgt77gw23s3d4iqwtsukxyuzq",
+    "hash": "24040c4c483c38d0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3mziw5bddos2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3mziw5bddos2j",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 3 - Polygons & 4 - Clusters Map: Schiedam, NL Challenge: Draw the plants of your ideal allotment garden.",
+    "postedAt": "2026-11-04T17:51:14.314Z",
+    "day": 3,
+    "color": "#c88868",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreie5g2bvaii2ps2frgl2d4itwg77gn7uygrwayzcxckzx33qpyoj3y",
+    "hash": "5b8b35255555accc"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzimzzdktk2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzimzzdktk2d",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 308 of #365DaysOfMaps. November 4th is National Candy Day. What's your favourite NERD Cluster flavour? #30DayMapChallenge day 3 tie-in: clusters The United States of Gummy Clusters (308/365) mapd…",
+    "postedAt": "2026-11-04T15:08:21.586Z",
+    "day": 3,
+    "color": "#08b8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreierw6dm5y6kt47qkj3cb3kefjgwr36jvzjeb6ugmht33v4uxkvcce",
+    "hash": "796b2d59b717898f"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3mzimjb6pck2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3mzimjb6pck2f",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 3 · Polygons: Block to block to Big Data My 50-minute walk from Kitsilano to the Big Data & Analytics West Summit in Vancouver. The 31 city blocks I passed are in full…",
+    "postedAt": "2026-11-04T14:58:59.401Z",
+    "day": 3,
+    "color": "#d8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreidn7auwpktkwf6nojds2zo4mn5yyjlbyafwt7yzdnh2iezsqqzjsm",
+    "hash": "2ea8785290886e0c"
+  },
+  {
+    "id": "bluesky:at://did:plc:5b3ag5o5f6ztoc2npctowb5i/app.bsky.feed.post/3mzilyi7jfvw2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/haraldkliems.fosstodon.org.ap.brid.gy/post/3mzilyi7jfvw2",
+    "author": {
+      "name": "Harald Kliems",
+      "handle": "@haraldkliems.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5b3ag5o5f6ztoc2npctowb5i/bafkreidchqbmkzgavf7emjcq4y3nenzt62bq6ksxommmwabghy7nfiarsi"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons. I look at parcels in the City of Madison and try to identify weirdly shaped ones. https://haraldkliems.netlify.app/posts/2026-11-03-30daymapchallenge-polygons/ #RS…",
+    "postedAt": "2026-11-04T14:49:34.000Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5b3ag5o5f6ztoc2npctowb5i/bafkreid5ewyy67iyh6m3hs36owfy35wduy7dldzu3mfu3ilbrvy3wybtoi",
+    "hash": "809496c6ccccc8c8"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3mzig4tnuts26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3mzig4tnuts26",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 3: POLYGONS @SCALE - Cartographic representations of Lisbon in 1833 (originally in 1:52000) and 1835 (originally in 1:10500). The 1833 version is simplifyed with large polygons…",
+    "postedAt": "2026-11-04T13:04:40.103Z",
+    "day": 3,
+    "color": "#283898",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117558301387294785"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreihgvimubfvvk3vwpcvfxnle7663aafjpf6sgnkhfdeotrxbsbxp5a",
+    "hash": "555557575e5f5b5f"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3mzicpuhrn42w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3mzicpuhrn42w",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 3: Polygons. Terceira, Azores. Museu de Angra do Heroísmo and Nossa Senhora da Guia: 27 Fotoshi photos, two mapped buildings. Photos: strabo, CC BY 4.0. Footprints: © OpenStreetMap contributors.…",
+    "postedAt": "2026-11-04T12:03:42.131Z",
+    "day": 3,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117558073968617047"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117558073968617047"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreienubtjsbzwerxyvw3533txy75uwkbwox5ksaaz6qwszd7wbhffqi",
+    "hash": "5d53a3211111617e"
+  },
+  {
+    "id": "bluesky:at://did:plc:dhkzuubapdaekmh6twharwqu/app.bsky.feed.post/3mzi5q4v6bc2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jmviglino.bsky.social/post/3mzi5q4v6bc2r",
+    "author": {
+      "name": "Jean-Marc Viglino",
+      "handle": "@jmviglino.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreido346cvr3n2wavudziovnxgamdhcsj5cdmbqb3sbjwtca56n47yu"
+    },
+    "text": "🗺️ #30DayMapChallenge Day 3 - Polygons 🗳️ #Midterm2026",
+    "postedAt": "2026-11-04T10:34:23.638Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreib6sxzltqnauapyxptvwqytm6zhi7s3ybvxvvozaqty254ir5kgvq",
+    "hash": "2034d8ecf48286c6"
+  },
+  {
+    "id": "bluesky:at://did:plc:rpi5p4dknmfdr4ala6n5n65o/app.bsky.feed.post/3mzhzgucckc22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/isroeaw.bsky.social/post/3mzhzgucckc22",
+    "author": {
+      "name": "Institut für Stadt- und Regionalforschung",
+      "handle": "@isroeaw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rpi5p4dknmfdr4ala6n5n65o/bafkreifsgyg4bpctcvrn3jnjwpp5qswzo5lqbfz5dplpfglhu3qd3bbkgm"
+    },
+    "text": "Day 3, Polygons: Vienna is characterized by neighborhoods with a high variety of tenure types side-by-side. The spatial mix of housing types, a high share of social housing, and capped rents in histo…",
+    "postedAt": "2026-11-04T09:17:37.678Z",
+    "day": 3,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rpi5p4dknmfdr4ala6n5n65o/bafkreih4xead6py46bwp3gzfuxrmymj2kqe45uicb2efnkckdkd7uevsqq",
+    "hash": "3212f8e0e060d0e8"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3mzhyhqnqhk2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3mzhyhqnqhk2r",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "Quand géométrie et géographie se mêlent ! 🗺️🩵📐 #30daymapchallenge – J3 #polygons 📊 BD ALTI® · BD TOPO® · BD CARTO® ✍️ Benjamin Saglio Inspirée des \"Villes rangées\" d'Armelle Caron Retrouvez toute…",
+    "postedAt": "2026-11-04T09:00:13.676Z",
+    "day": 3,
+    "color": "#f8f8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreifz4nfwz2zzo526hqzsdcup77wszyk3wosdojrnxr4xctxfkrwdcy",
+    "hash": "988b81c5c1c18385"
+  },
+  {
+    "id": "bluesky:at://did:plc:k7rq5xax44qrrsa5svqtd4t7/app.bsky.feed.post/3mzhw5sue722w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/walterra.dev/post/3mzhw5sue722w",
+    "author": {
+      "name": "Walter M. Rafelsberger",
+      "handle": "@walterra.dev",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k7rq5xax44qrrsa5svqtd4t7/bafkreichjc4mbwsxxdmvc7dlmlpki2jqrwlryontyz46h6mcmpziw3nehu"
+    },
+    "text": "#30DayMapChallenge Day 3 - Polygons This one maps the areas (that's the polygons!) of the 10 largest ski resorts in Austria and shows it side by side with a bar chart ranked by kilometers of downhill…",
+    "postedAt": "2026-11-04T08:18:52.962Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://indieweb.social/ap/users/116036481148665801/statuses/117557219122649646"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k7rq5xax44qrrsa5svqtd4t7/bafkreiftskvxqh47zieq6twy7ykcafclwfcgln4rf3x7wjycz5z7at7tfe",
+    "hash": "80a468cecc8c2c00"
+  },
+  {
+    "id": "bluesky:at://did:plc:2hvjmbw263gctmvb25tove5c/app.bsky.feed.post/3mzhhyeujt22h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/deepalikank.in/post/3mzhhyeujt22h",
+    "author": {
+      "name": "🪔Deepali Kank🪔",
+      "handle": "@deepalikank.in",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2hvjmbw263gctmvb25tove5c/bafkreigo6cxqq6bvjzhsg5ef2hgp6fhzlmyfp37comg6b4ecwrcxilfw2i"
+    },
+    "text": "#30DayMapChallenge Day 3 - Polygons Code: observablehq.com/@deepalikank... #DataViz #DataVisualization #Maps #Art #History #Museums",
+    "postedAt": "2026-11-04T04:05:18.128Z",
+    "day": 3,
+    "color": "#181808",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2hvjmbw263gctmvb25tove5c/bafkreieenv4uvl2vn24ialgwv2feaxysqqf44gtfc4bf3x34m7gmtcwyyu",
+    "hash": "0f340c4d0e274707"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzh37q3v7t2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzh37q3v7t2q",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 3 · Polygons. Barcelona's Eixample with every building drawn as a black polygon: Cerdà's grid of chamfered blocks, cut by Avinguda Diagonal. Data: © OpenStreetMap, Overture Maps. Made with Printe…",
+    "postedAt": "2026-11-04T00:16:46.000Z",
+    "day": 3,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117555292342142848"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117555292342142848"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreie6odyxd2qdbr6fyrmj7kaftpjhg4djorx72twsivz7r5t26viipm",
+    "hash": "ccc08090ccc8e873"
+  },
+  {
+    "id": "bluesky:at://did:plc:olyhtg4yyp5y6mvimhbvjse5/app.bsky.feed.post/3mzgxudyszc25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/visben.bsky.social/post/3mzgxudyszc25",
+    "author": {
+      "name": "Benjamin Niedermann",
+      "handle": "@visben.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:olyhtg4yyp5y6mvimhbvjse5/bafkreihljxijpbmu2dnl47plalq5wdkp2gy2yyhdrz673jbbfjvhqbxzje"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons In 1850, each of the 40 largest Swiss glaciers was a single piece of ice. By 2023, they had shrunk and broken into over 200 pieces. visquill.com/gallery/swiss-glaci…",
+    "postedAt": "2026-11-03T23:16:43.136Z",
+    "day": 3,
+    "color": "#d8d8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://vis.social/@visben/117555064951564695"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://vis.social/ap/users/117072417730931523/statuses/117555064951564695"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aolyhtg4yyp5y6mvimhbvjse5/bafkreie2nk6q6gp43cbop34c2xoaijmgrqmq3ob5rne724wd5bamokjsfy/thumbnail.jpg",
+    "hash": "3070cddc94cdd112"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3mzgu4dxa3c22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3mzgu4dxa3c22",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Day 3 of the #30DayMapChallenge is polygons and I just couldn't bring myself to do anything related to elections (triggered). Instead, population loss and so much of it, geographically speaking...",
+    "postedAt": "2026-11-03T22:09:36.538Z",
+    "day": 3,
+    "color": "#382838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreif7pms7lludpngz7kwz3n7uikxobic5aowxtreuq3qabn3inyp5ba",
+    "hash": "253e1e0f1b8a6763"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzgtwlka2c2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzgtwlka2c2g",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 3: Polygons #30DayMapChallenge In Rio de Janeiro's summer, Pix goes to the beach too. Arraial do Cabo (pop. 31k) receives 172,000 more Pix transactions a month than usual, 24% more. Inland, almos…",
+    "postedAt": "2026-11-03T22:06:23.187Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreigotl5a5dftoqv5yseuipgrhn2g55wmgsebqogwjhzttmcnqlqo7q",
+    "hash": "94c48cdcd4946880"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3mzgqzdnegc2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3mzgqzdnegc2q",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🟣 Day 3/30: Polygons | The Radius of Innovation What if your map could scan an entire area instead of just one point? 🔍 Today I'm exploring rectangular hitTest(), new in ArcGIS JS SDK 5.1 (beta), w…",
+    "postedAt": "2026-11-03T21:14:14.341Z",
+    "day": 3,
+    "color": "#384848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreie4yvdzkd6243vlcivgxkwi5o6o42hilfrnato7anoajzgvvlssjy/thumbnail.jpg",
+    "hash": "36278f0f8b8ba796"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117554439071339721",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117554439071339721",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day03: Polygons The shift from combustion-engine cars to electric vehicles (EVs) is an important step towards tackling climate change. Germany has nearly 50 million registered pass…",
+    "postedAt": "2026-11-03T20:39:49.000Z",
+    "day": 3,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/554/444/784/557/499/small/6567545d9b023337.png",
+    "hash": "64fcfab8a8f4d096"
+  },
+  {
+    "id": "bluesky:at://did:plc:2xhwqs7x3xnnpbtxzik2xkpe/app.bsky.feed.post/3mzgoeiqcykhg",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chaneyswiney.com/post/3mzgoeiqcykhg",
+    "author": {
+      "name": "Chaney Swiney",
+      "handle": "@chaneyswiney.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreib3l4jkjoqmhebpanyaxgh6pm3pamrjq7jltl2lht52xcgkkp2v7u"
+    },
+    "text": "#30DayMapChallenge Day 3 - Polygons I've done Oregon's wildernesses before, and I'll do them again because I'm enamored with them. Here they are in descending order of area. The Clackamas throws a cu…",
+    "postedAt": "2026-11-03T20:26:47.554Z",
+    "day": 3,
+    "color": "#182818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xhwqs7x3xnnpbtxzik2xkpe/bafkreigfu4zclygrqmuij4hzz27enljqyx2pzdibmxgjwg4gr3wmgm5pxi",
+    "hash": "3737717777171733"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/jcarlson/statuses/117554384557414243",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@jcarlson/117554384557414243",
+    "author": {
+      "name": "Josh Carlson",
+      "handle": "@jcarlson@mapstodon.space",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/288/786/844/433/120/original/3ac8602e288ce986.jpg"
+    },
+    "text": "#30DayMapChallenge Day 3 - Polygons Taking shots at my own employer today (actually just one specific department). We (GIS) have offered our Clerk reports, analysis, dashboards, you name it. We've sa…",
+    "postedAt": "2026-11-03T20:25:57.000Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/554/358/192/497/900/small/5e33531b643816fc.jpg",
+    "hash": "92969849c38bc1cb"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:5rymx2lm5by2tq2zz66cuqox/app.bsky.feed.post/3mzglksk7sc2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:5rymx2lm5by2tq2zz66cuqox/post/3mzglksk7sc2v",
+    "author": {
+      "name": "Tom watson",
+      "handle": "@tomcw.xyz",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/116/557/739/361/068/069/original/1e21ab4b742a5713.jpeg"
+    },
+    "text": "#30DayMapChallenge - Day 3 Polygons. Man I went a million different ways with this. But here's where I ended up. Newcastle and Gateshead buildings only.",
+    "postedAt": "2026-11-03T19:36:37.938Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/tomcw.xyz/post/3mzglksk7sc2v"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/tom-c-watson.mastodon.social.ap.brid.gy/post/3mzgonnxfo4y2"
+      },
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@Tom_c_watson/117554406006534014"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:5rymx2lm5by2tq2zz66cuqox/app.bsky.feed.post/3mzglksk7sc2v",
+      "bluesky:at://did:plc:6eoyz7pbzsg5hqfiwimntd5g/app.bsky.feed.post/3mzgonnxfo4y2",
+      "mastodon:https://mastodon.social/users/Tom_c_watson/statuses/117554406006534014"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rymx2lm5by2tq2zz66cuqox/bafkreibk4jsaeh75j6xp5gwujcbrwcjaotgd3dax7tz5oq53376sgsofqu",
+    "hash": "96d5a89af0ba3030"
+  },
+  {
+    "id": "mastodon:https://datasci.social/users/mszll/statuses/117554101984529099",
+    "platform": "mastodon",
+    "url": "https://datasci.social/@mszll/117554101984529099",
+    "author": {
+      "name": "Michael Szell",
+      "handle": "@mszll@datasci.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/358/599/749/719/417/original/3bcc4dc4fc0de1df.jpeg"
+    },
+    "text": "Day 3 of the #30DayMapChallenge - polygons. Potential superblocks of Vienna. Via #BikeNetKit (to launch soon..), with @moritz .",
+    "postedAt": "2026-11-03T19:14:05.000Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.hosted.spacebear.ee/sb-7813c8e7630eb77777dba4eacfbd818e/media_attachments/files/117/554/098/846/433/395/small/92aaa4f3104a65b8.png",
+    "hash": "0000000000000000"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3mzgk3hw3vr2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3mzgk3hw3vr2i",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 3 of #30DayMapChallenge, Polygons. How far you get from Uppsala Central Station in 20 minutes at 08:00. By bike it's about 24 km², four times the area you reach by bus and on foot. Code: https://…",
+    "postedAt": "2026-11-03T19:10:07.210Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreidogxw5hvc7cgatsq4s2poinbeccaxxuvwbx372qj4cil7g5hf6y4",
+    "hash": "e892e1c0c4c0f0f0"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117554027937294576",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117554027937294576",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 3 of the 30 day map challenge - polygons. I cunningly saved myself lots of time today by remaking a map I made a few years ago: the fraction of French principal residences with zero cars. Between…",
+    "postedAt": "2026-11-03T18:55:15.000Z",
+    "day": 3,
+    "color": "#a8a8a8",
+    "imageCount": 2,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3mzgjaycyv7x2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3mzgjaycyv7x2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/554/007/322/944/516/small/0f51223bdf81bd0f.png",
+    "hash": "d6d8b8d8d89ea764"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3mzgg7zwmxd2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3mzgg7zwmxd2h",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "Half of Europe's tourist nights happen in just 102 of its 1,247 regions #30DayMapChallenge Day 3: Polygons",
+    "postedAt": "2026-11-03T18:01:07.834Z",
+    "day": 3,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreiduz3tp64d3bxd4gsy4eahkqdm34w664gzdtl6v6j7vyeo7adiqa4",
+    "hash": "c8818ba287536a84"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzgft62cls2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:yfnobzoj6stytscno32m6cge/post/3mzgft62cls2y",
+    "author": {
+      "name": "Hemed",
+      "handle": "@725hemeed.bsky.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/115/439/660/728/843/456/original/0460df2d7865e5e6.jpeg"
+    },
+    "text": "#30DayMapChallenge #Tanzania Day 03: Polygons-Bonus 🇹🇿 Tanzania’s changing regional map: eight snapshots from colonial provinces to the present mainland system (1948 to 2026) Historical outlines ar…",
+    "postedAt": "2026-11-03T17:53:55.982Z",
+    "day": 3,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/725hemeed.bsky.social/post/3mzgft62cls2y"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzgft62cls2y"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yfnobzoj6stytscno32m6cge/bafkreiahr2efbvivc7kb5t2exmpieqg6v7efdd6dd33x6dsgv7wy45acsu",
+    "hash": "20aaaaaaaaaaaaaa"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzgfgrrod22y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:yfnobzoj6stytscno32m6cge/post/3mzgfgrrod22y",
+    "author": {
+      "name": "Hemed",
+      "handle": "@725hemeed.bsky.social",
+      "avatar": "https://cdn.fosstodon.org/cache/accounts/avatars/115/430/701/984/923/748/original/9589cf20f98b011e.jpeg"
+    },
+    "text": "⚽ What if distance chose your football club🇹🇿? Day 03: Polygons 16 selected clubs divide Tanzania into Voronoi territories, with a closer look at Dar’s clubs. Nearest mapped location—not fan suppor…",
+    "postedAt": "2026-11-03T17:47:00.461Z",
+    "day": 3,
+    "color": "#d8d8d8",
+    "imageCount": 2,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/725hemeed.bsky.social/post/3mzgfgrrod22y"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yfnobzoj6stytscno32m6cge/app.bsky.feed.post/3mzgfgrrod22y"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yfnobzoj6stytscno32m6cge/bafkreic6e5ss2trs3l7fxtiqmgvgr5h62qxu4ccvijabpen3jyuhasxgki",
+    "hash": "70c8c6e1cc8c2483"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3mzgdd53hpz2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3mzgdd53hpz2t",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons After inflation, average house prices in the year to August were lower than ten years earlier in 169 of 317 councils in England and Wales. In August 2022 it was 41.…",
+    "postedAt": "2026-11-03T17:08:58.062Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreia4dteicrava5ruct3d32uvczgdal6rlfkhdoy7o5sovfp5wb67um/thumbnail.jpg",
+    "hash": "b48486e2c1c18a9a"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3mzgcnlwgl22q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3mzgcnlwgl22q",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons I mapped every building in Minneapolis and St. Paul by the year it was built. You can clearly see the built environment that grew up around streetcars, then persona…",
+    "postedAt": "2026-11-03T16:57:07.977Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 4,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreicoanqvibe52jb2vh7rt3eptuumnixjxvttyqfcwdynaevjnszuqa",
+    "hash": "1c9a808ae4aed394"
+  },
+  {
+    "id": "bluesky:at://did:plc:dunzzrcjelu2h2wfg4u6p2jv/app.bsky.feed.post/3mzgcllzruc2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/oatflakelab.bsky.social/post/3mzgcllzruc2a",
+    "author": {
+      "name": "Oatflake Lab",
+      "handle": "@oatflakelab.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dunzzrcjelu2h2wfg4u6p2jv/bafkreiabyljzakdliaucg57sctbgh5uhtyfbd6vkww73t3qo4h5lusuzby"
+    },
+    "text": "Day 3, Polygons: each shape is everything within 800 m of a metro or rail station in seven Indian cities. Purple dots are where people live. In every city, most residents live outside them. Made by a…",
+    "postedAt": "2026-11-03T16:56:00.987Z",
+    "day": 3,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dunzzrcjelu2h2wfg4u6p2jv/bafkreids24qcpg34e6hsitghlqsck6gi7kf6tkzkvlmip32jihbxnshoru",
+    "hash": "3e3e29254655553a"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3mzgbz5lqlu25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3mzgbz5lqlu25",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 3 of #30DayMapChallenge · Polygons Every fire around Groveland There's more behind it on the page. #wildfire #SierraNevada brooksgroves.com/30DayMapChallenge/2026/share/day-03.html",
+    "postedAt": "2026-11-03T16:45:41.814Z",
+    "day": 3,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreif3zkxlo2olyramfi7qcyq5aycift6kdgmchrvvv6x4zsjqgoig6y",
+    "hash": "c8a4e4c6e2e4e0a2"
+  },
+  {
+    "id": "mastodon:https://subdued.social/users/alan/statuses/117553482833918528",
+    "platform": "mastodon",
+    "url": "https://subdued.social/@alan/117553482833918528",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan@subdued.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/627/775/480/222/382/original/4e41924fd533257c.jpeg"
+    },
+    "text": "#30DayMapChallenge with @stamen, Day 3: \"Polygons\". The US Interstate system is numbered like a grid. Two gradients: odd routes run north–south, increasing west to east; even routes run east–west, in…",
+    "postedAt": "2026-11-03T16:36:38.000Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 3,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3mzgbjbvlhsj2"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mappingmashups.net/post/3mzgbr2nuzk26"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/post/3mzgbr2nuzk26"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3mzgbjbvlhsj2",
+      "bluesky:at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3mzgbr2nuzk26",
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3mzgbr2nuzk26"
+    ],
+    "image": "https://cdn.masto.host/subduedsocial/media_attachments/files/117/553/470/206/449/397/small/5cb7dda2f5c985f9.png",
+    "hash": "d2828282ccf01686"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117553471653487487",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117553471653487487",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons Squaring the Circle How round is a raion? I redrew every raion of Ukraine at the same area and ranked them by Polsby–Popper compactness (1 = perfect circle). Spoile…",
+    "postedAt": "2026-11-03T16:33:47.527Z",
+    "day": 3,
+    "color": "#383848",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3mzgbgf5ous2i"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3mzgbgf5ous2i"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/553/470/585/888/933/small/d0b927e368b2279a.png",
+    "hash": "5c5cccc5112d7c7c"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzgak36k3c27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzgak36k3c27",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "On Day 3, #30DayMapChallenge : it's 'polygons'. For mapmakers, a polygon is a closed shape – so that could be a lake, or even a country. In 1945 the Allies drew four polygons over Berlin: this US Sta…",
+    "postedAt": "2026-11-03T16:18:01.165Z",
+    "day": 3,
+    "color": "#b8a898",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreihim5hhtcmzxka56atjfpzewmhmdvzeg5zynbdoydtn5bclz35sxa",
+    "hash": "5919416023694367"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3mzg7mqdvfj2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3mzg7mqdvfj2c",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 3 — Polygons 🔥 Explore decades of wildfire history with Wildfire History Explorer, an interactive map with Mapbox GL JS using real USGS wildfire perimeter data. The project sh…",
+    "postedAt": "2026-11-03T16:02:55.562Z",
+    "day": 3,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreidk7wd3df4q4q3pe2bzurec7gm4dnizrremzc3vwp3wrnj6y5zkae",
+    "hash": "c834f6e268ecf060"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3mzg6pn3sck2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3mzg6pn3sck2b",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 3: Polygons. Messed around with some intersections and coloring here #rstats #ggplot",
+    "postedAt": "2026-11-03T15:46:41.354Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid2zasogoagqgoexiuhwtjlnx5vmivj7iluhzsbg4qu5hisgccr3i",
+    "hash": "7969696969797969"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3mzg6jc2qzs2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3mzg6jc2qzs2s",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons 🟧 Oregon requires every city to draw an urban growth boundary. Portland’s has grown only about 14% since 1979, while the cities inside it filled in. Built with Map…",
+    "postedAt": "2026-11-03T15:43:08.459Z",
+    "day": 3,
+    "color": "#e8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreihdrzui7zaccojr6dqox7koqcd3fx5fpmehzjltmiikp4wjv35oaq/thumbnail.jpg",
+    "hash": "2d32d0d430b24212"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117509382044663033/statuses/117553220946845774",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@walkably/117553220946845774",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably@en.osm.town",
+      "avatar": "https://cdn.masto.host/enosmtown/accounts/avatars/117/509/382/044/663/033/original/d25740900ad7a468.png"
+    },
+    "text": "Day 3, Polygons: Hamburg's districts by walking score. The score measures the walk to eight daily needs and how pleasant the street is. St. Georg is in first place, 87. Ochsenwerder is in last place,…",
+    "postedAt": "2026-11-03T15:30:02.047Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/walkably.org/post/3unj7xavec2oo"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/3unj7xavec2oo"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/552/701/111/380/876/small/2c5d6699efc69c8d.png",
+    "hash": "920d19397978128c"
+  },
+  {
+    "id": "bluesky:at://did:plc:y455hk4obaeuiqgfswykv7oa/app.bsky.feed.post/3mzg4xje3gs2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsteve388.bsky.social/post/3mzg4xje3gs2v",
+    "author": {
+      "name": "Rachel",
+      "handle": "@rsteve388.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y455hk4obaeuiqgfswykv7oa/bafkreicohpwm3p3jmgwqrbjolbur7ny6clxwmpxwvhd6kpmmz23bjtovyu"
+    },
+    "text": "#30DayMapChallenge #GISChat Day 3: Polygons - Park and Open Space Polygons in Aurora Colorado. Restricting myself to just the city of Aurora, has been fascinating. It has helped me learn about the ci…",
+    "postedAt": "2026-11-03T15:15:18.382Z",
+    "day": 3,
+    "color": "#e8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y455hk4obaeuiqgfswykv7oa/bafkreifjdu3z2tfdgwbupqa5tgj2kj275c5z5okgpanxdgp5sxxgwazkim",
+    "hash": "9a37733293c6694a"
+  },
+  {
+    "id": "bluesky:at://did:plc:ca2lu4tjmgi2vod3hvztwxxv/app.bsky.feed.post/3mzg4jb56fk2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hfxshippingnews.bsky.social/post/3mzg4jb56fk2s",
+    "author": {
+      "name": "Halifax Shipping News",
+      "handle": "@hfxshippingnews.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreihdpm4mu3tmxdwbshdxdxyivncdsoaactfxqnpz5gvdrjcqti2fy4"
+    },
+    "text": "Day 3 - Polygons #30DayMapChallenge Condo, rental and heritage buildings.",
+    "postedAt": "2026-11-03T15:07:19.997Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ca2lu4tjmgi2vod3hvztwxxv/bafkreib2rp36frj4zobuavg6ab2lvs5bwvjsf43nov24u3k3lteipcfgim",
+    "hash": "8ae6b17173339fa6"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3mzg46u2tua2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3mzg46u2tua2x",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 3/30 · Polygons 🏙️ Cluj grew up its hills: built after 1975, ~40 m higher; 1 in 3 people there lives over 300 m from a stop (old city: 1 in 7). GHSL, Copernicus, OSM. Inspired by Ale…",
+    "postedAt": "2026-11-03T15:01:30.555Z",
+    "day": 3,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreicghv4gz2h47llwqwnutvrtwxh3ejqm2gebonztmjw3jm2xyj5ofa/thumbnail.jpg",
+    "hash": "489607074e0e1ec9"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3mzg3lcm7ak23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3mzg3lcm7ak23",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 3 of #30DayMapChallenge: Polygons. How far 30 minutes gets you from a central library in 24 Canadian cities, on foot or by transit, all at one scale. In Fredericton, leaving at 7:40 reaches 46.5…",
+    "postedAt": "2026-11-03T14:50:34.914Z",
+    "day": 3,
+    "color": "#282828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaki4dgzwu3ixo4ns4khabiiynnllw4c7ceksnfyxxhcuw6wacsjy",
+    "hash": "94680a0e4911356f"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzfxsbmxj22z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzfxsbmxj22z",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 3: The name of this polygon is Lake Ontario!",
+    "postedAt": "2026-11-03T13:42:53.794Z",
+    "day": 3,
+    "color": "#d8d8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117552802840719966"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreiah7kuijshmeabhhkq6e43sjoi5gpgnilbbqs624vuxv43vtbpfim",
+    "hash": "03163ceaac2cd8f0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzfxor4ojk2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzfxor4ojk2s",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 307 of #365DaysOfMaps. November 3rd is Election Day (in the US). Get out and vote if you can! #30DayMapChallenge day 3 tie-in: polygons #Elections2026 #ElectionDay #Midterms2026 The Battle for 21…",
+    "postedAt": "2026-11-03T13:40:55.818Z",
+    "day": 3,
+    "color": "#a8d8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidvtiorfvmeiyeu753fhxwbekpnaxe6ebcvdj2vcorpwvlydiyuum",
+    "hash": "8bc172e879f986aa"
+  },
+  {
+    "id": "bluesky:at://did:plc:rqcdegxr22bnmi5c2bsrji3m/app.bsky.feed.post/3mzfuv6zkqc2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tanyashapiro.bsky.social/post/3mzfuv6zkqc2i",
+    "author": {
+      "name": "Tanya Shapiro",
+      "handle": "@tanyashapiro.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rqcdegxr22bnmi5c2bsrji3m/bafkreidroxkbmif67xagaifiv2lgnhpirevtrqm45e562cffdtq6wgrn6y"
+    },
+    "text": "Day 3 #30DayMapChallenge: Polygons \"So you speak Swedish?\" - American friends when they learn I'm from Switzerland for the first time. This one is another map connected to my life. I was born in the…",
+    "postedAt": "2026-11-03T12:50:50.508Z",
+    "day": 3,
+    "color": "#282828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rqcdegxr22bnmi5c2bsrji3m/bafkreiezgkgn6jgkpccoynxsleksiuyjwrs3mau4tbj6ovshwb3vrxzwdm",
+    "hash": "186507070b15b730"
+  },
+  {
+    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzfufom4qs2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3mzfufom4qs2w",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.fosstodon.org/cache/accounts/avatars/115/475/501/542/301/897/original/b1c419acfd04ce0b.jpeg"
+    },
+    "text": "#30daymapchallenge Day 3 Polygons | Vote! It’s Election Day, so this one is a call to action: don’t walk, RUN TO THE POLLS! These isochrones show access to Madison’s 2026 polling places via 10 minute…",
+    "postedAt": "2026-11-03T12:42:09.971Z",
+    "day": 3,
+    "color": "#d8e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/latlong.shop/post/3mzfufom4qs2w"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzfufom4qs2w"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreih7wztodmhgsk2yqbw3rmxyriomht3xgcxvammftwmezin72yc35a",
+    "hash": "299b9e2ea3810d30"
+  },
+  {
+    "id": "bluesky:at://did:plc:74eu6geapoaod2cbyudkxmgp/app.bsky.feed.post/3mzfr67mep22o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tulparmaps.bsky.social/post/3mzfr67mep22o",
+    "author": {
+      "name": "Alin",
+      "handle": "@tulparmaps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:74eu6geapoaod2cbyudkxmgp/bafkreidjjzlxdoql42okgj7pux2guzo54oyppo5elwqhi7bk3nhuk7gkyq"
+    },
+    "text": "3️⃣Day 3 - Caspian Sea is drying | Polygons ℹ️ Data Sources: The Times of Central Asia, Landsat, Sentinel, OSM, Euronews ℹ️ Tools used: QGIS, Figma #30DayMapChallenge #30DayMapChallenge2026 #map #car…",
+    "postedAt": "2026-11-03T11:44:18.140Z",
+    "day": 3,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:74eu6geapoaod2cbyudkxmgp/bafkreie73fuollzwxlr65syumdndggd7kcsedvlivwztu5324j67k56n6e",
+    "hash": "8ecc2b19f8f0c2e2"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzfphln4xk2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzfphln4xk2o",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Cologne is home to 8 clubs in the top 6 divisions of German association football. This map shows an entirely unrealistic division of the city would be divided up if everyone supported the club whose…",
+    "postedAt": "2026-11-03T11:13:45.261Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreiabbcooocf6ijidyvnz3dwd6fpv6lrvlns2jwvcvmdlipcrtbtuim",
+    "hash": "b0d4c0d0dcda3cf4"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117507330241455296/statuses/117551907192083831",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@DartVadius/117551907192083831",
+    "author": {
+      "name": "DartVadius",
+      "handle": "@DartVadius@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/507/330/241/455/296/original/056a9f88a0f09492.png"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons The Mediterranean, Egypt and Mesopotamia from 6000 BC to today: 8,000 years of borders in 90 seconds. The earliest cultures are rough estimates, so they are drawn d…",
+    "postedAt": "2026-11-03T09:55:55.740Z",
+    "day": 3,
+    "color": "#c8c8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://files.mastodon.social/media_attachments/files/117/551/898/943/560/489/small/fd8ca77f4a55ed6a.png",
+    "hash": "1f3f1f3f7f3f3f3f"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117551876369377089",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117551876369377089",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge / Day 3 : Polygons / Le taux de boisement des communes bretonnes",
+    "postedAt": "2026-11-03T09:48:05.000Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/551/867/463/330/052/small/771a93bd6d689176.jpg",
+    "hash": "ad2c4291f6b01896"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3mzfkboj32s22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3mzfkboj32s22",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 3: Polygons This was an easy one! Check out @gloswildlife.bsky.social Nature Recovery Zones www.gcer.co.uk/30DMC_Day3_P...",
+    "postedAt": "2026-11-03T09:40:58.227Z",
+    "day": 3,
+    "color": "#e8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreietgbfucdpq2d7msguzmf2wccjowxn4t3zwhnit6jtmmhpjxzz4t4",
+    "hash": "302a331243532614"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117551833123135821",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117551833123135821",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 3 - Polygons Farmland Tapestry 👨‍🌾 4 million parcels in Kanto region, Japan Made in #QGIS, powered by #Kumoy https://app.kumoy.io/public/map/b4202442-bd96-4819-999c-61548fea4…",
+    "postedAt": "2026-11-03T09:37:05.570Z",
+    "day": 3,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzfk2xxjqn2t"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzfk2xxjqn2t"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/551/832/968/967/667/small/b62e8fbb5d264784.png",
+    "hash": "c6e2e9e9e9ece9e8"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/kanedr/statuses/117551792631173940",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@kanedr/117551792631173940",
+    "author": {
+      "name": "David Kane",
+      "handle": "@kanedr@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/031/461/original/e4967cbb2ba08738.jpg"
+    },
+    "text": "#30DayMapChallenge day 3 - polygons I've tried to find the UK local authorities that are the most \"square\". I'm sure there's a better algorithm to do this, but I've gone for the boundaries where the…",
+    "postedAt": "2026-11-03T09:26:47.684Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/dkane.net/post/3mzfkrol5kk2g"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:yv2grvouscdaq7w3ikyljbae/app.bsky.feed.post/3mzfkrol5kk2g"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/551/787/410/503/290/small/d0fb7d968f49191c.png",
+    "hash": "292929292b292929"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3mzfau6gp522q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3mzfau6gp522q",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 3 | Polygons | #30DayMapChallenge. How diverse are the trees in each Berlin neighbourhood? Shannon index (H') of street and park trees per neighbourhood. #RStats #sf #ggplot2 #vegan #patchwork #g…",
+    "postedAt": "2026-11-03T06:52:21.497Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117551186960916647"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreihcuqk4n7nvylnvwxuh5gh7alrrehljviicv5k6wf25ffiwaevjfy",
+    "hash": "d46ae6e3f2f3d3fb"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117178011293714910/statuses/117551121398673820",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@pocketswitzerland/117551121398673820",
+    "author": {
+      "name": "Pocket Switzerland",
+      "handle": "@pocketswitzerland@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/178/011/293/714/910/original/56738fdef401325a.png"
+    },
+    "text": "#30DayMapChallenge Day 3 · Polygons Five low-poly transports, built triangle by triangle in code with Three.js: the Landwasser red train on its viaduct, the pass bus above Airolo, the Zermatt gondola…",
+    "postedAt": "2026-11-03T06:36:05.488Z",
+    "day": 3,
+    "color": "#383878",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://files.mastodon.social/media_attachments/files/117/551/119/003/570/807/small/20c0241e8001d338.png",
+    "hash": "e6a411646c981a9f",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/pocketswitzerland.bsky.social/post/3mzfa24o3tk2s"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:7jiwstnfx6jv6v6rxdgerkji/app.bsky.feed.post/3mzfa24o3tk2s"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:ttny5w2ro55gy5jtqm5qst3g/app.bsky.feed.post/3mzf3acambc2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/xenongt.bsky.social/post/3mzf3acambc2a",
+    "author": {
+      "name": "Sandon",
+      "handle": "@xenongt.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreibprbo5mjroycctfixh55zz6ghccu5qjcxgaauf55pm64k7k33cgi"
+    },
+    "text": "#30DayMapChallenge - Day 3 - Polygons Sometimes counties can share names between states. This map is an example of such an occurrence. Some county names are much more common, shared across several mo…",
+    "postedAt": "2026-11-03T05:11:45.694Z",
+    "day": 3,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttny5w2ro55gy5jtqm5qst3g/bafkreiagh27rweqzhvskxtmcpk3nscvdvkmklu5gerno2ilhgsixzaukbu",
+    "hash": "a2b690d0c89a9ac4"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/users/seav/statuses/117550479377467108",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@seav/117550479377467108",
+    "author": {
+      "name": "Eugene Alvin Villar 🇵🇭",
+      "handle": "@seav@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/296/503/014/137/125/original/8a748c3ba7ce61b0.jpg"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 3️⃣: Polygons 🔶 Since #choropleth isn’t a theme for this year, I decided to make one for this day, and a bivariate type for a bit more challenge. Here are the 11 Southeast…",
+    "postedAt": "2026-11-03T03:52:49.000Z",
+    "day": 3,
+    "color": "#484848",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/seav4f.bsky.social/post/3mzey2inixs25"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3mzey2inixs25"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/550/399/684/012/138/small/9a1aa53bb2db947f.webp",
+    "hash": "8ab915444e4d1433"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3mzei5fxyjs26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3mzei5fxyjs26",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "🚉 Lives On The (Northern) Line 🚉 ‘Lives On The Line’ by @jamescheshire.bsky.social + @oobrien.bsky.social at @uclgeography.bsky.social 2012 was inspirational. #GeoMapper2DPlus app makes this incl c…",
+    "postedAt": "2026-11-02T23:30:07.849Z",
+    "day": 3,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreidy34pdya6bbyxpk5b4gxz5r6q77mv5oadkshvxqlldwv4ketknja/thumbnail.jpg",
+    "hash": "84a573717b39998d"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3mze3oyvkt22y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3mze3oyvkt22y",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "#30DayMapChallenge · Day 3 · Polygons Western Norway fjords. A digital elevation model folded into flat facets. Every polygon is a plane obtained by optimisation, not drawn by hand. DEM: Copernicus G…",
+    "postedAt": "2026-11-02T19:47:19.476Z",
+    "day": 3,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreibedrtmtfwzytgfstxmg3uissxz3hdr2qd4mrzk4segokjbrw5cym/thumbnail.jpg",
+    "hash": "032b3f6b334b8650"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3mze3fuvurk24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3mze3fuvurk24",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "#30DayMapChallenge Day 3 - Polygons. Rather than doing this all in #rstats it was easier to get all the state highways in part near the coast, export as pdf, then use human judgement to remove the un…",
+    "postedAt": "2026-11-02T19:42:13.294Z",
+    "day": 3,
+    "color": "#d8e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreifllbbq2z74vczlqxkd2wxtc3prs3j4xqfozin2lf76wn73qrchgi",
+    "hash": "9c98c8dc88888e80"
+  }
+]

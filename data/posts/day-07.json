@@ -1,0 +1,893 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwjgqul2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwjgqul2d",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 7: 10-minute map A quick and dirty map of the U.S. states I've visited. Click a visited state for a note about why I went there. Made with @squidmaps.bsky.social squidmaps.io/c…",
+    "postedAt": "2026-11-18T15:50:25.364Z",
+    "day": 7,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreid2ni4hmxq674bwjwieoplvcch7hbn4e6iht6fongrm5lfekrusry",
+    "hash": "9271616c4458480c"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3n24z2lrnfs2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3n24z2lrnfs2y",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 7 · 10 minute map: Wait for it... A day at Disneyland in Anaheim, with a dot for each of the 29 times I stopped for 10 minutes or more: queues, rides, and food. My GPS…",
+    "postedAt": "2026-11-12T17:36:40.601Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreiaqzyg4xc2vnsv5vub5ttuwfane4wieabkfgv2tekm5otvdasfo6a",
+    "hash": "808110322a38348c"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3mzwftuev532f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3mzwftuev532f",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 07 · 10 minute map I used Claude to get this done in 10 minutes. We’re looking at how 10-minute cells change in size as you move north from the equator. #rstats #dataviz",
+    "postedAt": "2026-11-10T02:36:45.000Z",
+    "day": 7,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreicjeagshw27pcovssk7pkdzbvrv56f5bk2fd5a6ghdhivswxcyuau",
+    "hash": "80e6c2d2c2c6e666"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3mzvelanrb22m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3mzvelanrb22m",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "⏱️ Day 7/30: 10 Minute Map | Small Map, Big Idea How much mapping can you do with just ten minutes? For Day 7 of the #30DayMapChallenge, I'm keeping things simple: ten technology landmarks, one Featu…",
+    "postedAt": "2026-11-09T16:41:32.620Z",
+    "day": 7,
+    "color": "#383838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreiftqslsjqq6nqymrgrji77mnxtehzqc5yaitqdhf3r7gxzposvrpu/thumbnail.jpg",
+    "hash": "29dd921c056520b2"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3mztz4npgfs2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3mztz4npgfs2q",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 7: 10 Minute Map. Nothing special here, I used my 10 minutes to get a very basic leaflet running that shows all the QuickChek stores around here #rstats #leaflet",
+    "postedAt": "2026-11-09T03:43:52.087Z",
+    "day": 7,
+    "color": "#a8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreihweavj46iomozjd2vhztn5x6ldejwf2zpzx546fo5w4zgafv7yxe",
+    "hash": "e4b1ee9ab0a46460"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3mzt2kl2cbs2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3mzt2kl2cbs2e",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 7: 10 MINUTE MAP - 10 MINUTES MAPPED IN 10 MINUTES - A 10 longitudinal minutes wide swath of Portuguese territory centered over Lisbon. Image processing and accompanying text c…",
+    "postedAt": "2026-11-08T18:36:53.064Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117582264168600376"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreibhtlxdiqs7ugierw54sqpa2yu2qaicxx552hxssmruesrj5oucaq",
+    "hash": "8696a60606060696"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3mzspqcyuhk2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3mzspqcyuhk2y",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 7: Utopia Is it still a utopia if it's in the past? Looking at the Twin Cities Rapid Transit Company's network circa 1933, it's hard not to be envious. Every corner of the budd…",
+    "postedAt": "2026-11-08T15:23:14.785Z",
+    "day": 7,
+    "color": "#f8e8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreicz276hicgro4vubt6yiveithazgdghc7egohxe72bjmwj6l4w6iu",
+    "hash": "505266e060e4ad68"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzspprnotk2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzspprnotk2o",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 312 of #365DaysOfMaps. November 8th is Plan a Town Day. Ian's made an interactive build a city game, called Utopia because... #30DayMapChallenge day 7 tie-in: utopia Building Utopia (312/365) map…",
+    "postedAt": "2026-11-08T15:22:56.594Z",
+    "day": 7,
+    "color": "#589888",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreiaslhaapgcnlzpmu2iprn5atv6kaf6pemoqafsor3ygptjlwt5jru",
+    "hash": "4d1f1f17171f1e73"
+  },
+  {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3mzskdz3zxi2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3mzskdz3zxi2p",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 7: 10-minute map. A short visit around Goldau post office, mapping the post office, ATM, postbox and everyday details. Photos: strabo, CC BY 4.0. Map: © OpenStreetMap contributors. fotoshi.com/ap…",
+    "postedAt": "2026-11-08T13:46:51.873Z",
+    "day": 7,
+    "color": "#182828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117581128857263242"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117581128857263242"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiddhqnabv2wjjd54kevlq4y24bcdwflqurwvr63klzmepgeptsvle",
+    "hash": "6761f08669498e6d"
+  },
+  {
+    "id": "bluesky:at://did:plc:3ohqx57uxdaaezh35kfqmbmx/app.bsky.feed.post/3mzrvnxotunc2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakubzofcak.zpravobot.news.ap.brid.gy/post/3mzrvnxotunc2",
+    "author": {
+      "name": "Jakub Žofčák :bot:",
+      "handle": "@jakubzofcak.zpravobot.news.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ohqx57uxdaaezh35kfqmbmx/bafkreid2b4ilfoaxebb57bq74v4fd46llkupt5g22vwsmlc34runvaf2bu"
+    },
+    "text": "Jakub Žofčák 𝕏🔁 @iamjosepferrer@twitter.com: The EU's farthest point from the sea is near Trebišov, Slovakia #30DayMapChallenge Day 7: 10-minute map https://x.com/jakubzofcak/status/211933179782599…",
+    "postedAt": "2026-11-08T07:36:36.000Z",
+    "day": 7,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ohqx57uxdaaezh35kfqmbmx/bafkreiaji6nekquco7uya77cchbrggkqaxaspjqh3rgzt2dcfwzoax2uru",
+    "hash": "90c20c6167860c29"
+  },
+  {
+    "id": "bluesky:at://did:plc:dgapizlhjlp6higoi5cngjs4/app.bsky.feed.post/3mzrmbdpglj2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/monroek.bsky.social/post/3mzrmbdpglj2t",
+    "author": {
+      "name": "Keon Monroe",
+      "handle": "@monroek.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dgapizlhjlp6higoi5cngjs4/bafkreie64zg7atmsj6dn4wn4bmv22svvs7hd7hpiv7wkzm4sfyubxjg4eu"
+    },
+    "text": "Happy November! It's Day 7 of the 2026 #30DayMapChallenge. Using RustGIS and Philadelphia 311 data, I made a map of average resolution time over the past 3 years. This took me a little longer than 10…",
+    "postedAt": "2026-11-08T04:48:31.241Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/kmonroe/statuses/117579010195563233"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dgapizlhjlp6higoi5cngjs4/bafkreihckwfripn2ziyr2pclkaspwlnj2wwns4fysf7jp32ywaixcsmacm",
+    "hash": "c8f8d2d2cededcd4"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/jcarlson/statuses/117577965506374658",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@jcarlson/117577965506374658",
+    "author": {
+      "name": "Josh Carlson",
+      "handle": "@jcarlson@mapstodon.space",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/288/786/844/433/120/original/3ac8602e288ce986.jpg"
+    },
+    "text": "#30DayMapChallenge day 7 - 10 Minute Map Started the stopwatch as I clicked on QGIS. Froze for a minute thinking of what to do. Pulled the county parcels, threw some variables into the symbology, and…",
+    "postedAt": "2026-11-08T00:22:54.000Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/577/956/501/114/612/small/093aa3cbc59bbdb5.png",
+    "hash": "acb0f4ccd0909000"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117577842287010685",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117577842287010685",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 07. 10 minute map #30DayMapChallenge Ukraine's protected areas by year of designation: green = Soviet era, gold = independent Ukraine. ~74% of dated area was designated after 1991. Data: Protecte…",
+    "postedAt": "2026-11-07T23:51:33.884Z",
+    "day": 7,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3mzr3qg5zmk2o"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3mzr3qg5zmk2o"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/577/840/390/674/718/small/1c2ed368e1a16d44.png",
+    "hash": "3406073527e3eaf1"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3mzqxq5zg2s2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3mzqxq5zg2s2y",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Waiting on a flight that's so delayed I could have made 12 maps for today's #30DayMapChallenge task (Day 7, a 10-minute map). Anyway, here's an Ode to Amtrak's Northeast Regional route that took some…",
+    "postedAt": "2026-11-07T22:41:00.020Z",
+    "day": 7,
+    "color": "#98d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreihm2rv2pbhr7cptxsnm4ylng4mwoqni2nrauq6ucpzsamxzpizczi",
+    "hash": "83f284e8f092cc8c"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3mzqwr2bvas2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3mzqwr2bvas2i",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "Day 7 of #30DayMapChallenge: 10 minute map. Because I wrote the core of the code for this for day 5, set up to run from an updated spreadsheet, I basically only needed to extract the data from online…",
+    "postedAt": "2026-11-07T22:23:35.922Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreicwmkh7bj5pgjny6v5dnzt7vzuctj5awfmeu26pyl52hvfnf764te",
+    "hash": "928c9d90b2222a00"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117576949106977949",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117576949106977949",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day07: 10 Minute Map Creating a map in 10 minutes is quite a challenge – especially when you're the kind of person who can spend 10 minutes just thinking about which font best suit…",
+    "postedAt": "2026-11-07T20:04:25.000Z",
+    "day": 7,
+    "color": "#383828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/576/891/226/336/992/small/4f3a08d45b91e104.png",
+    "hash": "3432cd2783430b8b"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3mzqnfymgnw27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3mzqnfymgnw27",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "The EU's farthest point from the sea is near Trebišov, Slovakia #30DayMapChallenge Day 7: 10-minute map",
+    "postedAt": "2026-11-07T19:36:21.389Z",
+    "day": 7,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://zpravobot.news/@JakubZofcak/117579670915447138"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://zpravobot.news/users/JakubZofcak/statuses/117579670915447138"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreic7ydwil46odllsj2fyr6cvwu6mnw6kd3qydnrdksq4wfzj4cfnbm",
+    "hash": "b0c20c6167960c29"
+  },
+  {
+    "id": "bluesky:at://did:plc:y6okxmhciu3chrcumbwjvfgh/app.bsky.feed.post/3mzqmpaants27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mehmetgoktug.bsky.social/post/3mzqmpaants27",
+    "author": {
+      "name": "Mehmet Göktuğ Öztürk",
+      "handle": "@mehmetgoktug.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y6okxmhciu3chrcumbwjvfgh/bafkreigood4k2qh2b7rxnqzplty6te5z3h2mk6pijp7xkolzt433i2hiv4"
+    },
+    "text": "#30DayMapChallenge: Average Temperature of the World! Day 7’s theme is “10 minute map”, so I took it both ways: a quick map, made with WorldClim data at 10 arc-minute resolution. Base {graphics} is m…",
+    "postedAt": "2026-11-07T19:23:37.648Z",
+    "day": 7,
+    "color": "#a8d8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6okxmhciu3chrcumbwjvfgh/bafkreiaoqerd423hamtc3in3r6ry3iac3mhl22eeszxea3gagssz6loy3q",
+    "hash": "e9f4d0d0e2e6e9d9"
+  },
+  {
+    "id": "bluesky:at://did:plc:3y2dhveykpjyasfzyhbhve5f/app.bsky.feed.post/3mzqmen5bpc2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jcolot.bsky.social/post/3mzqmen5bpc2v",
+    "author": {
+      "name": "Julien Colot",
+      "handle": "@jcolot.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3y2dhveykpjyasfzyhbhve5f/bafkreic7ws2dz2x3ejq5hnf4gvgr2z5g3tyorliukuhmlueyommlmqrili"
+    },
+    "text": "Blue Marble Timelapse #30DayMapChallenge Day 7 - 10 minute map So it's 10 minutes as in 10-minute interval timelapse, not 10 minutes to make (that was my initial estimate but it took me a bit more ev…",
+    "postedAt": "2026-11-07T19:17:42.073Z",
+    "day": 7,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A3y2dhveykpjyasfzyhbhve5f/bafkreiakfycrstt6exldy3ktpmxlyv3hsolfo2pb7f6hkiswcqgp2js3w4/thumbnail.jpg",
+    "hash": "0c0c86b6b6b69c1d"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzqkyfkzr22x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzqkyfkzr22x",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 7, and the prompt is '10 minute map'. Hm. For the WW2 Edition of #30DayMapChallenge, how about five? In 1940, Fighter Command's plotters set raid markers literally by the clock: counters set each…",
+    "postedAt": "2026-11-07T18:52:57.736Z",
+    "day": 7,
+    "color": "#181818",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreihuoapsksgskdshspnd3xghbf2w3t6xtna7yuz623qisowvj2wxwq",
+    "hash": "85140e06061e6652"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3mzqdgj3kus2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3mzqdgj3kus2g",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 7: 10 minute map ⏰ A 10-minute walk is how planners judge whether you have a park close to home. By that measure, 71% of Portland does. I generated walking isochrones from the…",
+    "postedAt": "2026-11-07T16:37:41.255Z",
+    "day": 7,
+    "color": "#d8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreiaqrum3ziz7zmaowgnmbd5mn54k4nxdyynbew4ijj25ir6dnfrwuu",
+    "hash": "41c4c16c68287465"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3mzqc5iygyc2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3mzqc5iygyc2d",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 7 of #30DayMapChallenge: 10 minute map. I mapped 10-minute drives from Canadian hospitals with unmap. From Foothills in Calgary: 87.2 km²; Whitehorse General: 17.8 km²; Qikiqtani in Iqaluit: 8.3…",
+    "postedAt": "2026-11-07T16:14:45.419Z",
+    "day": 7,
+    "color": "#282828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreid6y7c2fgcbphrh6uj24jwatsnukec5lscl4rsi2gbf3v7c6svoqq",
+    "hash": "4119181c9c940070"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3mzqbjbk3zb2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3mzqbjbk3zb2l",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 7 — 10-Minute Map ⏱️ From prompt to interactive map in under 10 minutes. Mapboxer Andrew Sepic used the new Mapbox CLI, Mapbox MCP servers, and Claude to build an interactive m…",
+    "postedAt": "2026-11-07T16:03:26.337Z",
+    "day": 7,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Am6ycobnhtarpiehfqpd4kszr/bafkreiagejcj7lnokwruqev7p5use7kvsehck6nj3zyh6bnsjyma6gteti/thumbnail.jpg",
+    "hash": "0000000000000000"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3mzqbeeyxsl2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3mzqbeeyxsl2t",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 7/30 · 10 minute map 🏘️ Where does Cluj-Napoca end? On paper, at a 92 km border. On the ground, 13.6 km of it is built on both sides. 3D map, MapLibre + Three.js. Inspired by @robhaw…",
+    "postedAt": "2026-11-07T16:00:42.206Z",
+    "day": 7,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117575988910829343"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreifsqozdjaqwkkpgcydos4ycgx7yywaojgj5z5w3ealt5jahgov2ci/thumbnail.jpg",
+    "hash": "724dce968c4c4d15"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3mzqbeblijw2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3mzqbeblijw2v",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 7 · 10 minute map. Mount St. Helens as ridgelines, its crater open to the north where the 1980 eruption blew out the side of the mountain. Picked, rendered and checked in under two minutes. Data:…",
+    "postedAt": "2026-11-07T16:00:38.657Z",
+    "day": 7,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117575990703171295"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117575990703171295"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibe6aef5k4hqrr64c3q47ksiypok557l7auib63idpxghgzqssyl4",
+    "hash": "091b1f333327230b"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzq6473h622h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzq6473h622h",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Lövenich, Merzenich, Sevenich - a lot of places around Cologne have names ending in \"-nich\". Along with places in Rhineland-Palatinate south of Cologne, these are virtually the only locations in Germ…",
+    "postedAt": "2026-11-07T15:02:26.512Z",
+    "day": 7,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreifc22hoyqxahhw54tk36wohv7fxtnnfoxbqrx2pzprqbtxmhtkzca",
+    "hash": "a88282038e8e0dd4"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3mzq56etzes2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3mzq56etzes2v",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 311 of #365DaysOfMaps. November 7th is National Play Outside Day. So what are you doing inside? #30DayMapChallenge day 7 tie-in: under 10 minutes Great Lakes Utopia (311/365) mapdesign.icaci.org/…",
+    "postedAt": "2026-11-07T14:45:45.919Z",
+    "day": 7,
+    "color": "#0898d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreiba72x6fxcowx3hqcqktxzd4ginatvsl3eyywmogey4rharxs36oi",
+    "hash": "299980a024644b1f"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3mzq3lnnwua2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3mzq3lnnwua2f",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 7 of #30DayMapChallenge · 10 minute map Every fire since 1950, Los Angeles #wildfire #QGIS brooksgroves.com/30DayMapChallenge/2026/share/day-07.html",
+    "postedAt": "2026-11-07T14:17:23.839Z",
+    "day": 7,
+    "color": "#484848",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreicnj23ohaxfj2tltvwbqxiashpmakfxljzy62y2bjhnxnzqxvsavq",
+    "hash": "57e3a23415464251"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3mzq2xxq25s2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3mzq2xxq25s2g",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 7 We made a map in just 10 minutes using ArcGIS Online Instant Apps. There's only a couple of points of interest on it, but they involve cake, so... got time for a cuppa?! gcer…",
+    "postedAt": "2026-11-07T14:06:23.354Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreieyj7bmea2ubzs3z5zmvl7tjmc3q4px4gyokid2j2eyskk4ktmtoy",
+    "hash": "0c891f1731646ef9"
+  },
+  {
+    "id": "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117575316668120397",
+    "platform": "mastodon",
+    "url": "https://social.numerique.gouv.fr/@ignfrance/117575316668120397",
+    "author": {
+      "name": "IGN France",
+      "handle": "@ignfrance@social.numerique.gouv.fr",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/301/799/901/104/098/original/d3cddda1a14a08e3.jpg"
+    },
+    "text": "Que fait-on en 10 minutes ? ⏱️ 🎭 La réponse avec nos 8 personnages… totalement fictifs, même s’ils ont tous élu domicile au 73 avenue de Paris, à Saint-Mandé ! 🗺️ Découvrez avec cette carte interac…",
+    "postedAt": "2026-11-07T13:09:15.000Z",
+    "day": 7,
+    "color": "#d8d8d8",
+    "imageCount": 3,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3mzpxut252k25"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3mzpxut252k25"
+    ],
+    "image": "https://social.numerique.gouv.fr/system/media_attachments/files/117/575/315/291/561/129/small/15d383e84eacea4f.png",
+    "hash": "1aceceaeccf6e632"
+  },
+  {
+    "id": "bluesky:at://did:plc:4ubq2h42rhiv4bm4hdfjvmpz/app.bsky.feed.post/3mzpx72hhcc2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/elseebb.bsky.social/post/3mzpx72hhcc2z",
+    "author": {
+      "name": "Sebastian",
+      "handle": "@elseebb.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ubq2h42rhiv4bm4hdfjvmpz/bafkreieipyr4lu6mw6i4qilcf2vbzat67nyxx6f3uw6yv5jff2o4pkamai"
+    },
+    "text": "#30DayMapChallenge 2026 | Day 7 10 minute map Mountain Hubs (Crown of Polish Mountains)",
+    "postedAt": "2026-11-07T12:58:46.119Z",
+    "day": 7,
+    "color": "#e8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ubq2h42rhiv4bm4hdfjvmpz/bafkreigtw4y2embonnfj6w35agatl3bpyualwx2fsyzvsuv6tnmfifpibu",
+    "hash": "c4c0b1b191d9e938"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzpvesuc422z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzpvesuc422z",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 7: 10 minute map I made this using Keynote, Mac's version of powerpoint using basic shapes. It took 8 minutes. I decided to go back in to rotate Erie a bit so now 10 minutes. T…",
+    "postedAt": "2026-11-07T12:26:12.007Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117575151120365884"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreihojv5zvaw73pdwstqhju2hfb3p7j74szwfjwu7qrjlgnaysuzg6u",
+    "hash": "c460e064686a6c28"
+  },
+  {
+    "id": "bluesky:at://did:plc:74eu6geapoaod2cbyudkxmgp/app.bsky.feed.post/3mzpugbqcvs2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tulparmaps.bsky.social/post/3mzpugbqcvs2y",
+    "author": {
+      "name": "Alin",
+      "handle": "@tulparmaps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:74eu6geapoaod2cbyudkxmgp/bafkreidjjzlxdoql42okgj7pux2guzo54oyppo5elwqhi7bk3nhuk7gkyq"
+    },
+    "text": "7️⃣ Day 7 - Snow Leopard habitat | 10-minute map ℹ️ Data Sources: IUCN, Natural Earth Data ℹ️ Tools used: QGIS, Figma Photo: Eric Kilby · CC BY-SA 2.0 · Wikimedia Commons #30DayMapChallenge #hireme:…",
+    "postedAt": "2026-11-07T12:09:07.413Z",
+    "day": 7,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:74eu6geapoaod2cbyudkxmgp/bafkreiedsvfaxcom46ya6wgyf6kzhzspjexzr7oibegzjcmzj3mveubyla",
+    "hash": "4b4f432d23333373"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzpq3a4bw22l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3mzpq3a4bw22l",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge Day 7 10 Minute Map | Median Age across Wisconsin Been wanting to try a graduated numbers map for a while, so here’s a 10-minute attempt.",
+    "postedAt": "2026-11-07T10:51:21.645Z",
+    "day": 7,
+    "color": "#f8f8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3mzpq3a4bw22l"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3mzpq3a4bw22l"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreife2zmxqevga4dwykpbtrajqbkowsj3jy2qdxduzjz77npaslojgy",
+    "hash": "68c2e0bcf8f074f0"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3mzpo6kasdys2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3mzpo6kasdys2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 7: 10 minute map Hiking in Saxon Switzerland 🥾 A hike I often make when teaching in Dresden: from Schmilka on the Elbe up the Heringsgrund and zigzagging through the sandstone…",
+    "postedAt": "2026-11-07T10:17:21.000Z",
+    "day": 7,
+    "color": "#b8d8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117574640705655202"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreidmvl75lmde6sdcefuwoo6ihugw6dxjlzkt3ztaigsk7wcgx2otxe",
+    "hash": "a811719199d3f177"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3mzpngpczss2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3mzpngpczss2k",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 7 | 10 Minute Map | #30DayMapChallenge A quick elevation map of Germany made in 10 minutes, plus a second image showing the polished final version. Data: #Copernicus DEM GLO-90 (AWS Open Data), N…",
+    "postedAt": "2026-11-07T10:04:05.457Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117574588968814857"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreiff5sghqtsbfmgsnv62jxoqqgnk6neihtxcanaxgs6aowekgejaku",
+    "hash": "60ecd08880c248f0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3mzpmy6aohk2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3mzpmy6aohk2h",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 7 - 10 minute map & 8 - Utopia Map: squared paper Challenge: In 10-minute, make a map of your dream bedroom",
+    "postedAt": "2026-11-07T09:55:57.791Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreice6n2wb23fb63azdvyvqffa7e6i2zagultw4j234yfuwgnyvlky4",
+    "hash": "4569e9895c52e2cb"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117574451552706577",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117574451552706577",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 7 (?) of the 30 day map challenge - 10 minute map. A count of all the distinct GTFS route types - roughly, how much public transport variety there is, but also a measure of how granular the data…",
+    "postedAt": "2026-11-07T09:29:15.000Z",
+    "day": 7,
+    "color": "#a8a8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3mzplipb6mxa2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3mzplipb6mxa2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/574/443/969/704/215/small/003360898a54f4cd.png",
+    "hash": "d998985858be9253"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117574434056701080",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117574434056701080",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day 7 : 10 minute map Les émissions de CO2 émises en 2020, carte bricolée avec l'excellent #Magrit",
+    "postedAt": "2026-11-07T09:24:48.000Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/574/428/230/678/584/small/36bd19b917aa2b86.png",
+    "hash": "f894bcb0d2d2521c"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117574376532670385",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117574376532670385",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 7 - 10 Minute Map Ten Minutes of Splashes ⌚️ See how far you can travel in 10 minutes from Tokyo’s major stations, colored like splashes of paint. https://app.kumoy.io/public/m…",
+    "postedAt": "2026-11-07T09:10:10.689Z",
+    "day": 7,
+    "color": "#d8d8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzpkggviwv2v"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzpkggviwv2v"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/574/376/148/275/435/small/b33d26006a36200e.png",
+    "hash": "c1c0f6dedcc6c8c0"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3mzpiefmhrz2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3mzpiefmhrz2g",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 7 of #30DayMapChallenge, 10 Minute. The 16 train stations in Uppsala County with the 3 lines from Stockholm, Gävle and Sala meeting at Uppsala Centralstation. Code: https://github.com/gkaramanis/…",
+    "postedAt": "2026-11-07T08:33:17.635Z",
+    "day": 7,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreibmstmzb7qb2y7y6od23p4zfku6ipgmd64lizyjkyd3grjxpplpgi",
+    "hash": "e8ec92b868e860a0"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/users/seav/statuses/117573000564042046",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@seav/117573000564042046",
+    "author": {
+      "name": "Eugene Alvin Villar 🇵🇭",
+      "handle": "@seav@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/296/503/014/137/125/original/8a748c3ba7ce61b0.jpg"
+    },
+    "text": "#30DayMapChallenge 🗺️ Day 7️⃣: 10-minute map ⏲️ Here’s a basic choropleth map showing the population change of the 23 barangays (kinda like wards) of the city of #Makati in the 🇵🇭 #Philippines bet…",
+    "postedAt": "2026-11-07T03:20:15.000Z",
+    "day": 7,
+    "color": "#f8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/seav4f.bsky.social/post/3mzoxfclxyk2f"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:uazuy62cckhrybqum2bwqhuz/app.bsky.feed.post/3mzoxfclxyk2f"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/574/068/307/480/722/small/0e39344c58d28d6b.webp",
+    "hash": "4ecee9d9d379d3cf"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzonsyxh5226",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzonsyxh5226",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 7: 10 Minute Map #30DayMapChallenge I cracked a beer, set a 10-minute timer, picked up a pen, and drew the world map. Horrible, but human. The correlation between distance from Buenos Aires and i…",
+    "postedAt": "2026-11-07T00:38:18.482Z",
+    "day": 7,
+    "color": "#c8c8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreigpculrvlazyw2cmspe63d6u3h7eh6xq6c5xzaiffoenfmrliftje",
+    "hash": "030313470b070707"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3mzojvgm56s2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3mzojvgm56s2c",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 7 · 10 minutes · A DEM printed as a cyanotype (Vanuatu) with a 10-MINUTE UV exposure. Hillshade negative → UV dose D = T·t/τ → conversion c = 1 − e^(−D) → wash → Beer–Lambert colour. The process…",
+    "postedAt": "2026-11-06T23:28:04.942Z",
+    "day": 7,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreih6x2psjnnjyp2hlf7z3yemjr3mtp4ae7idrfuaggy7qkhdma2ria/thumbnail.jpg",
+    "hash": "0b1935355b23d402"
+  }
+]

@@ -1,0 +1,895 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvx325fx2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvx325fx2s",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 11: Sound The route of the first telegraph message in 1844, \"WHAT HATH GOD WROUGHT,\" sent from the U.S. Capitol to Mt. Clare station in Baltimore. Made with @squidmaps.bsky.soc…",
+    "postedAt": "2026-11-18T15:50:43.617Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreif2aavgzhsjkjfwdvlitrkolsaqesy5ymkdgfycgildpaoxt435uy",
+    "hash": "999d9f8b9b93b323"
+  },
+  {
+    "id": "bluesky:at://did:plc:s7khi6f6jhajh26ctxpn5aue/app.bsky.feed.post/3n2agbbqeeb2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mel-likes-maps.bsky.social/post/3n2agbbqeeb2o",
+    "author": {
+      "name": "Melissa Hegeman",
+      "handle": "@mel-likes-maps.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreieqlprlqq4j6utj2ksgrj47t3fzuj6wjxhidhy6rrqkrmu62keuw4"
+    },
+    "text": "#30DayMapChallenge Day 11 · Senses: Sound This is a throwback to Day 3… Where does NYC hear the helicopters? 83% of 2025’s helicopter noise complaints to 311 came from just 7 of the city’s 197 reside…",
+    "postedAt": "2026-11-14T02:10:53.000Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s7khi6f6jhajh26ctxpn5aue/bafkreidahlao6ticv3knnz72njt4g5qe6lqoiamuis4j7fl6ajgmczzgzu",
+    "hash": "8090302878d09080"
+  },
+  {
+    "id": "bluesky:at://did:plc:liv3preakawilocsu5jaggtn/app.bsky.feed.post/3n27zrlildc2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/southarrowmaps.co.nz/post/3n27zrlildc2q",
+    "author": {
+      "name": "Andrew Tyrrell",
+      "handle": "@southarrowmaps.co.nz",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:liv3preakawilocsu5jaggtn/bafkreifyyortymeqm4yxwmfrjtsvejqy7n4ym6k6zffaad72srqkuoim7m"
+    },
+    "text": "30 Day Map Challenge 2026 · Day 11 · Senses: Sound: Catching waves A walk from Santa Monica Pier to the Venice canals, told in two minutes of sound I recorded on the way. Turn it up and hear the them…",
+    "postedAt": "2026-11-13T22:27:31.274Z",
+    "day": 11,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aliv3preakawilocsu5jaggtn/bafkreift3dgveqtif2t4onuswysgupknlvbbiy7ishpcmj6y3lvlyjxwdu/thumbnail.jpg",
+    "hash": "2f37032d8e9c6071"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n25lqtcf6k2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n25lqtcf6k2y",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 11: SENSES: SOUND - THE GLOBAL Lden NOISE MAP FOR LISBON IN 2021 - The day-evening-night equivalent level (Lden) global noise map for Lisbon in 2021 shows the underlying street…",
+    "postedAt": "2026-11-12T23:11:14.038Z",
+    "day": 11,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/jpamado/statuses/117605992277146839"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreic2jdcntou6ddd4rzcewdfrj6bo6qrdebottwsplkqvocvyli3yae",
+    "hash": "6263656565636f7c"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n24v5qbpr22w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n24v5qbpr22w",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🎧 Day 11/30: Senses: Sound | Can You Hear the Web? What would the early internet sound like? 🔊 For Day 11 of the #30DayMapChallenge, I'm giving five historic technology landmarks their own imagined…",
+    "postedAt": "2026-11-12T16:26:51.020Z",
+    "day": 11,
+    "color": "#384868",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreig3q3mvedg4a6ldnf43ewdeg465qhjk4yss7iwfsnjafpv5sd677e/thumbnail.jpg",
+    "hash": "d49591919393899c"
+  },
+  {
+    "id": "bluesky:at://did:plc:q66r3vy7xepmx62ti4vt7uzb/app.bsky.feed.post/3n24kxvsyh22d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/wyman10.bsky.social/post/3n24kxvsyh22d",
+    "author": {
+      "name": "UofA Map/GIS Librarian",
+      "handle": "@wyman10.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreieugoc3tac53xrv77vkifppfgmetcjapc7dmvt5qexpel2otw7zom"
+    },
+    "text": "#30daymapchallenge #Sound How do you hear something? #Spin How do you map a soundscape? #Listen Audio samples of a selection of globes held by the William C. Wonders Map Collection. tinyurl.com/krrvr…",
+    "postedAt": "2026-11-12T13:24:38.081Z",
+    "day": 11,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreihsfuq3274zp2h3iau6tpbxqiyhf3qpvcdocavj4urdqaskvnrymq",
+    "hash": "1cce8d96d64a96a6"
+  },
+  {
+    "id": "bluesky:at://did:plc:yv2grvouscdaq7w3ikyljbae/app.bsky.feed.post/3n24gupjdvk24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dkane.net/post/3n24gupjdvk24",
+    "author": {
+      "name": "David Kane",
+      "handle": "@dkane.net",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreib7ochgvr42yhu7n5cp4k4an34rlgeneqdri62dfokjpxlxwzdllq"
+    },
+    "text": "#30DayMapChallenge Day 11: Sound (yes I'm not running on time!) A 3D view of the A3 in South West London, based on noise levels recorded in Defra's data on road noise: environment.data.gov.uk/dataset…",
+    "postedAt": "2026-11-12T12:11:15.846Z",
+    "day": 11,
+    "color": "#a8c8d8",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yv2grvouscdaq7w3ikyljbae/bafkreicfpid3bzdnmb7w4esmoqvc7iblojsawbqo7asy3ukhbe57gydujy",
+    "hash": "10f0a4e4ecc890e0"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117601205000009469",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117601205000009469",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day11: Senses: Sound I keep forgetting just how powerful QGIS's Geometry Generator is. It was a real game-changer for this project. Thanks for the reminder! My map today explores t…",
+    "postedAt": "2026-11-12T02:53:00.000Z",
+    "day": 11,
+    "color": "#787878",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/601/182/392/284/590/small/d5376ef215d08e39.png",
+    "hash": "654acbeb639d9936"
+  },
+  {
+    "id": "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n22yn36gq22b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n22yn36gq22b",
+    "author": {
+      "name": "Fedir Gontsa ",
+      "handle": "@gontsa.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:64h65posxczkfhyskzcfvrma/bafkreiaames42rm77o2hjjwxhti5asrq7s7f5kusfwdgojhatuz3jpu22m"
+    },
+    "text": "Day 11. Senses: Sound Silence as a measure of quality of life: days without a single air-raid siren, 25 Feb 2022 – 10 Nov 2026. Data: eTryvoga via github.com/Vadimkin/ukr... #30DayMapChallenge",
+    "postedAt": "2026-11-11T22:23:47.461Z",
+    "day": 11,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@gontsa/117600149773471204"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/users/gontsa/statuses/117600149773471204"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:64h65posxczkfhyskzcfvrma/bafkreifynsym4klthopxcu6zqmnjischgpt6a74l6qor4xpjnu63ndimge",
+    "hash": "e46d7f7d4d475772"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n22ufvfrn725",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3n22ufvfrn725",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "Day 11 of the #30DayMapChallenge: Senses: Sound 달려라 방탄! Kelsey Taylor showcased how k-pop powerhouse #bts took the genre from Korea to the global stage. Using an Azimuthal projection centered on thei…",
+    "postedAt": "2026-11-11T21:08:11.591Z",
+    "day": 11,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3n22ufvfrn725"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n22ufvfrn725"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Afjgnfxgy6sz7erbxen4r6urr/bafkreiawlt5ykqrxqljoaymgebuo6dh6gw3pk66fkdnsiruzutb5r5pdmm/thumbnail.jpg",
+    "hash": "6b6979c62d2d142c"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117599780562622728",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117599780562622728",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day 11 : Senses: Sound Le \"son\" des communes françaises par une extraction dans #QGIS.",
+    "postedAt": "2026-11-11T20:50:45.000Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/599/777/641/402/376/small/1a5a4fea1e1d4dde.jpg",
+    "hash": "c88c7a763c5ab8a9"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n22rvfnhqc23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3n22rvfnhqc23",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 11: Sound 🐦 Swainson’s Thrushes cross the US mostly at night, so you rarely see them pass. But thousands of backyard microphones hear them. Here’s their 2025 migration, week b…",
+    "postedAt": "2026-11-11T20:23:10.733Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreihffr7a34kjvpjtecgdnvqyg4wjocidfneclw7tkcjfadsoxsw33a/thumbnail.jpg",
+    "hash": "092d331b3f361e9b"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/wnd/statuses/117599576864076039",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@wnd/117599576864076039",
+    "author": {
+      "name": "Will Deakin",
+      "handle": "@wnd@fosstodon.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/592/746/376/489/477/original/b9105a2448e8def1.jpg"
+    },
+    "text": "The eleventh #30MapsInAMonth is about sound. As #rail transport, especially #freight, here are three visualisations showing measured noise levels in Nordrhein-Westfalen, around Berlin Hbf, Köln and H…",
+    "postedAt": "2026-11-11T19:58:57.000Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 4,
+    "source": "feed",
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/599/555/667/145/073/small/89506e183df8d162.png",
+    "hash": "6ba6b430c2c6c498"
+  },
+  {
+    "id": "mastodon:https://masto.ai/users/bovine3dom/statuses/117599212413947700",
+    "platform": "mastodon",
+    "url": "https://masto.ai/@bovine3dom/117599212413947700",
+    "author": {
+      "name": "Oliver Blanthorn",
+      "handle": "@bovine3dom@masto.ai",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/476/785/455/222/317/original/1a2b717e01d6da4a.png"
+    },
+    "text": "Day 11 of the 30 day map challenge: noise. Population-weighted median day/evening/night noise as required to be reported under the EEA Environmental Noise Directive (2022) This was so much more work…",
+    "postedAt": "2026-11-11T18:26:16.000Z",
+    "day": 11,
+    "color": "#a8a8a8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/bovine3dom.masto.ai.ap.brid.gy/post/3n22lexa5wko2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:zrby72gi5x2rbj7jonj2fj5z/app.bsky.feed.post/3n22lexa5wko2"
+    ],
+    "image": "https://s3.masto.ai/media_attachments/files/117/599/155/601/896/278/small/9d8a14567bb03892.png",
+    "hash": "19591c1892d2642c"
+  },
+  {
+    "id": "bluesky:at://did:plc:ad6qm246w2e3wvue4dobauvk/app.bsky.feed.post/3n22jxdh6jo2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rfeers.bsky.social/post/3n22jxdh6jo2x",
+    "author": {
+      "name": "Josep Ferrer",
+      "handle": "@rfeers.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreidbeep5loomsv3uybiuk6wtc6yatmks4t7zp2pm5dp6t5jg4m6tgq"
+    },
+    "text": "Almost half of people in EU cities live with road noise louder than the WHO advises. #30DayMapChallenge Day 11: Sound 👇🏻",
+    "postedAt": "2026-11-11T18:01:05.520Z",
+    "day": 11,
+    "color": "#d8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ad6qm246w2e3wvue4dobauvk/bafkreib6twudhmcoqk2gllrognmzbbvm3llutnn6tsldquxng42pwbwnbi",
+    "hash": "acd8cc0ea12672d0"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n22itmd2xs2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n22itmd2xs2v",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Today is a special day in Cologne, the start of the Carnival season. Kölsche music in the streets. Usually, rules apply for making music in the street. Around the cathedral and the old town, street m…",
+    "postedAt": "2026-11-11T17:41:06.945Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreihbdshlbxtxmeuk4hzqsxa2m655pdzjskqnwojw36q2v4zlhpmvqi",
+    "hash": "4860e8c286ace071"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n22ik3b27c2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n22ik3b27c2t",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 11 of #30DayMapChallenge: Senses: sound. Six Canadian cities by modelled noise, in 9,623 hexagons. Freeways draw each city, and in five of the six the loudest spot is beside the airport runways,…",
+    "postedAt": "2026-11-11T17:35:47.063Z",
+    "day": 11,
+    "color": "#282828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreigpn77ypucycz36jd7p7vxtvicdlnnx5f4snk5yvx5bqxqjarv72y",
+    "hash": "46068686c6cea6f7"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n22gsuxr6s2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n22gsuxr6s2r",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 11 of #30DayMapChallenge, Sound. Road noise in Uppsala from 22:00 to 06:00. Most streets stay in the lightest bands, but the E4 motorway and ring road reach 70+ dB. WHO advises under 45 dB. Code:…",
+    "postedAt": "2026-11-11T17:04:52.980Z",
+    "day": 11,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreigfpm2dvwju6j6b6orujeoxhyz5l7ivgakh7zuljc7vhkwtjxl7o4",
+    "hash": "ead0f6b0e8dab7f1"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n22eqp7mic2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n22eqp7mic2j",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 11/30 · Senses: Sound 🎧 Cluj-Napoca's sound in a Three.js 3D map: 83.1 km of quiet streets (of 722.1 km mapped) in our road-class estimate, set next to the city's official noise map.…",
+    "postedAt": "2026-11-11T16:27:54.348Z",
+    "day": 11,
+    "color": "#383858",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/maptheclouds/statuses/117598874064943242"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreidhpawwmumzzwrxprfrz4ote42adhilbbwlilr35zsnqsjh6vdv6i/thumbnail.jpg",
+    "hash": "186747d0998a4a54"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n22dbhmuve2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n22dbhmuve2n",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 11 · Senses: Sound. Milford Sound, the other kind of sound: despite the name it's a fjord, carved by glaciers, drawn here as ridgelines. Data: public elevation data. Made with Printed Canyon, whi…",
+    "postedAt": "2026-11-11T16:01:29.199Z",
+    "day": 11,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117598643253295067"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117598643253295067"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreidqpsrbx3u5mp44zjc4hrtwfpkp3jprugsfrqxdmsxn42gtnscgtm",
+    "hash": "3834f8c8c4c8c455"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n22cy2dpms2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n22cy2dpms2k",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 11 | Senses: Sound The Soundtrack of South Minneapolis—average airplane noise level over a 24-hour period.",
+    "postedAt": "2026-11-11T15:56:13.408Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreigqlvboyjzmd6wi7xezwsevheo6tteitawmcazc2net2cetuvk47e",
+    "hash": "3696d1f0b8525331"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117509382044663033/statuses/117598519455730854",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@walkably/117598519455730854",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/117/513/442/944/882/621/original/f92990bbe865b45a.png"
+    },
+    "text": "Day 11, Senses: Sound looks at Barcelona street pieces and their 24-hour noise level in decibels. The middle level is 70 dB on main roads, 68 dB on secondary roads, 59 dB on residential streets and 5…",
+    "postedAt": "2026-11-11T15:30:02.000Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/walkably.org/post/262szdhtij7ga"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/262szdhtij7ga"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/574/552/159/577/130/small/afc1be6a8b1d5b2f.png",
+    "hash": "8858c8c9c8d89182"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n22axcqcgk2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n22axcqcgk2a",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 315 of #365DaysOfMaps. November 11th is Origami Day so get folding your map, with musical accompaniment. #30DayMapChallenge day 11 tie-in: sound A World Gently Held (315/365) mapdesign.icaci.org/…",
+    "postedAt": "2026-11-11T15:20:01.171Z",
+    "day": 11,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreigpqxvieoej5org7z2mzkxtnqlrtvqsggwgb2anvepit3wwjupbem",
+    "hash": "691474f4da9a0a21"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n22a7oaaco2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n22a7oaaco2u",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 11 — Senses: Sound 🔊 Built with Mapbox, PerchMap, built by Scott Dubois takes location discovery beyond the visual with an ambient sound feature that adds another dimension to…",
+    "postedAt": "2026-11-11T15:06:46.381Z",
+    "day": 11,
+    "color": "#181828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreigarffsiher2whgnoop5v4xcpjipzqpjeyu3y253nnpnk3ra6nl3q",
+    "hash": "8c6e6ab2d973794c"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n227pboyvby2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n227pboyvby2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 11: Sound The Sound of Rotterdam 🔊 Five open noise maps combined: which source is loudest in every 10 m cell? 🟠 Road dominates 78% of the area above 55 dB 🔵 Port & industry…",
+    "postedAt": "2026-11-11T14:57:33.000Z",
+    "day": 11,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117598391720015104"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreihflyp4fdkda2nu73qewyix2sk7czlcjiexwdaqtksu4aq5ngt54y",
+    "hash": "1bcbc7414959b187"
+  },
+  {
+    "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3n226caqoys23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3n226caqoys23",
+    "author": {
+      "name": "dr-iggs.bsky.social",
+      "handle": "@dr-iggs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreid6jc3vcypmfd43g6sdc5pusgkm5uip5rrcgxkqqf3do2ouf6mecq"
+    },
+    "text": "#30daymapchallenge Day 11: Sounds. I tracked where my favorite band The Beths have toured in the US the last few years! The colors don't mean anything, they just match the color palette from their ne…",
+    "postedAt": "2026-11-11T14:32:26.964Z",
+    "day": 11,
+    "color": "#282828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pb2c57oc2v4b6643mj7a7trw/bafkreieuqul5kpvy3pys5w3cqsxlufwlccfb2ak2vkccsodoxujlk25whq",
+    "hash": "965d4d13370e4b01"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n225i54qr72q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n225i54qr72q",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 11 of #30DayMapChallenge · Sound Where the tsunami sirens reach There's more behind it on the page. #tsunami #Washington brooksgroves.com/30DayMapChallenge/2026/share/day-11.html",
+    "postedAt": "2026-11-11T14:17:50.716Z",
+    "day": 11,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreihjc4z32ipzbrqqxratz7qa3wzpuu4zwgprofbru7m4i3xwetdtwe",
+    "hash": "a0b899b1f5cbc7c4"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n224lpw4x22v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n224lpw4x22v",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 11 · Sound Can one hear the shape of an island? After Kac (1966): Maui Nui as a drum kit, each mountain struck at its peak, then all together. Gold rings are waves meeting between islands. Bigger…",
+    "postedAt": "2026-11-11T14:01:57.374Z",
+    "day": 11,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreidogvzr4ua7ydyrdfnmulczs7abd2nwqntekaw34ka5hvkezryw5q/thumbnail.jpg",
+    "hash": "3a9e2b2313e80100"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n223w45vl22e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n223w45vl22e",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge Day 11 Senses: Sound | Sounds of State Street A revamp of one of my first prints, and it’s in my book too! The map shows the theaters, venues, and events (past/present), that have…",
+    "postedAt": "2026-11-11T13:49:52.014Z",
+    "day": 11,
+    "color": "#e8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n223w45vl22e"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n223w45vl22e"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreif2aicrycuidzrqy5cvpey627jvn4nojpsjswfp6cebeyrzdp7o5m",
+    "hash": "a2ca0e0a282e2630"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/Quarticle/statuses/117598036855244833",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@Quarticle/117598036855244833",
+    "author": {
+      "name": "Quarticle",
+      "handle": "@Quarticle@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/113/905/174/346/965/473/original/1bd2d1fea4bbc7f7.jpg"
+    },
+    "text": "Day 11 of #30DayMapChallenge: Senses – Sound Mapping night-time railway noise in Cologne, one of Europe's busiest rail hubs. The map shows noise levels along 50 railway lines, highlights 35 km of noi…",
+    "postedAt": "2026-11-11T13:27:18.541Z",
+    "day": 11,
+    "image": "https://files.mastodon.social/media_attachments/files/117/598/036/483/296/015/small/38e800195065f5ed.jpg",
+    "color": "#f8f8f8",
+    "hash": "ecb9591d14145c60",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117597993894600271",
+    "platform": "mastodon",
+    "url": "https://social.numerique.gouv.fr/@ignfrance/117597993894600271",
+    "author": {
+      "name": "IGN France",
+      "handle": "@ignfrance@social.numerique.gouv.fr",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/301/799/901/104/098/original/d3cddda1a14a08e3.jpg"
+    },
+    "text": "Le Tour du Mont-Blanc est l’une des boucles les plus mythiques des Alpes. Aujourd'hui on vous le présente… en carte son ! 🎶 Comment ça marche ? 🎵 Chaque note correspond à un tronçon de 2 km. ⛰️ Plu…",
+    "postedAt": "2026-11-11T13:16:23.000Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3n222av2nyc2w"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3n222av2nyc2w"
+    ],
+    "image": "https://social.numerique.gouv.fr/system/media_attachments/files/117/597/986/569/008/218/small/a343771be26c0a59.png",
+    "hash": "5133fee44ba8e649"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3mzzy2mz32k2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3mzzy2mz32k2p",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 11: Sound Noisier and Quieter areas around Lake Ontario using communication towers (from OSM) as a proxy. OSM data is much more dense in Canada for some reason so data skews th…",
+    "postedAt": "2026-11-11T12:40:48.937Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/douggreenfield/statuses/117597855155221651"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreiddr4v33m6ekttojkamx24tix4jd4xzmtq4leztekxwklgxejy6pq",
+    "hash": "8c2eac8c9498ca46"
+  },
+  {
+    "id": "bluesky:at://did:plc:44nsqvb7bd25aqgp6x6yteob/app.bsky.feed.post/3mzzvitxdrk22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karimdouieb.bsky.social/post/3mzzvitxdrk22",
+    "author": {
+      "name": "Karim Douieb",
+      "handle": "@karimdouieb.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:44nsqvb7bd25aqgp6x6yteob/bafkreifgp7eqschlhcc665pllezzclv3m7lwnw7chskeahciyrmy7mqsc4"
+    },
+    "text": "[🔊 Sound on] Earth's Breath: the average color of the land, seen from space by NASA MODIS every 8 days for two years. #30DayMapChallenge Day 11: Sound",
+    "postedAt": "2026-11-11T11:55:04.758Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A44nsqvb7bd25aqgp6x6yteob/bafkreidwlyv3mfxi27kdzf6sfqvn3thubjpopzhp6xv3y7cfyx5fyizae4/thumbnail.jpg",
+    "hash": "c880d6cccce4e490"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3mzzqjf42ic2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3mzzqjf42ic2f",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 11: Sound Not all bird records are sightings... www.gcer.co.uk/30DMC_Day11_...",
+    "postedAt": "2026-11-11T10:25:54.028Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreidjhsak5em2eiszvmatp7lldub3bkjy44tubiafhk5acnwnivax4m",
+    "hash": "1f1e1f1f1f7fcfcf"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3mzzpnhfk5c2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3mzzpnhfk5c2k",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 11: ‘Sound’ is the prompt. I'll go sideways: a sound is a sea channel, from Old Norse sund, a swim. To the English, Denmark’s Øresund was ‘the Sound’. In Oct '43 fishing boats carried some 7,000…",
+    "postedAt": "2026-11-11T10:10:16.911Z",
+    "day": 11,
+    "color": "#e8d8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreiat73dgttpoyqtogwxnyqrynv54atkuwqjvqjqzubdrawpddynl2a",
+    "hash": "41b1b1b1b9982d73"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3mzzmxs2ubq2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3mzzmxs2ubq2r",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 11 - Senses: Sound Sing Me a Place 📀 Which place is named in the most songs? Click a vinyl to discover all its songs, and listen to a sample of its most popular one. app.kumoy…",
+    "postedAt": "2026-11-11T09:22:22.218Z",
+    "day": 11,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117597074208870415"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117597074208870415"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreihzyc6euzl7ai2722nsptrmu5lad4exhdkbbuhogxsh7ajkvccmu4/thumbnail.jpg",
+    "hash": "c1d0e4e06040d98a"
+  },
+  {
+    "id": "bluesky:at://did:plc:wxffxcxq7ckdwj7jmftnzkzs/app.bsky.feed.post/3mzzlqze3v72q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/gloswildlife.bsky.social/post/3mzzlqze3v72q",
+    "author": {
+      "name": "Gloucestershire Wildlife Trust",
+      "handle": "@gloswildlife.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxffxcxq7ckdwj7jmftnzkzs/bafkreiez32mm4ir3okbmbvvb4pp3yyj3gbtkb6iklqj73wsibm6jsil42m"
+    },
+    "text": "It's day 11 of the #30DayMapChallenge! Can you guess what this map is showing? Hint: sound🔊 Find out here: https://www.gcer.co.uk/30-day-map-gallery/",
+    "postedAt": "2026-11-11T09:00:40.124Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wxffxcxq7ckdwj7jmftnzkzs/bafkreiboabnmt5znheteqa7e7vakgqxubu4ybfetfgk3lq6r5aj2s34vr4",
+    "hash": "44cc9899e2e2c047"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3mzzdaerysk2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3mzzdaerysk2m",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 11 | Senses: Sound | #30DayMapChallenge | Live Music in Berlin. Data: OSM and Natural Earth. Tools: #Rstats #ggplot2 #rnaturalearth #ggspatial #sf #dplyr #GeoportalBerlin",
+    "postedAt": "2026-11-11T06:28:13.063Z",
+    "day": 11,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117596390056023843"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreih7xmc6akth7gellenwajp2uwp3cov53qkcorfwmb7ah65vlhlpwu",
+    "hash": "78aa6270d0d494da"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/stevefaeembra/statuses/117596319096879093",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@stevefaeembra/117596319096879093",
+    "author": {
+      "name": "stevefaeembra",
+      "handle": "@stevefaeembra@mapstodon.space",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/419/649/933/155/459/original/ed5b3c9cf561f3c4.png"
+    },
+    "text": "Day 11. Sound #30DayMapChallenge Animation visualising the air pressure wave from the Krakatoa eruption of 1883. Travels out from Krakatoa, reaches antipode (in Colombia) then travels back to whence…",
+    "postedAt": "2026-11-11T06:10:27.000Z",
+    "day": 11,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/596/273/588/041/791/small/67d9c03795589ffd.png",
+    "hash": "68100b4b07161600"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3mzzbm6slbs2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3mzzbm6slbs2k",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 11 - Sound & 12 - Power Map: Population Lines Print by (c) James Cheshire Challenge: Using tracing paper on top of the original map, draw the population lines an…",
+    "postedAt": "2026-11-11T05:59:01.962Z",
+    "day": 11,
+    "color": "#c8b898",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreieitgjvaaiian562rhkknry72fjqavthtcaeojcjddge37m7khchi",
+    "hash": "6979696175e93d21"
+  },
+  {
+    "id": "bluesky:at://did:plc:fzrvpyqvd3xtzjnaevlqlyfq/app.bsky.feed.post/3mzz2jch7rc2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/sarahbell.bsky.social/post/3mzz2jch7rc2m",
+    "author": {
+      "name": "Sarah Bell",
+      "handle": "@sarahbell.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreicc5uendj3rtjisnwkikvpdnv3lnow4cuwu2335hvxrzdzpmjbs3u"
+    },
+    "text": "#30DayMapChallenge Day 11: Sound Puget Sound.",
+    "postedAt": "2026-11-11T03:52:08.928Z",
+    "day": 11,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreicbobmdhnsr2vyfv6ajl5uicaewvzlkarfo2enu7bjekdpsv6ny7a",
+    "hash": "830b09090b294313"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3mzyrmvks722j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3mzyrmvks722j",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 11: Sound #30DayMapChallenge The siguiendoballenas.org project tracks the movement of southern right whales. This animation shows the path of 30 of them tagged off Patagonia in 2025. Their calls…",
+    "postedAt": "2026-11-11T01:13:05.956Z",
+    "day": 11,
+    "color": "#d8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A432cbxpbyzrkhv6pzaxsxoj2/bafkreibhzb6o2fbu5elwvopf3f3nzq3oqiyuxu2aoixrkn477rj7cwvwnu/thumbnail.jpg",
+    "hash": "b2a68692828482a0"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3mzy325mbrs2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3mzy325mbrs2f",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "Day 11 #30DayMapChallenge. Sound. Sounds of the crinklier of the main islands. Labels and their coordinates from the New Zealand Gazetteer, placed (with some padding restrictions etc) using ggrepel i…",
+    "postedAt": "2026-11-10T18:28:54.532Z",
+    "day": 11,
+    "color": "#d8e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreidzfmqboivszi6nkqu7g4mjlbhqwdw7lmc5f35witu6eqspfwdg3q",
+    "hash": "2e94ecd9d8d83000"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117574838519836782",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@fotoshi/117574838519836782",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/117/334/098/102/725/235/original/2f1951a2753e02e7.jpg"
+    },
+    "text": "Day 11: Senses: Sound. Mals / Malles, Italy. A footprint on the map. A place filled with music. A live performance photographed on 9 August 2024. Photo: strabo, CC BY 4.0. Building footprint and map:…",
+    "postedAt": "2026-11-07T11:07:40.000Z",
+    "day": 11,
+    "color": "#182828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2bhwpx2wb2h"
+      },
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117614735918441294"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2bhwpx2wb2h",
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117614735918441294"
+    ],
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/574/838/491/264/710/small/068ca19dae0cdb01.jpeg",
+    "hash": "73d82cce13076d5d"
+  }
+]

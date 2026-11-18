@@ -1,0 +1,48 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Calendar from '../components/Calendar.astro';
+import { postsForDay, themes } from '../lib/data';
+import { SQUIDMAPS_URL, YEAR, withBase } from '../lib/site';
+
+const days = themes.map((t) => ({ ...t, count: postsForDay(t.day).length }));
+const total = days.reduce((n, d) => n + d.count, 0);
+const people = new Set(themes.flatMap((t) => postsForDay(t.day).map((p) => p.author.handle))).size;
+const latest = [...days].reverse().find((d) => d.count > 0);
+---
+
+<Layout title={`#30DayMapChallenge ${YEAR} Gallery`}>
+  <section class="mx-auto max-w-7xl px-4 pt-10 pb-8 sm:px-6 sm:pt-16">
+    <p class="font-display text-sm font-bold tracking-widest text-ink-500 uppercase">#30DayMapChallenge · November {YEAR}</p>
+    <h1 class="mt-2 max-w-3xl font-display text-4xl font-bold tracking-tight text-balance sm:text-6xl">
+      Thirty days of maps from the whole community
+    </h1>
+    <p class="mt-4 max-w-2xl text-lg text-zinc-600 dark:text-zinc-400">
+      {total.toLocaleString()} maps by {people.toLocaleString()} mapmakers, collected from public posts on Bluesky and Mastodon. Pick a day to browse.
+    </p>
+    <div class="mt-6 flex flex-wrap gap-2">
+      {latest && (
+        <a href={withBase(`day/${latest.day}/`)} class="rounded-full bg-ink-500 px-5 py-2.5 font-medium text-white hover:bg-ink-600">
+          Browse day {latest.day}: {latest.theme} →
+        </a>
+      )}
+      <a href={withBase('about/')} class="rounded-full border border-zinc-300 px-5 py-2.5 font-medium hover:bg-zinc-50 dark:border-zinc-700 dark:hover:bg-zinc-900">
+        How it works
+      </a>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-4xl px-3 sm:px-6">
+    <Calendar />
+  </section>
+
+  <section class="mx-auto mt-16 max-w-7xl px-4 sm:px-6">
+    <div class="flex flex-col items-start gap-5 rounded-2xl bg-ink-50 p-6 sm:flex-row sm:items-center sm:p-8 dark:bg-ink-700/20">
+      <img src={withBase('brand/squidmaps-mascot.png')} alt="" width="64" class="shrink-0" />
+      <div class="flex-1">
+        <p class="font-display text-xl font-bold">Making a map for tomorrow's theme?</p>
+        <p class="mt-1 text-zinc-600 dark:text-zinc-300">Draw or import data with squidmaps and make a shareable web map in minutes.</p>
+      </div>
+      <a href={SQUIDMAPS_URL} class="rounded-full bg-ink-500 px-5 py-2.5 font-bold text-white hover:bg-ink-600">Try squidmaps →</a>
+    </div>
+  </section>
+</Layout>

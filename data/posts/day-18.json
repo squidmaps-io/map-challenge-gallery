@@ -1,0 +1,431 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2ly6fiy3s2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2ly6fiy3s2h",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 18: Null The @squidmaps.bsky.social 404 page is itself a map, focused on everyone's favorite coordinates: 0,0. It features the famous null island buoy (with attribution of cour…",
+    "postedAt": "2026-11-18T16:30:50.578Z",
+    "day": 18,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreig6i6soyf4costoyylw6gmaadej3fehzup37efu3oxxchvksop3ci",
+    "color": "#88d8e8",
+    "hash": "cac83032a3091011",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n2lwmkr6iz2r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n2lwmkr6iz2r",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 18 — NULL 🏝️ What would you build on an island at coordinates (0,0)? Mapbox designer James Piacentini created a playful Null Island design game using Mapbox Standard, inviting…",
+    "postedAt": "2026-11-18T16:02:56.906Z",
+    "day": 18,
+    "color": "#182838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreifaknxgpuga6y6vtwpktyiin77lgwibxzn3wtd3lgp4qng7rcj7ye",
+    "hash": "516049095939193c"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n2lwimc7mc2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n2lwimc7mc2x",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 18 · NULL. Null Island, 0° N 0° E, where map data with missing coordinates ends up. There's no island, just seafloor about 4,900 m down, with seamounts to the north. Data: GEBCO_2026 Grid. Made w…",
+    "postedAt": "2026-11-18T16:00:45.636Z",
+    "day": 18,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117638276573378975"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117638276573378975"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreidpcounwd7lc2trl2fjznqccnqmidutpwudigzrgwfg4qbby3gnru",
+    "hash": "020717072b23160e"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2lv6wnr422a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2lv6wnr422a",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Where people live in Cologne and where nobody lives Germany's Federal Statistical Office, provides a fine grid with population counts based on the 2022 Census. I decided only to differentiate between…",
+    "postedAt": "2026-11-18T15:37:27.335Z",
+    "day": 18,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreihdncnpzqsx22xvnkwpsodmz3v5voolfvltjgl3rdh3ikoamb2guu",
+    "hash": "924042e8e0f438c6"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n2lutc3ldk2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n2lutc3ldk2y",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 322 of #365DaysOfMaps. November 18th is GIS Day. #30DayMapChallenge day 18 tie-in: NULL. So, a fictional map made without GIS... Obviously 🤦 Null Island: GIS version (322/365) mapdesign.icaci.or…",
+    "postedAt": "2026-11-18T15:30:56.654Z",
+    "day": 18,
+    "color": "#08b8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreihob4d6uopfucpfa6r3yp6rnxihpsmh3bekpvdyunlty47oxcb4ca",
+    "hash": "0870d49ab494d4b9"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n2lujeabvc24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n2lujeabvc24",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 18 of #30DayMapChallenge: NULL. The 2021 census counted 0 people on 66.2% of Canada's land. In 63 reserves and settlements it has no count at all: not 0 but NULL, and left out of every total. Liv…",
+    "postedAt": "2026-11-18T15:25:23.376Z",
+    "day": 18,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreih6rewcx3w6nwpcvuamenooiwxfmhrsucuuibkpyvhoyy5b4q7skq",
+    "hash": "4d756f3919074343"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n2ltkjjvmz2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n2ltkjjvmz2i",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 18 of #30DayMapChallenge, NULL. A quarter of Uppsala's road length has no speed limit in OpenStreetMap, mostly residential streets and minor rural roads Code: https://github.com/gkaramanis/30DayM…",
+    "postedAt": "2026-11-18T15:08:06.426Z",
+    "day": 18,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreigwoskssqhescdvxqe6ho6c42chq3hcq5yxpgzgpr4yvuuznchhci",
+    "hash": "aae855e0f266cad0"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n2lsmqukr22t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n2lsmqukr22t",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 18: NULL Where to Find the Missing Middle NULL indicates a data value does not exist. In many Twin Cities neighborhoods, duplexes, triples, fourplexes and townhouses are NULL.",
+    "postedAt": "2026-11-18T14:51:29.770Z",
+    "day": 18,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreie5odvekne3xml4lehdktvujw7a63i3cru7iywwqdollvq4muhsna",
+    "hash": "ea82e8baae989982"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2lqoyaal52s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2lqoyaal52s",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 18 of #30DayMapChallenge · NULL Nobody lives here #census #dataviz brooksgroves.com/30DayMapChallenge/2026/share/day-18.html",
+    "postedAt": "2026-11-18T14:16:57.104Z",
+    "day": 18,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreibzw5ptttbsgwoii6wbj5zk5qaisko6ij3clrugjj7efasznoxa3y",
+    "hash": "80c868d4e43cccc6"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2lmmmale226",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2lmmmale226",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "Day 18 #30DayMapChallenge - NULL #LakeOntario",
+    "postedAt": "2026-11-18T13:04:02.498Z",
+    "day": 18,
+    "color": "#989898",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreid2ijrtj4axnfwe7inyo4xm6hyvdu2rtmje5qoou4b6smk3y2xp7i",
+    "hash": "88c10ef6c0991517"
+  },
+  {
+    "id": "bluesky:at://did:plc:fzrvpyqvd3xtzjnaevlqlyfq/app.bsky.feed.post/3n2llzhjucs2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/sarahbell.bsky.social/post/3n2llzhjucs2v",
+    "author": {
+      "name": "Sarah Bell",
+      "handle": "@sarahbell.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreicc5uendj3rtjisnwkikvpdnv3lnow4cuwu2335hvxrzdzpmjbs3u"
+    },
+    "text": "#30DayMapChallenge Day 18. Null. Tour date locations that comedian Luke Null @luke_null has recently performed in or will soon perform.",
+    "postedAt": "2026-11-18T12:53:20.027Z",
+    "day": 18,
+    "color": "#d8b868",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fzrvpyqvd3xtzjnaevlqlyfq/bafkreiduxigmmabp5xqxhazyldgaeqewr2duza22n2dtyy7ji4e4ciml2y",
+    "hash": "8b1d7d6b1fa73f7f"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2llhi4dvc2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n2llhi4dvc2c",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge Day 18 NULL | Frank Lloyd Wright in Madison Between 1893 and 1959, Frank Lloyd Wright designed 33 projects across the Madison area, and nearly half were never built (so in a databa…",
+    "postedAt": "2026-11-18T12:43:16.648Z",
+    "day": 18,
+    "color": "#e8d8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n2llhi4dvc2c"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2llhi4dvc2c"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreibyf5ljfrtj7idyk6iixlb7jk5rtoq322eplknmyookbikho7da4m",
+    "hash": "301b393a3e331232"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n2lhmc37hlo2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n2lhmc37hlo2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 18: NULL I mapped only the NoData cells of the AHN elevation data for north-east Rotterdam. The laser gets no answer from water, so the gaps draw the Nieuwe Maas, the Kralingse…",
+    "postedAt": "2026-11-18T11:34:20.000Z",
+    "day": 18,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117637228855009020"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicw2tkz6y4ns2pggc6t6sqemuwz2e7wjox5g3wu6ii4ap6qvbyvim",
+    "hash": "b4f0e2a8ecd6f8a8"
+  },
+  {
+    "id": "bluesky:at://did:plc:snoxbw3vfmi2jxk6i6wtijqe/app.bsky.feed.post/3n2lg35x3yc2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/vova-today.bsky.social/post/3n2lg35x3yc2v",
+    "author": {
+      "name": "vova.today / data & fun",
+      "handle": "@vova-today.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:snoxbw3vfmi2jxk6i6wtijqe/bafkreidlxw6bdempujan6btefdvgj5rzcwlwkzpbpowaywf32uuold7zby"
+    },
+    "text": "#30DayMapChallenge Day 18: NULL. I have just the thing: a place where the name was null! The spot in the Atlantic farthest from any land had coordinates and no name. So I gave it one. Meet Point Vova…",
+    "postedAt": "2026-11-18T11:06:54.637Z",
+    "day": 18,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asnoxbw3vfmi2jxk6i6wtijqe/bafkreibalzx62vjetcmh77n3kskaymweeeuxrxkrvv7s7jnskhugeqglqi/thumbnail.jpg",
+    "hash": "4e3323151763338e"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3n2lf7cbwhk2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3n2lf7cbwhk2y",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Book club edition! Day 18. NULL I mapped the itinerary followed by Tara Selter, heroin of the novel \"On the Calculation of Volume (1 & 2)\" by Solvej Balle. Tara Selter is stuck in…",
+    "postedAt": "2026-11-18T10:51:19.659Z",
+    "day": 18,
+    "color": "#f8f8f8",
+    "imageCount": 2,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreig73adlbvi2cc6aghudbu46eo6noitq3y4z3bcpchjwpacjj2vtou",
+    "hash": "53a296b73d3965e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n2lck5tsdk2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n2lck5tsdk2m",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 18:NULL What if there's no biological records? Hello?? Are there any rabbits out there?! www.gcer.co.uk/downloads/30...",
+    "postedAt": "2026-11-18T10:03:42.862Z",
+    "day": 18,
+    "color": "#c8e8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreiewfjs7wgoeicdpo3vy4cnwok54cbydo5w4whacfst5x6h5n466dy",
+    "hash": "5b33736b8303230e"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n2l74upjq22f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3n2l74upjq22f",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 18 - NULL The True Null Islands 🏝️ Null Island doesn’t exist. But Wikidata lists about 2400 real ones where nobody lives. app.kumoy.io/public/map/e... Made in #QGIS, powered b…",
+    "postedAt": "2026-11-18T09:02:35.677Z",
+    "day": 18,
+    "color": "#182838",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117636632908891988"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117636632908891988"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreiftgzwexd5nonwu54cbif3u7pq2sle6ssrqwne6xhbktgcfmmerla/thumbnail.jpg",
+    "hash": "d6d2c6c6d7d5dbd4"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117636305233793246",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117636305233793246",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge ~ Day 18 : NULL Les communes sans école publique en Bretagne.",
+    "postedAt": "2026-11-18T07:39:27.000Z",
+    "day": 18,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/636/302/816/704/406/small/227b2cfddf47d856.jpg",
+    "hash": "83f3d795d7fe383d"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3n2kycghqki2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3n2kycghqki2w",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 18: NULL About 8% of England and Wales isn't registered with HM Land Registry: 12,700 km², more than Devon and Cornwall put together. Wales has 12%, England nearly 8%. In the h…",
+    "postedAt": "2026-11-18T07:00:01.603Z",
+    "day": 18,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreiethxlwob44vjbyt4zr36hjfdyyoj5udzulst7ahrofmdfu4vde3e/thumbnail.jpg",
+    "hash": "8c8e92f8e0e4e298"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2kvlwixk22w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2kvlwixk22w",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 18 | NULL | #30DayMapChallenge | Germany, as Sentinel 2 see it. Data: Sentinel-2 L2A 2025, Google Cloud Score+ and Natural Earth. Tools: #Rstats #rgee #ggplot2 #sf #terra #rnaturalearth #ggspatia…",
+    "postedAt": "2026-11-18T06:12:03.644Z",
+    "day": 18,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117635963987472312"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreib4h3x56zsr3dvz6hz2r6m5pyosuxckwyemddufs7uahlkhh6kpmy",
+    "hash": "c474fce8e8e8e860"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n2jvmkqfoc2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n2jvmkqfoc2o",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 18 · NULL. 99.54% of this DEM is thrown away: 2549 of 557112 pixels of Bolshaya Ipelka, Kamchatka, picked greedily by maximum vertical error (Garland and Heckbert 1995) and joined by Delaunay edg…",
+    "postedAt": "2026-11-17T20:39:45.123Z",
+    "day": 18,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreidmkppdmlxe5tga5oqisb7sqmpwnqnhhfi6hqiqochqhh5cumpram/thumbnail.jpg",
+    "hash": "030b8e9e8e8e1648"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3n2jn6t5qhk26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3n2jn6t5qhk26",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "Day 18 of #30DayMapChallenge, NULL. There was, and still is, a lot application of state power in deciding what areas were of Terra Nullius type status.",
+    "postedAt": "2026-11-17T18:08:54.249Z",
+    "day": 18,
+    "color": "#d8d8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreibktwmtgu74ayv3hamrodfathaztdkhhkwrc6cdo53g6furl6ucqy",
+    "hash": "12922747478989a1"
+  }
+]

@@ -1,0 +1,733 @@
+[
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvxsei2o2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvxsei2o2o",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "#30DayMapChallenge Day 17: Light & Dark 113 lighthouses from Long Island to Virginia's Eastern Shore, each wrapped in a halo of light. 💡 Made with @squidmaps.bsky.social squidmaps.io/chriswhong/mid.…",
+    "postedAt": "2026-11-18T15:51:07.998Z",
+    "day": 17,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreib3qhxgfty5me33orkcajf7rnalhazv2kdugg7cv64mvc5uu3hhea",
+    "hash": "62636a656d6a686a"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n2ku4dz6dk2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3n2ku4dz6dk2n",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 17: Light & dark 🌗 Explore an interactive map of every mountain and building on Earth casting its shadow, at any hour of any day of the year: mapricot.com/gallery/shad...",
+    "postedAt": "2026-11-18T05:45:27.198Z",
+    "day": 17,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreiap5hn3kqrpz33f63hfeihhma2yh4pwdx3nppkdsucvunqgqeirbe/thumbnail.jpg",
+    "hash": "0000000000000000"
+  },
+  {
+    "id": "bluesky:at://did:plc:jaexydvwvk4ihs6aj6tim5rc/app.bsky.feed.post/3n2kdq2vavk25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tileflow.bsky.social/post/3n2kdq2vavk25",
+    "author": {
+      "name": "Tileflow",
+      "handle": "@tileflow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jaexydvwvk4ihs6aj6tim5rc/bafkreiafsygm2irx3nitjubvi7lyht6zah4kioc2nrmwhcj5idjsmt22fe"
+    },
+    "text": "We wanted to know which sidewalks get sun in the middle of November, so we made a map of it. It's our #30DayMapChallenge entry for day 17, Light and Dark. You can check any street and any date. maps.…",
+    "postedAt": "2026-11-18T00:52:15.111Z",
+    "day": 17,
+    "color": "#e8e8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ajaexydvwvk4ihs6aj6tim5rc/bafkreidupczol3fecalqvgtoj7byuq4jn7lkjpp6hskh6axlyluqn6syny/thumbnail.jpg",
+    "hash": "90b288d891d0f02f"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n2kcf65igc2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n2kcf65igc2c",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 17: Light / Dark #30DayMapChallenge Argentina's lights at night, seen from space, with everything outside the country left dark. Data: NASA Black Marble 2016, Natural Earth #dataviz #space",
+    "postedAt": "2026-11-18T00:28:15.684Z",
+    "day": 17,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreifn3s2njy4do352q452enxx7uhrmccxbx5uwdl33hf4ho2ecbbxwa",
+    "hash": "16520e0410100006"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117634450643150229",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117634450643150229",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mastodon.social/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day17: Light & Dark Today's map visualises the seasonal shadows of Kiel's 106-metre Town Hall Tower, captured at the solstices and equinoxes. Created using QGIS.",
+    "postedAt": "2026-11-17T23:47:48.000Z",
+    "day": 17,
+    "color": "#f8f8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/634/434/423/385/006/small/c6e3e8974dff0893.png",
+    "hash": "307186b6b29696c8"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117634373485197616",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117634373485197616",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 17. Light & dark Cherkasy has one of Ukraine’s most grid-like street networks. Does it have its own Manhattanhenge? I calculated, for every street, the days the Sun touches the horizon exactly al…",
+    "postedAt": "2026-11-17T23:28:11.511Z",
+    "day": 17,
+    "color": "#381838",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2k72bkgxs2o"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2k72bkgxs2o"
+    ],
+    "image": "https://files.mastodon.social/media_attachments/files/117/634/372/353/452/083/small/34c2aa9c3220f41f.png",
+    "hash": "4969262333131e0c"
+  },
+  {
+    "id": "bluesky:at://did:plc:td2azo5v5udhxmkydsliillx/app.bsky.feed.post/3n2jxusunp22w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cga-harvard.bsky.social/post/3n2jxusunp22w",
+    "author": {
+      "name": "Center for Geographic Analysis @ Harvard",
+      "handle": "@cga-harvard.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:td2azo5v5udhxmkydsliillx/bafkreifcsmljsttv2ual6knycr2c5rgiaukzwxqbrw7zobyv6qdpmjbg2a"
+    },
+    "text": "CGA's contribution for Day 17 (light & dark) of the #30DayMapChallenge is by Jeff Blossom, who was recently visiting Colorado and became curious about the dark shadows cast on the landscape by mounta…",
+    "postedAt": "2026-11-17T21:20:09.545Z",
+    "day": 17,
+    "color": "#08b858",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:td2azo5v5udhxmkydsliillx/bafkreigitli7ew2p36qhsgncayoaufk4nos4ysgyy6wz2jcwnjmlwkmeza",
+    "hash": "9b9b9d965228a84d"
+  },
+  {
+    "id": "mastodon:https://subdued.social/users/alan/statuses/117632943614981688",
+    "platform": "mastodon",
+    "url": "https://subdued.social/@alan/117632943614981688",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan@subdued.social",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/627/775/480/222/382/original/4e41924fd533257c.jpeg"
+    },
+    "text": "For the #30DayMapChallenge Day 17: \"Light & Dark\" I rebooted a favorite old project. In 2016 we made \"la.stamen.com\", using open data to map every parcel and building in Los Angeles County, shaded by…",
+    "postedAt": "2026-11-17T17:24:33.000Z",
+    "day": 17,
+    "color": "#38d8c8",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mappingmashups.net/post/3n2jloczfqk2f"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3n2jkppfzvlw2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3n2jloczfqk2f",
+      "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3n2jkppfzvlw2"
+    ],
+    "image": "https://cdn.masto.host/subduedsocial/media_attachments/files/117/632/936/468/864/325/small/666987a9063cf63e.jpg",
+    "hash": "c6c6f67ade8c30b3"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n2jkbb7y7td2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n2jkbb7y7td2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 17: Light and dark Every lighthouse, harbour light and river beacon in the Netherlands, drawn with its own colour and nominal range. Sector lights shine in their real direction…",
+    "postedAt": "2026-11-17T17:15:56.000Z",
+    "day": 17,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/hansakwast/statuses/117632909734587446"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreif3khf4o3kdzr34hnwnsa34hysitaheuonndrnmjinvz3tdme3t7y",
+    "hash": "1fa306c59d1b330b"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n2jjqfnngz24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n2jjqfnngz24",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 17 — Light & Dark 💡 How much can you change a map just by changing the light? Mapbox map designer Taya Lavrinenko created the Map Dimmer playground to show just how powerful l…",
+    "postedAt": "2026-11-17T17:07:06.464Z",
+    "day": 17,
+    "color": "#080818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreifqbpa6i54mfbxlrqiopsj6qp3lsks6nvpkzgo7sizsdsudhq3ptu",
+    "hash": "422626094e48e4e6"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n2jiz4tyuc2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n2jiz4tyuc2a",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 17 of #30DayMapChallenge, Light & Dark. Uppsala's buses hour by hour through one November night, lit from their GPS positions Code: https://github.com/gkaramanis/30DayMapChallenge/tree/main/2026/…",
+    "postedAt": "2026-11-17T16:54:05.819Z",
+    "day": 17,
+    "color": "#181838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreigc244tukpqq7o4hdl6u43qznahnqgesl2gxyubhdqbtphd4frypq",
+    "hash": "e0c4b2b2aca682e0"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2jiei7mus27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2jiei7mus27",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Street Lights of Cologne Back to the computer… Individually coded street lamps in OpenStreetMap and streets which are coded as lit in a radius of 2.5 km around the city center. #30DayMapChallenge Day…",
+    "postedAt": "2026-11-17T16:42:35.397Z",
+    "day": 17,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidwu46hriv5m4zgdbk6gesfr2qdfpbfq7qj5di7cacmpegdres7ji",
+    "hash": "698f064d0b0b0f07"
+  },
+  {
+    "id": "bluesky:at://did:plc:35bkxhgdugmcruqnok3stv3m/app.bsky.feed.post/3n2jhx4h5ms2c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/rsfrankl.bsky.social/post/3n2jhx4h5ms2c",
+    "author": {
+      "name": "Rachel Franklin 🦚",
+      "handle": "@rsfrankl.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreidsvuaeh3l3lk6yjgfipqx2wtpp4qtglsi2ep2ugxzqwsqgq6i234"
+    },
+    "text": "Down but not out yet! Struggling to keep up with the #30DayMapChallenge is a new mid-November tradition for me. Day 17—light & dark. Another of the many ways location affects daily life. Depending wh…",
+    "postedAt": "2026-11-17T16:35:06.838Z",
+    "day": 17,
+    "color": "#f8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:35bkxhgdugmcruqnok3stv3m/bafkreifwxciq7sdn2ebhrjx4icyyebvnh3de3sx5jhdkn6s34js7onotmq",
+    "hash": "aaa2d0d4e4e43ac8"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n2jg2hi7cp2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n2jg2hi7cp2g",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 17 · Light & dark. The Khumbu valley on the way to Everest Base Camp as pale ridgelines on a dark ground; the teal line is the trek. Data: public elevation data, trail © OpenStreetMap. Made with…",
+    "postedAt": "2026-11-17T16:01:11.478Z",
+    "day": 17,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117632615990351752"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117632615990351752"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibb2mn66jdmne4phgtsfaxjzdy57nkraluiv4fizfygnj4s32to5u",
+    "hash": "0b17170717171706"
+  },
+  {
+    "id": "bluesky:at://did:plc:2nymwfhraoi6puox63ehc5a2/app.bsky.feed.post/3n2jftoawg22m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/timostler1.bsky.social/post/3n2jftoawg22m",
+    "author": {
+      "name": "Tim Ostler",
+      "handle": "@timostler1.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreigmye3nhbmxxzv4nmrnbjn6rqtrxndz5f34nnszk7hxaw2axtq4eu"
+    },
+    "text": "#30DayMapChallenge 2026 | Day 17: Light & Dark Which of Prague's Level Crossings have lights? Using @openstreetmap.bsky.social data, here they are.",
+    "postedAt": "2026-11-17T15:57:23.821Z",
+    "day": 17,
+    "color": "#484858",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreib4z6qv7pzhaxt3csnmz2zzwerl2hcgielttfok3ops6lhapmdlvy",
+    "hash": "33e01a615242ad59"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n2jd4p5ab22r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n2jd4p5ab22r",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 321 of #365DaysOfMaps. November 17th is National Homemade Bread Day. #30DayMapChallenge day 17 tie-in: light and dark World of bread (321/365) mapdesign.icaci.org/2026/11/nati...",
+    "postedAt": "2026-11-17T15:08:45.507Z",
+    "day": 17,
+    "color": "#381808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreic5umj6btjlcvnioanrkziruv2wpmnds4axymockuk4oaxkycpe5e",
+    "hash": "9b7363cfadadc6b3"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n2jaoxhv622j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n2jaoxhv622j",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 17 of #30DayMapChallenge: Light and dark. I mapped every populated place in Canada at 8:00 a.m. on its own clock. BC, Alberta, the NWT and Manitoba kept summer time, so the sun is not up yet for…",
+    "postedAt": "2026-11-17T14:25:17.008Z",
+    "day": 17,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreid6pdnuwacjbbu3ltlhrzlk4on3g7iixsxi43ph2xp3btqt4vhyhu",
+    "hash": "436371363b391323"
+  },
+  {
+    "id": "bluesky:at://did:plc:4bjkgoxyomscsc5ymeeio5dh/app.bsky.feed.post/3n2jaoichxk2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cartoart.bsky.social/post/3n2jaoichxk2w",
+    "author": {
+      "name": "Carto Art",
+      "handle": "@cartoart.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreidpuxdz4b2fnodp5hqkf5h2jwl66ebk2fkjw2qmwsmn3m3o5zwkfe"
+    },
+    "text": "Day 17: Light & dark. 🌋 Mount St. Helens, one light and no colour. The 1980 crater rim catches the sun; Spirit Lake, where blast-felled logs still float, is pure black. #30DayMapChallenge #cartograp…",
+    "postedAt": "2026-11-17T14:25:01.099Z",
+    "day": 17,
+    "color": "#e8e8e8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreidm73d422zb5jr7leuleaobcrqdnwmexwsrendkm2bsnzvmngq3du",
+    "hash": "beaaf2c48e8e9a69"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2jadlpb5u2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2jadlpb5u2i",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 17 of #30DayMapChallenge · Light & dark Great Basin's dark sky #DarkSky #GreatBasin brooksgroves.com/30DayMapChallenge/2026/share/day-17.html",
+    "postedAt": "2026-11-17T14:18:55.547Z",
+    "day": 17,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreie3yhf2uioxa4ypbwo5vxn4mi54aqw3tjh73twscqbxkcf4bvicye",
+    "hash": "5b1b236501496d51"
+  },
+  {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3n2ja5g7om22v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3n2ja5g7om22v",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "For day 17 of #30DayMapChallenge: Light and Dark @zimrick.bsky.social and I created this map study of Iceland using data from Copernicus with exaggerated and modified custom hillshade to achieve a ci…",
+    "postedAt": "2026-11-17T14:15:28.485Z",
+    "day": 17,
+    "color": "#c8c8c8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreial4b76oymbq6ihm2gxfecl53me2lx6dgakcaonk6xnbo2ij6ub4q",
+    "hash": "32d0d0d6e46cf1f0"
+  },
+  {
+    "id": "bluesky:at://did:plc:2envlahlnq2g4mpkew2sof3r/app.bsky.feed.post/3n2j72bb2kc2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/darribas.bsky.social/post/3n2j72bb2kc2n",
+    "author": {
+      "name": "Dani Arribas-Bel",
+      "handle": "@darribas.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2envlahlnq2g4mpkew2sof3r/bafkreibfbgiqch5negiwgifwgha6ct32whb5iisvm4izzecf3v6mk6ugye"
+    },
+    "text": "Here’s my entry for Day 17 of the #30DayMapChallenge, “Light & Dark”. A bit of cloudy optical, a bit of (very fancy) Umbra radar, and a lot of back and forth to find a story that (kind of) works… me.…",
+    "postedAt": "2026-11-17T13:55:48.883Z",
+    "day": 17,
+    "color": "#585858",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mapstodon.space/@darribas/117632205340512234"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mapstodon.space/users/darribas/statuses/117632205340512234"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2envlahlnq2g4mpkew2sof3r/bafkreicd3oew6qno72cwoel3e3fsqp2nvy5yg6glhuecgk4yr5fvslqpqu",
+    "hash": "3d4d0d3d664e1f5e"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2j5wislm22l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2j5wislm22l",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "Day 17 #30DayMapChallenge - Light & dark #LakeOntario Lighthouses of Lake Ontario",
+    "postedAt": "2026-11-17T13:35:48.839Z",
+    "day": 17,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreihusjfsudbo4kkrwuw7s2vcjbxjojtl7vsuixgr46nxe3wltjla3e",
+    "hash": "5808534763676d05"
+  },
+  {
+    "id": "bluesky:at://did:plc:6fpgmbazsx6xgdzhdwfrzqaj/app.bsky.feed.post/3n2j57hqwfc2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tchaulla.bsky.social/post/3n2j57hqwfc2h",
+    "author": {
+      "name": "Tiffany Chau",
+      "handle": "@tchaulla.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreid5vuy6vcrdqyzyipkvdzgrb2bmn3vennhjsj2ocjwmbludkwycdy"
+    },
+    "text": "#30DayMapChallenge Day 17 - Light & Dark This is the final Go/Baduk board position securing Rui Naiwei's win in the 44th Kuksu tournament. Previously, many believed women could not beat men at the hi…",
+    "postedAt": "2026-11-17T13:22:55.983Z",
+    "day": 17,
+    "color": "#e8b878",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreigyupj744b6dgjvlbxcdymc5mpdblni2y3ufssu4euhr2lwdr5pba",
+    "hash": "b5b4a6a5c29ae2e2"
+  },
+  {
+    "id": "bluesky:at://did:plc:tkdpike4cdijsneixhgd3gik/app.bsky.feed.post/3n2j46zuqe223",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cambiumai.bsky.social/post/3n2j46zuqe223",
+    "author": {
+      "name": "Cambium AI",
+      "handle": "@cambiumai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkdpike4cdijsneixhgd3gik/bafkreieor4icsmfkklyrjop7fhqgkn7sh3gb46ogmzzgns65v2nthhjfia"
+    },
+    "text": "Day 17 of #30DayMapChallenge: Light and dark. Back Bay, Boston, seen across the Charles River at 2 pm and at 11 pm on a weekday. Every lit window is one person who is awake in that building.",
+    "postedAt": "2026-11-17T13:04:47.674Z",
+    "day": 17,
+    "color": "#081828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tkdpike4cdijsneixhgd3gik/bafkreidbpcvzefdf4jlh2oiqg7f3kdrmbggfqz5bzqqbbwzbc2sgfk2wwa",
+    "hash": "5f393149b4355b5b"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2iz6a5lyk2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n2iz6a5lyk2i",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge Day 17 Light & Dark | Ice Duration Every winter, Madisonians guess when the lakes will freeze and how long they'll stay that way. The long view is clearer: since 1852–53, scientist…",
+    "postedAt": "2026-11-17T12:10:39.489Z",
+    "day": 17,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n2iz6a5lyk2i"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2iz6a5lyk2i"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifeunpe3ppa4oqhm7equzo2jtwarbwolxx2bj5uq5xtvfkmqqv6km",
+    "hash": "71b0b2b2b2a688d0"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n2isdqdcyk2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n2isdqdcyk2k",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 17: Light and dark Glow up your wildlife walks with a simple UV torch... www.gcer.co.uk/30DMC_Day17_...",
+    "postedAt": "2026-11-17T10:08:28.032Z",
+    "day": 17,
+    "color": "#081818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreih2cbqsm6bstdwn33a2qb5bmcwaolglysycg4hcmfg4hn6tpvuzq4",
+    "hash": "d91f3333919ee74f"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n2ipr2l3ad2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3n2ipr2l3ad2k",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 17 - Light & dark Earth's Starlight A night view of the world drawn with OSM and Overture Maps points, and shining with GHS-POP 2025 population data. app.kumoy.io/public/map/b.…",
+    "postedAt": "2026-11-17T09:22:13.557Z",
+    "day": 17,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117631049014448141"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117631049014448141"
+    ],
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreidsbkaepsiroze4zqxpbqrkzkizfigyw7j7xmmrgnsxdxfi65qjj4/thumbnail.jpg",
+    "hash": "d8d9d7d7d9cdded4"
+  },
+  {
+    "id": "bluesky:at://did:plc:kqxqpgqixowui5l4y55qc5ia/app.bsky.feed.post/3n2in7h4ibk2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/acoci86.bsky.social/post/3n2in7h4ibk2t",
+    "author": {
+      "name": "acoci86.bsky.social",
+      "handle": "@acoci86.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kqxqpgqixowui5l4y55qc5ia/bafkreif4an5fvyny4wszhqeovvkikn2s5hlowivpupep5c4glcegcxuo64"
+    },
+    "text": "#30DayMapChallenge Day 17: Light & dark Paris, the Ville Lumière, drawn as gold ink on midnight navy. Made with roughMaps, a free tool I've been working on that turns any place into a hand-drawn map:…",
+    "postedAt": "2026-11-17T08:36:35.435Z",
+    "day": 17,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kqxqpgqixowui5l4y55qc5ia/bafkreihvrenhxabtly4yvekdlkxkyig3vyxt4egp4dk2ctxszzzi57c6lm",
+    "hash": "4cd448685d11695b"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117630786644146239",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117630786644146239",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/199/239/406/192/723/original/878ac8dd0bc8f829.png"
+    },
+    "text": "#30DayMapChallenge Day 17 : Light & dark",
+    "postedAt": "2026-11-17T08:16:00.000Z",
+    "day": 17,
+    "color": "#283828",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/630/783/401/889/853/small/638babea75a3200b.jpg",
+    "hash": "72c1a4532b6d41ac"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3n2ikdobl3c2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3n2ikdobl3c2s",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 17 - Light & dark & 18 - NULL Map: World map puzzle Challenge: Do the puzzle, leaving one piece out (NULL)",
+    "postedAt": "2026-11-17T07:45:15.945Z",
+    "day": 17,
+    "color": "#a8c8b8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreiepewouxpgk37imzzgf46e2j2u53gh2yab4ktsug4fyzusqlqpx44",
+    "hash": "7f151515556d6df3"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/stevefaeembra/statuses/117630529221508744",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@stevefaeembra/117630529221508744",
+    "author": {
+      "name": "stevefaeembra",
+      "handle": "@stevefaeembra@mapstodon.space",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/419/649/933/155/459/original/ed5b3c9cf561f3c4.png"
+    },
+    "text": "Day 17. Light and Dark #30DayMapChallenge Svalbard 3d relief, oblique style using an orthographic camera Used geometry nodes to calculate curvature of the terrain, to exaggerate gullies. DEM from Art…",
+    "postedAt": "2026-11-17T07:10:32.000Z",
+    "day": 17,
+    "color": "#d8d8d8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/630/525/850/953/821/small/ae84b7c37ff3419d.jpg",
+    "hash": "f2747732398d4601"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2igarvxc22y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2igarvxc22y",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 17 | Light and dark | #30DayMapChallenge | Berlin in the Dark. Nothing but streets: 11,100 km of Berlin roads in white on black. Data: OpenStreetMap. Tools: #Rstats #sf #ggplot2 #dplyr #rnaturale…",
+    "postedAt": "2026-11-17T06:32:04.122Z",
+    "day": 17,
+    "color": "#080808",
+    "imageCount": 1,
+    "source": "feed",
+    "mergedIds": [
+      "mastodon:https://fosstodon.org/users/klauswiese/statuses/117630378728293845"
+    ],
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreig6b3c7rdvhqtiygtgw6it6r72tigzdtu4sotclon54gl5vrkchjm",
+    "hash": "17558d0f1f078b65"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3n2i72efiqr2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3n2i72efiqr2d",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 17: Light & dark On the shortest day, almost none of the back garden ground on Tower Gardens Road in Tottenham sees the sun. The south-facing gardens get it back first: a coupl…",
+    "postedAt": "2026-11-17T04:22:59.101Z",
+    "day": 17,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreigottrbo2kv3thlfhyhwigsnkak76z2er2owd63eubtkx3ihbu5ky/thumbnail.jpg",
+    "hash": "0c948eaa96c19882"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n2hk6kmpec2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n2hk6kmpec2q",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 17 · Light and dark Ureparapara, Vanuatu, as a MEZZOTINT: the copper plate is rocked to velvet black, then the light is scraped out, brightest first. At the end the sun walks around the caldera a…",
+    "postedAt": "2026-11-16T22:09:44.605Z",
+    "day": 17,
+    "color": "#181818",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreihxfsizylsajkx3xk6qivnknrfzbn26wdias3jb63ywz3a7fefzna/thumbnail.jpg",
+    "hash": "1f071f3327590640"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3n2hcst3hes2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3n2hcst3hes2o",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "*Light in the dark* UK+RoI Lighthouses & Shipping Forecast areas #GIS; mapped w #GeoMapper2DPlus, seq'd in🔤order 👁️Blacksod ft in film 'Pressure' @trinityhouseuk.bsky.social @IrishLights @MetEirean…",
+    "postedAt": "2026-11-16T19:57:54.632Z",
+    "day": 17,
+    "color": "#283838",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreibmt6dqg5yaao6ggzkcd2g4djgfiuxulsazynajhr2y7n4v6pbiwy/thumbnail.jpg",
+    "hash": "e68e3f1f9e0f960e"
+  },
+  {
+    "id": "mastodon:https://en.osm.town/users/watmildon/statuses/117627521428443000",
+    "platform": "mastodon",
+    "url": "https://en.osm.town/@watmildon/117627521428443000",
+    "author": {
+      "name": "watmildon",
+      "handle": "@watmildon@en.osm.town",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/902/259/222/423/632/original/31f201be60331bfb.jpg"
+    },
+    "text": "#30DayMapChallenge - Day 17 Light & Dark Route 66 has been around for 100 years and is an absolute trove of Americana. One peculiarity was the proliferation of neon signage trying to lure travelers L…",
+    "postedAt": "2026-11-16T18:25:37.000Z",
+    "day": 17,
+    "color": "#080808",
+    "imageCount": 3,
+    "source": "feed",
+    "image": "https://cdn.masto.host/enosmtown/media_attachments/files/117/627/477/163/037/560/small/deaf48f74bf1abeb.png",
+    "hash": "828482a2a489eaf0"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3n2h3u765q223",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3n2h3u765q223",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "Day 17 #30DayMapChallenge - Light & dark. From the stygian north (14 hours light, 10 dark) to the hard light of the south (15 light, 9 dark) we can calculate how much day in our day. (make 10km by 10…",
+    "postedAt": "2026-11-16T17:53:24.659Z",
+    "day": 17,
+    "color": "#f8f8f8",
+    "imageCount": 1,
+    "source": "feed",
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreiayaqwpebkj5albe7r32zpjwz4fwzbsvafpv5phhb3ixs7rj5hnpa",
+    "hash": "e8aca42448c89080"
+  }
+]
