@@ -53,6 +53,29 @@ npm run dedupe                          # re-merge cross-posts
   - The workflow detects the address from the Pages settings. To override, set the repository variables `SITE_URL` and `BASE_PATH`.
 - **One-time setup:** in the repo's Settings → Pages, set Source to "GitHub Actions". Add the `BSKY_HANDLE` and `BSKY_APP_PASSWORD` secrets for the collect workflow.
 
+## Search, AI and accessibility
+
+The build generates these alongside the HTML, from the same data, so they never drift:
+
+| File | What |
+| --- | --- |
+| `/sitemap.xml` | Canonical pages. Empty future days are left out (their pages are `noindex` until they have maps). |
+| `/robots.txt` | Allows everything and points to the sitemap. Comment lines mention the Markdown files. Cloudflare's managed robots.txt adds its own preamble above it. |
+| `/index.md`, `/about.md`, `/day/N.md` | A Markdown version of each page with content. HTML pages link to theirs with `<link rel="alternate" type="text/markdown">`. |
+| `/sitemap.md` | Content map: every page and its Markdown version, by topic |
+| `/llms.txt`, `/llms-full.txt` | A short guide for LLM clients, and all Markdown documents in one file |
+
+- **Structured data:** every page with content has JSON-LD (Organization, WebSite, CollectionPage or AboutPage, BreadcrumbList; day pages add an ItemList of the posts). It's built in `src/lib/structured-data.ts` and only describes what's visible on the page.
+- **Shared copy:** the About page's text lives in `src/lib/about-content.ts`, and both the HTML page and `about.md` render from it. Edit it there.
+- **Markdown and llms files:** generated in `src/lib/markdown.ts`.
+- **Accessibility:**
+  - A skip link and labelled landmarks.
+  - Text meets WCAG AA contrast in light and dark mode.
+  - Visible keyboard focus.
+  - The gallery announces how many maps are shown, and has a "Show more" button as well as infinite scroll.
+  - Links that open a new tab say so.
+  - Motion is reduced when the visitor asks for it.
+
 ## Developing
 
 ```sh

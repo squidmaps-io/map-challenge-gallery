@@ -1,83 +1,68 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import PlatformIcon from '../components/PlatformIcon';
-import { CHALLENGE_URL, CONTACT_EMAIL, CONTACT_URL, REPO_URL, SQUIDMAPS_URL, YEAR, withBase } from '../lib/site';
+import { ABOUT, inlineHtml } from '../lib/about-content';
+import { aboutJsonLd } from '../lib/structured-data';
+import { CONTACT_URL, withBase } from '../lib/site';
 
 const link = 'font-semibold text-ink-600 underline decoration-ink-300 underline-offset-2 hover:text-ink-700 dark:text-ink-300';
+const html = (text: string) => inlineHtml(text, link, CONTACT_URL);
 ---
 
 <Layout
-  title={`About · #30DayMapChallenge ${YEAR} Gallery`}
-  description="How the #30DayMapChallenge gallery collects maps, why it only includes Bluesky and Mastodon, and how we respect privacy settings."
+  title={ABOUT.title}
+  description={ABOUT.description}
+  path="/about/"
+  markdownPath="/about.md"
+  jsonLd={aboutJsonLd({ description: ABOUT.description })}
 >
   <article class="mx-auto max-w-3xl px-4 pt-10 pb-4 sm:px-6 sm:pt-16">
-    <p class="font-display text-sm font-extrabold tracking-widest text-ink-500 uppercase">About</p>
-    <h1 class="mt-2 font-display text-4xl font-black tracking-tight text-balance sm:text-5xl">A simple, open gallery of challenge maps</h1>
-    <p class="mt-4 text-lg text-zinc-600 dark:text-zinc-400">
-      Every November, thousands of maps are shared for the <a class={link} href={CHALLENGE_URL}>#30DayMapChallenge</a>, started by
-      <a class={link} href="https://tjukanov.org/">Topi Tjukanov</a>. They're scattered across feeds and gone in a scroll. This gallery collects
-      them by day so you can browse every take on every theme. It's built and hosted by <a class={link} href={SQUIDMAPS_URL}>squidmaps</a> as a community resource.
-    </p>
+    <p class="font-display text-sm font-extrabold tracking-widest text-ink-500 uppercase dark:text-ink-300">{ABOUT.eyebrow}</p>
+    <h1 class="mt-2 font-display text-4xl font-black tracking-tight text-balance sm:text-5xl">{ABOUT.heading}</h1>
+    <p class="mt-4 text-lg text-zinc-600 dark:text-zinc-400" set:html={html(ABOUT.intro)} />
 
     <div class="mt-12 space-y-12">
-      <section id="included" class="scroll-mt-24">
-        <h2 class="font-display text-2xl font-extrabold">How to be included</h2>
-        <p class="mt-2 text-zinc-600 dark:text-zinc-400">There's nothing to submit. The gallery checks for new posts every 6 hours and picks a map up automatically when its post:</p>
-        <ol class="mt-4 grid gap-3 sm:grid-cols-2">
-          {[
-            ['Is on Bluesky or Mastodon', 'and visible to everyone.'],
-            ['Uses #30DayMapChallenge', 'in the post text.'],
-            ['Says which day', 'such as "Day 12", "#day12", "12/30", or the theme hashtag, e.g. #hexagons.'],
-            ['Includes the map as an image', 'The first image becomes the tile.'],
-          ].map(([title, body], i) => (
-            <li class="flex gap-3 rounded-xl bg-white p-4 ring-1 ring-zinc-200 dark:bg-zinc-900 dark:ring-zinc-800">
-              <span class="grid size-7 shrink-0 place-items-center rounded-full bg-ink-500 font-display text-sm font-black text-white">{i + 1}</span>
-              <span><span class="font-semibold">{title}</span> <span class="text-zinc-600 dark:text-zinc-400">{body}</span></span>
-            </li>
-          ))}
-        </ol>
-        <p class="mt-4 text-sm text-zinc-500">Posting on both platforms is fine: cross-posts are merged into one tile that links to each copy.</p>
-      </section>
-
-      <section id="why" class="scroll-mt-24">
-        <h2 class="font-display text-2xl font-extrabold">Why only Bluesky and Mastodon?</h2>
-        <div class="mt-4 flex gap-2 text-zinc-500" aria-hidden="true">
-          <PlatformIcon platform="bluesky" className="size-6" />
-          <PlatformIcon platform="mastodon" className="size-6" />
-        </div>
-        <p class="mt-3 text-zinc-600 dark:text-zinc-400">We wanted a gallery that's simple to run, fair to everyone, and respectful of people's choices. One clear rule does that better than a submission queue:</p>
-        <ul class="mt-4 space-y-3 text-zinc-700 dark:text-zinc-300">
-          <li><strong>Open, public data.</strong> Both platforms have free, documented APIs for public posts. There's no scraping, no paid access, and no logging in as someone else.</li>
-          <li><strong>Clear privacy settings we can honor.</strong> Both let people say "don't show my posts this way," and we can check that automatically (see below).</li>
-          <li><strong>Easy to moderate.</strong> Instead of reviewing a stream of submissions, we include whatever is public and tagged, and step in only when something's wrong. That keeps a free side project running.</li>
-          <li><strong>Links that work for everyone.</strong> Every tile opens the original post, and anyone can view it without an account.</li>
-        </ul>
-        <p class="mt-4 text-zinc-600 dark:text-zinc-400">
-          LinkedIn, X, Instagram and Threads don't offer open access to public posts for a project like this. We can't include them consistently or respectfully,
-          so we don't include them at all. If you post there too, cross-post a copy to Bluesky or Mastodon to be included.
-        </p>
-      </section>
-
-      <section id="privacy" class="scroll-mt-24">
-        <h2 class="font-display text-2xl font-extrabold">Privacy and what we store</h2>
-        <ul class="mt-4 space-y-3 text-zinc-700 dark:text-zinc-300">
-          <li><strong>We skip people who've opted out.</strong> That means Bluesky accounts that hide their posts from logged-out viewers, and Mastodon accounts set to hide from search engines or to stay out of discovery. These settings are re-checked every day, so changing one takes effect within a day.</li>
-          <li><strong>We don't copy your images.</strong> Tiles load the picture straight from Bluesky or your Mastodon server. We only keep the link, the author's name and handle, and the start of the post text.</li>
-          <li><strong>Deleted posts disappear here too.</strong> A deleted post's image stops loading right away, and the post is removed from the gallery within a day.</li>
-          <li><strong>Maps belong to their creators.</strong> We're just pointing to them.</li>
-        </ul>
-      </section>
-
-      <section id="contact" class="scroll-mt-24 rounded-2xl bg-ink-50 p-6 sm:p-8 dark:bg-ink-700/20">
-        <h2 class="font-display text-2xl font-extrabold">Missing a map, or want yours removed?</h2>
-        <p class="mt-2 text-zinc-700 dark:text-zinc-300">
-          First check the list above. Most missing maps don't say which day they're for. If it still isn't showing up, or you'd like your work taken out of the gallery,
-          email <a class={link} href={CONTACT_URL}>{CONTACT_EMAIL}</a> with a link to the post and we'll sort it out by hand.
-        </p>
-        <p class="mt-3 text-sm text-zinc-600 dark:text-zinc-400">
-          The gallery is open source: see the code <a class={link} href={REPO_URL}>on GitHub</a>.
-        </p>
-      </section>
+      {ABOUT.sections.map((s) => (
+        <section
+          id={s.id}
+          aria-labelledby={`${s.id}-heading`}
+          class:list={['scroll-mt-24', s.id === 'contact' && 'rounded-2xl bg-ink-50 p-6 sm:p-8 dark:bg-ink-700/20']}
+        >
+          <h2 id={`${s.id}-heading`} class="font-display text-2xl font-extrabold">{s.heading}</h2>
+          {s.id === 'why' && (
+            <div class="mt-4 flex gap-2 text-zinc-600 dark:text-zinc-400" aria-hidden="true">
+              <PlatformIcon platform="bluesky" className="size-6" />
+              <PlatformIcon platform="mastodon" className="size-6" />
+            </div>
+          )}
+          {s.lead && <p class="mt-3 text-zinc-600 dark:text-zinc-400" set:html={html(s.lead)} />}
+          {s.steps && (
+            <ol class="mt-4 grid gap-3 sm:grid-cols-2">
+              {s.steps.map(([title, body], i) => (
+                <li class="flex gap-3 rounded-xl bg-white p-4 ring-1 ring-zinc-200 dark:bg-zinc-900 dark:ring-zinc-800">
+                  <span class="grid size-7 shrink-0 place-items-center rounded-full bg-ink-500 font-display text-sm font-black text-white" aria-hidden="true">
+                    {i + 1}
+                  </span>
+                  <span>
+                    <span class="font-semibold">{title}</span> <span class="text-zinc-600 dark:text-zinc-400">{body}</span>
+                  </span>
+                </li>
+              ))}
+            </ol>
+          )}
+          {s.points && (
+            <ul class="mt-4 list-disc space-y-3 pl-5 text-zinc-700 marker:text-ink-500 dark:text-zinc-300">
+              {s.points.map(([lead, rest]) => (
+                <li>
+                  <strong>{lead}</strong> {rest}
+                </li>
+              ))}
+            </ul>
+          )}
+          {s.after?.map((p) => <p class="mt-4 text-zinc-700 dark:text-zinc-300" set:html={html(p)} />)}
+          {s.note && <p class="mt-4 text-sm text-zinc-600 dark:text-zinc-400" set:html={html(s.note)} />}
+        </section>
+      ))}
     </div>
 
     <p class="mt-12 text-center">

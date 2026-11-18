@@ -21,3 +21,15 @@ export function dayCounts(): Record<number, number> {
   for (const { day } of themes) counts[day] = postsForDay(day).length;
   return counts;
 }
+
+/** Days that have at least one map. Empty days render a "Coming soon" page that is kept out of search. */
+export const publishedDays = () => themes.filter((t) => postsForDay(t.day).length > 0);
+
+/** Number of distinct mapmakers among a set of posts. */
+export const mapmakers = (posts: Post[]) => new Set(posts.map((p) => p.author.handle)).size;
+
+/** Newest post time in a set of posts (used as an approximate last-modified date). */
+export const newest = (posts: Post[]) => posts.reduce<string | undefined>((m, p) => (!m || p.postedAt > m ? p.postedAt : m), undefined);
+
+/** All posts across the challenge. */
+export const allPosts = () => themes.flatMap((t) => postsForDay(t.day));

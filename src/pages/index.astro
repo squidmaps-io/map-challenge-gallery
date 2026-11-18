@@ -1,23 +1,33 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Calendar from '../components/Calendar.astro';
-import { postsForDay, themes } from '../lib/data';
-import { YEAR, withBase } from '../lib/site';
+import { allPosts, mapmakers, postsForDay, themes } from '../lib/data';
+import { homeJsonLd } from '../lib/structured-data';
+import { CHALLENGE_URL, SITE_NAME, YEAR, withBase } from '../lib/site';
 
 const days = themes.map((t) => ({ ...t, count: postsForDay(t.day).length }));
 const total = days.reduce((n, d) => n + d.count, 0);
-const people = new Set(themes.flatMap((t) => postsForDay(t.day).map((p) => p.author.handle))).size;
+const people = mapmakers(allPosts());
 const latest = [...days].reverse().find((d) => d.count > 0);
+const description = `Browse ${total.toLocaleString('en-US')} maps from the #30DayMapChallenge ${YEAR}, one page per daily theme, collected from public posts on Bluesky and Mastodon.`;
 ---
 
-<Layout title={`#30DayMapChallenge ${YEAR} Gallery`}>
-  <section class="mx-auto max-w-7xl px-4 pt-10 pb-8 sm:px-6 sm:pt-16">
-    <p class="font-display text-sm font-bold tracking-widest text-ink-500 uppercase">#30DayMapChallenge · November {YEAR}</p>
-    <h1 class="mt-2 max-w-3xl font-display text-4xl font-bold tracking-tight text-balance sm:text-6xl">
+<Layout
+  title={`#30DayMapChallenge ${YEAR} Gallery: maps for every daily theme`}
+  description={description}
+  path="/"
+  markdownPath="/index.md"
+  jsonLd={homeJsonLd({ description, days })}
+>
+  <section class="mx-auto max-w-7xl px-4 pt-10 pb-8 sm:px-6 sm:pt-16" aria-labelledby="page-title">
+    <p class="font-display text-sm font-bold tracking-widest text-ink-500 uppercase dark:text-ink-300">#30DayMapChallenge · November {YEAR}</p>
+    <h1 id="page-title" class="mt-2 max-w-3xl font-display text-4xl font-bold tracking-tight text-balance sm:text-6xl">
       Thirty days of maps, one theme at a time
     </h1>
     <p class="mt-4 max-w-2xl text-lg text-zinc-600 dark:text-zinc-400">
-      {total.toLocaleString()} maps by {people.toLocaleString()} mapmakers, collected from public posts on Bluesky and Mastodon. Pick a day to browse.
+      The <a href={CHALLENGE_URL} class="font-semibold text-ink-600 underline decoration-ink-300 underline-offset-2 dark:text-ink-300">#30DayMapChallenge</a> is a
+      mapping challenge held every November, with a new theme each day. This gallery has {total.toLocaleString('en-US')} maps by {people.toLocaleString('en-US')} mapmakers,
+      collected from public posts on Bluesky and Mastodon. Pick a day to browse.
     </p>
     <div class="mt-6 flex flex-wrap gap-2">
       {latest && (
@@ -31,7 +41,8 @@ const latest = [...days].reverse().find((d) => d.count > 0);
     </div>
   </section>
 
-  <section class="mx-auto max-w-4xl px-3 sm:px-6">
+  <nav class="mx-auto max-w-4xl px-3 sm:px-6" aria-labelledby="calendar-heading">
+    <h2 id="calendar-heading" class="sr-only">Challenge days, November {YEAR}</h2>
     <Calendar />
-  </section>
+  </nav>
 </Layout>
