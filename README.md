@@ -48,7 +48,9 @@ npm run dedupe                          # re-merge cross-posts
   4. Redeploys.
 - **Required repository secrets:** `BSKY_HANDLE`, `BSKY_APP_PASSWORD`.
 - Disable the workflow or slow it down after the challenge ends.
-- **`.github/workflows/deploy.yml`** builds the static site and publishes it to GitHub Pages on every push to `main`. It detects the site's address from the Pages settings, so it works at `squidmaps-io.github.io/map-challenge-gallery/` or on a custom domain. To override, set the repository variables `SITE_URL` and `BASE_PATH`.
+- **`.github/workflows/deploy.yml`** builds the static site and publishes it to GitHub Pages on every push to `main`. The site is served at **https://mapchallengegallery.squidmaps.io**:
+  - The custom domain is set in Settings → Pages, with a DNS `CNAME` record from `mapchallengegallery.squidmaps.io` to `squidmaps-io.github.io`.
+  - The workflow detects the address from the Pages settings. To override, set the repository variables `SITE_URL` and `BASE_PATH`.
 - **One-time setup:** in the repo's Settings → Pages, set Source to "GitHub Actions". Add the `BSKY_HANDLE` and `BSKY_APP_PASSWORD` secrets for the collect workflow.
 
 ## Developing

@@ -3,7 +3,7 @@ import react from '@astrojs/react';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: process.env.SITE_URL || 'https://30daymap.squidmaps.io',
+  site: process.env.SITE_URL || 'https://mapchallengegallery.squidmaps.io',
   base: process.env.BASE_PATH || '/',
   integrations: [react()],
   vite: { plugins: [tailwindcss()] },
