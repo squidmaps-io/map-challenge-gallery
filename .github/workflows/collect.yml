@@ -1,12 +1,15 @@
 name: Collect
 
-# Daily: pick up new and late #30DayMapChallenge posts from Bluesky and Mastodon,
-# re-check stored posts (deleted / opted out), commit any changes and redeploy.
-# After the challenge (early December) disable this workflow, or reduce the schedule to a weekly re-check.
+# Every 6 hours: pick up new and late #30DayMapChallenge posts from Bluesky and Mastodon,
+# commit any changes and redeploy. Once a day (the 06:17 UTC run, and manual runs) it also
+# re-checks stored posts for deletions and opt-outs; that pass makes a request per post, so it
+# runs daily to go easy on small Mastodon servers.
+# After the challenge (early December) disable this workflow, or reduce it to a weekly re-check.
 
 on:
   schedule:
-    - cron: '17 6 * * *' # 06:17 UTC daily
+    - cron: '17 6 * * *' # 06:17 UTC: collect + re-check
+    - cron: '17 0,12,18 * * *' # every other 6 hours: collect only
   workflow_dispatch:
 
 permissions:
@@ -35,7 +38,8 @@ jobs:
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
-      - name: Re-check stored posts
+      - name: Re-check stored posts (daily)
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 6 * * *'
         run: npm run recheck
       - name: Commit changes
         id: commit
