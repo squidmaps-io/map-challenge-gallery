@@ -15,7 +15,7 @@ Posts are skipped when the author has opted out:
 - **Bluesky:** the account hides its posts from logged-out viewers.
 - **Mastodon:** the account is set to hide from search engines or not to be featured in discovery.
 
-A daily re-check also removes posts that were deleted or whose authors opted out later. Cross-posts on both platforms are merged into one tile.
+New posts are collected every 6 hours. A daily re-check removes posts that were deleted or whose authors opted out later. Cross-posts on both platforms are merged into one tile.
 
 **Why only these two platforms?** They have open APIs for public posts and clear opt-out settings, so a single simple rule keeps the gallery fair and easy to moderate. LinkedIn, X, Instagram and Threads don't offer open access to public posts. The site's About page has the full explanation.
 
@@ -29,7 +29,7 @@ A daily re-check also removes posts that were deleted or whose authors opted out
 ```sh
 cp .env.example .env                    # Bluesky app password, needed for full search
 npm run collect -- --days 1-5           # collect specific days
-npm run collect -- --recent 3           # everything posted in the last 3 days, any challenge day (the daily job)
+npm run collect -- --recent 3           # everything posted in the last 3 days, any challenge day (what the scheduled job runs)
 npm run recheck                         # drop deleted / opted-out posts, refresh image links
 npm run add -- <post url> --day N       # one-off fix: add a Bluesky or Mastodon post by URL
 npm run dedupe                          # re-merge cross-posts
@@ -41,9 +41,9 @@ npm run dedupe                          # re-merge cross-posts
 
 ## Automation
 
-- **`.github/workflows/collect.yml`** runs daily on GitHub's servers:
-  1. Collects recent days.
-  2. Re-checks stored posts.
+- **`.github/workflows/collect.yml`** runs on GitHub's servers every 6 hours (00:17, 06:17, 12:17 and 18:17 UTC):
+  1. Collects everything posted in the last 3 days.
+  2. Re-checks stored posts for deletions and opt-outs. This runs once a day, on the 06:17 UTC run and on manual runs, because it makes one request per post and small Mastodon servers deserve a light touch.
   3. Commits any changes.
   4. Redeploys.
 - **Required repository secrets:** `BSKY_HANDLE`, `BSKY_APP_PASSWORD`.
