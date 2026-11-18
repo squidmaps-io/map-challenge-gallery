@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Calendar from '../components/Calendar.astro';
 import { postsForDay, themes } from '../lib/data';
-import { SQUIDMAPS_URL, YEAR, withBase } from '../lib/site';
+import { YEAR, withBase } from '../lib/site';
 
 const days = themes.map((t) => ({ ...t, count: postsForDay(t.day).length }));
 const total = days.reduce((n, d) => n + d.count, 0);
@@ -33,16 +33,5 @@ const latest = [...days].reverse().find((d) => d.count > 0);
 
   <section class="mx-auto max-w-4xl px-3 sm:px-6">
     <Calendar />
-  </section>
-
-  <section class="mx-auto mt-16 max-w-7xl px-4 sm:px-6">
-    <div class="flex flex-col items-start gap-5 rounded-2xl bg-ink-50 p-6 sm:flex-row sm:items-center sm:p-8 dark:bg-ink-700/20">
-      <img src={withBase('brand/squidmaps-mascot.png')} alt="" width="64" class="shrink-0" />
-      <div class="flex-1">
-        <p class="font-display text-xl font-bold">Making a map for tomorrow's theme?</p>
-        <p class="mt-1 text-zinc-600 dark:text-zinc-300">Draw or import data with squidmaps and make a shareable web map in minutes.</p>
-      </div>
-      <a href={SQUIDMAPS_URL} class="rounded-full bg-ink-500 px-5 py-2.5 font-bold text-white hover:bg-ink-600">Try squidmaps →</a>
-    </div>
   </section>
 </Layout>
