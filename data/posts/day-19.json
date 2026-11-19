@@ -1,5 +1,230 @@
 [
   {
+    "id": "bluesky:at://did:plc:nytjvigw5fzupdb32uzgrwqi/app.bsky.feed.post/3n2ovv7qlhb2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tickerkarte.de/post/3n2ovv7qlhb2w",
+    "author": {
+      "name": "tickerkarte.de",
+      "handle": "@tickerkarte.de",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nytjvigw5fzupdb32uzgrwqi/bafkreiglun2wu6z5tgpfou7ky3sigswqr7onvsdaxpwoen45gdta7ersiq"
+    },
+    "text": "#30DayMapChallenge Day 19, Smell: what German police reports smell of. In one year, someone noticed alcohol 752 times, almost always on a driver. Smoke 58 times, often neighbours warning of a fire. C…",
+    "postedAt": "2026-11-19T20:27:53.842Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Anytjvigw5fzupdb32uzgrwqi/bafkreify3mzlszdlgoprmhsqjfoqs646tf54ssiyxjijbohyq77dbknxmu/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "b10d0e15c0a1b847",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@tickerkarte/117645007482099798"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117490470636616464/statuses/117645007482099798"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n2oujxifqv22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n2oujxifqv22",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 19: Smell Where do the smells of the Rijnmond drift? 89 odour sources from OpenStreetMap (refineries, landfills, sewage plants, markets, breweries), each with plumes pushed dow…",
+    "postedAt": "2026-11-19T20:03:38.000Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreic3luh2y5m2b47ukgqkg4wbfgvazpu64rpcaqimcfwrm4rakcftfa",
+    "color": "#f8f8e8",
+    "hash": "80d4e072d6b190a4",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n2oufs7nlh2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n2oufs7nlh2b",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 19 — Smell 👃 What if you could map what’s in the air? Smell Pittsburgh Viewer visualizes crowdsourced odor reports from smellpgh.org into an interactive map, helping communiti…",
+    "postedAt": "2026-11-19T20:01:22.840Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Am6ycobnhtarpiehfqpd4kszr/bafkreihv3wpcedt67q2o6l65ei6nijpsgj2t66fxmag5rwqqb6hyfqxydi/thumbnail.jpg",
+    "color": "#181818",
+    "hash": "d59e4c4dc69a9e88",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:2nymwfhraoi6puox63ehc5a2/app.bsky.feed.post/3n2osqr7jj22c",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/timostler1.bsky.social/post/3n2osqr7jj22c",
+    "author": {
+      "name": "Tim Ostler",
+      "handle": "@timostler1.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreigmye3nhbmxxzv4nmrnbjn6rqtrxndz5f34nnszk7hxaw2axtq4eu"
+    },
+    "text": "#30DayMapChallenge 2026 | Day 19: Smell One of the most distinctive smells is fresh coffee, so here are the major coffee producers of South America, ranked by 2024 production. Data from @fao.org",
+    "postedAt": "2026-11-19T19:31:43.591Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreif4poucyrp4wfkzitp4nsh3sh7yfctprnixwl5gf2p63fk775quiq",
+    "color": "#f8f8f8",
+    "hash": "4b4b7b34682d4c13",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n2osi3aum223",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3n2osi3aum223",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "For the #30DayMapChallenge Day 19 topic \"Senses: Smell\", Eric Brelsford mapped the subway smells of #NewYorkCity: Where do two well-known New York smells overlap: odors in subway stations, and the un…",
+    "postedAt": "2026-11-19T19:26:52.131Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreibq7b65wqdg37pqe6mg2355ury63ehjr75yliro4ovrpkejiiruqu",
+    "color": "#080808",
+    "hash": "ad6c4e5eecd88889",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3n2osi3aum223"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n2osi3aum223"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:ml2g5dbzonolw3kanf2eiy4y/app.bsky.feed.post/3n2on5ssfr22p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bioinformatician.bsky.social/post/3n2on5ssfr22p",
+    "author": {
+      "name": "Loukas Theodosiou",
+      "handle": "@bioinformatician.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml2g5dbzonolw3kanf2eiy4y/bafkreicpt2g7cnz2q7m6rwmnu4goozeqeqmeplem73ah7xss5ar74ivmiu"
+    },
+    "text": "Day 19 of #30DayMapChallenge, Smell. Where can you smell resin in Thessaly",
+    "postedAt": "2026-11-19T17:51:39.017Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ml2g5dbzonolw3kanf2eiy4y/bafkreihiw37l2urk3ulutv6faqn2awfx4fxfg3rbgqyrgiwodfhmcy6wve",
+    "color": "#f8f8f8",
+    "hash": "889a24a092d4f0b0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n2om6wleb22r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3n2om6wleb22r",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "Day 19 of #30DayMapChallenge: Smell 👃 Every year, sargassum seaweed blooms across the Atlantic and washes onto Caribbean beaches, where it rots. In 2018 alone, about 10 million tons of it washed up.…",
+    "postedAt": "2026-11-19T17:34:22.796Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreihhy7vbafbwwwc3ygtf44yesjaxkdflz7n3aygdm46dwgivwijni4/thumbnail.jpg",
+    "color": "#081828",
+    "hash": "626230e455193e07",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n2ol7fa3jn26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n2ol7fa3jn26",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 19 of #30DayMapChallenge, Smell. Uppsala's city bus lines colored by proximity to cafés and bakeries. Code: https://github.com/gkaramanis/30DayMapChallenge/tree/main/2026/19-smell #RStats #datavi…",
+    "postedAt": "2026-11-19T17:16:42.187Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreiatxgzk6xpaayhx2pq3pempbaajrdfiadmlogvem4yn7z2v4ube3m",
+    "color": "#f8f8f8",
+    "hash": "e4f894ece2b0b0f2",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n2okyhkqrs24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n2okyhkqrs24",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 323 of #365DaysOfMaps. November 19th is World Sanitation Day. #30DayMapChallenge day 19 tie-in: smell. This calls for a 💩 mashup. 100 Aker Wood Cholera Epidemic (323/365) mapdesign.icaci.org/202…",
+    "postedAt": "2026-11-19T17:12:51.971Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreiff3h2bldkf47mvrx24sml3s5hp7nf3m7bdnct4qkx5knpinejhsa",
+    "color": "#e8d8a8",
+    "hash": "5651cc8ad55cba68",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n2oha24nwk2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n2oha24nwk2j",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 19: Senses – Smell The Smellscape of the Minnesota State Fair One day in August 2025, my friends and I surveyed the fairgrounds, noting every scent we came across. Originally d…",
+    "postedAt": "2026-11-19T16:05:31.334Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreibqliy6eyltq5wxcsznsbjp7d5i6xj5qboyauva2exnenk6a5xliu",
+    "color": "#f8f8f8",
+    "hash": "c6ce2aa4dae6a686",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n2ogy5twq72o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n2ogy5twq72o",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 19 · Senses: Smell. Yellowstone, where the geysers and hot springs smell of rotten eggs (hydrogen sulphide). A map can't smell, so here it is as ridgelines. Data: public elevation data. Made with…",
+    "postedAt": "2026-11-19T16:01:06.571Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibv6w2yzv64wrbzfxz6myub24smris2oujqpitsksggimbmqpbpti",
+    "color": "#f8f8e8",
+    "hash": "88c8e0c4c4f4d071",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117643940338567705"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117643940338567705"
+    ]
+  },
+  {
     "id": "bluesky:at://did:plc:td2azo5v5udhxmkydsliillx/app.bsky.feed.post/3n2oejgadrk2h",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/cga-harvard.bsky.social/post/3n2oejgadrk2h",

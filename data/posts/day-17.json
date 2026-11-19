@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:3y2dhveykpjyasfzyhbhve5f/app.bsky.feed.post/3n2onrzuta22z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jcolot.bsky.social/post/3n2onrzuta22z",
+    "author": {
+      "name": "Julien Colot",
+      "handle": "@jcolot.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3y2dhveykpjyasfzyhbhve5f/bafkreic7ws2dz2x3ejq5hnf4gvgr2z5g3tyorliukuhmlueyommlmqrili"
+    },
+    "text": "Day 17 of the #30DayMapChallenge: A bit late 🌘 Theme Light & dark The map of today (tonight) shows solar and lunar eclipses, past and future, computed on the GPU so without Besselian elements, in a…",
+    "postedAt": "2026-11-19T18:02:57.528Z",
+    "day": 17,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A3y2dhveykpjyasfzyhbhve5f/bafkreiawzvquiv576ucjclmkip6d3kc6kiuosy746o2p3civlqvmcbozai/thumbnail.jpg",
+    "color": "#080808",
+    "hash": "c6e6c6cac666e469",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2nud6pof22j",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2nud6pof22j",
