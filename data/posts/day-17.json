@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n2lz5wb5w22p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n2lz5wb5w22p",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🌙 Day 17/30: Light & Dark | After Dark, the Web Glows For today's #30DayMapChallenge, I took my map into 3D to explore how lighting changes a scene. ✨ Today's ArcGIS Maps SDK for JavaScript 5.2 spot…",
+    "postedAt": "2026-11-18T16:48:28.332Z",
+    "day": 17,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreihjogds7b255fw7nyoz6zna6xkpn2vmzlf5izx2465zpkqs3tvotq/thumbnail.jpg",
+    "color": "#d8d8d8",
+    "hash": "cf83949590909183",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvxsei2o2o",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvxsei2o2o",

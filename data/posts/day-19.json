@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2ngoe4x3s2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2ngoe4x3s2t",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 19 | Senses: Smell | #30DayMapChallenge | Smells like teen spirit. Never satisfied, always pushing back or just a deodorant :) Data: Geoportal Berlin and OpenStreetMap. Tools: #RStats #sf #ggplot…",
+    "postedAt": "2026-11-19T06:22:58.129Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidhqlxzfdxkyhjgcn44ilk3r5zixrczfhbv4bwxn53drwfgsguzdm",
+    "color": "#080808",
+    "hash": "1355090f1f5f6517",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3n2mld4ypf22o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3n2mld4ypf22o",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "❓Whatever happened to ‘Stink Bomb Alley’? 👃 A place where smells were made around Carpenters Road, Stratford, E London #London2012 Legacy 🗺️#Regeneration #Rebranding using 'Compare Basemaps' in #Ge…",
+    "postedAt": "2026-11-18T22:13:30.525Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreifyfmt5ng7juebal4mecfnh2fzi4rutzdemvvttb53zpv3zm4awku/thumbnail.jpg",
+    "color": "#f8f8e8",
+    "hash": "6373b65b5b5d4ccf",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n2mk5kan7s27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n2mk5kan7s27",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 19 · Smell Milford Sound DEM as a black-figure painting on a lekythos, the Greek perfume-oil flask. HAND figure and ground, incised ridges and folds, then a three-stage firing: red, black, red ag…",
+    "postedAt": "2026-11-18T21:52:29.345Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreibguxqxgj5vbrbpbmttjc6pyuzpzxs2ghfhqht2uqi7fnovzz4rza/thumbnail.jpg",
+    "color": "#181818",
+    "hash": "03153d2f0713c420",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3n2m5lcrfmk2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3n2m5lcrfmk2p",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "Day 19 of #30DayMapChallenge, Smell. Back in 2017, Dunedin had both a chocolate factory and an instant coffee factory. So on industrial scale aromatic activity days there were scents on the wind. Als…",
+    "postedAt": "2026-11-18T18:07:32.620Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreihdbri5ry5rcf23c6gs6kumcchhfk3qma7orzrzvi3sohogg3go6a",
+    "color": "#f8f8f8",
+    "hash": "e4ccdccca48c9c90",
+    "imageCount": 1,
+    "source": "feed"
+  }
+]

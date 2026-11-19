@@ -1,5 +1,140 @@
 [
   {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117640161274878939",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117640161274878939",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day18: NULL Since I didn't have much time today, I thought I'd quickly grab some data from OSM, add some colors, and call it a day. First, I chose a color for each of the existing…",
+    "postedAt": "2026-11-19T00:00:06.203Z",
+    "day": 18,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/640/111/095/342/036/small/74784f0547890064.png",
+    "color": "#e8d8d8",
+    "hash": "8484353424249290",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117639769462551579",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117639769462551579",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 18. NULL Ukraine's emptiest places, found with a distance field over OpenStreetMap: 15 \"poles of inaccessibility\", the largest ~9 km from the nearest road, building or village. A map of the void…",
+    "postedAt": "2026-11-18T22:20:27.593Z",
+    "day": 18,
+    "image": "https://files.mastodon.social/media_attachments/files/117/639/768/758/543/108/small/a363ee3386208652.png",
+    "color": "#080808",
+    "hash": "6526175949c79692",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2mlqp6a5s2k"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2mlqp6a5s2k"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3n2mbiq2nzc2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mappingmashups.net/post/3n2mbiq2nzc2v",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@mappingmashups.net",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/bafkreifjfjut2fwr6ni7woujuo2yf4zdfwjazedfpy5apvfhzxciv3weau"
+    },
+    "text": "For the #30DayMapChallenge (Day 18: \"Null\") a lot of us are visiting Null Island, the made-up place at 0°N 0°E where bad geodata ends up. You might be surprised that those coordinates also have quite…",
+    "postedAt": "2026-11-18T19:17:40.864Z",
+    "day": 18,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Af76ojzvwa7u5fxwdfo5uhbnl/bafkreifb3bnd3dl26yhdjd55vm2rpc2r7gmn5yhjdhybtipub4syo5phfe/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "9296706979218ebe",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/post/3n2mbiq2nzc2v"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3n2mbiq2nzc2v"
+    ]
+  },
+  {
+    "id": "mastodon:https://subdued.social/users/alan/statuses/117639002499140112",
+    "platform": "mastodon",
+    "url": "https://subdued.social/@alan/117639002499140112",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan@subdued.social",
+      "avatar": "https://cdn.masto.host/subduedsocial/accounts/avatars/109/627/641/688/002/194/original/d207c34bf0d79c35.jpeg"
+    },
+    "text": "For the #30DayMapChallenge Day 18: \"Null\", we're visiting #NullIsland, the made-up place at 0°N 0°E where bad geodata ends up. Turns out there are quite a few real visitors, too: • Soul, a NOAA weath…",
+    "postedAt": "2026-11-18T19:05:24.659Z",
+    "day": 18,
+    "image": "https://cdn.masto.host/subduedsocial/media_attachments/files/117/638/996/210/521/796/small/2b2a1a76966afb98.png",
+    "color": "#f8f8f8",
+    "hash": "86d631f17171babe",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3n2matlwrvps2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3n2matlwrvps2"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n2m3tqog222q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3n2m3tqog222q",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 18: NULL 🛟 Did you know there was an actual buoy at 0°, 0°? From 1998 to 2021, a weather buoy called Soul was moored at 0°, 0°, but it swung around its anchor every day, and t…",
+    "postedAt": "2026-11-18T17:36:28.160Z",
+    "day": 18,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreibox3xrooqgwlgf3qbgjog3oowurmpp57hqr3eqqb4jsi6s4ezsxy/thumbnail.jpg",
+    "color": "#082838",
+    "hash": "c06840084c000920",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n2m2qyjhec2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n2m2qyjhec2p",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🗺️ Day 18/30 · NULL | The Missing Years 24 of the 29 tech landmarks on my map are missing a milestone year. For today’s #30DayMapChallenge, I built a scan that puts those gaps on the map. codepen.io…",
+    "postedAt": "2026-11-18T17:17:01.982Z",
+    "day": 18,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreid4fqnkvvpps7ht2ptptbqxg5jzzq7qwyennfwcdl2lxesvcyu2qe/thumbnail.jpg",
+    "color": "#384868",
+    "hash": "d435c1d19393998d",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2ly6fiy3s2h",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2ly6fiy3s2h",

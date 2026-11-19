@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bluesky:at://did:plc:zv7loulup7yj5dymyb22gfm6/app.bsky.feed.post/3n2n2zjlfb22d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/zachflanders.bsky.social/post/3n2n2zjlfb22d",
+    "author": {
+      "name": "Zach Flanders",
+      "handle": "@zachflanders.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zv7loulup7yj5dymyb22gfm6/bafkreiho5dpjhpzezu4wwelud5mxtzrtwosvdagssaxfpuyehetfgsbs3e"
+    },
+    "text": "#30DayMapChallenge - NULL Unlike KCK and KCMO who share their building footprints as public data, Johnson County, KS (AIMS) charges tens of thousands of dollars for building footprints. In preparatio…",
+    "postedAt": "2026-11-19T02:54:28.034Z",
+    "day": 21,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zv7loulup7yj5dymyb22gfm6/bafkreiec5txdvxziiybdzk5soy3kovyzkn3kvxc3arjnsn3oh56rcagwam",
+    "color": "#080808",
+    "hash": "2b49092989a8110d",
+    "imageCount": 1,
+    "source": "feed"
+  }
+]
