@@ -53,7 +53,8 @@ const soft = (theme: string) => theme.replace(/[A-Za-z]+/g, (w) => SOFT[w] ?? w)
       const align = col === 0 ? 'left-0' : col === 6 ? 'right-0' : 'left-1/2 -translate-x-1/2';
       const arrow = col === 0 ? 'left-4' : col === 6 ? 'right-4' : 'left-1/2 -translate-x-1/2';
 
-      const tooltip = (
+      // Only the small calendar on day pages needs a hover popup; the large one already shows the theme and count.
+      const tooltip = mini && (
         <div
           aria-hidden="true"
           id={`cal-tip-${variant}-${day}`}
@@ -134,7 +135,6 @@ const soft = (theme: string) => theme.replace(/[A-Za-z]+/g, (w) => SOFT[w] ?? w)
               </div>
             </div>
           </a>
-          {tooltip}
         </div>
       );
     })}
