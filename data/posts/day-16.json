@@ -1,5 +1,32 @@
 [
   {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2o26k35my2d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2o26k35my2d",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 16: Collaborative map. Villa Negroni, Vezia: 5 contributors, 19 photographed places. Photos: strabo, talete1, giovanni_berchet, light3r, maro314o (CC BY 4.0). Map: OSM / OpenMapTiles. #30DayMapCh…",
+    "postedAt": "2026-11-19T12:12:00.857Z",
+    "day": 16,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreicwie5owzac33wxwquqekrgydlcrwrri3wt3jrjxekq5mtscsu7zi",
+    "color": "#081818",
+    "hash": "6717dc9c96969238",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117643039369111830"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117643039369111830"
+    ]
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvxnzgvt2t",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvxnzgvt2t",

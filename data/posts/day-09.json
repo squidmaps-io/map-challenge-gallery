@@ -165,24 +165,6 @@
     "hash": "0ce46c30aaa6a420"
   },
   {
-    "id": "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:7ebnmsusl3r2uuaf24igiazh/app.bsky.feed.post/3mzxea5b7nc2e",
-    "platform": "bluesky",
-    "url": "https://bsky.app/profile/did:plc:7ebnmsusl3r2uuaf24igiazh/post/3mzxea5b7nc2e",
-    "author": {
-      "name": "Guillaume Noblet",
-      "handle": "@gnoblet.eurosky.social",
-      "avatar": "https://files.mastodon.social/cache/accounts/avatars/114/261/874/505/266/330/original/1d23c1c8a79f6891.jpeg"
-    },
-    "text": "#Day09 and #Day10 with an Urban/Rural map and a prompting one #30DayMapChallenge. #rstats #ggplot2 #dataviz #map #geo Link to code below.",
-    "postedAt": "2026-11-10T11:40:39.404Z",
-    "day": 9,
-    "image": "https://eurosky.social/xrpc/com.atproto.sync.getBlob?did=did:plc:7ebnmsusl3r2uuaf24igiazh&cid=bafkreigtuensothwufklqlpyhdurmk4win73akrlps6cigfolm54bkykku",
-    "color": "#181818",
-    "hash": "5f6f2b2b2b2b2b2b",
-    "imageCount": 2,
-    "source": "feed"
-  },
-  {
     "id": "bluesky:at://did:plc:2xhwqs7x3xnnpbtxzik2xkpe/app.bsky.feed.post/3mzw27zqoochf",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chaneyswiney.com/post/3mzw27zqoochf",

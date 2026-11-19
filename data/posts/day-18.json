@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2nxipbwjc2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2nxipbwjc2j",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 18/30 · Null ❔ 43,234 buildings in Cluj-Napoca, 21 with a year or period in OpenStreetMap. Null is not zero. Know a building's year? Add it. Plaster grain after Pavel Boytchev's tsl-t…",
+    "postedAt": "2026-11-19T11:24:02.113Z",
+    "day": 18,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreieqrpvufirqg6i6z7khblzowdud3doqwzjo24chcwdojuo7in7ife/thumbnail.jpg",
+    "color": "#e8e8e8",
+    "hash": "333215e1291ad261",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117640161274878939",
     "platform": "mastodon",
     "url": "https://mapstodon.space/@NordAufNordost/117640161274878939",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2nud6pof22j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2nud6pof22j",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 17/30 · Light & dark 🌗 From orbit, Cluj-Napoca is all light. On the map, 869 street lamps. Dark is not unlit, just not mapped yet. Inspired by @bruno-simon.bsky.social. 3D map in Map…",
+    "postedAt": "2026-11-19T10:27:15.738Z",
+    "day": 17,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreiglnsma4xydpsjffmhuiykyyrzcrd4amflkn4raeohx2bmdc2ussi/thumbnail.jpg",
+    "color": "#080818",
+    "hash": "7b6b0ece0f0d0e16",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n2lz5wb5w22p",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n2lz5wb5w22p",

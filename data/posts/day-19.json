@@ -1,5 +1,275 @@
 [
   {
+    "id": "bluesky:at://did:plc:td2azo5v5udhxmkydsliillx/app.bsky.feed.post/3n2oejgadrk2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cga-harvard.bsky.social/post/3n2oejgadrk2h",
+    "author": {
+      "name": "Center for Geographic Analysis @ Harvard",
+      "handle": "@cga-harvard.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:td2azo5v5udhxmkydsliillx/bafkreifcsmljsttv2ual6knycr2c5rgiaukzwxqbrw7zobyv6qdpmjbg2a"
+    },
+    "text": "GIS Librarian @belleicedt.bsky.social's contribution to #30DayMapChallenge for Day 19: Smell. Belle wanted to show off a database she uses a lot with researchers: the Global Biodiversity Information…",
+    "postedAt": "2026-11-19T15:17:04.784Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:td2azo5v5udhxmkydsliillx/bafkreifoetxkou24uwqcvbbgb6p3vgt676piutrbcrpo5p7qvexo4gpurq",
+    "color": "#f8e8d8",
+    "hash": "b372f2f030929b2b",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n2odq4atx22f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n2odq4atx22f",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 19 of #30DayMapChallenge: Senses: smell. 174 facilities reported releasing 3,868 t of rotten-egg sulphur gases to Canada's air in 2024, half of it from pulp and paper mills. One kraft paper mill,…",
+    "postedAt": "2026-11-19T15:02:55.491Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreihuorqi4s2afanzexkpk2spq5vgkowayfhmp3g46bg46f5arxxhxe",
+    "color": "#080808",
+    "hash": "656f7b79596b6b63",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2ob5h7fmd2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2ob5h7fmd2x",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 19 of #30DayMapChallenge · Smell What the Yakima Valley smells like There's more behind it on the page. #hops #YakimaValley brooksgroves.com/30DayMapChallenge/2026/share/day-19.html",
+    "postedAt": "2026-11-19T14:16:41.934Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreiatu7byskn4esnfmfrmuws7c24zq7ve2wxpfuwwjsbmgjgynfs3ve",
+    "color": "#f8f8e8",
+    "hash": "84b2b6f6f0c4a082",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117643318302938890",
+    "platform": "mastodon",
+    "url": "https://social.numerique.gouv.fr/@ignfrance/117643318302938890",
+    "author": {
+      "name": "IGN France",
+      "handle": "@ignfrance@social.numerique.gouv.fr",
+      "avatar": "https://social.numerique.gouv.fr/system/accounts/avatars/111/301/781/326/788/489/original/42776cc4c4c0d3c9.jpg"
+    },
+    "text": "Si vous avez du nez, cette carte devrait vous enivrer ! 👃 🌸 Voici la France des rues aux noms fleuris Vous connaissez tous une rue des Roses ou une rue des Lilas ? Pour ce nouveau jour du 30DayMapC…",
+    "postedAt": "2026-11-19T13:22:58.599Z",
+    "day": 19,
+    "image": "https://social.numerique.gouv.fr/system/media_attachments/files/117/643/312/740/605/089/small/4fb7576cdc6dae62.png",
+    "color": "#d8d8d8",
+    "hash": "f03f2d6a33363eae",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:jaexydvwvk4ihs6aj6tim5rc/app.bsky.feed.post/3n2o4ijnylk2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tileflow.bsky.social/post/3n2o4ijnylk2l",
+    "author": {
+      "name": "Tileflow",
+      "handle": "@tileflow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jaexydvwvk4ihs6aj6tim5rc/bafkreiafsygm2irx3nitjubvi7lyht6zah4kioc2nrmwhcj5idjsmt22fe"
+    },
+    "text": "In 30 metres, turn left at the smell of burgers. 🍔 Day 19 of #30DayMapChallenge 🐾 In SNIFF! you’re a hungry dog sniffing out real places to eat on Tileflow’s world map. maps.tileflow.dev/sniff/ Wan…",
+    "postedAt": "2026-11-19T12:53:24.926Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ajaexydvwvk4ihs6aj6tim5rc/bafkreicegyi4ywww5qtfa7s5u5iaxclhvqc6iyh2lylm275w6mduc62b5a/thumbnail.jpg",
+    "color": "#080808",
+    "hash": "0000000000000000",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2o466xjw22i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n2o466xjw22i",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge | Day 19 Senses: Smell | \"Wiener-ville\" Another teaser from my book! Before the plant closed in 2017, the smell of Oscar Mayer was all too familiar to residents of Eken Park, a nei…",
+    "postedAt": "2026-11-19T12:47:38.154Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifh2t7uimivjl6cftapmcjvz72abnwznnei52qe3h3f2npvs3yyxe",
+    "color": "#f8e8c8",
+    "hash": "60d6e1c088949670",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n2o466xjw22i"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2o466xjw22i"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2o42oif2s2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2o42oif2s2l",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "Day 19 · #30DayMapChallenge · Smells over #LakeOntario A smell map not a swell map",
+    "postedAt": "2026-11-19T12:45:40.223Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreigwkrrwzateu5b5ixwctcawzgmlxqrpkedtrbrasewby36zvtqvlm",
+    "color": "#383838",
+    "hash": "58d8ce0d0d038393",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ere2xujdnicslkrvsig72q42/app.bsky.feed.post/3n2nzwjmbdk22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/belleicedt.bsky.social/post/3n2nzwjmbdk22",
+    "author": {
+      "name": "Belle Lipton",
+      "handle": "@belleicedt.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ere2xujdnicslkrvsig72q42/bafkreieod2llccrmkwnhenhb5uf26fdx2qmz5cl2lempurd4mjj23uehu4"
+    },
+    "text": "Check out my contribution to the #30DayMapChallenge, day 19: Sense - Smell. bellegis.github.io/lilac-stroll",
+    "postedAt": "2026-11-19T12:07:33.392Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ere2xujdnicslkrvsig72q42/bafkreicadha5afmpt4aqkzkjuf4p4p6vnm7hyx6gmxvgtz6gnvpxwpa7cm",
+    "color": "#f8e8d8",
+    "hash": "b372f2f030929b2b",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n2nrclll7722",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3n2nrclll7722",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "#30DayMapChallenge Day 19 - Senses: Smell Japan's Bouquet 💐 Japan prefecture's official flower, mapped by how strongly it smells and when it blooms. app.kumoy.io/public/map/6... made in #QGIS, power…",
+    "postedAt": "2026-11-19T09:33:14.271Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreif7vbuz7yccalcbfapoy66hdfxn77bkzj7ldavg7unyhp6ggxysau/thumbnail.jpg",
+    "color": "#d8e8e8",
+    "hash": "6d6d695971716960",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117642416602466626"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117642416602466626"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n2npvzvzck2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n2npvzvzck2t",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 19: Smell When you're next on a wildlife walk, have a sniff around... storymaps.arcgis.com/stories/5047...",
+    "postedAt": "2026-11-19T09:08:19.528Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreigskrqe7stsgqs5e4dksgjebwiyvsiaoua26piapmdxgifyqajd7q",
+    "color": "#081808",
+    "hash": "86c6868e0b2bca67",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ctldwirrhljnpw4g62v2neap/app.bsky.feed.post/3n2nmwzurck26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/clementinecttn.bsky.social/post/3n2nmwzurck26",
+    "author": {
+      "name": "clementinecttn.bsky.social",
+      "handle": "@clementinecttn.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreic6qn6b4mjh5p67uygzigcrej46nw2doscpdhdhhwpkpjrrirepya"
+    },
+    "text": "#30DayMapChallenge Youth edition Day: 19 - Smell & 20 - Hexagons Map: Paper, ink, toys & honey jar. Challenge: Find the bee who's connected to the honey jar.",
+    "postedAt": "2026-11-19T08:15:11.818Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ctldwirrhljnpw4g62v2neap/bafkreibra36jvnlxpmyuecmum4sfqgfc7khtlfhdeavwkprl3sivfuumg4",
+    "color": "#f8f8f8",
+    "hash": "064c6c685448ee36",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:dhkzuubapdaekmh6twharwqu/app.bsky.feed.post/3n2nmch5bec24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jmviglino.bsky.social/post/3n2nmch5bec24",
+    "author": {
+      "name": "Jean-Marc Viglino",
+      "handle": "@jmviglino.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreido346cvr3n2wavudziovnxgamdhcsj5cdmbqb3sbjwtca56n47yu"
+    },
+    "text": "#30DayMapChallenge Day19: Senses - Smell 👃 En odeur de Sainteté 🙏 les départements ayant le plus de communes avec Saint.e.s dans leur nom. 😈🟥🟧🟨🟩🟦😇",
+    "postedAt": "2026-11-19T08:03:41.071Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreiejm46wzoe72vqlb7ei2fh5mg746pfc7vy3yfr2hv6s4hhijqc4w4",
+    "color": "#281808",
+    "hash": "ce0b292d2953573f",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117642020468465631",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117642020468465631",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://stockage.framapiaf.org/framapiaf/accounts/avatars/000/286/272/original/6b331889b0781db2.png"
+    },
+    "text": "#30DayMapChallenge @ Day 19 : Senses: Smell Les usines d’équarrissage en Bretagne",
+    "postedAt": "2026-11-19T07:52:55.216Z",
+    "day": 19,
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/642/018/132/446/638/small/25a5b00dcfbffbc7.jpg",
+    "color": "#f8f8f8",
+    "hash": "cbf3e7ccc9fb9d9e",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3n2nkntrnsx2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3n2nkntrnsx2j",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 19: Smell About 1 home in 50 in England and Wales is within 400 m of a sewage works, landfill, big pig or poultry farm, or incinerator. 82% are near sewage works, many of them…",
+    "postedAt": "2026-11-19T07:34:01.598Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreih5dgrh3zpbv6tx7iptw46goihponz35q53se73xhpb4rf2iklj2q/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "a6c8888e968ebea2",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2ngoe4x3s2t",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2ngoe4x3s2t",
