@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2qtbsbids2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2qtbsbids2m",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 19/30 · Smell 👃 Nobody measures smell in Cluj-Napoca. The wind is measured, the smell assumed. In winter, 6 neighborhoods sit downwind of the landfill. Smell lines after Kate McLean'…",
+    "postedAt": "2026-11-20T14:46:34.611Z",
+    "day": 19,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreif5ivqesf3a7adx6kid3raub6kignt5frs4plhr5yra6b4wzif4le/thumbnail.jpg",
+    "color": "#f8e8e8",
+    "hash": "93848cb43072b0c8",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117646142272099280",
     "platform": "mastodon",
     "url": "https://mapstodon.space/@NordAufNordost/117646142272099280",

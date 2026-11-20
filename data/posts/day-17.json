@@ -1,5 +1,32 @@
 [
   {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2qknhjvp52s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2qknhjvp52s",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 17: Light & dark. Melbourne: the same 25 photographed places, extent and positions in two Fotoshi map styles. Place photos contributed by eneerhut. Map: OSM / OpenMapTiles. #30DayMapChallenge #Fo…",
+    "postedAt": "2026-11-20T12:12:00.928Z",
+    "day": 17,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreifuiirvrllyyg5sbbou66tbqdd6zbr3h5ne4tyg6tkmgymxrc3ajm",
+    "color": "#081818",
+    "hash": "613a3b7b7b5e5a38",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117648701657917717"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117648701657917717"
+    ]
+  },
+  {
     "id": "bluesky:at://did:plc:3y2dhveykpjyasfzyhbhve5f/app.bsky.feed.post/3n2pvsplzec2j",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/jcolot.bsky.social/post/3n2pvsplzec2j",

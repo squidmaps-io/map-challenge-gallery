@@ -1,5 +1,311 @@
 [
   {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2qrmpvarn2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2qrmpvarn2i",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 20 of #30DayMapChallenge · Hexagons Kangaroo rats in hexagons There's more behind it on the page. #DeathValley #GBIF brooksgroves.com/30DayMapChallenge/2026/share/day-20.html",
+    "postedAt": "2026-11-20T14:16:53.703Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreic2gddaouuyku5eartd4mqoq2bhhy5rgceeo2ke2tbf5sjbta4sji",
+    "color": "#f8f8e8",
+    "hash": "a0c8d4c2e071dac8",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n2qrh53usk2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n2qrh53usk2k",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 20 of #30DayMapChallenge: Hexagons. I binned 53 years of NRCan wildfires (1972 to 2024) into 3,305 H3 hexagons: 1,174,002 km² burned, 13.4% of Canada's land. Switch views for 2023 (165,044 km²) o…",
+    "postedAt": "2026-11-20T14:13:46.241Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreihuzepqwi76yf2ksagrkhgrh2bzjyu5cvndmvoda7v6pjlgdgmode",
+    "color": "#080808",
+    "hash": "45753f19196d6b63",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n2qqqc5lkc2a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n2qqqc5lkc2a",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 324 of #365DaysOfMaps. November 20th is Mexican Revolution Day. #30DayMapChallenge day 20 tie-in: hexagon. Animated, interactive map made in 20mins while making dinner. Historical Atlas (324/365)…",
+    "postedAt": "2026-11-20T14:00:59.789Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreihfik4by26kkomfsb2msx5nwpzoqrcpphu3klxgx3vififj6b4qii",
+    "color": "#e8e8d8",
+    "hash": "667470705a185e16",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:v27j5yhbg656rknwasfsw53m/app.bsky.feed.post/3n2qppjtgyc2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tterence.bsky.social/post/3n2qppjtgyc2t",
+    "author": {
+      "name": "terence teo",
+      "handle": "@tterence.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreietjv7f7h5qcejg2t7s5scvfwc2js2uvfy4zb5em5hxpvwtu3i5we"
+    },
+    "text": "Day 20 · #30DayMapChallenge · Hexagons. Had a few ideas. Here's one of them. Is France l'Hexagone? Let's find out! I fitted the best regular hexagon to 157 countries and calculated the overlap. Turns…",
+    "postedAt": "2026-11-20T13:42:40.557Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreic2il56nie6ow2avyl4ejg4ihi6use7eebu3nyobdbzzspooju23a",
+    "color": "#f8f8f8",
+    "hash": "d8c2b2f0703286ec",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2qpcsf6es2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2qpcsf6es2l",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge - Day 20 : Hexagons #LakeOntario grid cells colored by percent water",
+    "postedAt": "2026-11-20T13:35:33.319Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreiexyy3mslc3tjj57n66xbytop5yrfnexhpb37wei4iphc3abq2oj4",
+    "color": "#f8f8f8",
+    "hash": "000e76f2c4989800",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2qkspmctc2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n2qkspmctc2w",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge Day 20 Hexagons | Sandhills, Turkeys, Robins If you live on Madison’s near west side, you’ve certainly happened upon a family of cranes. I see them all the time at Wingra Park and…",
+    "postedAt": "2026-11-20T12:14:58.563Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreieuiljnodqrmvufeftdetkfy7ufputwbclcwrdox6evwfffelokey",
+    "color": "#f8f8e8",
+    "hash": "323070b13b612253",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n2qkspmctc2w"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2qkspmctc2w"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:dhkzuubapdaekmh6twharwqu/app.bsky.feed.post/3n2qk2y4wt22z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jmviglino.bsky.social/post/3n2qk2y4wt22z",
+    "author": {
+      "name": "Jean-Marc Viglino",
+      "handle": "@jmviglino.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dhkzuubapdaekmh6twharwqu/bafkreido346cvr3n2wavudziovnxgamdhcsj5cdmbqb3sbjwtca56n47yu"
+    },
+    "text": "#30DayMapChallenge, Day20 : Hexagons ⬢⬡⬢⬡ 💡 Le saviez-vous ? En simplifiant la France avec l'algorithme de Visvalingam–Whyatt (dit de la surface effective) on obtient un hexagone \"presque\" régulier.…",
+    "postedAt": "2026-11-20T12:01:42.196Z",
+    "day": 20,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Adhkzuubapdaekmh6twharwqu/bafkreiavz65ntpgtimq7ry4buqxi5jqivqu35sipzpfkl6zxrhgts3a5aq/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "1360e0d0e162e2e0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/wnd/statuses/117648633557576003",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@wnd/117648633557576003",
+    "author": {
+      "name": "Will Deakin",
+      "handle": "@wnd@fosstodon.org",
+      "avatar": "https://cdn.fosstodon.org/accounts/avatars/109/591/276/523/700/400/original/14496ab189284233.jpg"
+    },
+    "text": "For the twentieth #30MapsInAMonth are four global EPSG:8857 equal area projection maps made with @WorldPopProject 1km² population data for 2025 aggregated by applying a Tobler (https://pysal.org/tobl…",
+    "postedAt": "2026-11-20T11:54:42.950Z",
+    "day": 20,
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/648/624/872/242/292/small/481fc6a8140badf2.png",
+    "color": "#f8f8f8",
+    "hash": "00d8d8dc4a6a4611",
+    "imageCount": 4,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n2qjk6cv5c2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n2qjk6cv5c2g",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 20: Hexagons #30DayMapChallenge How Pix adoption spread across Brazil: from 5% of residents sending a Pix at launch (Nov 2020) to 69% in Oct 2026. One border town has 7× more senders than residen…",
+    "postedAt": "2026-11-20T11:52:18.258Z",
+    "day": 20,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A432cbxpbyzrkhv6pzaxsxoj2/bafkreidqs74cdmchtlalwdyev2whp474ff6wcqwk4koox5q45tux4axsh4/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "a2e0e0e03016fcfc",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117648589381924292",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117648589381924292",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://stockage.framapiaf.org/framapiaf/accounts/avatars/000/286/272/original/6b331889b0781db2.png"
+    },
+    "text": "#30DayMapChallenge @ Day 20 : Hexagons Le relief \"hexagonal\" de la Bretagne. #QGIS",
+    "postedAt": "2026-11-20T11:43:28.884Z",
+    "day": 20,
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/648/502/080/284/874/small/a28d006053037b09.jpg",
+    "color": "#f8f8f8",
+    "hash": "93d2f2f9e7fa1e16",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ml2g5dbzonolw3kanf2eiy4y/app.bsky.feed.post/3n2qfpzul5c2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bioinformatician.bsky.social/post/3n2qfpzul5c2z",
+    "author": {
+      "name": "Loukas Theodosiou",
+      "handle": "@bioinformatician.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml2g5dbzonolw3kanf2eiy4y/bafkreicpt2g7cnz2q7m6rwmnu4goozeqeqmeplem73ah7xss5ar74ivmiu"
+    },
+    "text": "Day 20 #Hexagons of the #30DayMapChallenge: I split Thessaly into 428 hexagons of ~36 km² and coloured the ones where people reported white storks. 76% of sightings are on the plain below 200 m. Data…",
+    "postedAt": "2026-11-20T10:43:59.945Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ml2g5dbzonolw3kanf2eiy4y/bafkreidgzexg5ipqjiwowqtq7mwlpg2o5hlnyzazui5s2b3kr7etngcaxm",
+    "color": "#f8f8f8",
+    "hash": "c0c0e6a0f2d0e0e0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117648172713331342",
+    "platform": "mastodon",
+    "url": "https://social.numerique.gouv.fr/@ignfrance/117648172713331342",
+    "author": {
+      "name": "IGN France",
+      "handle": "@ignfrance@social.numerique.gouv.fr",
+      "avatar": "https://social.numerique.gouv.fr/system/accounts/avatars/111/301/781/326/788/489/original/42776cc4c4c0d3c9.jpg"
+    },
+    "text": "« L’Hexagone » est le surnom donné à la France continentale européenne du fait de sa ressemblance avec la figure géométrique à six côtés. Et si l’on prenait cette expression au pied de la lettre ? 💡…",
+    "postedAt": "2026-11-20T09:57:31.022Z",
+    "day": 20,
+    "image": "https://social.numerique.gouv.fr/system/media_attachments/files/117/648/159/308/388/184/small/e00556186ff322f9.jpg",
+    "color": "#f8d8a8",
+    "hash": "6971f060ec7473dd",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3n2qd4esmls2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3n2qd4esmls2k",
+    "author": {
+      "name": "IGN",
+      "handle": "@ignfrance.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreicpfpntlbe435ovarawf3tbmn73dlzlko6tthvngythtok4gkglx4"
+    },
+    "text": "« L’Hexagone » est le surnom donné à la France continentale européenne. Et si l’on prenait cette expression au pied de la lettre ? #30DAYMAPCHALLENGE J-20 #Hexagons 📊 BD TOPO 2026®, Wikimédia Common…",
+    "postedAt": "2026-11-20T09:57:12.846Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6j7dfu4urjderngdgf2nh7gw/bafkreidwome4gb7w64khfbhvxohg4t3tikfkfrsqo6idt2uyujklz4mfky",
+    "color": "#f8d8a8",
+    "hash": "2971f061e465739b",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117648009871312004",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117648009871312004",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 20 - Hexagons Welcome to the world beehive 🍯 🐝 Zoom into the honeycomb to explore GBIF bee observations. https://app.kumoy.io/public/map/5461cfc2-b57d-44a9-b370-78ac690d5cfa#…",
+    "postedAt": "2026-11-20T09:16:06.253Z",
+    "day": 20,
+    "image": "https://files.mastodon.social/media_attachments/files/117/648/009/727/578/893/small/a5df6f83716e0fac.png",
+    "color": "#282828",
+    "hash": "ddd3d9c1c5e2dad8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3n2qatf4vy322"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n2qatf4vy322"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:msxhbwvgmgp5t4bcrgefgmbz/app.bsky.feed.post/3n2q6okqut22o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/quarticle.bsky.social/post/3n2q6okqut22o",
+    "author": {
+      "name": "Quarticle",
+      "handle": "@quarticle.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:msxhbwvgmgp5t4bcrgefgmbz/bafkreid7l7z4q4cea4tuplyvt3hh43xfw5pe46lmnuj6h3ovu5xg3ioeyq"
+    },
+    "text": "30 Day Map Challenge 2026 | Day 20: Hexagons The map shows the number of buildings in Romania within the 1-in-100-year flood zone, aggregated by hexagonal grid cells to highlight areas of higher expo…",
+    "postedAt": "2026-11-20T08:37:54.352Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:msxhbwvgmgp5t4bcrgefgmbz/bafkreidgukguwsyyjh7ava6zxdnaus42qagej4xpl3anjcsn627l6dyg2q",
+    "color": "#f8f8f8",
+    "hash": "3060616b73d66660",
+    "imageCount": 2,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3n2q6atdjxr26",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3n2q6atdjxr26",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 20: Hexagons Over 2.2 million new homes have been finished in England and Wales since 2016. In Tower Hamlets and Tewkesbury they now make up nearly a fifth of all homes; in Bla…",
+    "postedAt": "2026-11-20T08:30:01.338Z",
+    "day": 20,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreicbhlvpnyfgwzdbkevtcefro4ruwq426yghsnqwdst25gqfykx4ye/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "a888142c248002a4",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2pxboeu522x",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2pxboeu522x",
