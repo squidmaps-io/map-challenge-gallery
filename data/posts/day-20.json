@@ -1,5 +1,194 @@
 [
   {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2rc73cegc2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2rc73cegc2q",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Where are the Kids? Downtown? No, Downtown Cologne (Innenstadt) has the lowest share of children under 10 years old according to Census 2022. #30DayMapChallenge Day 20 - Hexagons #ggplot2",
+    "postedAt": "2026-11-20T19:13:29.538Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreifab6n24a2vhwaefjuntzbxffw7z3ursuc62pyx34mb7ga2vytm4a",
+    "color": "#f8f8f8",
+    "hash": "a4ccc1e8c87438c4",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2r5mlrmyc2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2r5mlrmyc2n",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 20/30 · Hexagons ⬢ 919 hexagons over Cluj-Napoca. First they sample the ground, then they count people. One key for both. Board after Domenico Bruzzese's Three.js in practice. Does yo…",
+    "postedAt": "2026-11-20T17:51:34.317Z",
+    "day": 20,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreih3a7txw7ubzy5adwjrqk7ipa4tvdflrkbirvfxtkp3fxmvrmlewe/thumbnail.jpg",
+    "color": "#f8e8c8",
+    "hash": "86b1e4c4d8ca64a9",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:2nymwfhraoi6puox63ehc5a2/app.bsky.feed.post/3n2r4jb4wr22w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/timostler1.bsky.social/post/3n2r4jb4wr22w",
+    "author": {
+      "name": "Tim Ostler",
+      "handle": "@timostler1.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreigmye3nhbmxxzv4nmrnbjn6rqtrxndz5f34nnszk7hxaw2axtq4eu"
+    },
+    "text": "#30DayMapChallenge 2026 | Day 20: Hexagons A map of the legendary Dolly Parton's US concerts by state.",
+    "postedAt": "2026-11-20T17:31:48.746Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreidmubxmgxkxao5hdq6o3477pslwomqopzfvs3dsmmdyuo7mf4ggye",
+    "color": "#f8f8f8",
+    "hash": "aab2a6ccdcd22aab",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n2r25q6omc2n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n2r25q6omc2n",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 20: Hexagons Where we work and where we live This is a map of the geography of employment and housing across the Twin Cities metro. I wish I could take credit for these cool he…",
+    "postedAt": "2026-11-20T16:49:34.359Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreifcdbxxyc3dc4onokfxqvdmnmrjl4pw7kdtnyiltuyoi6armkwtoy",
+    "color": "#f8f8f8",
+    "hash": "6d8ccc8c8c8cdc1c",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:4bjkgoxyomscsc5ymeeio5dh/app.bsky.feed.post/3n2qzkez6f22q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cartoart.bsky.social/post/3n2qzkez6f22q",
+    "author": {
+      "name": "Carto Art",
+      "handle": "@cartoart.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreidpuxdz4b2fnodp5hqkf5h2jwl66ebk2fkjw2qmwsmn3m3o5zwkfe"
+    },
+    "text": "Day 20: Hexagons. No hex grid needed: Grammichele, Sicily, was built as one. After the 1693 earthquake destroyed Occhiolà, its new town was laid out in rings of hexagons around a six-sided piazza. #3…",
+    "postedAt": "2026-11-20T16:38:45.141Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4bjkgoxyomscsc5ymeeio5dh/bafkreif5o43ld55fzgknf66l4n24s7dvpushm3teixow4g5cuwchfg7taq",
+    "color": "#e8d8c8",
+    "hash": "0461e8cec8ec7068",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n2qyll2jr22b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n2qyll2jr22b",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 20 of #30DayMapChallenge, Hexagons. Uppsala County as hexagons that shrink with the bike ride to the nearest train station, colored by how many trains leave it each day. Code: https://github.com/…",
+    "postedAt": "2026-11-20T16:21:29.281Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreiblbjt5vw6lnwthntyrvkeycfs6c3w2kecjd4jrdy3aaliikuwqz4",
+    "color": "#f8f8f8",
+    "hash": "a4e026f09090d8c4",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:jaexydvwvk4ihs6aj6tim5rc/app.bsky.feed.post/3n2qyfe7j3c2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tileflow.bsky.social/post/3n2qyfe7j3c2b",
+    "author": {
+      "name": "Tileflow",
+      "handle": "@tileflow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jaexydvwvk4ihs6aj6tim5rc/bafkreiafsygm2irx3nitjubvi7lyht6zah4kioc2nrmwhcj5idjsmt22fe"
+    },
+    "text": "It’s Day 20 of #30DayMapChallenge, and today’s theme is hexagons. We turned 15,827 outdoor film and TV shoot records from Paris (2016–2025) 🎬 into an interactive 3D map. The map: maps.tileflow.dev/p…",
+    "postedAt": "2026-11-20T16:18:02.792Z",
+    "day": 20,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ajaexydvwvk4ihs6aj6tim5rc/bafkreigbinnldxlsm36hjk4el6w2dl6nr6oyycpqmpngskyp75bvsmkkcq/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "fdfb63cd999e72f1",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n2qxnkd55c2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n2qxnkd55c2u",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 20 — Hexagons 🌍 What kind of world can you build, one hexagon at a time? Mapbox map designer Jonathan Critchley created Hexagon World, an interactive sandbox where you can gro…",
+    "postedAt": "2026-11-20T16:04:42.443Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif6xooodaq7ihmghefxmxxkt6dfpvcsdpsr3iu646wbu5pmb74cuq",
+    "color": "#d8c8b8",
+    "hash": "24c8d8e8c4a48c9c",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n2qxneh2wt24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n2qxneh2wt24",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 20 · Hexagons. Switzerland as about a thousand hexagons, each coloured by the average height of the ground inside it: the plateau pale, the Alps dark. Data: elevation data, matplotlib. Made with…",
+    "postedAt": "2026-11-20T16:04:37.611Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreihu5djeewahmujrqxf3l4bedzi6pzttolggh72snyjpoasumvzguq",
+    "color": "#f8f8e8",
+    "hash": "003968f8e0637070",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117649616460792022"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117649616460792022"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:iwwm3zg3ebafkj7f7727rf34/app.bsky.feed.post/5kqx6o4fjlwzv",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/walkably.org/post/5kqx6o4fjlwzv",
+    "author": {
+      "name": "Walkably",
+      "handle": "@walkably.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iwwm3zg3ebafkj7f7727rf34/bafkreiagmb7lt33dhdwm5ryf74723yjjmuyamqpjabfacykjhhii7pbtke"
+    },
+    "text": "Day 20, Hexagons: a close view of the live Walkably map in Lisbon, Baixa and Chiado. Each cell is about 95 m across and has a score from 0 to 100. The colours are the map's score bands: dark navy is…",
+    "postedAt": "2026-11-20T15:30:14.000Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iwwm3zg3ebafkj7f7727rf34/bafkreicvj2jb5lssvnw3wi36tp65adhz2nnso5mvskslsou3wr2zipgq6q",
+    "color": "#389878",
+    "hash": "907159c1d8888898",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2qrmpvarn2i",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2qrmpvarn2i",
