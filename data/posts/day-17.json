@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:3y2dhveykpjyasfzyhbhve5f/app.bsky.feed.post/3n2pvsplzec2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jcolot.bsky.social/post/3n2pvsplzec2j",
+    "author": {
+      "name": "Julien Colot",
+      "handle": "@jcolot.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3y2dhveykpjyasfzyhbhve5f/bafkreic7ws2dz2x3ejq5hnf4gvgr2z5g3tyorliukuhmlueyommlmqrili"
+    },
+    "text": "Day 17 #30DayMapChallenge Light and dark. Second entry. Experimenting with hill shading around the solar terminator, on the GPU. Inspiration by @rreusser.bsky.social's notebook rreusser.github.io/not…",
+    "postedAt": "2026-11-20T05:59:09.981Z",
+    "day": 17,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3A3y2dhveykpjyasfzyhbhve5f/bafkreicj6rlsghiqrcd62v7ivbns5gzoq7dns5zgh662thf43eub2ab5y4/thumbnail.jpg",
+    "color": "#889898",
+    "hash": "7161612110909102",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:3y2dhveykpjyasfzyhbhve5f/app.bsky.feed.post/3n2onrzuta22z",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/jcolot.bsky.social/post/3n2onrzuta22z",

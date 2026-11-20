@@ -1,5 +1,122 @@
 [
   {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117646142272099280",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117646142272099280",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day19: Smell Pittsburgh is home to numerous coke plants, whose industrial processes generate sulfur as a byproduct. My map today compares complaints about sulfur odors reported in…",
+    "postedAt": "2026-11-20T01:21:08.960Z",
+    "day": 19,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/646/137/618/104/809/small/a81c9e38c540a0ff.png",
+    "color": "#e8d8d8",
+    "hash": "84d8e0e4f4ccd8c8",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n2peplvvf224",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n2peplvvf224",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 19 - SENSES: SMELL - WHEN LISBON SMELLED DEFINITELY BAD - An early 20th century city plan identifying places with negative connotations regarding public health, easily identifi…",
+    "postedAt": "2026-11-20T00:53:11.834Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreiagzmjttomvwonpwqam6ji63rmfatcu4cyf6bw2fjiz5hekrr76xu",
+    "color": "#f8f8f8",
+    "hash": "84cd898d0c0e4c01",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n2pekux4gc2x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n2pekux4gc2x",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 19: Smell #30DayMapChallenge November smells of jacarandas. Each dot is one of the 17,000+ jacarandas of Buenos Aires, at their peak bloom every November. Data: BA Data (city tree censuses) #arge…",
+    "postedAt": "2026-11-20T00:50:33.536Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreibsizrfmuonbd4me7sqiy35n6zv2cirno36uvpqn43repm5x6m4y4",
+    "color": "#f8f8f8",
+    "hash": "88e4e1d8b4d0e6a6",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:zv7loulup7yj5dymyb22gfm6/app.bsky.feed.post/3n2pdsx7hac2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/zachflanders.bsky.social/post/3n2pdsx7hac2b",
+    "author": {
+      "name": "Zach Flanders",
+      "handle": "@zachflanders.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zv7loulup7yj5dymyb22gfm6/bafkreiho5dpjhpzezu4wwelud5mxtzrtwosvdagssaxfpuyehetfgsbs3e"
+    },
+    "text": "When I biked to work in the aughts I knew I had left Johnson County when the smells started. First BBQ from Joe's at the county line, then Boulevard on SW BLVD, Finally the overwhelming smell of coff…",
+    "postedAt": "2026-11-20T00:37:10.595Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zv7loulup7yj5dymyb22gfm6/bafkreibcplm4xlp6vunq67m6gkxrbcg5u3ysxodksz7wva54xyyorq3woy",
+    "color": "#e8e8e8",
+    "hash": "f85071b1d2727273",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117645406959913403",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117645406959913403",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 19. Senses: Smell Smoke over Ukraine, Oct 2026: days a satellite saw heat in each 15 km hex. 7,871 detections, up to 24 of 31 days in one hex. Not confirmed strikes: field fires are included. #30…",
+    "postedAt": "2026-11-19T22:14:08.975Z",
+    "day": 19,
+    "image": "https://files.mastodon.social/media_attachments/files/117/645/405/793/539/799/small/3bb6c5947968fd12.png",
+    "color": "#c8c8c8",
+    "hash": "bcb4941e769e9895",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2p3uaqf7c2k"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2p3uaqf7c2k"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2owb5dccs2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2owb5dccs2v",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Today is World Toilet Day, an official UN international observance day to inspire action to tackle the global sanitation crisis. So here are 4 maps about public toilets in Cologne, 4 km around the Ca…",
+    "postedAt": "2026-11-19T20:34:34.397Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreifnmlzoo76dwnmmw6uqqb4ibf227voy5xyubxneqpevuda4h7ngsm",
+    "color": "#f8f8f8",
+    "hash": "8081fcb8d0e8e8e0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:nytjvigw5fzupdb32uzgrwqi/app.bsky.feed.post/3n2ovv7qlhb2w",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/tickerkarte.de/post/3n2ovv7qlhb2w",
@@ -59,6 +176,24 @@
     "image": "https://video.bsky.app/watch/did%3Aplc%3Am6ycobnhtarpiehfqpd4kszr/bafkreihv3wpcedt67q2o6l65ei6nijpsgj2t66fxmag5rwqqb6hyfqxydi/thumbnail.jpg",
     "color": "#181818",
     "hash": "d59e4c4dc69a9e88",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:v27j5yhbg656rknwasfsw53m/app.bsky.feed.post/3n2ossol5h22r",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tterence.bsky.social/post/3n2ossol5h22r",
+    "author": {
+      "name": "terence teo",
+      "handle": "@tterence.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreietjv7f7h5qcejg2t7s5scvfwc2js2uvfy4zb5em5hxpvwtu3i5we"
+    },
+    "text": "Day 19 · #30DayMapChallenge · Smell. Lavender on the Valensole plateau, Provence. I overlaid 1,259 declared parcels from France's 2025 farm register on shaded relief and tried to model where their sc…",
+    "postedAt": "2026-11-19T19:32:47.939Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreidgh6uij6cnxmc7mek3eg7m5n3rngxvyr3td7aqtvcqbcsprdnc4e",
+    "color": "#f8e8e8",
+    "hash": "a6e0e8fc88882aa4",
     "imageCount": 1,
     "source": "feed"
   },

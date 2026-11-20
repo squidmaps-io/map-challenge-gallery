@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:c2fljqlonure2526z5jqphas/app.bsky.feed.post/3n2pfp6oolk2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/aquilaflower.bsky.social/post/3n2pfp6oolk2v",
+    "author": {
+      "name": "Aquila Flower",
+      "handle": "@aquilaflower.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c2fljqlonure2526z5jqphas/bafkreihd2edducth2aip5xbuzq55oexvjzt4kntoxo2s33jdspeehry6pa"
+    },
+    "text": "The #30daymapchallenge day 18 prompt was \"Null\". GIS folks like to joke about the imaginary \"Null Island\" at 0° lat/long. But all coordinate systems have their own Null Island at 0,0! I mapped two fi…",
+    "postedAt": "2026-11-20T01:10:51.704Z",
+    "day": 18,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c2fljqlonure2526z5jqphas/bafkreiblvfpsvtul43skw2mzypg4bni5px6fng2kqoogdka3g7uirnurmi",
+    "color": "#98b8e8",
+    "hash": "c090c89488c0b0b0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2nxipbwjc2j",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2nxipbwjc2j",
@@ -14,6 +32,24 @@
     "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreieqrpvufirqg6i6z7khblzowdud3doqwzjo24chcwdojuo7in7ife/thumbnail.jpg",
     "color": "#e8e8e8",
     "hash": "333215e1291ad261",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:v27j5yhbg656rknwasfsw53m/app.bsky.feed.post/3n2mzeprlwk2m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tterence.bsky.social/post/3n2mzeprlwk2m",
+    "author": {
+      "name": "terence teo",
+      "handle": "@tterence.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreietjv7f7h5qcejg2t7s5scvfwc2js2uvfy4zb5em5hxpvwtu3i5we"
+    },
+    "text": "Day 18 · #30DayMapChallenge · NULL. Nobody lives here, to scale. I know zero ≠ NULL but I thought I'd find out the places in the US where there nobody lives. Turns out Nevada is 77% empty and Connect…",
+    "postedAt": "2026-11-19T02:24:56.153Z",
+    "day": 18,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreihvbchb2byp4tou4pb4gfk5at2645qied77ysetiananlj2cejglu",
+    "color": "#f8e8e8",
+    "hash": "82c9c6f2f4fdcc06",
     "imageCount": 1,
     "source": "feed"
   },
