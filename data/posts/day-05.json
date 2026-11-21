@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2s6tmspek22",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2s6tmspek22",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Nearly half the ground visible along Zion's Canyon Overlook Trail in this bare-earth model first appears in the last 15 m. Viewsheds every 5 m along a 770 m trail line. No trees or buildings. Day 5:…",
+    "postedAt": "2026-11-21T03:46:03.748Z",
+    "day": 5,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreighf3z5x6ltkuuhtemz6q3hbnt2k753ikvv3s5cobaspj4xcbrzxu",
+    "color": "#f8f8e8",
+    "hash": "80f0f0f0e0e684a5",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:v3ccakbboacdbklcue4qzyq5/app.bsky.feed.post/3n2enefqhfk25",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/nathan1904.bsky.social/post/3n2enefqhfk25",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2s7tgc7o22v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2s7tgc7o22v",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "W. H. Holmes drew this view of Zion in 1882. Below it, the same view from USGS lidar and a 10 m DEM. The ridgelines line up. His temples stand about a quarter taller. Day 6: Vintage. Plate scan via t…",
+    "postedAt": "2026-11-21T04:03:50.662Z",
+    "day": 6,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreig2zv5utzdbtab5sdougtc3e2cxlfomoahz52s3x7j6gywg23lqnu",
+    "color": "#f8e8e8",
+    "hash": "84c2b0a0c4b88082",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:v3ccakbboacdbklcue4qzyq5/app.bsky.feed.post/3n2heyrpzik26",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/nathan1904.bsky.social/post/3n2heyrpzik26",

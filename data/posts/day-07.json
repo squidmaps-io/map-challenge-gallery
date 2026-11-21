@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2s75t5jc22f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2s75t5jc22f",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 7: 10 minute map. 1.35 million Wasatch Front residents (55%) live a 10-minute walk from a bus or train stop. About 530,000 (21%) have one with service every 15 minutes or better at midday. ArcGIS…",
+    "postedAt": "2026-11-21T03:51:45.934Z",
+    "day": 7,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreicp5ujxqnqnjnehbs2pyxwm2lv6ikyj2cyel6ygtaytltzhm5gdfy",
+    "color": "#f8f8e8",
+    "hash": "90e0b0b4a4f6c6c1",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwjgqul2d",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwjgqul2d",

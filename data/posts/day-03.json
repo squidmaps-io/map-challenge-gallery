@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2s7r3jfe22v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2s7r3jfe22v",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 3: Polygons. On Oct 27, 21 of 75 western basins had land in extreme or exceptional drought. Severe drought or worse covered 47% of their land on Aug 4 and 23% on Oct 27. Utah's Jordan basin was s…",
+    "postedAt": "2026-11-21T04:02:32.255Z",
+    "day": 3,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreighk7nzn3w6f3zdyiohukw33dfz5ccroyrlor3f7m2uinu3dm2vzq",
+    "color": "#f8f8e8",
+    "hash": "8698b9989c3c189c",
+    "imageCount": 3,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwbvdbt2d",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwbvdbt2d",

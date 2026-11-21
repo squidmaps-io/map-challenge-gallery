@@ -1,5 +1,86 @@
 [
   {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n2rqjlorss2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3n2rqjlorss2g",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "Day 20 of #30DayMapChallenge: Hexagons 🐝 Inspired by the hexagons, I mapped bumblebees across North America through 2025, week by week. Each hexagon shows the share of iNaturalist sightings there th…",
+    "postedAt": "2026-11-20T23:29:54.655Z",
+    "day": 20,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreichesj5voulosyvciylplc33euwemgd5j67n3cnau47aaidnefpim/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "0d351b1b3e161e9a",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117651193486823200",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117651193486823200",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 20: Hexagons Dominant land cover in Ukraine on the H3 grid: res 7 cells under res 5 and res 2 outlines. Data: ESA WorldCover 2021 (10 m). Made with Python + QGIS. #30DayMapChallenge",
+    "postedAt": "2026-11-20T22:45:44.377Z",
+    "day": 20,
+    "image": "https://files.mastodon.social/media_attachments/files/117/651/192/646/174/927/small/c1f9c45541cccf91.jpg",
+    "color": "#f8f8f8",
+    "hash": "272198c624bca063",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2ro33t2h22y"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2ro33t2h22y"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n2rnneysljl2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n2rnneysljl2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day20: #Hexagons 🎲Polder Pioneers: the Netherlands as a hex board game. Every 10 km tile is dealt the resource that dominates its land in LGN2025: dairy (216 tiles), grain (126),…",
+    "postedAt": "2026-11-20T22:38:16.000Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreihvcjtfd56vms3a7pqn3n6joahtk2mgakhv6bp7bvougutkl4xuji",
+    "color": "#f8e8d8",
+    "hash": "8e19533064686c05",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:v3ccakbboacdbklcue4qzyq5/app.bsky.feed.post/3n2rmldtzt225",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/nathan1904.bsky.social/post/3n2rmldtzt225",
+    "author": {
+      "name": "nathan1904.bsky.social",
+      "handle": "@nathan1904.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v3ccakbboacdbklcue4qzyq5/bafkreif5twdj6xy4p2xnb2ympakenwnf6ytrj2yoqtx5k2ltvq4r2z2eva"
+    },
+    "text": "It generally rains more in the west of Ireland than the east. Day 20 · Hexagons, with Met Éireann data. #30DayMapChallenge nathanfranklin.github.io/30daymapchal...",
+    "postedAt": "2026-11-20T22:19:18.580Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v3ccakbboacdbklcue4qzyq5/bafkreiaeomxld6sy6c5c5miogpewiapalideexhjz54rxeop62efypdr5y",
+    "color": "#081828",
+    "hash": "4070726666664640",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2rc73cegc2q",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2rc73cegc2q",

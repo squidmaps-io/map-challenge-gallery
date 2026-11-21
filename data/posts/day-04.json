@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2s73g46o22f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2s73g46o22f",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 4: Clusters. Of 41,117 wildfire records inside Utah, 54% had natural causes, 1992–2024. The densest 10% of Utah held 46% of starts from natural causes and 60% of human-caused starts, each cause m…",
+    "postedAt": "2026-11-21T03:50:25.150Z",
+    "day": 4,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreiav3k6zq2tcu5ndkxwfyehrexfzqgbjvu7einea3johfhc5ptrwsm",
+    "color": "#f8f8f8",
+    "hash": "e09898eaaaeeca00",
+    "imageCount": 3,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwfrn2g2p",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwfrn2g2p",
