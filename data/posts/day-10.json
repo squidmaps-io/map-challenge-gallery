@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tm7jkm2k2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tm7jkm2k2h",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 10: Prompting. One brief, six models, a 30-minute cap, no follow-up from me. Elapsed times from 7 minutes to 28. Same 515 USGS earthquakes. Every posted number recomputed. One citation error in s…",
+    "postedAt": "2026-11-21T17:18:01.379Z",
+    "day": 10,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreifqparhdxbiiqod7irhhpmldfqlfmlnva4aidkklzzubdsagejyre",
+    "color": "#f8f8e8",
+    "hash": "36b2b230a4b2b264",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwuui5k27",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwuui5k27",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tmbn62jk2h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tmbn62jk2h",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "0 minutes of direct sun on the walk in to Zion's Subway. 68 of 138 on the walk out. That's a sun model on USGS 3 m terrain, laid over my GPS track from Thursday's hike. Day 17: Light and dark. #30Day…",
+    "postedAt": "2026-11-21T17:19:12.266Z",
+    "day": 17,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreidtraz6fionv5c5kfvqaetspn3ufycg2fxj6ruuu6vmo65kriexq4",
+    "color": "#181818",
+    "hash": "3153735371415959",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2qknhjvp52s",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2qknhjvp52s",

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3n2tqcjl52k2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3n2tqcjl52k2o",
+    "author": {
+      "name": "David Hood",
+      "handle": "@thoughtfulnz.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreieliyuwjyjz3b5rrvw2ljstcebxhlekrj4p3hl32tatqebcgtoibe"
+    },
+    "text": "Day 22 #30DayMapChallenge Projections. The genesis of this map was a month ago when somebody, in the enthusiasm for the adoption of equal earth projections, was putting longitude 0 centred equal eart…",
+    "postedAt": "2026-11-21T18:31:17.025Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c25e6vi7ojpyitmoi3xpuvpf/bafkreiazvk6u6zt3mjhevh2ov5xwqlzgbknmps4lup4snbatcucx3yolnq",
+    "color": "#f8f8f8",
+    "hash": "94c0a6aeacae0600",
+    "imageCount": 1,
+    "source": "feed"
+  }
+]

@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tmxpuue22p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tmxpuue22p",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "A megawatt of Utah solar covers 5.9 acres of panels. That's the middle value of 48 farms, each redrawn at one megawatt and one ground scale. Sun-tracking panels: 6.3 acres per MW Fixed panels: 4.8 Da…",
+    "postedAt": "2026-11-21T17:31:33.314Z",
+    "day": 12,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreic2vj34eppxhf25dzc7nrtbhjj6ozevdahqhccbve5kkmt3majpye",
+    "color": "#f8e8d8",
+    "hash": "0406042020000804",
+    "imageCount": 2,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvx6olcm2o",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvx6olcm2o",

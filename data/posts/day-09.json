@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tmsg3zrc2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tmsg3zrc2p",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 9: Urban-rural. In the 2020 Census, 89.8% of Utahns lived in 25 urban areas. They cover 1.1% of the land. Utah has the 7th-highest urban share of any state, per the Kem C. Gardner Policy Institut…",
+    "postedAt": "2026-11-21T17:28:35.294Z",
+    "day": 9,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreih3hvzufzpqsr3p6yhtshbpi62xw4lkefgyymdogakituthgi5l5i",
+    "color": "#e8e8d8",
+    "hash": "db9f9fd755935959",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwr5eoj2i",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwr5eoj2i",

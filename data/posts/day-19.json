@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tn6wnspk2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tn6wnspk2p",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 19: Smell. Climb through Utah's national parks and the air changes. Tamarisk flowers along the rivers at 4,640 ft. Ponderosa bark like vanilla at 7,090. Fir needles like citrus at 7,680. 12 plant…",
+    "postedAt": "2026-11-21T17:35:35.278Z",
+    "day": 19,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreibznfrjkcohxz6nvbbmqvrt4zdw47jysaapsabmgmto3unkeoafte",
+    "color": "#080828",
+    "hash": "c30f63a313132335",
+    "imageCount": 2,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2qtbsbids2m",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2qtbsbids2m",

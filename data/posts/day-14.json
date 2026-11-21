@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tn37sins2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tn37sins2p",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 14: Borgesian map. The Zion Narrows in USGS lidar, 51.5 million points as spheres in Blender. Steep walls let the background through in a hatch. A 1 m DEM sunk 8 ft (2.5 m) into the rock behind t…",
+    "postedAt": "2026-11-21T17:33:30.673Z",
+    "day": 14,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreidvyqztpszrektiqbnmgsmpl5xltmtt3sbyy7sjgynxj4b4ajsbcy",
+    "color": "#181818",
+    "hash": "4d2333333725c533",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvxgb2up27",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvxgb2up27",

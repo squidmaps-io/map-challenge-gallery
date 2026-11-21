@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tm3hy6j22h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tm3hy6j22h",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 1: Points. 388 reservoirs: combined storage 60.1% in May, 48.4% in September. 58 NRCS mountain stations in the Four Corners: October median 6.9 in; normal 2.2 in. Python, Matplotlib, over Esri's…",
+    "postedAt": "2026-11-21T17:15:45.507Z",
+    "day": 1,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreiabkqjet4jo4epzmg2fothc5vwthwsrnoifjja324myl35geff5ce",
+    "color": "#282828",
+    "hash": "3f0747171f070f0e",
+    "imageCount": 2,
+    "source": "feed"
+  },
+  {
     "id": "mastodon:https://en.osm.town/users/seav/statuses/117620978263737361",
     "platform": "mastodon",
     "url": "https://en.osm.town/@seav/117620978263737361",

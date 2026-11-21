@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tm5qa2y22h",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tm5qa2y22h",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 8: Utopia. Eight feet above its Nov. 3 level, at 4,198 ft, Great Salt Lake would regain 474 sq mi (+51%). That's the low end of the range the Strike Team calls healthy. Spiral Jetty would be unde…",
+    "postedAt": "2026-11-21T17:17:01.262Z",
+    "day": 8,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreifgyaguggnkuugo66otpvqcu3ebu7spxxm5jnivxk7w5jrpzki3km",
+    "color": "#f8f8e8",
+    "hash": "4642e1b8d8ca94b2",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n2lvwnf2w62o",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n2lvwnf2w62o",

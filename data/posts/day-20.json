@@ -1,5 +1,59 @@
 [
   {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tnapw2kc2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tnapw2kc2p",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "Day 20: Hexagons. Around American Fork and Lehi, cropland fell from 35% to 4%. Developed land in that hexagon went from 23% to 65%. Statewide, developed land grew 61%, 1,139 to 1,834 sq mi. Shrub hel…",
+    "postedAt": "2026-11-21T17:36:35.341Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreidefaow35ddti75tmrad5d5h4jfgvjjw4f2vnbw2xphgiimkd4tju",
+    "color": "#181818",
+    "hash": "9fbb97a75b5b4b24",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:7w3wakmrjzmb3bbygnh3ch5n/app.bsky.feed.post/3n2tja5vll22n",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/marialuiza-f.bsky.social/post/3n2tja5vll22n",
+    "author": {
+      "name": "marialuiza-f.bsky.social",
+      "handle": "@marialuiza-f.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7w3wakmrjzmb3bbygnh3ch5n/bafkreifvyjvuvbwtevvcp4wuvt52kobesaknibn6nzb7je23nqg4havca4"
+    },
+    "text": "#30daymapchallenge Day 20 Hexagons | Espírito Santo, Brazil @rbanism.bsky.social Mapping grazing areas across Espírito Santo, Brazil, using a hexagonal grid and GEOBASES land use and land cover data…",
+    "postedAt": "2026-11-21T16:24:41.479Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7w3wakmrjzmb3bbygnh3ch5n/bafkreif7cn5hygs3szyiziyjrquyuw7o6a535vb7uifxa2nn4qlywijudu",
+    "color": "#f8f8e8",
+    "hash": "80b0303478626099",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117655094049665838",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117655094049665838",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day20: Hexagons My post today explores CO₂ emissions. The highest concentrations of industrial facilities reporting annual CO₂ emissions are found in the Netherlands, the Ruhr area…",
+    "postedAt": "2026-11-21T15:17:42.279Z",
+    "day": 20,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/655/092/184/514/508/small/da70f050ee26c11c.png",
+    "color": "#282828",
+    "hash": "b624246cb4da4b16",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n2rqjlorss2g",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/simantel.org/post/3n2rqjlorss2g",
