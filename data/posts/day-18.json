@@ -1,5 +1,32 @@
 [
   {
+    "id": "bluesky:at://did:plc:vc37hx4tzbyb4h3akkkh7txm/app.bsky.feed.post/3n2t34fav6c23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/fotoshi.bsky.social/post/3n2t34fav6c23",
+    "author": {
+      "name": "Fotoshi",
+      "handle": "@fotoshi.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreiamnlfpcyx4shaua6bfazhade75kketrozzfks6o7st3yv34ngxmy"
+    },
+    "text": "Day 18: NULL. Central Trieste: 34 of 149 photographed places have a blank name field. An unnamed object isn't necessarily an error. Photos: strabo, CC BY 4.0. Map: OSM / OpenMapTiles. #30DayMapChalle…",
+    "postedAt": "2026-11-21T12:12:01.156Z",
+    "day": 18,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vc37hx4tzbyb4h3akkkh7txm/bafkreibefqchc2upsxi2gu43nchbtiwxdz6hgpzbe3i7bltppmkxfcstfi",
+    "color": "#081818",
+    "hash": "69758a84d3dcdc7c",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://en.osm.town/@fotoshi/117654363939349058"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://en.osm.town/ap/users/117333546549503722/statuses/117654363939349058"
+    ]
+  },
+  {
     "id": "bluesky:at://did:plc:c2fljqlonure2526z5jqphas/app.bsky.feed.post/3n2pfp6oolk2v",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/aquilaflower.bsky.social/post/3n2pfp6oolk2v",
@@ -32,24 +59,6 @@
     "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreieqrpvufirqg6i6z7khblzowdud3doqwzjo24chcwdojuo7in7ife/thumbnail.jpg",
     "color": "#e8e8e8",
     "hash": "333215e1291ad261",
-    "imageCount": 1,
-    "source": "feed"
-  },
-  {
-    "id": "bluesky:at://did:plc:v27j5yhbg656rknwasfsw53m/app.bsky.feed.post/3n2mzeprlwk2m",
-    "platform": "bluesky",
-    "url": "https://bsky.app/profile/tterence.bsky.social/post/3n2mzeprlwk2m",
-    "author": {
-      "name": "terence teo",
-      "handle": "@tterence.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreietjv7f7h5qcejg2t7s5scvfwc2js2uvfy4zb5em5hxpvwtu3i5we"
-    },
-    "text": "Day 18 · #30DayMapChallenge · NULL. Nobody lives here, to scale. I know zero ≠ NULL but I thought I'd find out the places in the US where there nobody lives. Turns out Nevada is 77% empty and Connect…",
-    "postedAt": "2026-11-19T02:24:56.153Z",
-    "day": 18,
-    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreihvbchb2byp4tou4pb4gfk5at2645qied77ysetiananlj2cejglu",
-    "color": "#f8e8e8",
-    "hash": "82c9c6f2f4fdcc06",
     "imageCount": 1,
     "source": "feed"
   },

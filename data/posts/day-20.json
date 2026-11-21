@@ -324,24 +324,6 @@
     "source": "feed"
   },
   {
-    "id": "bluesky:at://did:plc:v27j5yhbg656rknwasfsw53m/app.bsky.feed.post/3n2qppjtgyc2t",
-    "platform": "bluesky",
-    "url": "https://bsky.app/profile/tterence.bsky.social/post/3n2qppjtgyc2t",
-    "author": {
-      "name": "terence teo",
-      "handle": "@tterence.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreietjv7f7h5qcejg2t7s5scvfwc2js2uvfy4zb5em5hxpvwtu3i5we"
-    },
-    "text": "Day 20 · #30DayMapChallenge · Hexagons. Had a few ideas. Here's one of them. Is France l'Hexagone? Let's find out! I fitted the best regular hexagon to 157 countries and calculated the overlap. Turns…",
-    "postedAt": "2026-11-20T13:42:40.557Z",
-    "day": 20,
-    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreic2il56nie6ow2avyl4ejg4ihi6use7eebu3nyobdbzzspooju23a",
-    "color": "#f8f8f8",
-    "hash": "d8c2b2f0703286ec",
-    "imageCount": 1,
-    "source": "feed"
-  },
-  {
     "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2qpcsf6es2l",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2qpcsf6es2l",

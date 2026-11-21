@@ -198,24 +198,6 @@
     "source": "feed"
   },
   {
-    "id": "bluesky:at://did:plc:v27j5yhbg656rknwasfsw53m/app.bsky.feed.post/3n2ossol5h22r",
-    "platform": "bluesky",
-    "url": "https://bsky.app/profile/tterence.bsky.social/post/3n2ossol5h22r",
-    "author": {
-      "name": "terence teo",
-      "handle": "@tterence.bsky.social",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreietjv7f7h5qcejg2t7s5scvfwc2js2uvfy4zb5em5hxpvwtu3i5we"
-    },
-    "text": "Day 19 · #30DayMapChallenge · Smell. Lavender on the Valensole plateau, Provence. I overlaid 1,259 declared parcels from France's 2025 farm register on shaded relief and tried to model where their sc…",
-    "postedAt": "2026-11-19T19:32:47.939Z",
-    "day": 19,
-    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v27j5yhbg656rknwasfsw53m/bafkreidgh6uij6cnxmc7mek3eg7m5n3rngxvyr3td7aqtvcqbcsprdnc4e",
-    "color": "#f8e8e8",
-    "hash": "a6e0e8fc88882aa4",
-    "imageCount": 1,
-    "source": "feed"
-  },
-  {
     "id": "bluesky:at://did:plc:2nymwfhraoi6puox63ehc5a2/app.bsky.feed.post/3n2osqr7jj22c",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/timostler1.bsky.social/post/3n2osqr7jj22c",
