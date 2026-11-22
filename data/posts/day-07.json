@@ -192,24 +192,6 @@
     "hash": "6761f08669498e6d"
   },
   {
-    "id": "bluesky:at://did:plc:3ohqx57uxdaaezh35kfqmbmx/app.bsky.feed.post/3mzrvnxotunc2",
-    "platform": "bluesky",
-    "url": "https://bsky.app/profile/jakubzofcak.zpravobot.news.ap.brid.gy/post/3mzrvnxotunc2",
-    "author": {
-      "name": "Jakub Žofčák :bot:",
-      "handle": "@jakubzofcak.zpravobot.news.ap.brid.gy",
-      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ohqx57uxdaaezh35kfqmbmx/bafkreid2b4ilfoaxebb57bq74v4fd46llkupt5g22vwsmlc34runvaf2bu"
-    },
-    "text": "Jakub Žofčák 𝕏🔁 @iamjosepferrer@twitter.com: The EU's farthest point from the sea is near Trebišov, Slovakia #30DayMapChallenge Day 7: 10-minute map https://x.com/jakubzofcak/status/211933179782599…",
-    "postedAt": "2026-11-08T07:36:36.000Z",
-    "day": 7,
-    "color": "#f8e8e8",
-    "imageCount": 1,
-    "source": "feed",
-    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ohqx57uxdaaezh35kfqmbmx/bafkreiaji6nekquco7uya77cchbrggkqaxaspjqh3rgzt2dcfwzoax2uru",
-    "hash": "90c20c6167860c29"
-  },
-  {
     "id": "bluesky:at://did:plc:dgapizlhjlp6higoi5cngjs4/app.bsky.feed.post/3mzrmbdpglj2t",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/monroek.bsky.social/post/3mzrmbdpglj2t",
@@ -344,12 +326,6 @@
     "color": "#f8e8e8",
     "imageCount": 1,
     "source": "feed",
-    "alsoOn": [
-      {
-        "platform": "mastodon",
-        "url": "https://zpravobot.news/@JakubZofcak/117579670915447138"
-      }
-    ],
     "mergedIds": [
       "mastodon:https://zpravobot.news/users/JakubZofcak/statuses/117579670915447138"
     ],

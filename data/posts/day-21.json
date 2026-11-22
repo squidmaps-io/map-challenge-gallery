@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2varoau222x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2varoau222x",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 21/30 · OpenStreetMap 🥾 84 marked trails around Cluj-Napoca in the color painted on their rocks, on a 3D map in Three.js. Inspired by @ivabrunec.bsky.social. What would you add to th…",
+    "postedAt": "2026-11-22T08:58:44.864Z",
+    "day": 21,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreia52cfdp4piszsjotxvvgqqtgstxwtza2mo2be7tzentcaf6hbati/thumbnail.jpg",
+    "color": "#e8e8d8",
+    "hash": "909389c9c893d0a1",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117657127190932984",
     "platform": "mastodon",
     "url": "https://mastodon.social/@gontsa/117657127190932984",

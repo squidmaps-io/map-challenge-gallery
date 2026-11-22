@@ -1,5 +1,293 @@
 [
   {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2vslthmsv2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2vslthmsv2k",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 22 of #30DayMapChallenge · Projections The world from Groveland There's more behind it on the page. #projections #Groveland brooksgroves.com/30DayMapChallenge/2026/share/day-22.html",
+    "postedAt": "2026-11-22T14:17:36.327Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreigioz5w7fxrymfbiezimwypnc22exki7m5wtrrt3qdqriqz5gxk4q",
+    "color": "#f8f8e8",
+    "hash": "c0f268d8f0c44830",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2vqofsqls2g",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n2vqofsqls2g",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge Day 22 Projections | Latitudinal Neighbors A redo of my 2022 map of Madison and the cities that share its latitude, 43.0722°N. Only populated places over 10,000 people within 10 km…",
+    "postedAt": "2026-11-22T13:43:15.216Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreidaqqexs3j2y6hx27hz2i3l2g5httfvm2j3ssocgrzkgbw4sk4vnu",
+    "color": "#b8e8d8",
+    "hash": "793133331c340dd0",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n2vqofsqls2g"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n2vqofsqls2g"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3n2vpse53vc2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3n2vpse53vc2o",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "*Super El Niño 2026-27* The #ENSO system is challenging to teach. Different projections may help students to think more deeply about the spatial dimension. #GoGIS4GA 🙏Excellent earth.nullschool by @…",
+    "postedAt": "2026-11-22T13:27:33.938Z",
+    "day": 22,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreiakrlarfyml276r7t4kherjfoj2zglemduvy4gn5mvlrzvacppayq/thumbnail.jpg",
+    "color": "#080808",
+    "hash": "0c86968e8f8686cc",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n2vp2wsiew2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n2vp2wsiew2i",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 22 of #30DayMapChallenge, Projections. Lines 3, 6 and 9 on UL's bus map of Uppsala, laid over the streets they actually take. Code: github.com/gkaramanis/3... #RStats #dataviz #maps",
+    "postedAt": "2026-11-22T13:14:26.075Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreihido7ujhdxmhcuvzozgyaxytyjha2pkfvlh75swqru5kud4ubz7a",
+    "color": "#f8f8f8",
+    "hash": "e0e819f0b2a5c4c4",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117660262474434808",
+    "platform": "mastodon",
+    "url": "https://social.numerique.gouv.fr/@ignfrance/117660262474434808",
+    "author": {
+      "name": "IGN France",
+      "handle": "@ignfrance@social.numerique.gouv.fr",
+      "avatar": "https://social.numerique.gouv.fr/system/accounts/avatars/111/301/781/326/788/489/original/42776cc4c4c0d3c9.jpg"
+    },
+    "text": "Le tour du monde en... six projections 🌍 👀 Cette carte met en parallèle six tours du monde réalisés entre 1519 et 2026, en associant chaque itinéraire à une projection cartographique différente. En…",
+    "postedAt": "2026-11-22T13:12:06.137Z",
+    "day": 22,
+    "image": "https://social.numerique.gouv.fr/system/media_attachments/files/117/660/256/477/903/989/small/36cb8ea97fa69a8a.png",
+    "color": "#f8f8f8",
+    "hash": "03a48ccccccccce3",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/ignfrance.bsky.social/post/3n2vp3yjtjk2w"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:6j7dfu4urjderngdgf2nh7gw/app.bsky.feed.post/3n2vp3yjtjk2w"
+    ]
+  },
+  {
+    "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117660213877173774",
+    "platform": "mastodon",
+    "url": "https://framapiaf.org/@joelmariteau/117660213877173774",
+    "author": {
+      "name": "Joël Mariteau",
+      "handle": "@joelmariteau@framapiaf.org",
+      "avatar": "https://stockage.framapiaf.org/framapiaf/accounts/avatars/000/286/272/original/6b331889b0781db2.png"
+    },
+    "text": "#30DayMapChallenge @ Day 22 : Projections Atlantis. Réalisée sous l'application Graticule. https://www.sciencespo.fr/cartographie/fr/outils/graticule",
+    "postedAt": "2026-11-22T12:59:44.600Z",
+    "day": 22,
+    "image": "https://stockage.framapiaf.org/framapiaf/media_attachments/files/117/660/206/217/719/401/small/d08009ab1188dab0.jpg",
+    "color": "#f8f8f8",
+    "hash": "30e8e2a327b4f072",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n2vnrpwl322l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n2vnrpwl322l",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 22: Projections #LakeOntario Lake Ontario and projections",
+    "postedAt": "2026-11-22T12:51:25.268Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreifnkekhgtdvdta5yxp2qpqz5hrexpxvpn5vb7w43aphpygiauwphi",
+    "color": "#f8f8f8",
+    "hash": "aee3ab52c995bab2",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:qm7cpwn6wbrids6k4j3gjtug/app.bsky.feed.post/3n2vne4ey5c2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/daveatcogs.bsky.social/post/3n2vne4ey5c2u",
+    "author": {
+      "name": "Dave MacLean",
+      "handle": "@daveatcogs.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qm7cpwn6wbrids6k4j3gjtug/bafkreig7nyhwnr25q47tbks3okuamnhkszgejhaksyovdrwxgtlzsds54u"
+    },
+    "text": "On the topic of map #Projections for #30DayMapChallenge day 22, here's an app that features seven different ones, along with a few notes about each, allowing side-by-side comparisons. (Some astronaut…",
+    "postedAt": "2026-11-22T12:43:48.561Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qm7cpwn6wbrids6k4j3gjtug/bafkreihvfnmr2usrjjdrkyawwqhisdtuhzpfmwxxggtd5o2vr33yk2fo7i",
+    "color": "#282828",
+    "hash": "00ae1715393a7000",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n2vgjvyw2225",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n2vgjvyw2225",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Each of Cologne’s 86 districts mapped as a Dorling cartogram with bubbles sized proportionally to its population. Color indicates population density. #30DayMapChallenge Day 22 - Projections #ggplot2",
+    "postedAt": "2026-11-22T10:41:47.006Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreigeahtu27bjgbnr64g3o7ceu6fkv56hjnbx2kgktfgmfxk2znpybq",
+    "color": "#f8f8f8",
+    "hash": "80c0c4cc9cc868ba",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3n2vfvdkagr2t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3n2vfvdkagr2t",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 22: Projections Cinemas project, though we took today's theme to mean distortion. The 716 cinemas mapped in OpenStreetMap each sink the map by their screens. Our hearts are wit…",
+    "postedAt": "2026-11-22T10:30:01.566Z",
+    "day": 22,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreigykpsuac77hbjjsg2y6epefk5ugolrgns35g7kang7xnseu7rvoi/thumbnail.jpg",
+    "color": "#081818",
+    "hash": "7f7e0d0e171b1f35",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:dlvn6grvuvnif6nwqpdnprjw/app.bsky.feed.post/3n2vf5ys6ik2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapsmania.bsky.social/post/3n2vf5ys6ik2l",
+    "author": {
+      "name": "Maps Mania",
+      "handle": "@mapsmania.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlvn6grvuvnif6nwqpdnprjw/bafkreieb5rlcheecwzfiz42g5y6p4e4zfd7wofxbp45nqf5donwzma53cq"
+    },
+    "text": "#30DayMapChallenge - Day 22 Projections googlemapsmania.blogspot.com/2025/11/twee...",
+    "postedAt": "2026-11-22T10:17:13.537Z",
+    "day": 22,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Adlvn6grvuvnif6nwqpdnprjw/bafkreihggjp6i36blrcj6sxbodniqgkteobboseujpazbyv3y6tunsdydq/thumbnail.jpg",
+    "color": "#080818",
+    "hash": "7163232f95b5ab01",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3n2vdvceuo227",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3n2vdvceuo227",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 22: 'Projections'. Richard Edes Harrison drew the war as if from high above the globe, so Americans could see how close it really was. This is 'One World, One War', 1944. Right colours? Right per…",
+    "postedAt": "2026-11-22T09:54:27.855Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreig5ceztoqvy3yrpjco7w6t22sejnqtkvojnaofstckhgzsuwcch3i",
+    "color": "#b8c8c8",
+    "hash": "93d2627262623612",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n2vc4uczds2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n2vc4uczds2p",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 22 | Projections | #30DayMapChallenge | One Berlin, Three Projections. The conformal projection keeps Berlin's shape, the equidistant one keeps distances and the equal-area one keeps its size. Da…",
+    "postedAt": "2026-11-22T09:22:54.064Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidfpgexwklzhsvzidfrvwnt73qcicer25ehkbh7pofnd6icior7gy",
+    "color": "#081818",
+    "hash": "966968696d24db8e",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ml2g5dbzonolw3kanf2eiy4y/app.bsky.feed.post/3n2vajj76ns2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bioinformatician.bsky.social/post/3n2vajj76ns2l",
+    "author": {
+      "name": "Loukas Theodosiou",
+      "handle": "@bioinformatician.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ml2g5dbzonolw3kanf2eiy4y/bafkreicpt2g7cnz2q7m6rwmnu4goozeqeqmeplem73ah7xss5ar74ivmiu"
+    },
+    "text": "#Day22 #Projections of the #30DayMapChallenge: Thessaly (14,055 km²) is almost exactly the size of Montenegro or Northern Ireland. Each place is drawn in its own equal-area projection. On Google Maps…",
+    "postedAt": "2026-11-22T08:54:11.126Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ml2g5dbzonolw3kanf2eiy4y/bafkreicnfbbhpjlhe7wtx2jxnlp6slii4uk7qob5rvnkhg4kkiegaojezy",
+    "color": "#f8f8f8",
+    "hash": "809094d4d4d4d4c4",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n2v7opppipq2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n2v7opppipq2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 22: Projections 📐 The Perfect Circle: RD New, the Dutch national grid, is a stereographic projection centred on a church tower in Amersfoort. Its scale factor of 0.9999079 shr…",
+    "postedAt": "2026-11-22T08:39:08.000Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreiap5jxlbcqdhrmfbvhcwvf3rnuddrmhinnxj455z7buxbisloebqi",
+    "color": "#f8f8e8",
+    "hash": "8370c492b2cc70b1",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117658414229181557",
     "platform": "mastodon",
     "url": "https://mastodon.social/@mierune/117658414229181557",
