@@ -1,5 +1,41 @@
 [
   {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n2w4mbufm224",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n2w4mbufm224",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 20: OPENSTREETMAP - MAIN STREETS AND ROADS IN LISBON - Main highways in Lisbon and some additional points of interest, drawn from the OpenStreetMap database. Tools: #JOSM, #QGI…",
+    "postedAt": "2026-11-22T17:16:48.867Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreidfbh6qtb2kutohnvyncmaytru3xrsoyd7tizrx5yah422flcpjdy",
+    "color": "#f8f8f8",
+    "hash": "632b7b6b73667e69",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n2w4kamacs24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n2w4kamacs24",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 20: HEXAGONS - WHERE PEOPLE STAY WHEN VISITING LISBON - They stay mostly downtown, according to a quick analysis of the distribution of hotels, hostels, guest-houses and short-…",
+    "postedAt": "2026-11-22T17:15:40.444Z",
+    "day": 20,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreigeork5slsyngb2diqke6eu3atwdmsdhea7hluqzsj7ppqgv3myb4",
+    "color": "#f8f8f8",
+    "hash": "2918b23232706063",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n2tnapw2kc2p",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n2tnapw2kc2p",

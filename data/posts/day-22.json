@@ -1,5 +1,176 @@
 [
   {
+    "id": "mastodon:https://mapstodon.space/users/stevefaeembra/statuses/117661471479134849",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@stevefaeembra/117661471479134849",
+    "author": {
+      "name": "stevefaeembra",
+      "handle": "@stevefaeembra@mapstodon.space",
+      "avatar": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/accounts/avatars/110/414/239/437/390/277/original/68da8b41760b308f.png"
+    },
+    "text": "day 22. Projections #30DayMapChallenge Spilhaus projection animation. Centred on Point Nemo in the South Pacific (furthest point from land on Earth) PROJ string is +proj=spilhaus +lat_0=-48.876667 +l…",
+    "postedAt": "2026-11-22T18:19:34.085Z",
+    "day": 22,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/661/469/231/595/915/small/eaa6f032dec903c1.png",
+    "color": "#080808",
+    "hash": "93931149551d0f0f",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n2w6fy7qls2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n2w6fy7qls2v",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 22: Projections #30DayMapChallenge The world in true distances from Buenos Aires. Just one of the infinite projections we can create with our world. The perimeter is a single point, makes sense w…",
+    "postedAt": "2026-11-22T17:49:04.912Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreibavhrocb5q7un54kjqzsyhyqq3biep5xxzavddy5qyu64riz3g64",
+    "color": "#f8f8f8",
+    "hash": "80a0d0d8e8c8f0e0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:sfiqnfwnh6nnqvn6rlrops7z/app.bsky.feed.post/3n2w64xljys2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/simantel.org/post/3n2w64xljys2w",
+    "author": {
+      "name": "Brad Simantel",
+      "handle": "@simantel.org",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sfiqnfwnh6nnqvn6rlrops7z/bafkreigzfxjsoufsrqupawrbt7uxlpc3cqlilckcm4qqwlntrle3i5qx7y"
+    },
+    "text": "#30DayMapChallenge Day 22: Projections 🌍 Always fun to play with projections! Each orange circle is 1,000 km across. On Mercator they get huge near the poles, on Equal Earth they keep their size but…",
+    "postedAt": "2026-11-22T17:44:02.263Z",
+    "day": 22,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Asfiqnfwnh6nnqvn6rlrops7z/bafkreicowfofxh62tvmp4u6som32vsasgbeyfbd44ryxeipipwgwvtzcxe/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "b0f0d0ced6d8e4f0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n2w5qtz5zk2z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n2w5qtz5zk2z",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 22 of #30DayMapChallenge: Projections. Web Mercator draws Canada's land 5.2 times its real size. The territories have 0.3% of Canadians but fill 66.7% of the map, and Nunavut, 2.1 times Ontario's…",
+    "postedAt": "2026-11-22T17:37:15.857Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreihuczo5keodinlcf64z3q5i723bjv6l7sb5zexmtbpzljlv7ltf6a",
+    "color": "#080808",
+    "hash": "a725898d151f97c6",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n2w4u64bfs2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n2w4u64bfs2e",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 22: Projections The Twin Cities’ Latitudinal and Longitudinal Neighbors Working on an atlas of the Twin Cities did not provide many opportunities to play around with projection…",
+    "postedAt": "2026-11-22T17:21:13.259Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreidgsx5ytndjnwb2bcjyly23w5mf6aayozxk7uoubrxeotgpv4tmoq",
+    "color": "#f8f8f8",
+    "hash": "c6cee6ac8cccc8c8",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n2w25j33ks24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n2w25j33ks24",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 22/30 · Projections 📐 Twelve flat maps and a globe, then down to Cluj-Napoca, which the web map draws 2.13 times too big in area. A 3D map story in MapLibre. Inspired by @ocks.org. W…",
+    "postedAt": "2026-11-22T16:32:45.630Z",
+    "day": 22,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreie3ehkcxhhrpiknyeptfzwc6kakajjhdx3f5dhe2kupwprdfbunlu/thumbnail.jpg",
+    "color": "#e8e8e8",
+    "hash": "889032206032300d",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n2vyhpkeyu2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n2vyhpkeyu2e",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 22 — Projections The map projection you choose can change how people interpret election results? 🗳️ Mercator, the default for most web maps, stretches areas farther from the e…",
+    "postedAt": "2026-11-22T16:02:38.508Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreiffidkdhca3x4daiox6oj2semthlacztkdte6c33azafh5korqisu",
+    "color": "#f8f8f8",
+    "hash": "590da5c5652d1d5d",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n2vyee57pr2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n2vyee57pr2b",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 22 · Projections. Alaska in Mercator, the projection most web maps use: it stretches land the farther it lies from the equator, so Alaska looks far bigger than it is. Data: public elevation data.…",
+    "postedAt": "2026-11-22T16:00:47.715Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreifvolzdwteyjo5wbdavtjeiitqsappqgcaf24233whtnrwat7c5ju",
+    "color": "#081828",
+    "hash": "300c0c0e0a0c0000",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117660925944103992"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117660925944103992"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n2vtwmci4s25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n2vtwmci4s25",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 326 of #365DaysOfMaps. November 22nd is Lebanon Independence Day. #30DayMapChallenge day 22 tie-in: projections. What Projection is Lebanon in Today (326/365) mapdesign.icaci.org/2026/11/happ...",
+    "postedAt": "2026-11-22T14:41:31.672Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreicvk6zs6dg7sgpnyrgswojc5hqh7zyup2uvoubofuxherdkq3jmuu",
+    "color": "#f8f8f8",
+    "hash": "7054131757331721",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n2vslthmsv2k",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n2vslthmsv2k",
