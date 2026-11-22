@@ -1,5 +1,86 @@
 [
   {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117657127190932984",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117657127190932984",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 21. OSM The edit war over borders: 18 years of history of lines shared by Ukraine's and russia's boundary relations. 52 reverts in Nov 2018 alone, around the DWG's decision on Crimea. Yearly peak…",
+    "postedAt": "2026-11-21T23:54:45.517Z",
+    "day": 21,
+    "image": "https://files.mastodon.social/media_attachments/files/117/657/126/525/252/948/small/b61f16970827cef5.png",
+    "color": "#582848",
+    "hash": "014f6f717c6b69b8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2ucfesn2c2h"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2ucfesn2c2h"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:jaexydvwvk4ihs6aj6tim5rc/app.bsky.feed.post/3n2ubcthk2c2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tileflow.bsky.social/post/3n2ubcthk2c2y",
+    "author": {
+      "name": "Tileflow",
+      "handle": "@tileflow.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jaexydvwvk4ihs6aj6tim5rc/bafkreiafsygm2irx3nitjubvi7lyht6zah4kioc2nrmwhcj5idjsmt22fe"
+    },
+    "text": "Day 21 of #30DayMapChallenge · OpenStreetMap Here’s what we’ve been making in Tileflow with data from the OpenStreetMap community. We just opened the Tileflow beta to everyone. If you’ve got a map in…",
+    "postedAt": "2026-11-21T23:35:41.013Z",
+    "day": 21,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ajaexydvwvk4ihs6aj6tim5rc/bafkreidc7m2hnglu4hvbvzf2adoam6mqjsyolyjroax5qqtxes74txpota/thumbnail.jpg",
+    "color": "#283858",
+    "hash": "180890155d4665a5",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117656823699900948",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117656823699900948",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day21: OpenStreetMap I can't remember a MapChallenge without an #OSM day! I'm using this one for a follow-up to Day 18: NULL. Back then, I created a map showing buildings with miss…",
+    "postedAt": "2026-11-21T22:37:34.601Z",
+    "day": 21,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/656/782/882/033/946/small/b1cfd3df9a22ba26.png",
+    "color": "#e8d8d8",
+    "hash": "c089191919198490",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3n2tuyvufac2q",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3n2tuyvufac2q",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 21: the prompt is 'OpenStreetMap', the twist is WW2. Paris was declared an open city in June 1940, and by October its open streets were on tourist maps made for German soldiers on leave – somehow…",
+    "postedAt": "2026-11-21T19:55:23.084Z",
+    "day": 21,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreiah4g3sohaqxg3go7fnqw2mgvdskmr6mxsava2c3n5xzf4u3m35m4",
+    "color": "#d8d8c8",
+    "hash": "19317161f171696b",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:ml2g5dbzonolw3kanf2eiy4y/app.bsky.feed.post/3n2tnug4jp22t",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/bioinformatician.bsky.social/post/3n2tnug4jp22t",

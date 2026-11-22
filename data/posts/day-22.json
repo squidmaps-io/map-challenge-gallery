@@ -1,5 +1,50 @@
 [
   {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117658414229181557",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117658414229181557",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 22- Projections Solar Eclipse Projection 🌘 Every solar eclipse from 1901 to 2100 on one map. Find the past and next ones near you. https://app.kumoy.io/public/map/8b1e0ae0-389…",
+    "postedAt": "2026-11-22T05:22:04.156Z",
+    "day": 22,
+    "image": "https://files.mastodon.social/media_attachments/files/117/658/414/088/648/851/small/52c8a2bf6846101a.png",
+    "color": "#e8e8e8",
+    "hash": "c8d5d3e7d6dae5f4",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3n2uuohinub2i"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n2uuohinub2i"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n2u7fcopok2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n2u7fcopok2i",
+    "author": {
+      "name": "Max Bo",
+      "handle": "@iwo-jima.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:brms6cjlibiwcwfhiyge6cmo/bafkreibmvgfxatlpw6mova7jxdfseavqhtpai65onqb6mkrenhbxthlemi"
+    },
+    "text": "Day 22 · Projections The Rhône, Gletsch to Lake Geneva, unrolled like the Turin Papyrus map (c. 1150 BC): 167 km of river on one straight strip, mountains folded down as a traveller sees them. True a…",
+    "postedAt": "2026-11-21T23:01:16.599Z",
+    "day": 22,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abrms6cjlibiwcwfhiyge6cmo/bafkreigc7yhcdbnd2saawvbmhffze54obggp5f73ho4smo2annq6rj443q/thumbnail.jpg",
+    "color": "#181818",
+    "hash": "1369cc4e4e390500",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:c25e6vi7ojpyitmoi3xpuvpf/app.bsky.feed.post/3n2tqcjl52k2o",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/thoughtfulnz.bsky.social/post/3n2tqcjl52k2o",
