@@ -1,5 +1,140 @@
 [
   {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117662556537442251",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117662556537442251",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 22. Projections #30DayMapChallenge Ukraine in six projections, with the same 70 km circles on the ground (Tissot indicatrices). Circle shape and size reveal angle and area distortion.",
+    "postedAt": "2026-11-22T22:55:30.787Z",
+    "day": 22,
+    "image": "https://files.mastodon.social/media_attachments/files/117/662/555/802/690/254/small/6e51a4582f8a04c6.png",
+    "color": "#384868",
+    "hash": "1e6d6ddb6949db64",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n2wpkglaxc2o"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n2wpkglaxc2o"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n2woffzarc24",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n2woffzarc24",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 22: PROJECTIONS - DYMAXION MAP PROJECTION - A 3D printed Dymaxion Map Projection, with positive extrusion for the continents and negative extrusion for the graticule. Tools: #I…",
+    "postedAt": "2026-11-22T22:35:05.692Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreid7oerifaqrfbagxjo4ewufjk6zi7r5tu3oxyitgb3v7sjtu5zl3q",
+    "color": "#f8f8f8",
+    "hash": "767476663a7aba1a",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117662248968509087",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117662248968509087",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day22: Projections Today's topic could certainly be used to illustrate how map projections influence our perception of the relative sizes of countries. Or we could simply choose a…",
+    "postedAt": "2026-11-22T21:37:17.631Z",
+    "day": 22,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/662/183/513/768/935/small/ae1425a8f3342561.png",
+    "color": "#283848",
+    "hash": "cc3333179e969222",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n2wk6nlrt226",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n2wk6nlrt226",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 22: Projections wouldn't theme a party around them... but couldn't do without them... storymaps.arcgis.com/stories/da17...",
+    "postedAt": "2026-11-22T21:19:43.795Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreibrg4ni3f4fx2dtdnem26megmrt2bgljatlcs5hem2qefznzchvpq",
+    "color": "#f8f8f8",
+    "hash": "e6aea8a830326878",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n2wiaya4pf2p",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3n2wiaya4pf2p",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "For day 22 of the #30DayMapChallenge, Kelsey Taylor has a tool to compare how the world looks in several projections at once. Pick one as your outline, layer others on top, and drag the map to re-cen…",
+    "postedAt": "2026-11-22T20:45:14.548Z",
+    "day": 22,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Afjgnfxgy6sz7erbxen4r6urr/bafkreihhx5y6qne5io2lxvrdtvqssbhzrs4gscutq74p2urdaze5y5ywwy/thumbnail.jpg",
+    "color": "#081818",
+    "hash": "770f0fb7b2d80d19",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3n2wiaya4pf2p"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n2wiaya4pf2p"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:m3t4x776mya3iyj5ksjaisir/app.bsky.feed.post/3n2wggvknw22d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/astrolabe-science.fr/post/3n2wggvknw22d",
+    "author": {
+      "name": "David ALBERTO",
+      "handle": "@astrolabe-science.fr",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m3t4x776mya3iyj5ksjaisir/bafkreigbe5zwe7b4av5p7ij4euvtp7oetbcbfxpmcbfbtf5jo2wbjuj544"
+    },
+    "text": "What is this strange projection for? Well, nothing but for my conical #sundial. Here's my one and only contribution for the #30dayMapChallenge Day 22: projections.",
+    "postedAt": "2026-11-22T20:12:45.583Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m3t4x776mya3iyj5ksjaisir/bafkreie65r72o4chtxzcb4rz7owwfnjkvc25n23wea42hvtp7fmswt2zke",
+    "color": "#f8f8f8",
+    "hash": "9386ce3eb0998935",
+    "imageCount": 3,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://social.sciences.re/@david_alberto/117661925107082033"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://social.sciences.re/users/david_alberto/statuses/117661925107082033"
+    ]
+  },
+  {
     "id": "mastodon:https://mapstodon.space/users/stevefaeembra/statuses/117661471479134849",
     "platform": "mastodon",
     "url": "https://mapstodon.space/@stevefaeembra/117661471479134849",
