@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:siffbzrxoxnvwpbab5dg7mfk/app.bsky.feed.post/3n2zb5mdjic2s",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/this-is-cris.bsky.social/post/3n2zb5mdjic2s",
+    "author": {
+      "name": "Cristina Poiata",
+      "handle": "@this-is-cris.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreidjaxtg57j3n7l3maerfjklpcvk3jaf3b3jylemicuzoxhcchyqva"
+    },
+    "text": "For day 22 of #30DayMapChallenge: Projections @zimrick.bsky.social couldn't decide so we're sharing two projections.",
+    "postedAt": "2026-11-23T23:16:04.444Z",
+    "day": 22,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:siffbzrxoxnvwpbab5dg7mfk/bafkreihku6maaeaynf7f6rbmz7oagbkizld4n4gwavgtbtpsbt3qrmjfse",
+    "color": "#c8c8c8",
+    "hash": "33d4cc6950f03313",
+    "imageCount": 2,
+    "source": "feed"
+  },
+  {
     "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117662556537442251",
     "platform": "mastodon",
     "url": "https://mastodon.social/@gontsa/117662556537442251",
