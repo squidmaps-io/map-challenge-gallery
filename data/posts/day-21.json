@@ -1,5 +1,32 @@
 [
   {
+    "id": "bluesky:at://did:plc:qqyfftwv2syc5liu7koaqs7w/app.bsky.feed.post/3n33jqmb2tk2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cafe-sin-fronteras.bsky.social/post/3n33jqmb2tk2l",
+    "author": {
+      "name": "cafe-sin-fronteras.bsky.social",
+      "handle": "@cafe-sin-fronteras.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qqyfftwv2syc5liu7koaqs7w/bafkreibivuomu7itwn55fjrkzhpttkr5uldlp56uavypyp4ismfa7azzx4"
+    },
+    "text": "Buenas madrugadas ☕️😊☕️ Hoy a las 19:00 🇲🇽 hablaré un poco de lo que he hecho, y sigo haciendo, a favor del conocimiento libre con mapeo. www.youtube.com/watch?v=IYpO... #OSM #OpenStreetMap #30Day…",
+    "postedAt": "2026-11-24T20:55:11.323Z",
+    "day": 21,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aqqyfftwv2syc5liu7koaqs7w/bafkreihjayytc3lsogjkjd5b7jwnlla4ecorp4mkdq7twxqyy4dsnr6jry/thumbnail.jpg",
+    "color": "#f8e8b8",
+    "hash": "33348c8dbaf26661",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@cafesinfronteras/117673415872559201"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/116123213274402949/statuses/117673415872559201"
+    ]
+  },
+  {
     "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n2z7appfy22w",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n2z7appfy22w",
