@@ -1,0 +1,29 @@
+[
+  {
+    "id": "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n32dzp6mb222",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mierune.bsky.social/post/3n32dzp6mb222",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bqt7wu5sr2o56exy33rso5oe/bafkreibqwlrwtfadco5j6jhkb3yneepik4ttuousyaxfq5nkfci3nhr6sm"
+    },
+    "text": "Looking for a new tool for Day 27 of #30DayMapChallenge? Try Kumoy! Bring your #QGIS map to the web in just a few clicks, and share it with anyone. It's free for small projects! kumoy.io/en",
+    "postedAt": "2026-11-24T09:40:13.993Z",
+    "day": 27,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Abqt7wu5sr2o56exy33rso5oe/bafkreidaokhir5dy7lputoo4sonxtgeux77y5oe4h6gqq2uhzy723olh2q/thumbnail.jpg",
+    "color": "#f8f8f8",
+    "hash": "5161614149696969",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@mierune/117670754431787062"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117670754431787062"
+    ]
+  }
+]

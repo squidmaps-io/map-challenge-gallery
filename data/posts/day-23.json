@@ -1,5 +1,73 @@
 [
   {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117668703948803541",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117668703948803541",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day23: Senses: Taste I decided to illustrate the historical spread of the potato over time and examine its current per capita consumption across the world. Distribution data was on…",
+    "postedAt": "2026-11-24T00:58:52.817Z",
+    "day": 23,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/668/686/543/302/093/small/9e8057180b8e09ee.png",
+    "color": "#b8d8d8",
+    "hash": "3073f3ccc7d89494",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://subdued.social/users/alan/statuses/117668529798717863",
+    "platform": "mastodon",
+    "url": "https://subdued.social/@alan/117668529798717863",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan@subdued.social",
+      "avatar": "https://cdn.masto.host/subduedsocial/accounts/avatars/109/627/641/688/002/194/original/d207c34bf0d79c35.jpeg"
+    },
+    "text": "For the #30DayMapChallenge Day 23: \"Senses: Taste\", I revisited an old project of mine, the #PopVsSoda Page. There were a lot of alternative map visualizations I've been wanting to add over the years…",
+    "postedAt": "2026-11-24T00:14:35.497Z",
+    "day": 23,
+    "image": "https://cdn.masto.host/subduedsocial/media_attachments/files/117/668/516/931/153/995/small/4d3b5d69ecfbb389.jpg",
+    "color": "#e8e8e8",
+    "hash": "d69e8a52746d79b1",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mappingmashups.net/post/3n2zf3vno3c2l"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3n2zeghirkxr2"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3n2zf3vno3c2l",
+      "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3n2zeghirkxr2"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n2ze7rdt222a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n2ze7rdt222a",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 23: Taste #30DayMapChallenge Minnajima, a 0.47 km² island off Okinawa, Japan, is nicknamed \"Croissant Island.\" One look at the coastline and you get it 🥐 Data: OpenStreetMap, Natural Earth #rsta…",
+    "postedAt": "2026-11-24T00:10:58.046Z",
+    "day": 23,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreif6vqt77jsygeazwper44v2mo3yisjb4xa74uhxzsswzq4hekletu",
+    "color": "#f8e8d8",
+    "hash": "f4e461d8dcf842ea",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3n2z54fsbvs2p",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3n2z54fsbvs2p",
