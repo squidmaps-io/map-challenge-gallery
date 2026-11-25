@@ -1,5 +1,50 @@
 [
   {
+    "id": "bluesky:at://did:plc:zv7loulup7yj5dymyb22gfm6/app.bsky.feed.post/3n33y3ebook25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/zachflanders.bsky.social/post/3n33y3ebook25",
+    "author": {
+      "name": "Zach Flanders",
+      "handle": "@zachflanders.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zv7loulup7yj5dymyb22gfm6/bafkreiho5dpjhpzezu4wwelud5mxtzrtwosvdagssaxfpuyehetfgsbs3e"
+    },
+    "text": "#30daymapchallenge Day 24 Network Watch the street network be revealed with 13 years of my running and biking routes. spatiallab.app/m/my-run-bik...",
+    "postedAt": "2026-11-25T01:11:44.442Z",
+    "day": 24,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zv7loulup7yj5dymyb22gfm6/bafkreicqnwlnfrhryaig6gn264rk5bolyme7pnrguh7d2hohjy73duwj3i",
+    "color": "#080808",
+    "hash": "020d0e4d0ccc0c5a",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117674103788887969",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117674103788887969",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 24. Network Rivers of Ukraine and neighbours: thousands of tributaries merging into a few great arteries. Line width and colour scaled by mean discharge. Data: HydroRIVERS. QGIS #30DayMapChallenge",
+    "postedAt": "2026-11-24T23:52:07.851Z",
+    "day": 24,
+    "image": "https://files.mastodon.social/media_attachments/files/117/674/102/629/705/638/small/c993dcd4c6c919b4.jpg",
+    "color": "#e8f8f8",
+    "hash": "bb35730e249a5818",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n33tnin2y22g"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n33tnin2y22g"
+    ]
+  },
+  {
     "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3n33mjptap22f",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3n33mjptap22f",

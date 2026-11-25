@@ -1,5 +1,41 @@
 [
   {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n33ybbkssk2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n33ybbkssk2j",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 23 - NETWORK - SUBNETTING THE 1882 LISBON SEWER NETWORK - The Lisbon sewer network in 1882, together with its 'subnets', that is, the network segments with different pipe cross…",
+    "postedAt": "2026-11-25T01:15:02.920Z",
+    "day": 23,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreiea67z7ofnulvfyz55u7bzvpwxmu6sfbuz4yw77ommivfrcatlg34",
+    "color": "#f8f8f8",
+    "hash": "26f8f082a0aaaeac",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n33s3j4kok2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n33s3j4kok2j",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 23 - SENSES: TASTE - CONTINENTAL PORTUGAL TASTE ATLAS - 1046 placenames in Continental Portugal split into seven different categories related to food and mapped over a DEM. Too…",
+    "postedAt": "2026-11-24T23:24:27.063Z",
+    "day": 23,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreigbqjm3kqx4kcsthbm5k2y3dbj47mlqai76dkcdzlkshpuz27tnoy",
+    "color": "#080808",
+    "hash": "53d3d3d2f4f5f5f5",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n33akd5eda26",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n33akd5eda26",
