@@ -240,24 +240,6 @@
     "hash": "0b4f161253b62333"
   },
   {
-    "id": "mastodon:https://mastodon.social/users/AtanasE/statuses/117593805750843664",
-    "platform": "mastodon",
-    "url": "https://mastodon.social/@AtanasE/117593805750843664",
-    "author": {
-      "name": "Atanas",
-      "handle": "@AtanasE@mastodon.social",
-      "avatar": "https://files.mastodon.social/accounts/avatars/109/246/517/786/497/710/original/bed56ae1f5569bc9.png"
-    },
-    "text": "I do not participate in the #30DayMapChallenge , but I could not resist Day 10 - Prompting Only So here's a map of New Jersey, prompted to look antique and artistic.",
-    "postedAt": "2026-11-10T19:31:17.011Z",
-    "day": 10,
-    "color": "#e8c898",
-    "imageCount": 1,
-    "source": "feed",
-    "image": "https://files.mastodon.social/media_attachments/files/117/593/805/058/809/591/small/ed04a5949a30211f.jpg",
-    "hash": "8669646773584d9d"
-  },
-  {
     "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3mzy35gambc26",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3mzy35gambc26",
