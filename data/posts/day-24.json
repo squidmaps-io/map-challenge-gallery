@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n35qw3bp2c2o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n35qw3bp2c2o",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Day 24/30 · Network 🚦 The traffic counts for the Florești road are not public, so I simulated the evening, car by car. At 5:04 p.m. the knots light up. 3D map story, MapLibre. Inspired by mrdoob. Wh…",
+    "postedAt": "2026-11-25T18:08:50.517Z",
+    "day": 24,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreigzvn7brof7heh6jkk3a5upap7wvqz5imv7hyru756d5vgldqquha/thumbnail.jpg",
+    "color": "#080818",
+    "hash": "756e8a0e0c48594a",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:jaexydvwvk4ihs6aj6tim5rc/app.bsky.feed.post/3n35bhdnm522e",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/tileflow.bsky.social/post/3n35bhdnm522e",
