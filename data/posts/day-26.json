@@ -1,5 +1,383 @@
 [
   {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n3a55dl2m22m",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n3a55dl2m22m",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 26 of #30DayMapChallenge: Water. 597 river gauges, each coloured by how today's flow ranks against its own record for these days. 59% run below normal, 85% of Ontario's do, and 14 of the 15 highe…",
+    "postedAt": "2026-11-26T16:52:58.461Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreialy2rors5knvvikzokrsqvlt3c7mset55t3rd3egeknnzz24nrb4",
+    "color": "#080808",
+    "hash": "797a7b5b4b636646",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:m6ycobnhtarpiehfqpd4kszr/app.bsky.feed.post/3n3a2kjojl42o",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mapbox.com/post/3n3a2kjojl42o",
+    "author": {
+      "name": "Mapbox",
+      "handle": "@mapbox.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreif4tzf3tvlyksy2np2xly6b2oo2a5ck4oye2ushwc57tuyrmjthx4"
+    },
+    "text": "#30DayMapChallenge Day 26 — Water 🌊 Wander Maps helps you plan your next waterfront getaway to Captiva Island, Sanibel Island, or Cape Coral with detailed, destination-specific maps at hand.",
+    "postedAt": "2026-11-26T16:06:36.712Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m6ycobnhtarpiehfqpd4kszr/bafkreicdxaf7ea465kxb27vlrksxpkoxzduvzre6vpv772yq5ofoteyhsm",
+    "color": "#98c8c8",
+    "hash": "3c5b7e751c0e8c41",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n3a2hztdht25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n3a2hztdht25",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "On the Musselshell below Mosby, the mapped channel rides the sand bars. The first water surface sat up to about 12 ft (3.6 m) above the bed. Color is height above the river, from 0 to 30 ft and up. D…",
+    "postedAt": "2026-11-26T16:05:15.407Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreiarsqe7ndwyjq4ers67hnp3eedwojuhfomhpoggshkz7fyhsfj4hi",
+    "color": "#080808",
+    "hash": "0303414505cdcd0a",
+    "imageCount": 4,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n3a2auuini25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n3a2auuini25",
+    "author": {
+      "name": "relytworks.bsky.social",
+      "handle": "@relytworks.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreibuu4kbgfocogrvjxn4wjyqidazpwejcdrolqnlf4r56rxvn3wu2i"
+    },
+    "text": "Day 26 · Water. Every river in Brazil, ranked by size, and nothing else: the Amazon basin draws the country by itself. Data: HydroSHEDS v2. Made with Printed Canyon, which I run. #30DayMapChallenge",
+    "postedAt": "2026-11-26T16:01:15.920Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ep6w6k6vairntjcqdbpsfyzd/bafkreib6k57byq7p2y7nqn5ydn6hogjtju2w6vxnmgis2vnffwhnpfxjc4",
+    "color": "#081828",
+    "hash": "200c3e020c200c0c",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@relytworks/117683577010857348"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117536605118244544/statuses/117683577010857348"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:vmhueh6cb76rpiinadtuvmz3/app.bsky.feed.post/3n37zwapobs2k",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/chriswhong.bsky.social/post/3n37zwapobs2k",
+    "author": {
+      "name": "Chris Whong",
+      "handle": "@chriswhong.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreifpst7et3j72eobpykuzp5lzrbyl7juito7l3snds6web5kd3bdk4"
+    },
+    "text": "For the #30DayMapChallenge Day 26: Water, I updated my map of the East Coast Fall Line. The fall line is the geographic boundary between the low-lying coast plain and the hilly piedmont, where rivers…",
+    "postedAt": "2026-11-26T15:55:19.370Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vmhueh6cb76rpiinadtuvmz3/bafkreiel7iufili7ao5v6oonazqmamf5tzberx4mayv2qb25yu4nmv5hxi",
+    "color": "#a8c8d8",
+    "hash": "36b63672e6e4d978",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://fosstodon.org/users/wnd/statuses/117683470969060467",
+    "platform": "mastodon",
+    "url": "https://fosstodon.org/@wnd/117683470969060467",
+    "author": {
+      "name": "Will Deakin",
+      "handle": "@wnd@fosstodon.org",
+      "avatar": "https://cdn.fosstodon.org/accounts/avatars/109/591/276/523/700/400/original/14496ab189284233.jpg"
+    },
+    "text": "As the twenty sixth #30MapsInAMonth the topic is #water, here is an animation showing June 2025 to 2026 global surface-water plankton-density using @CopernicusEU Marine service (https://marine.copern…",
+    "postedAt": "2026-11-26T15:34:19.663Z",
+    "day": 26,
+    "image": "https://cdn.fosstodon.org/media_attachments/files/117/683/467/525/774/436/small/b9175e16b874cc4c.png",
+    "color": "#f8f8f8",
+    "hash": "003632e2b9939300",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:rnmpt77vf3pxrd4zb57nwkga/app.bsky.feed.post/3n37x3r7sy22t",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jakesteinberg.com/post/3n37x3r7sy22t",
+    "author": {
+      "name": "Jake Steinberg",
+      "handle": "@jakesteinberg.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreiboo3xcjayuodqokqbe2kldmufua4zbiywvufl7gjflby7hx4pn6q"
+    },
+    "text": "#30DayMapChallenge Day 26: Water Watersheds of the Twin Cities",
+    "postedAt": "2026-11-26T15:04:43.184Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rnmpt77vf3pxrd4zb57nwkga/bafkreidw6qmuftsi347xketmjayarbf4ywqoxylhv6skwxassiiaryzapm",
+    "color": "#e8c888",
+    "hash": "b3b1958e8c4cf6a2",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n37uwf3uq22z",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n37uwf3uq22z",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 330 of #365DaysOfMaps. November 26th is Good Grief Day. Time for an homage to Charles M. Schulz. #30DayMapChallenge day 26 tie-in: water. Good Grief (330/365) mapdesign.icaci.org/2026/11/good...",
+    "postedAt": "2026-11-26T14:25:55.249Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidh5j3zoshnkevct3xniqauvatcnfek4bin4qjlevmvfzbysl2iwq",
+    "color": "#f8e8d8",
+    "hash": "a5a494a4d8989a8a",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:i5gdtucpzg75nul2kuk5uefq/app.bsky.feed.post/3n37uhkv5yr2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/bdgroves.bsky.social/post/3n37uhkv5yr2u",
+    "author": {
+      "name": "Brooks Groves",
+      "handle": "@bdgroves.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreici2sqmt232tknaa2sf5ermc4twdoi2ahtyu3yhjwc5b6aabzyf3m"
+    },
+    "text": "Day 26 of #30DayMapChallenge · Water Lake Tahoe, clear and deep There's more behind it on the page. #LakeTahoe #water brooksgroves.com/30DayMapChallenge/2026/share/day-26.html",
+    "postedAt": "2026-11-26T14:17:37.964Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i5gdtucpzg75nul2kuk5uefq/bafkreie2oxpxlw3mzjl2zu6n2ymhfqvdqi5omiuuxvhcqavh3rcitys4ka",
+    "color": "#f8f8e8",
+    "hash": "b09076e6e6e4e08a",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n37t54xwy22x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/latlong.shop/post/3n37t54xwy22x",
+    "author": {
+      "name": "Stephen Kennedy",
+      "handle": "@latlong.shop",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreifpi5oofwzwk27rdffnkvs2gqcck3hdh2majtfrsmfrjnhelrd64i"
+    },
+    "text": "#30daymapchallenge Day 26 Water | Watersheds One last teaser from my book this month! This map shows the 21 sub-basins whose snowmelt and rain feed the Yahara River and its chain of lakes.",
+    "postedAt": "2026-11-26T13:53:54.130Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y2tlozu7i2chvfwmkrlnqp4i/bafkreihofanbt42wvpjguw2g3fkh4cczed62eya5ij76lnvypc74ubmzai",
+    "color": "#f8e8c8",
+    "hash": "70b0e0e2f1e97272",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:y2tlozu7i2chvfwmkrlnqp4i/post/3n37t54xwy22x"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:y2tlozu7i2chvfwmkrlnqp4i/app.bsky.feed.post/3n37t54xwy22x"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:s5sz3q5ffbgcdymwohle4tmf/app.bsky.feed.post/3n37rw563lh2b",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/karaman.is/post/3n37rw563lh2b",
+    "author": {
+      "name": "Georgios Karamanis",
+      "handle": "@karaman.is",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreid4ne4tuljzxtiyjft6swcrukayfhu6gi3xca6m2atnukb2w7mgiu"
+    },
+    "text": "Day 26 of #30DayMapChallenge, Water. Uppsala's streets under deep water if Fyrisån floods. A once in 100 years flood would cover 1.5 km of them, a once in 10,000 years flood 15 km. Code: github.com/g…",
+    "postedAt": "2026-11-26T13:32:03.442Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5sz3q5ffbgcdymwohle4tmf/bafkreicprdtj7kyomhaeenpfkonjnxb7tbtm3owklukcd5sybgkho2pwmy",
+    "color": "#e8e8e8",
+    "hash": "e8b681f2b0dcd45a",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:tkdpike4cdijsneixhgd3gik/app.bsky.feed.post/3n37ra5j6422x",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cambiumai.bsky.social/post/3n37ra5j6422x",
+    "author": {
+      "name": "Cambium AI",
+      "handle": "@cambiumai.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkdpike4cdijsneixhgd3gik/bafkreieor4icsmfkklyrjop7fhqgkn7sh3gb46ogmzzgns65v2nthhjfia"
+    },
+    "text": "Day 26 of #30DayMapChallenge: Water. How much of Boston would a hurricane flood? These four maps show Category 1 to Category 4 storm surges. The color is the depth of the water above the ground, from…",
+    "postedAt": "2026-11-26T13:19:47.874Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tkdpike4cdijsneixhgd3gik/bafkreicijtlgtwseaywpgic27moxayda5dxc34s7qbofkzflho3l4j4ivu",
+    "color": "#b8b8b8",
+    "hash": "c2632bb16161d151",
+    "imageCount": 4,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:hude6fqrrt6tmpcj2t4qjqxo/app.bsky.feed.post/3n37qyrq4p22l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/douggreenfield.bsky.social/post/3n37qyrq4p22l",
+    "author": {
+      "name": "Doug Greenfield",
+      "handle": "@douggreenfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreia7cv6tdyxu3bsgzfh3mickq27b2ch2lhdyrfctfx43boe6mdmdtu"
+    },
+    "text": "#30DayMapChallenge Day 26: Water #LakeOntario Lake Ontario using a photo of waves on the lake I took yesterday. Topo map by Stamen",
+    "postedAt": "2026-11-26T13:15:40.643Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hude6fqrrt6tmpcj2t4qjqxo/bafkreiffirswp2lg2w65ksxc32dxz7jrixnuduqfzpbn4e2on6koxfjzp4",
+    "color": "#889878",
+    "hash": "b4b176fcdcc69ada",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://social.numerique.gouv.fr/users/ignfrance/statuses/117682401002430057",
+    "platform": "mastodon",
+    "url": "https://social.numerique.gouv.fr/@ignfrance/117682401002430057",
+    "author": {
+      "name": "IGN France",
+      "handle": "@ignfrance@social.numerique.gouv.fr",
+      "avatar": "https://social.numerique.gouv.fr/system/accounts/avatars/111/301/781/326/788/489/original/42776cc4c4c0d3c9.jpg"
+    },
+    "text": "🦫 Cette carte retrace la géographie des réintroductions du castor d'Europe, qui modifie son environnement pour l’adapter à ses besoins ! https://www.ign.fr/mag/30-daymapchallenge-2026 #30DAYMAPCHALL…",
+    "postedAt": "2026-11-26T11:02:13.266Z",
+    "day": 26,
+    "image": "https://social.numerique.gouv.fr/system/media_attachments/files/117/682/394/983/902/271/small/466856597c96393a.png",
+    "color": "#b8e8d8",
+    "hash": "e68e16329c9c9dc5",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:432cbxpbyzrkhv6pzaxsxoj2/app.bsky.feed.post/3n37irphruk2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/dataviz.ar/post/3n37irphruk2f",
+    "author": {
+      "name": "Franco Guiragossian",
+      "handle": "@dataviz.ar",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreieohzzdxtpg4t7u7vdih5xddpvp4b4oi3gc65jbon46l3mpqm7nmq"
+    },
+    "text": "Day 26: Water #30DayMapChallenge 160k+ rivers and streams from five countries end up in the Río de la Plata at Buenos Aires. At its peak, its flow is ~23 million liters per second! River Plate Club i…",
+    "postedAt": "2026-11-26T10:48:33.439Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:432cbxpbyzrkhv6pzaxsxoj2/bafkreigs3ouk5c36nq5grr3te23mw5t5msnan3w3otfkxapdz6zj2agrxa",
+    "color": "#f8f8f8",
+    "hash": "c8f4e4e8f06064b0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:z4koboqgdvlm7gwola6ltkaf/app.bsky.feed.post/3n37hqwh4yi2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kerbsight.co.uk/post/3n37hqwh4yi2j",
+    "author": {
+      "name": "Kerbsight",
+      "handle": "@kerbsight.co.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4koboqgdvlm7gwola6ltkaf/bafkreianh4i2y7gzm4mdusjemjszmpxkv7e7afflppg6xklocxmi7b3hfq"
+    },
+    "text": "#30DayMapChallenge Day 26: Water Every river in England and Wales, timed so they all reach the sea at the same moment. The Severn, 359 km from its farthest source, sets off first. Each stream sets of…",
+    "postedAt": "2026-11-26T10:30:01.478Z",
+    "day": 26,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Az4koboqgdvlm7gwola6ltkaf/bafkreiaj4zwo4hl5nay4yygkxr7rj42xhr67ygkm2tyfyzq34mgz4hvhci/thumbnail.jpg",
+    "color": "#081818",
+    "hash": "735b801000000049",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ldx3ttdm4rpjg7neox6k3baa/app.bsky.feed.post/3n37h65eay22e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/glosrecords.bsky.social/post/3n37h65eay22e",
+    "author": {
+      "name": "Gloucestershire Centre for Environmental Records",
+      "handle": "@glosrecords.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifjr4gcw7msd24kvvfkfwsmmmsa5hqh5urtzhnhc6za2g6sbbn7te"
+    },
+    "text": "#30DayMapChallenge Day 26: Water We want more wet woodland! Click to download a pdf wetland/woodland opportunities map, part of Gloucestershire's Nature Recovery Network www.gcer.co.uk/img/30DMC_da...",
+    "postedAt": "2026-11-26T10:19:43.181Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldx3ttdm4rpjg7neox6k3baa/bafkreifbjmt2vys7cyu2zi2pcjp5ufgxau63d3mvh3vupoznruheyxbpr4",
+    "color": "#c8b8a8",
+    "hash": "6be9212995697878",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mastodon.social/ap/users/117437970239169451/statuses/117682070737196319",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@mierune/117682070737196319",
+    "author": {
+      "name": "MIERUNE Inc.",
+      "handle": "@mierune@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/117/437/970/239/169/451/original/18a8b24e1c29c41c.png"
+    },
+    "text": "#30DayMapChallenge Day 26 - Water Blue Mars 🌊🔴 An attempt to bring water back to Mars. Sea levels, lakes and rivers are subjective estimates. https://app.kumoy.io/public/map/3738509f-d1e5-49d5-9042…",
+    "postedAt": "2026-11-26T09:38:13.833Z",
+    "day": 26,
+    "image": "https://files.mastodon.social/media_attachments/files/117/682/070/196/005/956/small/0a1211557bc252b4.png",
+    "color": "#e8e8e8",
+    "hash": "d2dbdbdbd3d2d2c8",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/mierune.bsky.social/post/3n37eubvs2g2v"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:bqt7wu5sr2o56exy33rso5oe/app.bsky.feed.post/3n37eubvs2g2v"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:nytjvigw5fzupdb32uzgrwqi/app.bsky.feed.post/3n37bpj6pox2i",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tickerkarte.de/post/3n37bpj6pox2i",
+    "author": {
+      "name": "tickerkarte.de",
+      "handle": "@tickerkarte.de",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nytjvigw5fzupdb32uzgrwqi/bafkreiglun2wu6z5tgpfou7ky3sigswqr7onvsdaxpwoen45gdta7ersiq"
+    },
+    "text": "#30DayMapChallenge Day 26, Water: what German police reported from rivers, lakes and the coast in one year. 42 times boats or ships, with a dozen skippers on alcohol or drugs. 24 stolen boats or moto…",
+    "postedAt": "2026-11-26T08:42:03.138Z",
+    "day": 26,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Anytjvigw5fzupdb32uzgrwqi/bafkreibushgdxrxzsz6w6xnuv6e4sjmeh5chqbogxeboxtxgtmojmqfckq/thumbnail.jpg",
+    "color": "#c8c8c8",
+    "hash": "91c10e070e0f3943",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://mastodon.social/@tickerkarte/117681875752605692"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://mastodon.social/ap/users/117490470636616464/statuses/117681875752605692"
+    ]
+  },
+  {
     "id": "mastodon:https://framapiaf.org/users/joelmariteau/statuses/117681495120001693",
     "platform": "mastodon",
     "url": "https://framapiaf.org/@joelmariteau/117681495120001693",
