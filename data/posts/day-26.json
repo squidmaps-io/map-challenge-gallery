@@ -1,5 +1,149 @@
 [
   {
+    "id": "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3n3alj6d3uup2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3n3alj6d3uup2",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@alan.subdued.social.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q64d4j33gjd6zskjhkdcc4lz/bafkreiekdmrhyghykpuzchf4jydub3o6syt2cfoaf4bocvxt76zr3dceay"
+    },
+    "text": "For the #30DayMapChallenge Day 26: \"Water\", I have an homage to one of my favorite maps, David Garcia's \"100 Largest Islands of the World\". This version has all the islands in my neck of the woods, T…",
+    "postedAt": "2026-11-26T21:10:00.000Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q64d4j33gjd6zskjhkdcc4lz/bafkreial7xxp4ehdkqqszb7wz76p7ewig7yyxkhnymj2mdby4uz2qa6xlm",
+    "color": "#e8e8e8",
+    "hash": "dcf4f8d0e4e4e0c4",
+    "imageCount": 4,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/NordAufNordost/statuses/117684783373225836",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@NordAufNordost/117684783373225836",
+    "author": {
+      "name": "NordAufNordost",
+      "handle": "@NordAufNordost@mapstodon.space",
+      "avatar": "https://mapstodon.space/avatars/original/missing.png"
+    },
+    "text": "#30DayMapChallenge Day26:Water The comparison of NOAA OISST data for the period from 29. Oct to 25. Nov in 2025 and 2026 reveals an exceptionally strong positive shift in sea surface temperature anom…",
+    "postedAt": "2026-11-26T21:08:05.364Z",
+    "day": 26,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/684/770/480/367/583/small/da293efc99e361f7.png",
+    "color": "#f8f8f8",
+    "hash": "92ccf6f2ee9a98c4",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3n3akgzwx722v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mappingmashups.net/post/3n3akgzwx722v",
+    "author": {
+      "name": "Alan McConchie",
+      "handle": "@mappingmashups.net",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/bafkreifjfjut2fwr6ni7woujuo2yf4zdfwjazedfpy5apvfhzxciv3weau"
+    },
+    "text": "For the #30DayMapChallenge Day 26: Water, I have an homage to one of my favorite maps, David Garcia's 100 Largest Islands of the World. Mine has islands from my neck of the woods, The Salish Sea: map…",
+    "postedAt": "2026-11-26T20:51:02.549Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/bafkreifz4sq47jwidhjphktmnhgvvu4fvfypdilgqoizpt3kh7ahkayc4a",
+    "color": "#e8e8e8",
+    "hash": "dcf4f8d0e4e4e0c0",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "mastodon",
+        "url": "https://subdued.social/@alan/117684790919173859"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://subdued.social/users/alan/statuses/117684790919173859"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:q66r3vy7xepmx62ti4vt7uzb/app.bsky.feed.post/3n3agglxk422w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/wyman10.bsky.social/post/3n3agglxk422w",
+    "author": {
+      "name": "UofA Map/GIS Librarian",
+      "handle": "@wyman10.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreieugoc3tac53xrv77vkifppfgmetcjapc7dmvt5qexpel2otw7zom"
+    },
+    "text": "#30DayMapChallenge #Water Georgian Bay marine service facilities #map (1966). archive.org/details/Onta... The Map, once a guide for boaters to marine service facilities around #GeorgianBay (1966), no…",
+    "postedAt": "2026-11-26T19:39:12.934Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q66r3vy7xepmx62ti4vt7uzb/bafkreiddujifwc6qmvfzjunrzgcecwepjeahkbo3a6ov6ri3dk2aj556vu",
+    "color": "#585848",
+    "hash": "61e8d8a82bca948e",
+    "imageCount": 3,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:wyux57r3dnqpwshzf5xl5kii/app.bsky.feed.post/3n3afvrck4k2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/cyatteau.bsky.social/post/3n3afvrck4k2f",
+    "author": {
+      "name": "Courtney Yatteau",
+      "handle": "@cyatteau.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wyux57r3dnqpwshzf5xl5kii/bafkreifetoztii4oolvodo7hyut2ezrzhq3ew4ensz7prswivsdit4wlvi"
+    },
+    "text": "🗺️ Day 26/30 · Water | The Disappearing Sea Watch the Aral Sea shrink over 18 years using NASA satellite imagery from 2000 to 2018. ArcGIS Maps SDK for JS 5.2: The new `arcgis-time-bar` component. \ud83c…",
+    "postedAt": "2026-11-26T19:29:48.112Z",
+    "day": 26,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Awyux57r3dnqpwshzf5xl5kii/bafkreicd2mricnskuaeayojrb6apmccnyvscmbak33rvk6pv3fmxvcjsqu/thumbnail.jpg",
+    "color": "#081828",
+    "hash": "d0e3cbcbcb6b4895",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "mastodon:https://mapstodon.space/users/pinakographos/statuses/117684130007436098",
+    "platform": "mastodon",
+    "url": "https://mapstodon.space/@pinakographos/117684130007436098",
+    "author": {
+      "name": "Daniel P. Huffman",
+      "handle": "@pinakographos@mapstodon.space",
+      "avatar": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/accounts/avatars/110/780/925/063/634/209/original/31959f4e32684bc1.png"
+    },
+    "text": "#30DayMapChallenge day 26: Water. \"Continental divides\" separate watersheds based on what ocean/sea their rivers flow into. I made a map series showing these for each continent using the cyanotype pr…",
+    "postedAt": "2026-11-26T18:21:55.789Z",
+    "day": 26,
+    "image": "https://mapstodata.s3.eu-west-par.io.cloud.ovh.net/media_attachments/files/117/684/124/641/884/847/small/5228c40fe4842a7b.jpg",
+    "color": "#385888",
+    "hash": "43211b1f06cfa5fd",
+    "imageCount": 3,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/pinakographos.bsky.social/post/3n3ac4mv5xs2k"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:ll74arsj7wj4tq7qsxv7tun2/app.bsky.feed.post/3n3ac4mv5xs2k"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n3a6zzs6k22d",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n3a6zzs6k22d",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Two houses in the old town within walking distance lend their name to Eau de Cologne: Farina, the original, and 4711, its best-known rival. #30DayMapChallenge Day 26 - Water #ggplot2",
+    "postedAt": "2026-11-26T17:26:55.035Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreig2itdr4ym4lh3jw7tll5ynglzjhne7rpz22abgnjkfxjardiy4ia",
+    "color": "#f8f8f8",
+    "hash": "c2e48ecacc98e8c0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n3a55dl2m22m",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/mepa1363.com/post/3n3a55dl2m22m",
