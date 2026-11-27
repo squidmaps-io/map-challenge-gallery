@@ -1,5 +1,140 @@
 [
   {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n3d35qbwo22l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n3d35qbwo22l",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 27/30 · New tool 🌳 In Cluj-Napoca, 272.3 km of streets have almost no tree shade at noon. A 3D map story of the shade, hour by hour. Inspired by Volodymyr Agafonkin. Which street wou…",
+    "postedAt": "2026-11-27T20:55:23.537Z",
+    "day": 27,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreid4trzgpwwul2m3cnfpizxk5qpnstxddvj2zwyfj3ahukkukzyjta/thumbnail.jpg",
+    "color": "#e8e8d8",
+    "hash": "1848e7a691b8880d",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:bjm7fq6jgotowpim5ggfbzw6/app.bsky.feed.post/3n3czkhmvhk27",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/ansgarw.bsky.social/post/3n3czkhmvhk27",
+    "author": {
+      "name": "Ansgar Wolsing",
+      "handle": "@ansgarw.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreidt4ovnxs46le3sp5gaz233kvnfkchpskaac2tviv3feuwanqot7a"
+    },
+    "text": "Every map is a dog waste bag “dispensity” map? Experimenting with kepler.gl for this prompt, this map shows the locations and density of dog waste bag dispensers in Cologne. #30DayMapChallenge Day 27…",
+    "postedAt": "2026-11-27T20:26:43.168Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjm7fq6jgotowpim5ggfbzw6/bafkreihqtqjnjbdna77noavcvkgb2hkm2ogx6en4ocqsznpobe6ajfae6u",
+    "color": "#f8f8f8",
+    "hash": "a0d0c2b4b0e0d294",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ksubuwag725ajllqmo2ucrtg/app.bsky.feed.post/3n3czdom7xs2j",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kylewalker.bsky.social/post/3n3czdom7xs2j",
+    "author": {
+      "name": "Kyle Walker",
+      "handle": "@kylewalker.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ksubuwag725ajllqmo2ucrtg/bafkreid6qduqh4fipyjob5xiqxstjbtijz4rza3wu6cxez7lbjw2m2gun4"
+    },
+    "text": "This month's Map Challenge was a great opportunity to add new functionality to mapgl, my R package for mapping with Mapbox and MapLibre. For Day 27: A New Tool, today's #30DayMapChallenge entry summa…",
+    "postedAt": "2026-11-27T20:22:55.614Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ksubuwag725ajllqmo2ucrtg/bafkreib5j7veymdiyxxwxfky4ay6qeetwgm6ab3gtcztqsivtlwa2vl2gu",
+    "color": "#f8f8f8",
+    "hash": "8124b2f2302c9585",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n3cvbieuc22a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/stamen.com/post/3n3cvbieuc22a",
+    "author": {
+      "name": "Stamen Design",
+      "handle": "@stamen.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreig4mpp4zelppsswhhfwobxmyuwl7dg6fkzwaod5zcpps4mjtzyiei"
+    },
+    "text": "#30DayMapChallenge Day 27: New tool. A new tool we're working on is an accessible map viewer. It checks labels for size & contrast, previews what a screen reader hears, and tests palettes for colorbl…",
+    "postedAt": "2026-11-27T19:10:06.998Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fjgnfxgy6sz7erbxen4r6urr/bafkreibjn4g4x7wo752gbbv6krrr5jfm5qigv37tsnopkcybjqpikhvcym",
+    "color": "#080808",
+    "hash": "ecfb5935393a3030",
+    "imageCount": 4,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:fjgnfxgy6sz7erbxen4r6urr/post/3n3cvbieuc22a"
+      }
+    ],
+    "mergedIds": [
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:fjgnfxgy6sz7erbxen4r6urr/app.bsky.feed.post/3n3cvbieuc22a"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:r6eqigh5q6s46qglqliid2zk/app.bsky.feed.post/3n3coruxujo23",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/buschbrian.bsky.social/post/3n3coruxujo23",
+    "author": {
+      "name": "Brian Busch, GISP",
+      "handle": "@buschbrian.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreihfvciex2jgfgutbzbyqpndbaof45gf7rzcq5sky2yfc7oqb3dur4"
+    },
+    "text": "The shading frame reaches 10,578 ft on the Wasatch Plateau. Beside that, the San Rafael Swell counted as low ground. Aerial perspective at 75 and at 100 washed it out. Final aerial perspective: 20. E…",
+    "postedAt": "2026-11-27T17:14:00.306Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r6eqigh5q6s46qglqliid2zk/bafkreibabc3p3tmj4c3c365c7drnm2u7xiu6t3jx3uxq5nbi5jewtpncn4",
+    "color": "#f8e8e8",
+    "hash": "1c3c10b07050a3a5",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:ogassymqxmcwphwo2icaq3ts/app.bsky.feed.post/3n3cop5pws22y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/kennethfield.bsky.social/post/3n3cop5pws22y",
+    "author": {
+      "name": "Kenneth Field",
+      "handle": "@kennethfield.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreidfqfyhv3p4o2dy6tnwupyjmnd4oqrohllgsvnbo23zx3mmq4uvve"
+    },
+    "text": "Day 331 of #365DaysOfMaps. November 27th is Buy Nothing Day. #30DayMapChallenge day 27 tie-in: new tool. I spent literally nothing on this map using a pretty cruddy new tool. It shows. Buy Nothing (3…",
+    "postedAt": "2026-11-27T17:12:29.399Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ogassymqxmcwphwo2icaq3ts/bafkreicmbfuznoqlwwphujppc5yahjpyb5yddfu4q5ysy56ymvpruvsj64",
+    "color": "#f8f8d8",
+    "hash": "a9dcdab2d4a0e8aa",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:bd6k5d6skn5zapt7nbomnldz/app.bsky.feed.post/3n3coobja322a",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mepa1363.com/post/3n3coobja322a",
+    "author": {
+      "name": "abraham poorazizi",
+      "handle": "@mepa1363.com",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreiaoowepcppbltddmwkxr43mj6sybam423blp3l7autlzwps3uyqey"
+    },
+    "text": "Day 27 of #30DayMapChallenge: New tool. I mapped Alive Maps, our newest app, scoring 18 walks in Calgary, Victoria and Toronto. 13 take a livelier way than the fastest, and their average score goes f…",
+    "postedAt": "2026-11-27T17:11:59.812Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd6k5d6skn5zapt7nbomnldz/bafkreibjwamg4zuhu2v7mbpqvdoju6rxr3bjehqcy2jrhlb4pxfm2xyo44",
+    "color": "#282828",
+    "hash": "9db896d54d4d0cd6",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:ep6w6k6vairntjcqdbpsfyzd/app.bsky.feed.post/3n3ckouth532i",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/relytworks.bsky.social/post/3n3ckouth532i",
