@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n3b32aivks25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n3b32aivks25",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 17: NEW TOOL - MAPCREATOR.IO - LISBON WITH TERRAIN AND HILLSHADING - A quick map created in mapcreator.io, with most of the information layers turned off to show only the terra…",
+    "postedAt": "2026-11-27T01:48:06.845Z",
+    "day": 17,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreie7irrv43b52jf7up5zeqfn45c5frthgjfe3vichtjkdz6fncbrby",
+    "color": "#f8f8f8",
+    "hash": "8717256d74c28480",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:pb2c57oc2v4b6643mj7a7trw/app.bsky.feed.post/3n2wuxfnd7c24",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/dr-iggs.bsky.social/post/3n2wuxfnd7c24",

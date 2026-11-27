@@ -1,5 +1,50 @@
 [
   {
+    "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117685556361382258",
+    "platform": "mastodon",
+    "url": "https://mastodon.social/@gontsa/117685556361382258",
+    "author": {
+      "name": "Gontsa",
+      "handle": "@gontsa@mastodon.social",
+      "avatar": "https://files.mastodon.social/accounts/avatars/108/196/746/299/802/316/original/8cf57cef713c921e.jpeg"
+    },
+    "text": "Day 26. Water #30DayMapChallenge \"Ocean of Dreams\" is a Ukrainian wartime meme, a map with a vast sea where Russia used to be. To flood central Moscow, you'd have to melt twice as much ice as there i…",
+    "postedAt": "2026-11-27T00:24:40.225Z",
+    "day": 26,
+    "image": "https://files.mastodon.social/media_attachments/files/117/685/555/325/468/301/small/80599009716874c8.jpg",
+    "color": "#98b8c8",
+    "hash": "1f3f2d6d3e8e8b3d",
+    "imageCount": 1,
+    "source": "feed",
+    "alsoOn": [
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/gontsa.bsky.social/post/3n3awfjnxu22k"
+      }
+    ],
+    "mergedIds": [
+      "bluesky:at://did:plc:64h65posxczkfhyskzcfvrma/app.bsky.feed.post/3n3awfjnxu22k"
+    ]
+  },
+  {
+    "id": "bluesky:at://did:plc:ypyh6tp6tx5n77twqz2qmytt/app.bsky.feed.post/3n3amk3iqys25",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/jpamado.bsky.social/post/3n3amk3iqys25",
+    "author": {
+      "name": "jpamado.bsky.social",
+      "handle": "@jpamado.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreieghqrkbcgnqrhoi6h6fhouadk6icc4yagpahqotmodfm52fuqxmm"
+    },
+    "text": "#30DayMapChallenge Day 26: WATER - WATER WELLS, ONE HUNDRED AND TWENTY YEARS APART - A Lisbon city plan showing existing water wells in the early 20th century (blue) and the ones still identifiable t…",
+    "postedAt": "2026-11-26T21:28:32.338Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ypyh6tp6tx5n77twqz2qmytt/bafkreihtxvbb2zodpknexev2ead6lq3guj4lae3zgk4stbkxuxemxwnjfi",
+    "color": "#f8f8f8",
+    "hash": "8d1992909e9c9893",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:q64d4j33gjd6zskjhkdcc4lz/app.bsky.feed.post/3n3alj6d3uup2",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/alan.subdued.social.ap.brid.gy/post/3n3alj6d3uup2",
@@ -56,10 +101,15 @@
       {
         "platform": "mastodon",
         "url": "https://subdued.social/@alan/117684790919173859"
+      },
+      {
+        "platform": "bluesky",
+        "url": "https://bsky.app/profile/did:plc:f76ojzvwa7u5fxwdfo5uhbnl/post/3n3akgzwx722v"
       }
     ],
     "mergedIds": [
-      "mastodon:https://subdued.social/users/alan/statuses/117684790919173859"
+      "mastodon:https://subdued.social/users/alan/statuses/117684790919173859",
+      "mastodon:https://bsky.brid.gy/convert/ap/at://did:plc:f76ojzvwa7u5fxwdfo5uhbnl/app.bsky.feed.post/3n3akgzwx722v"
     ]
   },
   {

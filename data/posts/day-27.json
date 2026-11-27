@@ -1,5 +1,77 @@
 [
   {
+    "id": "bluesky:at://did:plc:csxfbkrvs6vtb3i6lwehsg3j/app.bsky.feed.post/3n3bkkdxv2k2w",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/merrynwalters.uk/post/3n3bkkdxv2k2w",
+    "author": {
+      "name": "Merryn",
+      "handle": "@merrynwalters.uk",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreida6tyouj4nls7xp3pakjepjpw4ku72ny26irhtfsmo5pm7ieukwm"
+    },
+    "text": "Day 27 of the #30DayMapChallenge, and the prompt is 'New tool'. In March 1942 Bomber Command started using Gee: pulses from radio stations in England that let a navigator fix his position on a map, o…",
+    "postedAt": "2026-11-27T06:25:33.470Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:csxfbkrvs6vtb3i6lwehsg3j/bafkreidk7ofx66y7otj7se2i5nfoili2seetiwyqhgxjx4sjhqjbmmpazy",
+    "color": "#e8e8d8",
+    "hash": "7151556541516121",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:okii3zmymwq2hejauqlnivq2/app.bsky.feed.post/3n3bk2z4u64s2",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/hansakwast.fosstodon.org.ap.brid.gy/post/3n3bk2z4u64s2",
+    "author": {
+      "name": "Hans van der Kwast :qgis:",
+      "handle": "@hansakwast.fosstodon.org.ap.brid.gy",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreicf6rb4lahemcc3xfaiybwolq4k4jixanvkvdsqe7tl7xagqj52iy"
+    },
+    "text": "#30DayMapChallenge Day 27: A new tool 🛠️ QGIS 4.4, released on 20 November, can render rasters as vector fields. One renderer, four symbol types, so: four elements. 🌀 Wind barbs: Storm Eunice (ERA5…",
+    "postedAt": "2026-11-27T06:16:40.000Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okii3zmymwq2hejauqlnivq2/bafkreie6atml5w25gji4htt2ccvt2fz7oca7pvamfqga3p4mpebs3f6t5a",
+    "color": "#f8f8e8",
+    "hash": "c8c8a8aeecacccee",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:gvj763z3e3mdxq76xjhjpaze/app.bsky.feed.post/3n3bj7yvzxc2y",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/klauswiese.bsky.social/post/3n3bj7yvzxc2y",
+    "author": {
+      "name": "Klaus Wiese",
+      "handle": "@klauswiese.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidi4lpdfrbielciyjiq4ru3zofuqzux7kjqregstvogffimvpkniy"
+    },
+    "text": "Day 27 | New Tool | #30DayMapChallenge | Berlin in 3D. People per km² in 542 planning areas, made with GeoLibre: klauswiese.github.io/30DayMapChal... Data: Amt für Statistik Berlin-Brandenburg, Geopo…",
+    "postedAt": "2026-11-27T06:01:52.600Z",
+    "day": 27,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gvj763z3e3mdxq76xjhjpaze/bafkreidyrlh5afkp7gjrlzig6on3h54ljftf3s5cl3rwamlihbxdjl6xci",
+    "color": "#080808",
+    "hash": "8e8e8e9ed6d6c2d2",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:esmirfb5axy5skm7eituna3u/app.bsky.feed.post/3n3aqbjenok2v",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/mildthing99.bsky.social/post/3n3aqbjenok2v",
+    "author": {
+      "name": "BC",
+      "handle": "@mildthing99.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:esmirfb5axy5skm7eituna3u/bafkreida3e3fuf5zfqkxwjxewukwrhlws2yzculwsmma7pfuvr6qhnlxzm"
+    },
+    "text": "🇯🇵🌸Sakura Racer桜 🌸🇯🇵 First kaika (first cherry blossom bloom) 9 cities 1953–2024 JMA Somei-yoshino data · Kyoto shown first as the most extensively documented city. #ClimateChange #ProxyMeasure…",
+    "postedAt": "2026-11-26T22:35:19.865Z",
+    "day": 27,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aesmirfb5axy5skm7eituna3u/bafkreigqejpw2cw7q2eb72pvqfthx45uy57hethlmdwngnjjza6644b5xq/thumbnail.jpg",
+    "color": "#080808",
+    "hash": "378f33378f015473",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:brms6cjlibiwcwfhiyge6cmo/app.bsky.feed.post/3n3ad5lp4wc22",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/iwo-jima.bsky.social/post/3n3ad5lp4wc22",
