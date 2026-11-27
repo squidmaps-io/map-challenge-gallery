@@ -1,5 +1,59 @@
 [
   {
+    "id": "bluesky:at://did:plc:2nymwfhraoi6puox63ehc5a2/app.bsky.feed.post/3n3cmm7kpls2e",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/timostler1.bsky.social/post/3n3cmm7kpls2e",
+    "author": {
+      "name": "Tim Ostler",
+      "handle": "@timostler1.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreigmye3nhbmxxzv4nmrnbjn6rqtrxndz5f34nnszk7hxaw2axtq4eu"
+    },
+    "text": "#30DayMapChallenge 2026 | Day 26: Water A simple map showing ferry routes in and around Singapore. Data from @openstreetmap.bsky.social",
+    "postedAt": "2026-11-27T16:35:03.182Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nymwfhraoi6puox63ehc5a2/bafkreigryzhfjkkyyuek643xkd6zhisjwn5pjic6qzv2bdvvpvmicfhtsm",
+    "color": "#e8f8f8",
+    "hash": "84c439844c2cab98",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:eumhs72iungosnzbx7b2w6qd/app.bsky.feed.post/3n3bt2jcemk2u",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/maptheclouds.bsky.social/post/3n3bt2jcemk2u",
+    "author": {
+      "name": "maptheclouds.bsky.social",
+      "handle": "@maptheclouds.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eumhs72iungosnzbx7b2w6qd/bafkreigagkcz5n4ban3fcc2vxn6oyofix3bncnlppel5p2xrokfuxowdoa"
+    },
+    "text": "Open City · Day 26/30 · Water 🌊 The official flood map of Cluj-Napoca: a 1 in 100 year flood touches up to 670 buildings. A scenario, not a forecast. A 3D map story in MapLibre. Inspired by Anderson…",
+    "postedAt": "2026-11-27T08:57:45.874Z",
+    "day": 26,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Aeumhs72iungosnzbx7b2w6qd/bafkreibhepkyir7vnqsnmgz23cdebjhn6nywa7fj46kkqkr5h7azwbxn6i/thumbnail.jpg",
+    "color": "#c8c8b8",
+    "hash": "191d8727563261e7",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
+    "id": "bluesky:at://did:plc:yfksnxzupbi6onise3mf7ynr/app.bsky.feed.post/3n3bsob4lts2f",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/athnfrnclr.bsky.social/post/3n3bsob4lts2f",
+    "author": {
+      "name": "Atahan.ppt",
+      "handle": "@athnfrnclr.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yfksnxzupbi6onise3mf7ynr/bafkreiapxmzd6k7inouwpkqi2ozhu4kbpgxryovuvrqblg5ecxxllkno5e"
+    },
+    "text": "#30DayMapChallenge Day 26 - Water Istanbul Under Water The impact of extreme rainfall and urban flooding in Istanbul between 13 and 15 October 2026. Created with Blender.",
+    "postedAt": "2026-11-27T08:50:54.644Z",
+    "day": 26,
+    "image": "https://video.bsky.app/watch/did%3Aplc%3Ayfksnxzupbi6onise3mf7ynr/bafkreigkn4d6wpw55ctl4dwfbygiopncbl5mvslhpohefjbl7kkmfn4f5e/thumbnail.jpg",
+    "color": "#080818",
+    "hash": "10c6713b13124dd0",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "mastodon:https://mastodon.social/users/gontsa/statuses/117685556361382258",
     "platform": "mastodon",
     "url": "https://mastodon.social/@gontsa/117685556361382258",
