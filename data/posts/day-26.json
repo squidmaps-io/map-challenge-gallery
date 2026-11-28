@@ -1,5 +1,23 @@
 [
   {
+    "id": "bluesky:at://did:plc:6fpgmbazsx6xgdzhdwfrzqaj/app.bsky.feed.post/3n3dc7vcess2l",
+    "platform": "bluesky",
+    "url": "https://bsky.app/profile/tchaulla.bsky.social/post/3n3dc7vcess2l",
+    "author": {
+      "name": "Tiffany Chau",
+      "handle": "@tchaulla.bsky.social",
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreid5vuy6vcrdqyzyipkvdzgrb2bmn3vennhjsj2ocjwmbludkwycdy"
+    },
+    "text": "#30DayMapChallenge Day 26 - Water Pequest River, Warren County, NJ, USA Source: DEM of NJ (2014-2019) from NJGIN Open Data Created this model in ArcGIS Pro using John Nelson 2D-to-3D elevation style…",
+    "postedAt": "2026-11-27T23:01:52.083Z",
+    "day": 26,
+    "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6fpgmbazsx6xgdzhdwfrzqaj/bafkreigqhyg3mthn6nztflkm3rbficzgm4qn5rlbb6tknj4475qvu4tema",
+    "color": "#588878",
+    "hash": "5c36a42dc6c7074c",
+    "imageCount": 1,
+    "source": "feed"
+  },
+  {
     "id": "bluesky:at://did:plc:2nymwfhraoi6puox63ehc5a2/app.bsky.feed.post/3n3cmm7kpls2e",
     "platform": "bluesky",
     "url": "https://bsky.app/profile/timostler1.bsky.social/post/3n3cmm7kpls2e",
